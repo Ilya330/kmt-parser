@@ -52,7 +52,8 @@ jobs:
         run: |
           git config user.name "kmt-bot"
           git config user.email "actions@github.com"
-          git add docs/feed.xml catalog.json qty.json
+          git add docs/feed.xml catalog.json qty.json their_ids.json
+          git checkout -- . 2>/dev/null || true
           git diff --cached --quiet && echo "нет изменений" && exit 0
           git commit -m "feed update $(date -u '+%Y-%m-%d %H:%M') UTC"
           git pull --rebase -X theirs origin main
