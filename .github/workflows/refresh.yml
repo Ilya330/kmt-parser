@@ -1,0 +1,45 @@
+name: refresh-catalog
+
+on:
+  schedule:
+    # еженедельно, воскресенье 01:00 UTC — полный пере-скрейп карточек
+    - cron: "0 1 * * 0"
+  workflow_dispatch:
+
+concurrency:
+  group: kmt-feed
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: Полный рефреш карточек + фид
+        env:
+          KMT_EMAIL: ${{ secrets.KMT_EMAIL }}
+          KMT_PASSWORD: ${{ secrets.KMT_PASSWORD }}
+          REFRESH: "1"
+          STEP_QTY: "0"
+        run: python run.py
+
+      - name: Коммит результатов
+        run: |
+          git config user.name "kmt-bot"
+          git config user.email "actions@github.com"
+          git add docs/feed.xml catalog.json qty.json
+          git diff --cached --quiet && echo "нет изменений" && exit 0
+          git commit -m "catalog refresh $(date -u '+%Y-%m-%d %H:%M') UTC"
+          git pull --rebase -X theirs origin main
+          git push origin main

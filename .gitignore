@@ -1,0 +1,6 @@
+cookies.txt
+.env
+__pycache__/
+listings.json
+*.tmp
+.DS_Store

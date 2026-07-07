@@ -1,0 +1,59 @@
+name: update-feed
+
+on:
+  schedule:
+    # 3 раза в день (UTC): 03:00 — ночной прогон с точным остатком, 09:00 и 15:00 — цены/метки
+    - cron: "0 3,9,15 * * *"
+  workflow_dispatch:
+    inputs:
+      qty:
+        description: "Замер точного остатка через корзину (1/0)"
+        default: "0"
+
+concurrency:
+  group: kmt-feed
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: Определить, нужен ли замер остатков
+        id: qty
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "qty=${{ github.event.inputs.qty }}" >> "$GITHUB_OUTPUT"
+          elif [ "$(date -u +%H)" -lt 6 ]; then
+            echo "qty=1" >> "$GITHUB_OUTPUT"
+          else
+            echo "qty=0" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Запуск парсера
+        env:
+          KMT_EMAIL: ${{ secrets.KMT_EMAIL }}
+          KMT_PASSWORD: ${{ secrets.KMT_PASSWORD }}
+          STEP_QTY: ${{ steps.qty.outputs.qty }}
+        run: python run.py
+
+      - name: Коммит результатов
+        run: |
+          git config user.name "kmt-bot"
+          git config user.email "actions@github.com"
+          git add docs/feed.xml catalog.json qty.json
+          git diff --cached --quiet && echo "нет изменений" && exit 0
+          git commit -m "feed update $(date -u '+%Y-%m-%d %H:%M') UTC"
+          git pull --rebase -X theirs origin main
+          git push origin main
