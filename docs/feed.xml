@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-07-07 23:03">
+<yml_catalog date="2026-07-07 21:13">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -70098,6 +70098,31 @@
 <param name="Бренд">Polo</param>
 <param name="Материал">PU кожа</param>
 </offer>
+<offer id="ts000082180000030258" available="true">
+<url>https://kmt5.com.ua/polo-knight-leather-case-iphone-17-pro-black</url>
+<price>780.0</price>
+<vendorprice>440.0</vendorprice>
+<vendorpricedoll>9.8</vendorpricedoll>
+<rrcdoll>17.4</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>28366547</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjgvNDAv0KYtMDAwMDgyMTgwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzYvNjIv0KYtMDAwMDgyMTgwXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjcvNjAv0KYtMDAwMDgyMTgwXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmIvMzcv0KYtMDAwMDgyMTgwXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzUvMzgv0KYtMDAwMDgyMTgwXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDcvN2Uv0KYtMDAwMDgyMTgwXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Polo</vendor>
+<vendorCode>Ц-000082180</vendorCode>
+<code>788140</code>
+<name>Polo Knight Leather Case iPhone 17 Pro — Black</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 17 Pro</param>
+<param name="Бренд">Polo</param>
+<param name="Материал">PU кожа</param>
+</offer>
 <offer id="ts000082180000030259" available="true">
 <url>https://kmt5.com.ua/polo-knight-leather-case-iphone-17-pro-titanium-grey</url>
 <price>780.0</price>
@@ -120766,6 +120791,25 @@
 <param name="Виды аккумуляторов">Power Bank</param>
 <param name="Емкость аккумулятора">От 40000 mAh</param>
 </offer>
+<offer id="ts000083649000031624" available="true">
+<url>https://kmt5.com.ua/power-bank-50000-mah%C2%A0-225wpd20w%C2%A0-ansty-ap065-black</url>
+<price>2052.0</price>
+<vendorprice>1277.0</vendorprice>
+<vendorpricedoll>28.5</vendorpricedoll>
+<rrcdoll>45.8</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>48792101</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjEvMTUv0KYtMDAwMDgzNjQ5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTAvZjgv0KYtMDAwMDgzNjQ5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Ansty</vendor>
+<vendorCode>Ц-000083649</vendorCode>
+<code>790939</code>
+<name>Power Bank 50000 mAh | 22.5W+PD20W — Ansty AP-065 — Black</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Ansty</param>
+<param name="Виды аккумуляторов">Power Bank</param>
+<param name="Емкость аккумулятора">От 50000 mAh</param>
+</offer>
 <offer id="ts000083651000031626" available="true">
 <url>https://kmt5.com.ua/power-bank-50000-mah%C2%A0-225wpd20w%C2%A0-ansty-ap089-black</url>
 <price>1728.0</price>
@@ -133784,8 +133828,8 @@
 <offer id="ts000082702" available="true">
 <url>https://kmt5.com.ua/usb-hub-hoco-hb1b-usb-to-4-usb</url>
 <price>340.0</price>
-<vendorprice>169.0</vendorprice>
-<vendorpricedoll>3.77</vendorpricedoll>
+<vendorprice>177.0</vendorprice>
+<vendorpricedoll>3.95</vendorpricedoll>
 <rrcdoll>7.57</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>34908147</categoryId>
@@ -205572,25 +205616,6 @@
 <name>Life Beauty</name>
 <description><![CDATA[Прибор для домашней косметологии. Обеспечит профессиональный аппаратный массаж кожи лица в домашних условиях. Регулярно пользуясь прибором, всего по 10 минут в день, вы сможете вернуть молодость и сияние коже. Благодаря функции RF-лифтинг, фотодинамической и светотерапии, Life Beauty поможет дольше сохранить молодость кожи, восстановить упругость мышц, поспособствует более глубокому проникновению в кожу кремов и сывороток, что усилит их эффект. При регулярном пользовании прибором улучшается циркуляция крови и возрастает количество кислорода в клетках, усиливается выработка коллагена и эластина. Life Beauty имеет 4 уровня интенсивности сигнала и 5 режимов световых волн разной глубины проникновению. Цвет - электромагнитная волна определенной длины, воздействующая на клетки кожи. У синего цвета одна длина, у желтого - другая, у красного - третья. Поэтому и воздействуют они на организм по-разному. Кроме встроенных в прибор программ, есть возможность загрузки через Bluetooth специально разработанных программ RF-лифтинга, а также запись автокомплекса для прибора на основании пройденных экспресс-тестов с помощью Life Expert Profi.]]></description>
 <quantity_in_stock>2</quantity_in_stock>
-</offer>
-<offer id="ts000083649000031624" available="true">
-<url>https://kmt5.com.ua/power-bank-50000-mah%C2%A0-225wpd20w%C2%A0-ansty-ap065-black</url>
-<price>2052.0</price>
-<vendorprice>1277.0</vendorprice>
-<vendorpricedoll>28.5</vendorpricedoll>
-<rrcdoll>45.8</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>48792101</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjEvMTUv0KYtMDAwMDgzNjQ5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTAvZjgv0KYtMDAwMDgzNjQ5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Ansty</vendor>
-<vendorCode>Ц-000083649</vendorCode>
-<code>790939</code>
-<name>Power Bank 50000 mAh | 22.5W+PD20W — Ansty AP-065 — Black</name>
-<quantity_in_stock>396</quantity_in_stock>
-<param name="Бренд">Ansty</param>
-<param name="Виды аккумуляторов">Power Bank</param>
-<param name="Емкость аккумулятора">От 50000 mAh</param>
 </offer>
 </offers>
 </shop>
