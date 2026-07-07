@@ -7,6 +7,7 @@
 (много=100, в наличии=10, мало=3).
 """
 import html
+import re
 import time
 import zlib
 
@@ -27,6 +28,7 @@ def main():
     listings = load_json("listings.json", [])
     catalog = load_json("catalog.json", {})
     qty = load_json("qty.json", {})
+    their_ids = load_json("their_ids.json", {})
 
     # дерево категорий из хлебных крошек
     cats = {}  # (path...) -> id
@@ -72,8 +74,17 @@ def main():
             w('<category id="%d">%s</category>' % (cats[path], esc(path[-1])))
     w("</categories>")
     w("<offers>")
+    used_ids = set()
     for it, card, path, name, n in offers:
-        oid = it.get("product_id") or card.get("code") or it["sku"].replace("Ц-", "C")
+        # offer id как в фиде поставщика (ts…); фолбэк для отсутствующих там:
+        # ts + цифры Ц-кода (+ product_id, если такой id уже занят вариантом)
+        oid = their_ids.get(it["url"])
+        if not oid:
+            base = "ts" + re.sub(r"\D", "", it["sku"])
+            oid = base if base not in used_ids else "%s-%s" % (base, it.get("product_id") or len(used_ids))
+        if oid in used_ids:
+            oid = "%s-%s" % (oid, it.get("product_id") or len(used_ids))
+        used_ids.add(oid)
         w('<offer id="%s" available="%s">' % (esc(oid), "true" if n > 0 else "false"))
         w("<url>%s</url>" % esc(it["url"]))
         w("<price>%s</price>" % (it.get("rrc_uah") or it["price_uah"]))
