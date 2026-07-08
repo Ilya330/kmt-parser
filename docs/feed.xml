@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-07-08 10:56">
+<yml_catalog date="2026-07-08 16:27">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -387,28 +387,6 @@
 <category id="94430667" parentId="64618417">Універсальні сумки</category>
 </categories>
 <offers>
-<offer id="ts000079331000027140" available="true">
-<url>https://kmt5.com.ua/oc-matte-case-with-magsafe-iphone-12-pro-max-black</url>
-<price>181.0</price>
-<vendorprice>107.0</vendorprice>
-<vendorpricedoll>2.38</vendorpricedoll>
-<rrcdoll>4.02</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>5726391</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2UvOTgv0KYtMDAwMDc5MzMxXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTAvNjgv0KYtMDAwMDc5MzMxXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTkvMmEv0KYtMDAwMDc5MzMxXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000079331</vendorCode>
-<code>779021</code>
-<name>OC Matte Case With MagSafe iPhone 12 Pro Max — Black</name>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 12 Pro Max 6.7&quot;</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Силикон</param>
-</offer>
 <offer id="ts000079331000027138" available="true">
 <url>https://kmt5.com.ua/oc-matte-case-with-magsafe-iphone-12-pro-max-dark-blue</url>
 <price>181.0</price>
@@ -3484,27 +3462,6 @@
 <param name="Бренд">Различные</param>
 <param name="Материал">Металл</param>
 </offer>
-<offer id="ts000084047000031979" available="true">
-<url>https://kmt5.com.ua/rimova-metal-case-iphone-17-pro-max-silver</url>
-<price>311.0</price>
-<vendorprice>173.0</vendorprice>
-<vendorpricedoll>3.85</vendorpricedoll>
-<rrcdoll>6.93</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>28366547</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2QvZDMv0KYtMDAwMDg0MDQ3XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWQvODMv0KYtMDAwMDg0MDQ3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000084047</vendorCode>
-<code>791679</code>
-<name>Rimova Metal Case iPhone 17 Pro Max — Silver</name>
-<quantity_in_stock>13</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro Max</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Металл</param>
-</offer>
 <offer id="ts000084046000031973" available="true">
 <url>https://kmt5.com.ua/rimova-metal-case-iphone-17-pro-black</url>
 <price>311.0</price>
@@ -5001,35 +4958,6 @@
 <code>788650</code>
 <name>Armor Pro Case With MagSafe FGG-012 — iPhone 17 Pro Max — Gold</name>
 <quantity_in_stock>16</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro Max</param>
-<param name="Бренд">Wiwu</param>
-<param name="Материал">Полиуретан</param>
-</offer>
-<offer id="ts000082487000030467" available="true">
-<url>https://kmt5.com.ua/armor-pro-case-with-magsafe-fgg012-iphone-17-pro-max-grey</url>
-<price>434.0</price>
-<vendorprice>256.0</vendorprice>
-<vendorpricedoll>5.7</vendorpricedoll>
-<rrcdoll>9.68</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>28366547</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmEvODkv0KYtMDAwMDgyNDg3XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDgvMGIv0KYtMDAwMDgyNDg3XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmEvZTEv0KYtMDAwMDgyNDg3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzYvOTEv0KYtMDAwMDgyNDg3XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDUvODgv0KYtMDAwMDgyNDg3XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTQvOGMv0KYtMDAwMDgyNDg3XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmQvNjYv0KYtMDAwMDgyNDg3XzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2QvNzcv0KYtMDAwMDgyNDg3XzEyLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDIvYmMv0KYtMDAwMDgyNDg3XzEzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTIvOGQv0KYtMDAwMDgyNDg3XzE0LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Wiwu</vendor>
-<vendorCode>Ц-000082487</vendorCode>
-<code>788649</code>
-<name>Armor Pro Case With MagSafe FGG-012 — iPhone 17 Pro Max — Grey</name>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max</param>
@@ -75874,28 +75802,6 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Samsung</param>
 <param name="Модель девайса">Samsung A13</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Полиуретан</param>
-</offer>
-<offer id="ts000081210000029631" available="true">
-<url>https://kmt5.com.ua/ring-full-protect-case-samsung-a16-blue</url>
-<price>116.0</price>
-<vendorprice>70.0</vendorprice>
-<vendorpricedoll>1.55</vendorpricedoll>
-<rrcdoll>2.58</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>88964695</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzQvNTIv0KYtMDAwMDgxMjEwXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTIvZjkv0KYtMDAwMDgxMjEwXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000081210</vendorCode>
-<code>786570</code>
-<name>Ring Full Protect Case Samsung A16 — Blue</name>
-<description><![CDATA[Это надёжная защита Вашего девайса от каких-либо повреждений и грязи. Аксессуар плотно охватывает гаджет, а бронированный корпус защищает даже при сильных ударах об асфальт. Несмотря на прочность, материал, из которого состоит чехол, довольно тонкий и легкий. Отличительной особенностью является наличие кольца для держания – удобное и практичное дополнение к основному назначению чехла. Более того, кольцо практически не выступает, а, следовательно, не занимает много места.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Samsung</param>
-<param name="Модель девайса">Samsung A16 5G</param>
 <param name="Бренд">Различные</param>
 <param name="Материал">Полиуретан</param>
 </offer>
@@ -169592,30 +169498,6 @@
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Watch Series 7 41 mm, Apple Watch Series 3 38 mm, Apple Watch Series 4 40 mm</param>
 <param name="Бренд">Hoco</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
-<offer id="ts000082107000030184" available="true">
-<url>https://kmt5.com.ua/remnets-hoco-wa39-apple-watch-42-mm-44-mm-45-mm-49-mm-coal-black</url>
-<price>379.0</price>
-<vendorprice>193.0</vendorprice>
-<vendorpricedoll>4.3</vendorpricedoll>
-<rrcdoll>8.45</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>96847083</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTYvMDkv0KYtMDAwMDgyMTA3XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjIvOTMv0KYtMDAwMDgyMTA3XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWYvMWIv0KYtMDAwMDgyMTA3XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzYvYzUv0KYtMDAwMDgyMTA3XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGIvYmEv0KYtMDAwMDgyMTA3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000082107</vendorCode>
-<code>787995</code>
-<name>Ремінець Hoco WA39 — Apple Watch 42 mm | 44 mm | 45 mm | 49 mm — Coal &amp; Black</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Watch Series 3 42 mm, Apple Watch Series 4 44 mm, Apple Watch Series 7 45 mm, Apple Watch Series 8 49 mm</param>
-<param name="Бренд">Hoco</param>
-<param name="Материал">PU кожа &amp; Полиуретан</param>
 <param name="Аксессуары Для Смарт Часов">Браслеты</param>
 </offer>
 <offer id="ts000082107000030185" available="true">
