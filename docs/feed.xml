@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-07-09 11:55">
+<yml_catalog date="2026-07-09 17:13">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -387,28 +387,6 @@
 <category id="94430667" parentId="64618417">Універсальні сумки</category>
 </categories>
 <offers>
-<offer id="ts000079331000027138" available="true">
-<url>https://kmt5.com.ua/oc-matte-case-with-magsafe-iphone-12-pro-max-dark-blue</url>
-<price>181.0</price>
-<vendorprice>107.0</vendorprice>
-<vendorpricedoll>2.38</vendorpricedoll>
-<rrcdoll>4.02</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>5726391</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjIvYzQv0KYtMDAwMDc5MzMxXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTAvNjgv0KYtMDAwMDc5MzMxXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjQvYjYv0KYtMDAwMDc5MzMxXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000079331</vendorCode>
-<code>779019</code>
-<name>OC Matte Case With MagSafe iPhone 12 Pro Max — Dark Blue</name>
-<quantity_in_stock>4</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 12 Pro Max 6.7&quot;</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Силикон</param>
-</offer>
 <offer id="ts000079331000027139" available="true">
 <url>https://kmt5.com.ua/oc-matte-case-with-magsafe-iphone-12-pro-max-grey</url>
 <price>181.0</price>
@@ -1571,28 +1549,6 @@
 <code>789362</code>
 <name>OC Matte Case With MagSafe — iPhone 17 Pro  — Orange</name>
 <quantity_in_stock>15</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Силикон</param>
-</offer>
-<offer id="ts000082162000030224" available="true">
-<url>https://kmt5.com.ua/oc-matte-case-with-magsafe-iphone-17-pro-pink</url>
-<price>177.0</price>
-<vendorprice>107.0</vendorprice>
-<vendorpricedoll>2.38</vendorpricedoll>
-<rrcdoll>3.95</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>28366547</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTIvZjIv0KYtMDAwMDgyMTYyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjIvZTMv0KYtMDAwMDgyMTYyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWMvYTEv0KYtMDAwMDgyMTYyXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000082162</vendorCode>
-<code>788089</code>
-<name>OC Matte Case With MagSafe — iPhone 17 Pro  — Pink</name>
-<quantity_in_stock>2</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro</param>
@@ -94742,27 +94698,6 @@
 <param name="Бренд">Apple</param>
 <param name="Материал">Пластик &amp; TPU</param>
 </offer>
-<offer id="ts000083157000031095" available="true">
-<url>https://kmt5.com.ua/swarovski-case-with-magsafe-iphone-17-pro-max-black</url>
-<price>384.0</price>
-<vendorprice>220.0</vendorprice>
-<vendorpricedoll>4.9</vendorpricedoll>
-<rrcdoll>8.56</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>28366547</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjMvM2Yv0KYtMDAwMDgzMTU3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTcvYmUv0KYtMDAwMDgzMTU3XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000083157</vendorCode>
-<code>789933</code>
-<name>Swarovski Case with MagSafe iPhone 17 Pro Max — Black</name>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro Max</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Пластик &amp; TPU</param>
-</offer>
 <offer id="ts000083157000031093" available="true">
 <url>https://kmt5.com.ua/swarovski-case-with-magsafe-iphone-17-pro-max-blue</url>
 <price>384.0</price>
@@ -123354,27 +123289,6 @@
 <param name="Зарядные устройства">СЗУ &amp; Кабель Lightning</param>
 <param name="Сила тока и Мощность">2.4A</param>
 </offer>
-<offer id="ts000071424000020488" available="true">
-<url>https://kmt5.com.ua/n3-special-single-port-qc30-charger-settypeceu-black</url>
-<price>291.0</price>
-<vendorprice>157.0</vendorprice>
-<vendorpricedoll>3.5</vendorpricedoll>
-<rrcdoll>6.48</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>1099827</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODkvYWQv0KYtMDAwMDcxNDI0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmQvMzQv0KYtMDAwMDcxNDI0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000071424</vendorCode>
-<code>750739</code>
-<name>Home Charger 18W QC3.0 USB C Cable (1m) Hoco N3 — Black</name>
-<description><![CDATA[Сетевое зарядное устройство Hoco N3 Special QC3.0 эффективно заполнит заряд различных портативных устройств, поддерживает несколько протоколов быстрой зарядки, таких как QC/AFC/FCP. Hoco N3 Special QC3.0 имеет корпус из огнеупорного пластика с глянцевым покрытием и декоративными полосами из алюминиевого сплава. Форма с закругленными краями удобно ложится в ладонь, благодаря компактным габаритам зарядку удобно носить с собой. Выход: 3.6V-6.5V / 3A, 6.6V-9V / 2A, 9.1V-12V / 1.5A, 18W Штекер: EU Материалы: Огнеупорный ABS + PC Поддержка протоколов быстрой зарядки для QC3.0 / QC2.0, для Huawei FCP, для Samsung AFC и других протоколов быстрой зарядки Размер: 86 * 45 * 29мм Вес: 43г]]></description>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Колво USB портов">1 U</param>
-<param name="Зарядные устройства">СЗУ &amp; Кабель Type C</param>
-<param name="Сила тока и Мощность">18W</param>
-</offer>
 <offer id="ts000071424000020487" available="true">
 <url>https://kmt5.com.ua/home-charger-18w-qc30-usb-c-cable-1m-hoco-n3-white</url>
 <price>291.0</price>
@@ -132470,6 +132384,33 @@
 <param name="Разъем подключения">Cable Aux</param>
 <param name="Длина кабеля">1m</param>
 </offer>
+<offer id="ts000078121000026402" available="true">
+<url>https://kmt5.com.ua/cable-aux-to-usb-c-1m-hoco-upa26-black</url>
+<price>133.0</price>
+<vendorprice>68.0</vendorprice>
+<vendorpricedoll>1.5</vendorpricedoll>
+<rrcdoll>2.95</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>46944021</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWUvMDQv0KYtMDAwMDc4MTIxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2MvZDEv0KYtMDAwMDc4MTIxXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzMvNmUv0KYtMDAwMDc4MTIxXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmIvODEv0KYtMDAwMDc4MTIxXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWEvYmIv0KYtMDAwMDc4MTIxXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzQvYmUv0KYtMDAwMDc4MTIxXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWIvMjEv0KYtMDAwMDc4MTIxXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjAvNjAv0KYtMDAwMDc4MTIxXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2MvNjMv0KYtMDAwMDc4MTIxXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Hoco</vendor>
+<vendorCode>Ц-000078121</vendorCode>
+<code>777064</code>
+<name>Cable Aux to USB C (1m) — Hoco UPA26 — Black</name>
+<description><![CDATA[Особенности: Это высококачественное решение для передачи аудио сигнала между устройствами с Type-C и 3.5 mm разъемами Совместим с любыми операционными системами Гарантирует передачу качественного звука Это практичный, удобный, качественный и надежный кабель с крепким наконечником, защищающий от повреждений и перегибов, занимающий минимум места Кабель с нейлоновым оплетением, обеспечивающий продолжительность его использования Характеристики: Бренд: Hoco Модель: UPA26 Тип разъема: 3,5 мм (AUX) - Type-C Длина: 1 метр]]></description>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Разъем подключения">Cable Aux</param>
+<param name="Длина кабеля">1m</param>
+</offer>
 <offer id="ts000042501" available="true">
 <url>https://kmt5.com.ua/kabel-av-cable-rca-atv-15m</url>
 <price>44.0</price>
@@ -135885,32 +135826,6 @@
 <param name="Бренд">VERON</param>
 <param name="Разъем подключения">Cable USB to Lightning</param>
 <param name="Длина кабеля">1m</param>
-</offer>
-<offer id="ts000073411000023341" available="true">
-<url>https://kmt5.com.ua/baseus-tzcamzj-simple-wisdom-data-cable-kit-usb-to-micro-21a-2pcsset15m-tzcamzj02-white</url>
-<price>176.0</price>
-<vendorprice>104.0</vendorprice>
-<vendorpricedoll>2.3</vendorpricedoll>
-<rrcdoll>3.91</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>15362910</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWUvMzUv0KYtMDAwMDczNDExXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2EvM2Qv0KYtMDAwMDczNDExXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2MvNjYv0KYtMDAwMDczNDExXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzYvMWEv0KYtMDAwMDczNDExXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2UvZjYv0KYtMDAwMDczNDExXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjcvOWIv0KYtMDAwMDczNDExXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTYvZTIv0KYtMDAwMDczNDExXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODgvMjkv0KYtMDAwMDczNDExXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Baseus</vendor>
-<vendorCode>Ц-000073411</vendorCode>
-<code>755608</code>
-<name>Кабель Micro 2.1A (1.5m) Baseus (TZCAMZJ) Simple Wisdom (2PCS/Set） — TZCAMZJ-02 White</name>
-<description><![CDATA[Кабель изготовлен из луженой меди с изоляцией из ПВХ, который, сохраняя при этом гибкость, гарантирует надежность и долговечность при эксплуатации. Он был разработан, чтобы выдерживать длительное и интенсивное использование. Стильный дизайн подходит для любой обстановки, а ремешок улучшает внешний вид кабеля и упрощает его хранение. Разъем 1: USB Type-A (M) Разъем 2: USB Micro-B (M) Стандарт передачи данных: USB 2.0 (до 480 Мбит/с) Макс. ток зарядки: 2.1 А Оплетка кабеля: ПВХ Коннектор: прямой Форма кабеля: круглая Длина: 1.5 м]]></description>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Бренд">Baseus</param>
-<param name="Разъем подключения">Cable USB to Micro</param>
-<param name="Длина кабеля">1.5m</param>
 </offer>
 <offer id="ts000055752000012373" available="true">
 <url>https://kmt5.com.ua/kabel-micro-21a-15m-yoobao-yb423-pink</url>
@@ -155634,25 +155549,6 @@
 <param name="Бренд">Borofone</param>
 <param name="Аудіо товари">Bluetooth гарнітура TWS</param>
 </offer>
-<offer id="ts000075898000024672" available="true">
-<url>https://kmt5.com.ua/bluetooth-garntura-tws-hoco-eq3-smart-black</url>
-<price>815.0</price>
-<vendorprice>422.0</vendorprice>
-<vendorpricedoll>9.4</vendorpricedoll>
-<rrcdoll>18.19</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54581499</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGUvNTIv0KYtMDAwMDc1ODk4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTQvNjgv0KYtMDAwMDc1ODk4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000075898</vendorCode>
-<code>771407</code>
-<name>Bluetooth гарнітура TWS — Hoco EQ3 Smart __ — Black</name>
-<description><![CDATA[Hoco EQ3 - это наушники с убойным басистым звуком, по цене бюджетных наушников. В миниатюрном корпусе Вы получите звук, как в полноразмерных наушниках, без преувеличения.¶¶Более 5 часов на одном заряде!¶¶Такой автономностью не могут похвалится даже Apple Airpods. Hoco ES34 станут не только гарнитурой для телефона, но и могут заменить Вам компьютерные наушники. Далеко не каждые большие наушники могут работать 6 часов без подзарядки. А с зарядным боксом, без розетки можно обойтись до 18 часов!¶¶Тип устройства: беспроводные наушники,вкладыши¶Тип батареи: литий-ионный¶Ёмкость гарнитуры: 55 мАч¶Ёмкость зарядного бокса: 400 мАч¶Совместимость: универсальная¶Интерфейс подключения: беспроводное (Bluetooth 5.0)¶Частотный диапазон: 20-20000 Гц.¶Частота воспроизведения: 2.4GHz¶Сила тока: 5V 1A¶Радиус действия: 10 метров¶Время работы во время разговора и воспроизведении музыки: более 5 часов¶Время работы в режиме ожидания: более 100 ч¶Время зарядки бокса: 2 часа¶Время зарядки наушников: 1,5 часа¶Вес: 41 г]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Аудіо товари">Bluetooth гарнітура TWS</param>
-</offer>
 <offer id="ts000078734" available="true">
 <url>https://kmt5.com.ua/bluetooth-garntura-tws-veron-a30-ultrasound</url>
 <price>478.0</price>
@@ -170938,26 +170834,6 @@
 <param name="Бренд">Различные</param>
 <param name="Аксессуары Для Смарт Часов">Браслеты</param>
 </offer>
-<offer id="ts000082969000030845" available="true">
-<url>https://kmt5.com.ua/remnets-magic-silicon-apple-watch-42-mm-44-mm-45-mm-49-mm-oxford-pinkstarlight</url>
-<price>283.0</price>
-<vendorprice>144.0</vendorprice>
-<vendorpricedoll>3.2</vendorpricedoll>
-<rrcdoll>6.31</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>96847083</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTkvNTYv0KYtMDAwMDgyOTY5XzE0LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGIvMDkv0KYtMDAwMDgyOTY5XzIwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082969</vendorCode>
-<code>789503</code>
-<name>Ремінець Magic Silicon — Apple Watch 42 mm | 44 mm | 45 mm | 49 mm — Oxford Pink&amp;Starlight</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Watch Series 3 42 mm, Apple Watch Series 4 44 mm, Apple Watch Series 7 45 mm, Apple Watch Series 8 49 mm</param>
-<param name="Бренд">Различные</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
 <offer id="ts000082969000030846" available="true">
 <url>https://kmt5.com.ua/remnets-magic-silicon-apple-watch-42-mm-44-mm-45-mm-49-mm-starlightorange</url>
 <price>283.0</price>
@@ -177126,27 +177002,6 @@
 <name>Ремінець Silicon Active Універсальний 20 mm — Dark Blue</name>
 <description><![CDATA[Модельный ряд Universal Bracelet 20mm: AmazFit BIP / AmazFit GTS / AmazFit GTR (42 mm) / Huawei GT2 (42 mm) / Samsung Gear S4 (42 mm) / Samsung Galaxy Active 2 (40 mm) / Samsung Galaxy Watch (42 mm)]]></description>
 <quantity_in_stock>31</quantity_in_stock>
-<param name="Марка">Universal</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Силикон</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
-<offer id="ts000070819000019332" available="true">
-<url>https://kmt5.com.ua/remnets-silicon-active-unversalniy-20-mm-gray</url>
-<price>65.0</price>
-<vendorprice>35.0</vendorprice>
-<vendorpricedoll>0.77</vendorpricedoll>
-<rrcdoll>1.43</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>66478009</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmEvMTIv0KYtMDAwMDcwODE5XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmYvNGYv0KYtMDAwMDcwODE5XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000070819</vendorCode>
-<code>748762</code>
-<name>Ремінець Silicon Active Універсальний 20 mm — Gray</name>
-<description><![CDATA[Модельный ряд Universal Bracelet 20mm: AmazFit BIP / AmazFit GTS / AmazFit GTR (42 mm) / Huawei GT2 (42 mm) / Samsung Gear S4 (42 mm) / Samsung Galaxy Active 2 (40 mm) / Samsung Galaxy Watch (42 mm)]]></description>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Марка">Universal</param>
 <param name="Бренд">Различные</param>
 <param name="Материал">Силикон</param>
@@ -187456,35 +187311,6 @@
 <param name="Способ установки">на козирок</param>
 <param name="Способ крепления">розсувний</param>
 <param name="Цвет">Black</param>
-</offer>
-<offer id="ts000044739000013691" available="true">
-<url>https://kmt5.com.ua/baseus-suhz-back-seat-holder-black</url>
-<price>435.0</price>
-<vendorprice>289.0</vendorprice>
-<vendorpricedoll>6.45</vendorpricedoll>
-<rrcdoll>9.69</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>29376332</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjEvMmQv0KYtMDAwMDQ0NzM5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTMvY2Mv0KYtMDAwMDQ0NzM5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjEvOWYv0KYtMDAwMDQ0NzM5XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzQvOTkv0KYtMDAwMDQ0NzM5XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWQvMWMv0KYtMDAwMDQ0NzM5XzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzAvOTkv0KYtMDAwMDQ0NzM5XzEyLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTEvMGMv0KYtMDAwMDQ0NzM5XzEzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWEvNDAv0KYtMDAwMDQ0NzM5XzE0LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGQvOWMv0KYtMDAwMDQ0NzM5XzE1LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmIvZjkv0KYtMDAwMDQ0NzM5XzE2LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Baseus</vendor>
-<vendorCode>Ц-000044739</vendorCode>
-<code>722153</code>
-<name>Автотримач розсувний на підголовник сидіння Baseus (SUHZ-01) — Black</name>
-<description><![CDATA[Современный автомобильный держатель Baseus Back Seat Car Mount Holder сделает поездку на автомобиле максимально приятной. Он надежно крепиться к подголовнику автомобильного сидения и позволяет смотреть фильмы, играть или работать прямо во время поездки. Аксессуар отлично взаимодействует с большинством автомобильных кресел и имеет ширину захвата от 140 до 180 мм. Более того, модель рассчитана на смартфоны с диагональю от 4,7 до 12,9 дюймов. Благодаря специальным накладкам держатель не оставляет следов на корпусе телефона. Baseus Back Seat Car Mount Holder выполнен из высококачественных материалов, поэтому не боится царапин, сколов и прочих неприятностей. При этом специальное шарнирное крепление крутиться на 360 градусов и позволяет установить максимально комфортный угол обзора.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Baseus</param>
-<param name="Автоаксессуары">Автотримачі</param>
-<param name="Способ установки">на підголовник сидіння</param>
-<param name="Способ крепления">розсувний</param>
 </offer>
 <offer id="ts000077529" available="true">
 <url>https://kmt5.com.ua/avtotrimach-rozsuvniy-na-pdgolovnik-sidnnya-earldom-eteh234</url>
@@ -203691,6 +203517,28 @@
 <quantity_in_stock>3</quantity_in_stock>
 <param name="Бренд">Различные</param>
 </offer>
+<offer id="ts000081330000030079" available="true">
+<url>https://kmt5.com.ua/igrushka-3d-ruchka-v-komplekte-s-plastikom-3h-tsvetov-purple</url>
+<price>661.0</price>
+<vendorprice>357.0</vendorprice>
+<vendorpricedoll>7.95</vendorpricedoll>
+<rrcdoll>14.75</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>75087609</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGYvNDkv0KYtMDAwMDgxMzMwXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTQvYTEv0KYtMDAwMDgxMzMwXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTYvZGMv0KYtMDAwMDgxMzMwXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmIvZDYv0KYtMDAwMDgxMzMwXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTYvNTQv0KYtMDAwMDgxMzMwXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWUvNTQv0KYtMDAwMDgxMzMwXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGEvNTcv0KYtMDAwMDgxMzMwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000081330</vendorCode>
+<code>787598</code>
+<name>Игрушка 3D ручка в комплекте с пластиком 3х цветов — Purple</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Различные</param>
+</offer>
 <offer id="ts000081328000030081" available="true">
 <url>https://kmt5.com.ua/fotoapparat-detskiy-print-camera-am300-dino-pink</url>
 <price>1388.0</price>
@@ -203956,6 +203804,27 @@
 <name>Зеркало с LED подсветкой Folding makeup mirror 806 — White</name>
 <description><![CDATA[Дзеркало для макіяжу з підсвіткою Режими: Денне світло Тепле світло Холодне світло Розмір: 18,5х14,5 см Вбудований аккумулятор Заряджання 5V/1A Type-C]]></description>
 <quantity_in_stock>161</quantity_in_stock>
+<param name="Бренд">Различные</param>
+</offer>
+<offer id="ts000082053000030153" available="true">
+<url>https://kmt5.com.ua/game-console-j36-black</url>
+<price>2789.0</price>
+<vendorprice>1479.0</vendorprice>
+<vendorpricedoll>33.0</vendorpricedoll>
+<rrcdoll>62.24</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>75087609</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODUvODAv0KYtMDAwMDgyMDUzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzIvYjIv0KYtMDAwMDgyMDUzXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjcvZDQv0KYtMDAwMDgyMDUzXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDkvYjUv0KYtMDAwMDgyMDUzXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDAvOTMv0KYtMDAwMDgyMDUzXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmQvYWIv0KYtMDAwMDgyMDUzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000082053</vendorCode>
+<code>787911</code>
+<name>Игровая консоль J36 Ultra  — Black</name>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Бренд">Различные</param>
 </offer>
 <offer id="ts000081843" available="true">
