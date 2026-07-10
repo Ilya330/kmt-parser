@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-07-10 06:33">
+<yml_catalog date="2026-07-10 11:43">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -3412,6 +3412,27 @@
 <code>791680</code>
 <name>Rimova Metal Case iPhone 17 Pro Max — Orange</name>
 <quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 17 Pro Max</param>
+<param name="Бренд">Различные</param>
+<param name="Материал">Металл</param>
+</offer>
+<offer id="ts000084047000031979" available="true">
+<url>https://kmt5.com.ua/rimova-metal-case-iphone-17-pro-max-silver</url>
+<price>311.0</price>
+<vendorprice>173.0</vendorprice>
+<vendorpricedoll>3.85</vendorpricedoll>
+<rrcdoll>6.93</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>28366547</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2QvZDMv0KYtMDAwMDg0MDQ3XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWQvODMv0KYtMDAwMDg0MDQ3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000084047</vendorCode>
+<code>791679</code>
+<name>Rimova Metal Case iPhone 17 Pro Max — Silver</name>
+<quantity_in_stock>13</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max</param>
@@ -121519,32 +121540,6 @@
 <param name="Зарядные устройства">Беспроводные</param>
 <param name="Сила тока и Мощность">15W</param>
 </offer>
-<offer id="ts000077473000025642" available="true">
-<url>https://kmt5.com.ua/wireless-charger-15w-hoco-cw6-white</url>
-<price>405.0</price>
-<vendorprice>207.0</vendorprice>
-<vendorpricedoll>4.6</vendorpricedoll>
-<rrcdoll>9.04</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>138510</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTUvM2Ev0KYtMDAwMDc3NDczXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTEvYzQv0KYtMDAwMDc3NDczXzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTgvZTEv0KYtMDAwMDc3NDczXzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGYvMDEv0KYtMDAwMDc3NDczXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDUvMmUv0KYtMDAwMDc3NDczXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjIvYzIv0KYtMDAwMDc3NDczXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTIvMjgv0KYtMDAwMDc3NDczXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGMvYjAv0KYtMDAwMDc3NDczXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmMvMmEv0KYtMDAwMDc3NDczXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000077473</vendorCode>
-<code>774204</code>
-<name>Wireless Charger 15W Hoco CW6 Pro — white</name>
-<quantity_in_stock>3</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Зарядные устройства">Беспроводные</param>
-<param name="Сила тока и Мощность">15W</param>
-</offer>
 <offer id="ts000081022" available="true">
 <url>https://kmt5.com.ua/avtotrimach-magntniy-na-povtroprovd-z-bezdrotovoyu-zaryadkoyu-15w-earldom-etwc46</url>
 <price>697.0</price>
@@ -153418,6 +153413,28 @@
 <param name="Бренд">Различные</param>
 <param name="Аудіо товари">Портативні колонки</param>
 </offer>
+<offer id="ts000082276000030346" available="true">
+<url>https://kmt5.com.ua/portativna-kolonka-hopestar-a85-blue</url>
+<price>14570.0</price>
+<vendorprice>7392.0</vendorprice>
+<vendorpricedoll>165.0</vendorpricedoll>
+<rrcdoll>325.21</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>31204796</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmUvNTcv0KYtMDAwMDgyMjc2XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmQvNjgv0KYtMDAwMDgyMjc2XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTkvNzEv0KYtMDAwMDgyMjc2XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTkvY2Yv0KYtMDAwMDgyMjc2XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGMvMTYv0KYtMDAwMDgyMjc2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000082276</vendorCode>
+<code>788322</code>
+<name>Портативна колонка Hopestar A85 400W — Blue</name>
+<description><![CDATA[Портативная блютуз колонка Hopestar A85 – это настоящий взрыв звука и света в удобном корпусе. Благодаря мощности 400 Вт она легко озвучит вечеринку на природе, во дворе или дома, а стильная RGB-подсветка создаст атмосферу клуба где угодно. Колонка оснащена современной версией Bluetooth 5.3, что обеспечивает стабильное соединение без задержек. Огромный аккумулятор на 30000 мАч (со съемной батареей) гарантирует до 6–8 часов непрерывной работы, поэтому музыка будет звучать дольше без необходимости в частой подзарядке. Качественный звук с диапазоном частот 80 Гц – 20 кГц позволяет наслаждаться как глубокими басами, так и чистыми высокими нотами. А благодаря степени защиты IPX6, колонка не боится дождя или брызг – бери ее с собой на пляж, в поход или на вечеринку у бассейна. Хопстар A85 – идеальный выбор для тех, кто ценит громкий, чистый звук, автономность и эффектный дизайн. Характеристики: Тип: портативна колонка Модель: Hopestar A85 Версія Bluetooth: 5.3 Потужність: 400W Підсвічування: RGB Інтерфейс підключення: AUX, USB, Bluetooth Ємність акумулятора: 30000mAh (знімна батарея) Відтворювані частоти: 80 Гц - 20 КГц Час роботи: близько 6-8 годин (заявлено виробником) Тип батареї: 21700 літій-іонний акумулятор Вхідна потужність: 5V/9V/12V/15V/20V - 2.2A Ступінь захисту: IPX6 Підтримка карт пам'яті: так Радіус дії: 10 метрів Кількість динаміків: 6 TWS 1+1 Функція: Два динаміки можуть бути з'єднані разом, один динамік з'єднується з мобільним телефоном, два динаміки можуть відтворювати пісню водночас Потужність динаміка: 1) 135 мм, 100 Вт * 2 шт.; 2) 78 мм, 60 Вт * 2 шт.; 3) 66 мм, 40 Вт * 2 шт. Наявність мікрофона: так Розмір: 311 х 231.6 х 563 мм]]></description>
+<quantity_in_stock>2</quantity_in_stock>
+<param name="Бренд">Различные</param>
+<param name="Аудіо товари">Портативні колонки</param>
+</offer>
 <offer id="ts000082276000030345" available="true">
 <url>https://kmt5.com.ua/portativna-kolonka-hopestar-a85-gray</url>
 <price>14570.0</price>
@@ -164984,29 +165001,6 @@
 <name>Wiwu SW07 Smart watch  — Gold</name>
 <description><![CDATA[Модель: SW07 Назва продукту: Розумний годинник Екран: 1,32 дюйма AMOLED Колір: Сріблястий та золотистий Ємність акумулятора: 220 мАг Ступінь водонепроникності: IP68 Розміри упаковки (см): 138*147*33 мм Вага продукту (кг): 0,23 кг Спосіб заряджання: Магнітне заряджання Версія бездротового з'єднання: 5.4 Час роботи в режимі очікування: 150 днів]]></description>
 <quantity_in_stock>17</quantity_in_stock>
-<param name="Бренд">Wiwu</param>
-<param name="Аксессуары Для Смарт Часов">Смарт-годинник</param>
-</offer>
-<offer id="ts000082752000030699" available="true">
-<url>https://kmt5.com.ua/wiwu-sw08-smart-watch-black</url>
-<price>2472.0</price>
-<vendorprice>1277.0</vendorprice>
-<vendorpricedoll>28.5</vendorpricedoll>
-<rrcdoll>55.16</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>46945254</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDkvNjcv0KYtMDAwMDgyNzUyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDcvZDIv0KYtMDAwMDgyNzUyXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTIvMDIv0KYtMDAwMDgyNzUyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjEvNTQv0KYtMDAwMDgyNzUyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDkvMWEv0KYtMDAwMDgyNzUyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODEvYTIv0KYtMDAwMDgyNzUyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Wiwu</vendor>
-<vendorCode>Ц-000082752</vendorCode>
-<code>789143</code>
-<name>Wiwu SW08 Smart watch  — Black</name>
-<description><![CDATA[...Модель: SW08 Назва продукту: Розумний годинник Екран: 1,92-дюймовий вигнутий AMOLED-дисплей Колір: Чорний та сріблястий Частота оновлення: 65 Гц Ємність акумулятора: 300 мАг Ступінь водонепроникності: IP68 Розміри упаковки (см): 138*147*33 мм Спосіб заряджання: Магнітне заряджання Версія бездротового з'єднання: 5.4 Час роботи в режимі очікування: 150 днів SW09...]]></description>
-<quantity_in_stock>2</quantity_in_stock>
 <param name="Бренд">Wiwu</param>
 <param name="Аксессуары Для Смарт Часов">Смарт-годинник</param>
 </offer>
