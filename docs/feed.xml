@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-07-09 17:13">
+<yml_catalog date="2026-07-10 06:33">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -118827,29 +118827,6 @@
 <param name="Толщина">0.3 mm</param>
 <param name="Цвет">Black</param>
 </offer>
-<offer id="ts000079360" available="true">
-<url>https://kmt5.com.ua/zaschitnoe-steklo-super-x-esd-antistatic-samsung-a05s-black</url>
-<price>57.0</price>
-<vendorprice>30.0</vendorprice>
-<vendorpricedoll>0.65</vendorpricedoll>
-<rrcdoll>1.27</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>89511238</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODAvZTcv0KYtMDAwMDc5MzYwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGEvZjAv0KYtMDAwMDc5MzYwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000079360</vendorCode>
-<code>779127</code>
-<name>Защитное стекло Super X ESD Antistatic Samsung A05S (Black)</name>
-<quantity_in_stock>3</quantity_in_stock>
-<param name="Марка">Samsung</param>
-<param name="Модель девайса">Samsung A05S</param>
-<param name="Бренд">Различные</param>
-<param name="Виды защиты экрана">Захисне скло</param>
-<param name="Вид покрытия">Прозрачное стекло</param>
-<param name="Толщина">0.3 mm</param>
-<param name="Цвет">Black</param>
-</offer>
 <offer id="ts000081419" available="true">
 <url>https://kmt5.com.ua/zaschitnoe-steklo-super-x-esd-antistatic-samsung-a06-black</url>
 <price>57.0</price>
@@ -119120,29 +119097,6 @@
 <quantity_in_stock>6</quantity_in_stock>
 <param name="Марка">Samsung</param>
 <param name="Модель девайса">Samsung A31</param>
-<param name="Бренд">Различные</param>
-<param name="Виды защиты экрана">Захисне скло</param>
-<param name="Вид покрытия">Прозрачное стекло</param>
-<param name="Толщина">0.3 mm</param>
-<param name="Цвет">Black</param>
-</offer>
-<offer id="ts000077895" available="true">
-<url>https://kmt5.com.ua/zaschitnoe-steklo-super-x-esd-antistatic-samsung-a32-black</url>
-<price>57.0</price>
-<vendorprice>30.0</vendorprice>
-<vendorpricedoll>0.65</vendorpricedoll>
-<rrcdoll>1.27</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>89511238</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTEvZmUv0KYtMDAwMDc3ODk1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWQvZWIv0KYtMDAwMDc3ODk1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000077895</vendorCode>
-<code>776643</code>
-<name>Защитное стекло Super X ESD Antistatic Samsung A32 (Black)</name>
-<quantity_in_stock>10</quantity_in_stock>
-<param name="Марка">Samsung</param>
-<param name="Модель девайса">Samsung A32 4G</param>
 <param name="Бренд">Различные</param>
 <param name="Виды защиты экрана">Захисне скло</param>
 <param name="Вид покрытия">Прозрачное стекло</param>
@@ -123901,30 +123855,6 @@
 <param name="Колво USB портов">2 U</param>
 <param name="Зарядные устройства">Home Chargers</param>
 <param name="Сила тока и Мощность">2.4A</param>
-</offer>
-<offer id="ts000078264" available="true">
-<url>https://kmt5.com.ua/home-charger-20w-1c-original-apple-new</url>
-<price>294.0</price>
-<vendorprice>153.0</vendorprice>
-<vendorpricedoll>3.4</vendorpricedoll>
-<rrcdoll>6.56</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>56676196</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjMvYzYv0KYtMDAwMDc4MjY0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjQvMGQv0KYtMDAwMDc4MjY0XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDYvYzEv0KYtMDAwMDc4MjY0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDcvNjAv0KYtMDAwMDc4MjY0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000078264</vendorCode>
-<code>777373</code>
-<name>Home Charger 20W 1C  MHJ83ZM\A Apple</name>
-<description><![CDATA[Apple USB-C — это адаптер питания с мощностью 20 Вт, который позволяет быстро и эффективно заряжать ваше электронное устройство. Подзарядку удобно производить дома, в офисе и даже в дороге. Apple USB-C — удобное и ударопрочное устройство, выполненное из крепкого белого пластика. Повышенное качество материала корпуса заметно даже невооруженным взглядом. А технологичная начинка устройства обеспечит быструю и эффективную зарядку вашего девайса.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Бренд">Apple</param>
-<param name="Колво USB портов">1 Type - C</param>
-<param name="Зарядные устройства">Home Chargers</param>
-<param name="Сила тока и Мощность">20W</param>
-<param name="Цвет">White</param>
 </offer>
 <offer id="ts000070426" available="true">
 <url>https://kmt5.com.ua/home-charger-20w-1c-earldom-eseu3-20w</url>
@@ -136931,26 +136861,6 @@
 <param name="Разъем подключения">Cable USB to C</param>
 <param name="Длина кабеля">1m</param>
 </offer>
-<offer id="ts000074024" available="true">
-<url>https://kmt5.com.ua/usb-types-apple-usbc-charge-cable-1m</url>
-<price>262.0</price>
-<vendorprice>157.0</vendorprice>
-<vendorpricedoll>3.5</vendorpricedoll>
-<rrcdoll>5.83</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>51161204</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzAvYzkv0KYtMDAwMDc0MDI0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzcvY2Iv0KYtMDAwMDc0MDI0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjkvYjQv0KYtMDAwMDc0MDI0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000074024</vendorCode>
-<code>768817</code>
-<name>Кабель USB C to C (1m) Apple (MUF72ZM/A)</name>
-<quantity_in_stock>4</quantity_in_stock>
-<param name="Бренд">Apple</param>
-<param name="Разъем подключения">Cable USB C to C</param>
-<param name="Длина кабеля">1m</param>
-</offer>
 <offer id="ts000078263" available="true">
 <url>https://kmt5.com.ua/kabel-usb-c-to-c-2m-apple-new</url>
 <price>199.0</price>
@@ -140843,6 +140753,23 @@
 <name>Ночной светильник — Veron U2</name>
 <quantity_in_stock>615</quantity_in_stock>
 <param name="Бренд">VERON</param>
+</offer>
+<offer id="ts000080350" available="true">
+<url>https://kmt5.com.ua/nochnoy-svetilnik-why-duck-pat-a011</url>
+<price>509.0</price>
+<vendorprice>274.0</vendorprice>
+<vendorpricedoll>6.1</vendorpricedoll>
+<rrcdoll>11.34</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>42720649</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDIvNjEv0KYtMDAwMDgwMzUwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWQvYjgv0KYtMDAwMDgwMzUwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000080350</vendorCode>
+<code>782938</code>
+<name>Ночной светильник — Why Duck Pat A011</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Различные</param>
 </offer>
 <offer id="ts000080806" available="true">
 <url>https://kmt5.com.ua/nochnoy-svetilnik-uvlajnitel-zvezdnoe-nebo-rd1093</url>
@@ -155244,25 +155171,6 @@
 <param name="Бренд">Hoco</param>
 <param name="Аудіо товари">Bluetooth гарнітура TWS</param>
 </offer>
-<offer id="ts000082717" available="true">
-<url>https://kmt5.com.ua/bluetooth-garntura-tws-hoco-ew97</url>
-<price>637.0</price>
-<vendorprice>323.0</vendorprice>
-<vendorpricedoll>7.2</vendorpricedoll>
-<rrcdoll>14.21</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54581499</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODQvOTIv0KYtMDAwMDgyNzE3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDUvYTUv0KYtMDAwMDgyNzE3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000082717</vendorCode>
-<code>789066</code>
-<name>Bluetooth гарнітура TWS Hoco EW97</name>
-<description><![CDATA[Бездротові TWS-навушники з активним шумопоглинанням ANC (Bluetooth 5.3) Бездротові TWS-навушники серії ANC створені для комфортного прослуховування музики та зручного спілкування у будь-яких умовах. Завдяки активному шумоподавленню (ANC) навушники ефективно зменшують фонові шуми, дозволяючи повністю зосередитися на звуці. Стабільне з’єднання забезпечує Bluetooth 5.3, який гарантує низьку затримку та енергоефективну роботу. Сенсорне керування дозволяє легко керувати музикою та дзвінками без використання смартфона. Основні переваги Активне шумоподавлення ANC Сучасний стандарт Bluetooth 5.3 Сенсорне керування Вбудований мікрофон для дзвінків Компактний зарядний кейс з індикацією заряду Підтримка більшості пристроїв з Bluetooth Функціональні можливості Прослуховування музики Прийом та здійснення дзвінків Керування відтворенням і гучністю дотиками Робота в режимі шумоподавлення ANC Технічні характеристики Тип: бездротові TWS-навушники Серія: ANC Тип навушників: внутрішньоканальні Тип підключення: Bluetooth Версія Bluetooth: 5.3 Радіус дії: до 10 м Кодеки: SBC Керування: сенсорне Мікрофон: вбудований Підтримка дзвінків: так Тип живлення: вбудований акумулятор Автономність і зарядка Ємність акумулятора навушників: 35 мА·год (кожен) Ємність акумулятора кейса: 300 мА·год Час роботи навушників: до 5 годин Час роботи з ANC: до 4 годин Загальний час роботи з кейсом: до 20 годин Час зарядки: близько 1,5 години Розʼєм для зарядки: USB Type-C Індикація заряду: світлодіодна Сумісність і матеріали Матеріал корпусу: пластик Сумісність: Android, iOS, Windows та інші пристрої з Bluetooth]]></description>
-<quantity_in_stock>4</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Аудіо товари">Bluetooth гарнітура TWS</param>
-</offer>
 <offer id="ts000075758000024545" available="true">
 <url>https://kmt5.com.ua/bluetooth-garntura-tws-pro-xs-white</url>
 <price>371.0</price>
@@ -159937,26 +159845,6 @@
 <param name="Аудіо товари">Портативні колонки</param>
 <param name="Цвет">Mix Color</param>
 </offer>
-<offer id="ts000076058" available="true">
-<url>https://kmt5.com.ua/portativna-kolonka-q3</url>
-<price>1200.0</price>
-<vendorprice>637.0</vendorprice>
-<vendorpricedoll>14.2</vendorpricedoll>
-<rrcdoll>26.78</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>31204796</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWYvNzYv0KYtMDAwMDc2MDU4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmQvNTEv0KYtMDAwMDc2MDU4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDcvZjYv0KYtMDAwMDc2MDU4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000076058</vendorCode>
-<code>771860</code>
-<name>Портативна колонка Q-3</name>
-<quantity_in_stock>6</quantity_in_stock>
-<param name="Бренд">Различные</param>
-<param name="Аудіо товари">Портативні колонки</param>
-<param name="Цвет">Mix Color</param>
-</offer>
 <offer id="ts000078649" available="true">
 <url>https://kmt5.com.ua/portativna-kolonka-sam02-led-wireless-charging</url>
 <price>1275.0</price>
@@ -160544,28 +160432,6 @@
 <name>Бездротова миша — Hoco GM14 — Black</name>
 <description><![CDATA[Мышь беспроводная оптическая HOCO GM14 Platinum business имеет стильный дизайн и симметричную форму, что позволяет использовать ее как правшам, так и левшам. Данная модель компактна, легка и удобна в повседневной работе. Беспроводная технология позволит сделать работу более свободной, только подключите миниатюрный 2.4 ГГц ресивер или по Bluetooth 4.2. Работает от батарейки типоразмера АА, имеет невысокое потребление энергии. Материал: ABS Размер: 115*63*36мм Вес: 60г Схема: Han Tianxi Чип: MX8650 Метод подключения: беспроводное соединение 2.4G DPI: 1200 Срок службы: около 3 миллионов раз. 200000 прокручиваний Тип клавиш: 3D клавиши Совместимость с большинством настольных компьютеров и ноутбуков]]></description>
 <quantity_in_stock>88</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Компьютерные аксессуары">Компьютерные мыши</param>
-</offer>
-<offer id="ts000078478000026685" available="true">
-<url>https://kmt5.com.ua/bezdrotova-misha-hoco-gm21-platinum-24g-business-black</url>
-<price>263.0</price>
-<vendorprice>153.0</vendorprice>
-<vendorpricedoll>3.4</vendorpricedoll>
-<rrcdoll>5.86</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>84259818</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTIvN2Uv0KYtMDAwMDc4NDc4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGIvOTIv0KYtMDAwMDc4NDc4XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGEvNDAv0KYtMDAwMDc4NDc4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmUvYzQv0KYtMDAwMDc4NDc4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjMvNDkv0KYtMDAwMDc4NDc4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000078478</vendorCode>
-<code>777700</code>
-<name>Бездротова миша — Hoco GM21 — Black</name>
-<description><![CDATA[1. Материал: силикагель АБС+. 2. Размер: 105*60*31 мм; Вес: 43 г 3. Схема: Ханьтянься; Чип: MX8650 4. Режим подключения: беспроводное соединение 2,4G. 5. Разрешение: 1000-1200-1600. 6. Срок службы: 300 Вт щелчков, 200 000 оборотов колеса. 7. Тип кнопки: кнопка 4D. 8. Совместим с большинством USB-портов настольных компьютеров и ноутбуков.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Компьютерные аксессуары">Компьютерные мыши</param>
 </offer>
@@ -188574,28 +188440,6 @@
 <param name="Бренд">Hoco</param>
 <param name="Автоаксессуары">Видеорегистраторы</param>
 </offer>
-<offer id="ts000081802" available="true">
-<url>https://kmt5.com.ua/videoregistrator-hoco-dv14</url>
-<price>1629.0</price>
-<vendorprice>1031.0</vendorprice>
-<vendorpricedoll>23.0</vendorpricedoll>
-<rrcdoll>36.35</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>71383016</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjIvZTEv0KYtMDAwMDgxODAyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDAvZDgv0KYtMDAwMDgxODAyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGIvMTcv0KYtMDAwMDgxODAyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTMvM2Ev0KYtMDAwMDgxODAyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmIvNDYv0KYtMDAwMDgxODAyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000081802</vendorCode>
-<code>787583</code>
-<name>Видеорегистратор — Hoco DV14</name>
-<description><![CDATA[1. Головний контролер: Jerry 5211; 1 мільйон пікселів 2. 3,0-дюймовий IPS-екран високої чіткості з роздільною здатністю 360 * 640 3. Роздільна здатність відео 1280* 720P@25 кадрів/с 4. Діафрагма: F2.5; Кут огляду камери: 120° 5. Вбудований літій-іонний акумулятор ємністю 200 мАг; Максимальна підтримка карт пам'яті 64 ГБ 6. Матеріал: ABS; Розмір: 88 * 51 * 34 мм; Вага: 68 г; Довжина лінії: 3,5 м 7. 22 мови: китайська, англійська, російська, арабська, в'єтнамська, данська, тайська, польська, перська, іспанська, малайська, грецька, французька, італійська, німецька, португальська, турецька, латинська, румунська, казахська, бірманська, українська]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Автоаксессуары">Видеорегистраторы</param>
-</offer>
 <offer id="ts000081801" available="true">
 <url>https://kmt5.com.ua/videoregistrator-hoco-dv15</url>
 <price>1721.0</price>
@@ -189074,6 +188918,46 @@
 <name>Щетка для машины 2</name>
 <quantity_in_stock>201</quantity_in_stock>
 </offer>
+<offer id="ts000079770" available="true">
+<url>https://kmt5.com.ua/usb-flash-drive-4gb-veron-usb-metal-seies-105</url>
+<price>323.0</price>
+<vendorprice>162.0</vendorprice>
+<vendorpricedoll>3.6</vendorpricedoll>
+<rrcdoll>7.2</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>57114865</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjAvOGUv0KYtMDAwMDc5NzcwXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODIvNTYv0KYtMDAwMDc5NzcwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmYvMzUv0KYtMDAwMDc5NzcwXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>VERON</vendor>
+<vendorCode>Ц-000079770</vendorCode>
+<code>780056</code>
+<name>USB Flash Drive 4GB Veron USB Metal seies 105</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">VERON</param>
+<param name="Накопители информации">USB-флеш-накопитель</param>
+<param name="Объем Памяти">4GB</param>
+</offer>
+<offer id="ts000079774" available="true">
+<url>https://kmt5.com.ua/usb-flash-drive-64gb-veron-usb-vega-seies-121</url>
+<price>599.0</price>
+<vendorprice>305.0</vendorprice>
+<vendorpricedoll>6.8</vendorpricedoll>
+<rrcdoll>13.36</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>57114865</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODMvMzIv0KYtMDAwMDc5Nzc0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWUvZTQv0KYtMDAwMDc5Nzc0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTMvOTAv0KYtMDAwMDc5Nzc0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>VERON</vendor>
+<vendorCode>Ц-000079774</vendorCode>
+<code>780060</code>
+<name>USB Flash Drive 64GB Veron USB Vega seies 121</name>
+<quantity_in_stock>48</quantity_in_stock>
+<param name="Бренд">VERON</param>
+<param name="Накопители информации">USB-флеш-накопитель</param>
+<param name="Объем Памяти">64GB</param>
+</offer>
 <offer id="ts000079768" available="true">
 <url>https://kmt5.com.ua/memory-card-16gb-veron-microsdhc-uhs1-class-10-with-adapter</url>
 <price>453.0</price>
@@ -189429,26 +189313,6 @@
 <name>Тримач-присоска для телефону Double Side Silicone — Yellow 6.5*10</name>
 <quantity_in_stock>159</quantity_in_stock>
 <param name="Бренд">Различные</param>
-</offer>
-<offer id="ts000079774" available="true">
-<url>https://kmt5.com.ua/usb-flash-drive-64gb-veron-usb-vega-seies-121</url>
-<price>599.0</price>
-<vendorprice>305.0</vendorprice>
-<vendorpricedoll>6.8</vendorpricedoll>
-<rrcdoll>13.36</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>57114865</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODMvMzIv0KYtMDAwMDc5Nzc0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWUvZTQv0KYtMDAwMDc5Nzc0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTMvOTAv0KYtMDAwMDc5Nzc0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>VERON</vendor>
-<vendorCode>Ц-000079774</vendorCode>
-<code>780060</code>
-<name>USB Flash Drive 64GB Veron USB Vega seies 121</name>
-<quantity_in_stock>48</quantity_in_stock>
-<param name="Бренд">VERON</param>
-<param name="Накопители информации">USB-флеш-накопитель</param>
-<param name="Объем Памяти">64GB</param>
 </offer>
 <offer id="ts000079771" available="true">
 <url>https://kmt5.com.ua/usb-flash-drive-16gb-veron-usb-vega-seies-121</url>
@@ -202549,31 +202413,6 @@
 <name>Портативный мини вентилятор WT8019 — White</name>
 <description><![CDATA[Этот мини-вентилятор — отличное решение для локального охлаждения в офисе, дома или в путешествиях. Благодаря лёгкой конструкции и питанию от USB он легко подключается к ноутбуку, пауэрбанку или адаптеру. Два режима скорости позволяют регулировать интенсивность воздушного потока в зависимости от условий. Технические характеристики: Источник питания: USB (DC 5V) Размеры: 100 × 75 × 135 мм Вес: 180–225 г Количество скоростей: 2 Материал: Пластик Напряжение: 5 В]]></description>
 <quantity_in_stock>230</quantity_in_stock>
-<param name="Бренд">Различные</param>
-</offer>
-<offer id="ts000081278000029782" available="true">
-<url>https://kmt5.com.ua/portativnyiy-mini-ventilyator-l02-black</url>
-<price>431.0</price>
-<vendorprice>231.0</vendorprice>
-<vendorpricedoll>5.15</vendorpricedoll>
-<rrcdoll>9.62</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>58682601</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDkvYmMv0KYtMDAwMDgxMjc4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWEvODIv0KYtMDAwMDgxMjc4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTQvMTEv0KYtMDAwMDgxMjc4XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2IvOWEv0KYtMDAwMDgxMjc4XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmIvMzQv0KYtMDAwMDgxMjc4XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmIvZDgv0KYtMDAwMDgxMjc4XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjUvZWMv0KYtMDAwMDgxMjc4XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTQvODAv0KYtMDAwMDgxMjc4XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzcvNjIv0KYtMDAwMDgxMjc4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000081278</vendorCode>
-<code>786788</code>
-<name>Портативный мини вентилятор L-02 -2000 mAh — Green</name>
-<description><![CDATA[Цей мінівентилятор стане справжньою знахідкою для тих, хто багато часу проводить на вулиці або в приміщеннях без кондиціонера. Його компактність і зручність у використанні особливо оцінять студенти, офісні працівники та мандрівники. Це дозволить вам почуватися прохолодно навіть у найспекотніші дні, допомагаючи залишатися пильними та зосередженими. Серед переваг даного вентилятора його портативність – він легко поміщається в сумку або рюкзак. Крім того, пристрій має безшумний двигун, який створює потужний потік повітря без зайвого шуму. Зарядка через USB робить його зручним в будь-яких умовах: просто підключіть його до комп'ютера або Power Bank. Додатковим бонусом є три налаштування швидкості, які дозволяють регулювати інтенсивність повітряного потоку відповідно до ваших потреб. Не відкладайте покупку на потім! Настав час зробити своє життя комфортнішим. Замовивши мінівентилятор сьогодні, ви отримуєте не тільки функціональний аксесуар, а й стильне доповнення вашого образу. Не пропустіть можливість скористатися вигідною ціною та зберегти себе здоровим у будь-який час! - L-02 Ультратонкий складаний настільний вентилятор 3 швидкості, тихий підвісний вентилятор - білий - Відкрийте для себе елегантний і тонкий настільний вентилятор, який ідеально впишеться у ваш інтер'єр, не займаючи дорогоцінного місця. - Насолоджуйтеся спокоєм і тишею з тихим вентилятором, що робить його ідеальним для роботи, навчання або відпочинку. - Налаштуйте свій досвід охолодження за допомогою трьох налаштувань швидкості, забезпечуючи ідеальний потік повітря в будь-який час - Вентилятор можна розмістити на будь-якій поверхні або зручно підвісити відповідно до ваших унікальних потреб у просторі. - Створений для вашої зручності, цей вентилятор легкий і портативний, що дозволяє легко переносити його куди завгодно, куди вам потрібен ковток свіжого повітря. Технічні характеристики: - Модель виробу: L-02 - Матеріал: ABS/електронні компоненти - Розмір виробу: 135*34,5*164 мм - Вага нетто: 225 г - Робочий струм: близько 300-1650 мА - Вхідна напруга: DC5V - Номінальна потужність: 4 Вт - Час використання: 1 швидкість 6 год, 2 швидкість 2,5 год, 3 швидкість 1,5 год - Ємність акумулятора: 2000mAh (батарея 18650) - Вхідний струм: 1А]]></description>
-<quantity_in_stock>4</quantity_in_stock>
 <param name="Бренд">Различные</param>
 </offer>
 <offer id="ts000081296000029800" available="true">
