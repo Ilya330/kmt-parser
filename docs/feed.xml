@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-07-11 10:11">
+<yml_catalog date="2026-07-11 15:44">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -7207,27 +7207,6 @@
 <param name="Бренд">Различные</param>
 <param name="Материал">Силикон</param>
 </offer>
-<offer id="ts000083271000031408" available="true">
-<url>https://kmt5.com.ua/smoky-case-with-magsafe-iphone-13-14-black</url>
-<price>233.0</price>
-<vendorprice>134.0</vendorprice>
-<vendorpricedoll>2.98</vendorpricedoll>
-<rrcdoll>5.19</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>3890985</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjAvMWYv0KYtMDAwMDgzMjcxXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTMvMWIv0KYtMDAwMDgzMjcxXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000083271</vendorCode>
-<code>790358</code>
-<name>Smoky Case with MagSafe — iPhone 13 ; 14 — Black</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 13 6.1&quot;, Apple iPhone 14 6.1&quot;</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Силикон</param>
-</offer>
 <offer id="ts000083271000031404" available="true">
 <url>https://kmt5.com.ua/smoky-case-with-magsafe-iphone-13-14-coffee-brown</url>
 <price>233.0</price>
@@ -7291,27 +7270,6 @@
 <code>790352</code>
 <name>Smoky Case with MagSafe — iPhone 13 ; 14 — Pale Cyan</name>
 <quantity_in_stock>8</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 13 6.1&quot;, Apple iPhone 14 6.1&quot;</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Силикон</param>
-</offer>
-<offer id="ts000083271000031403" available="true">
-<url>https://kmt5.com.ua/smoky-case-with-magsafe-iphone-13-14-pale-purple</url>
-<price>233.0</price>
-<vendorprice>134.0</vendorprice>
-<vendorpricedoll>2.98</vendorpricedoll>
-<rrcdoll>5.19</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>3890985</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTMvODEv0KYtMDAwMDgzMjcxXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTMvMWIv0KYtMDAwMDgzMjcxXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000083271</vendorCode>
-<code>790353</code>
-<name>Smoky Case with MagSafe — iPhone 13 ; 14 — Pale Purple</name>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 13 6.1&quot;, Apple iPhone 14 6.1&quot;</param>
@@ -73304,27 +73262,6 @@
 <code>775112</code>
 <name>Protective Case MacBook Air 13'' A1932 ; A2179 ; A2337 — New Pink</name>
 <quantity_in_stock>4</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Macbook Air 13.3 A1932/A2179/A2337</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Силикон</param>
-</offer>
-<offer id="ts000072493000021944" available="true">
-<url>https://kmt5.com.ua/protective-case-macbook-air-13-a1932-a2179-a2337-white</url>
-<price>456.0</price>
-<vendorprice>265.0</vendorprice>
-<vendorpricedoll>5.9</vendorpricedoll>
-<rrcdoll>10.16</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>8738120</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2UvOGEv0KYtMDAwMDcyNDkzXzE2LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmMvNWEv0KYtMDAwMDcyNDkzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000072493</vendorCode>
-<code>753293</code>
-<name>Protective Case MacBook Air 13'' A1932 ; A2179 ; A2337 — White</name>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Macbook Air 13.3 A1932/A2179/A2337</param>
@@ -194384,32 +194321,6 @@
 <param name="Бренд">Различные</param>
 <param name="Украшения для Телефонов">Шнурки</param>
 </offer>
-<offer id="ts000082630000031201" available="true">
-<url>https://kmt5.com.ua/shnurok-na-sheyu-color-cord-light-pink</url>
-<price>204.0</price>
-<vendorprice>108.0</vendorprice>
-<vendorpricedoll>2.4</vendorpricedoll>
-<rrcdoll>4.55</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>16846687</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmMvYWYv0KYtMDAwMDgyNjMwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmQvMzYv0KYtMDAwMDgyNjMwXzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTIvMWEv0KYtMDAwMDgyNjMwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjMvMjQv0KYtMDAwMDgyNjMwXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDgvMDUv0KYtMDAwMDgyNjMwXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDEvYzcv0KYtMDAwMDgyNjMwXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGUvMGYv0KYtMDAwMDgyNjMwXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmIvZmQv0KYtMDAwMDgyNjMwXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjMvNDEv0KYtMDAwMDgyNjMwXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWIvZDUv0KYtMDAwMDgyNjMwXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082630</vendorCode>
-<code>790128</code>
-<name>Шнурок на шею «Color Cord» — Light Pink</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Различные</param>
-<param name="Украшения для Телефонов">Шнурки</param>
-</offer>
 <offer id="ts000082630000031204" available="true">
 <url>https://kmt5.com.ua/shnurok-na-sheyu-color-cord-neon-yellow</url>
 <price>204.0</price>
@@ -199763,27 +199674,6 @@
 <quantity_in_stock>3</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Видео аксессуары">Камеры видеонаблюдения</param>
-</offer>
-<offer id="ts000071126000019869" available="true">
-<url>https://kmt5.com.ua/gm7-eagle-six-finger-game-controller-black</url>
-<price>382.0</price>
-<vendorprice>204.0</vendorprice>
-<vendorpricedoll>4.55</vendorpricedoll>
-<rrcdoll>8.51</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>75087609</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2YvY2Iv0KYtMDAwMDcxMTI2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmMvZGMv0KYtMDAwMDcxMTI2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzUvNzYv0KYtMDAwMDcxMTI2XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDYvYzMv0KYtMDAwMDcxMTI2XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTEvNGUv0KYtMDAwMDcxMTI2XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000071126</vendorCode>
-<code>749655</code>
-<name>Game controller Hoco GM7 Eagle six finger — Black</name>
-<description><![CDATA[Материал: ABS+Цинковый сплав+Силикон. Обработка: солнечный узор, электропокрытие. Размеры: 15011842мм. Вес: 120г. Подходит для мобильных телефонов с шириной 70-95мм. Шесть физических кнопок, высокочувствительные контакты, отличный опыт. Подходит для съемки мобильных игр с настраиваемыми кнопками (PUBG, Free Fire).]]></description>
-<quantity_in_stock>4</quantity_in_stock>
-<param name="Бренд">Hoco</param>
 </offer>
 <offer id="ts000078798" available="true">
 <url>https://kmt5.com.ua/vesyi-elektronnyie-7011</url>
