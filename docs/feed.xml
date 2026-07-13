@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-07-13 06:33">
+<yml_catalog date="2026-07-13 11:50">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -129855,29 +129855,6 @@
 <name>Adapter OTG USB C To USB Earldom ET-OT59</name>
 <quantity_in_stock>26</quantity_in_stock>
 <param name="Бренд">Earldom</param>
-<param name="Переходники">Adapter OTG USB C To USB</param>
-</offer>
-<offer id="ts000078140000026421" available="true">
-<url>https://kmt5.com.ua/adapter-otg-usb-c-to-usb-hoco-ua24-metal-gray</url>
-<price>155.0</price>
-<vendorprice>83.0</vendorprice>
-<vendorpricedoll>1.85</vendorpricedoll>
-<rrcdoll>3.45</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>66783771</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTEvOWMv0KYtMDAwMDc4MTQwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTEvMjEv0KYtMDAwMDc4MTQwXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTkvMDQv0KYtMDAwMDc4MTQwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjAvZjEv0KYtMDAwMDc4MTQwXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTkvNGMv0KYtMDAwMDc4MTQwXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDkvNzgv0KYtMDAwMDc4MTQwXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000078140</vendorCode>
-<code>777102</code>
-<name>Adapter OTG USB C To USB Hoco UA24 — Metal Gray</name>
-<description><![CDATA[Материал: алюминиевый сплав + TPE. Длина кабеля: 165 мм ± 5 мм; Вес: 14 г. Разъем: Type-C к USB женский. Поддержка функции передачи данных и зарядки. С USB-кабелем для Lightning поддерживает зарядку Apple 5V/2A (без функции PD); с USB-кабелем для Type-C поддерживает ток 4A, может активировать протокол быстрой зарядки SCP 5V/4A, также поддерживает быструю зарядку для устройств Xiaomi, OPPO и других.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Hoco</param>
 <param name="Переходники">Adapter OTG USB C To USB</param>
 </offer>
 <offer id="ts000078149000026430" available="true">
