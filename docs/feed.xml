@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-07-15 10:43">
+<yml_catalog date="2026-07-15 16:14">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -2028,7 +2028,7 @@
 <vendor>Dux Ducis</vendor>
 <vendorCode>Ц-000084051</vendorCode>
 <code>791696</code>
-<name>Aimo Series TPU Case — Xiaomi Redmi Note 15 5G</name>
+<name>Aimo Series TPU Case — Xiaomi Redmi Note 15 4G/5G Poco M8</name>
 <quantity_in_stock>44</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Xiaomi</param>
@@ -3034,27 +3034,6 @@
 <param name="Бренд">Различные</param>
 <param name="Материал">Металл</param>
 </offer>
-<offer id="ts000084041000031955" available="true">
-<url>https://kmt5.com.ua/rimova-metal-case-iphone-15-pro-max-silver</url>
-<price>311.0</price>
-<vendorprice>173.0</vendorprice>
-<vendorpricedoll>3.85</vendorpricedoll>
-<rrcdoll>6.91</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>86411438</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzkvNjUv0KYtMDAwMDg0MDQxXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTYvMTYv0KYtMDAwMDg0MDQxXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000084041</vendorCode>
-<code>791649</code>
-<name>Rimova Metal Case iPhone 15 Pro Max — Silver</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 15 Pro Max</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Металл</param>
-</offer>
 <offer id="ts000084042000031957" available="true">
 <url>https://kmt5.com.ua/rimova-metal-case-iphone-15-pro-black</url>
 <price>311.0</price>
@@ -3384,26 +3363,6 @@
 <code>771023</code>
 <name>Airpods 1 ; 2 Case Microfiber — Deep Blue (2)</name>
 <quantity_in_stock>18</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Airpods, Apple Airpods 2</param>
-<param name="Бренд">Различные</param>
-<param name="Аудіо товари">Чехол для Airpods</param>
-</offer>
-<offer id="ts000075715000024461" available="true">
-<url>https://kmt5.com.ua/airpods-1-2-case-microfiber-lavender-14</url>
-<price>76.0</price>
-<vendorprice>41.0</vendorprice>
-<vendorpricedoll>0.9</vendorpricedoll>
-<rrcdoll>1.68</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>28492360</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGEvMzYv0KYtMDAwMDc1NzE1XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjMvNTMv0KYtMDAwMDc1NzE1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000075715</vendorCode>
-<code>771030</code>
-<name>Airpods 1 ; 2 Case Microfiber — Lavender (14)</name>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Airpods, Apple Airpods 2</param>
 <param name="Бренд">Различные</param>
@@ -4677,35 +4636,6 @@
 <code>788650</code>
 <name>Armor Pro Case With MagSafe FGG-012 — iPhone 17 Pro Max — Gold</name>
 <quantity_in_stock>16</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro Max</param>
-<param name="Бренд">Wiwu</param>
-<param name="Материал">Полиуретан</param>
-</offer>
-<offer id="ts000082487000031598" available="true">
-<url>https://kmt5.com.ua/armor-pro-case-with-magsafe-fgg012-iphone-17-pro-max-orange</url>
-<price>434.0</price>
-<vendorprice>256.0</vendorprice>
-<vendorpricedoll>5.7</vendorpricedoll>
-<rrcdoll>9.66</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>28366547</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGMvODIv0KYtMDAwMDgyNDg3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDgvMGIv0KYtMDAwMDgyNDg3XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzIvMzgv0KYtMDAwMDgyNDg3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmEvZTEv0KYtMDAwMDgyNDg3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDgvMWMv0KYtMDAwMDgyNDg3XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzYvOTEv0KYtMDAwMDgyNDg3XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDUvODgv0KYtMDAwMDgyNDg3XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmEvODkv0KYtMDAwMDgyNDg3XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODAvYWEv0KYtMDAwMDgyNDg3XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTQvOGMv0KYtMDAwMDgyNDg3XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Wiwu</vendor>
-<vendorCode>Ц-000082487</vendorCode>
-<code>790845</code>
-<name>Armor Pro Case With MagSafe FGG-012 — iPhone 17 Pro Max — Orange</name>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max</param>
@@ -7830,27 +7760,6 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 6.1&quot;</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Пластик</param>
-</offer>
-<offer id="ts000077307000028475" available="true">
-<url>https://kmt5.com.ua/uag-adventure-magnetic-case-iphone-15-pro-max-black</url>
-<price>351.0</price>
-<vendorprice>198.0</vendorprice>
-<vendorpricedoll>4.4</vendorpricedoll>
-<rrcdoll>7.81</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>86411438</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTkvYjgv0KYtMDAwMDc3MzA3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjgvYzIv0KYtMDAwMDc3MzA3XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000077307</vendorCode>
-<code>782172</code>
-<name>UAG Adventure Magnetic Case — iPhone 15 Pro Max — Black</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 15 Pro Max</param>
 <param name="Бренд">Различные</param>
 <param name="Материал">Пластик</param>
 </offer>
@@ -58651,27 +58560,6 @@
 <param name="Бренд">Apple</param>
 <param name="Материал">Полиуретан</param>
 </offer>
-<offer id="ts000082274000030326" available="true">
-<url>https://kmt5.com.ua/original-silicone-case-full-size-iphone-17-pro-lavender-41</url>
-<price>155.0</price>
-<vendorprice>88.0</vendorprice>
-<vendorpricedoll>1.95</vendorpricedoll>
-<rrcdoll>3.44</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>28366547</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmUvNjcv0KYtMDAwMDgyMjc0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDEvMDIv0KYtMDAwMDgyMjc0XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000082274</vendorCode>
-<code>788300</code>
-<name>Original Silicone Case Full Size iPhone 17 Pro — Lavender (41)</name>
-<quantity_in_stock>3</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Полиуретан</param>
-</offer>
 <offer id="ts000082274000030319" available="true">
 <url>https://kmt5.com.ua/original-silicone-case-full-size-iphone-17-pro-lilac-5</url>
 <price>155.0</price>
@@ -68568,31 +68456,6 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16</param>
-<param name="Бренд">Polo</param>
-<param name="Материал">PU кожа</param>
-</offer>
-<offer id="ts000082180000030258" available="true">
-<url>https://kmt5.com.ua/polo-knight-leather-case-iphone-17-pro-black</url>
-<price>780.0</price>
-<vendorprice>441.0</vendorprice>
-<vendorpricedoll>9.8</vendorpricedoll>
-<rrcdoll>17.37</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>28366547</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjgvNDAv0KYtMDAwMDgyMTgwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzYvNjIv0KYtMDAwMDgyMTgwXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjcvNjAv0KYtMDAwMDgyMTgwXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmIvMzcv0KYtMDAwMDgyMTgwXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzUvMzgv0KYtMDAwMDgyMTgwXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDcvN2Uv0KYtMDAwMDgyMTgwXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Polo</vendor>
-<vendorCode>Ц-000082180</vendorCode>
-<code>788140</code>
-<name>Polo Knight Leather Case iPhone 17 Pro — Black</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro</param>
 <param name="Бренд">Polo</param>
 <param name="Материал">PU кожа</param>
 </offer>
@@ -83594,31 +83457,6 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Samsung</param>
 <param name="Модель девайса">Samsung A16 5G</param>
-<param name="Бренд">Dux Ducis</param>
-<param name="Материал">Пластик &amp; TPU</param>
-<param name="Цвет">Mix Color</param>
-</offer>
-<offer id="ts000082373000030368" available="true">
-<url>https://kmt5.com.ua/skin-pro-case-samsung-a26-5g-black</url>
-<price>350.0</price>
-<vendorprice>207.0</vendorprice>
-<vendorpricedoll>4.6</vendorpricedoll>
-<rrcdoll>7.79</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>88964695</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2UvM2Mv0KYtMDAwMDgyMzczXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzcvYjUv0KYtMDAwMDgyMzczXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzYvOGQv0KYtMDAwMDgyMzczXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWQvYTcv0KYtMDAwMDgyMzczXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWEvNWEv0KYtMDAwMDgyMzczXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Dux Ducis</vendor>
-<vendorCode>Ц-000082373</vendorCode>
-<code>788439</code>
-<name>Skin Pro Case — Samsung A26 5G — Black</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Samsung</param>
-<param name="Модель девайса">Samsung A26 5G</param>
 <param name="Бренд">Dux Ducis</param>
 <param name="Материал">Пластик &amp; TPU</param>
 <param name="Цвет">Mix Color</param>
@@ -123158,6 +122996,34 @@
 <param name="Зарядные устройства">СЗУ &amp; Кабель Lightning</param>
 <param name="Сила тока и Мощность">20W</param>
 </offer>
+<offer id="ts000077491000025663" available="true">
+<url>https://kmt5.com.ua/home-charger-20w-2-pd-qc30-hoco-n34-dazzling-transparent-black</url>
+<price>348.0</price>
+<vendorprice>189.0</vendorprice>
+<vendorpricedoll>4.2</vendorpricedoll>
+<rrcdoll>7.74</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>56676196</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWEvZTkv0KYtMDAwMDc3NDkxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTAvM2Uv0KYtMDAwMDc3NDkxXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmIvYTkv0KYtMDAwMDc3NDkxXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjgvM2Qv0KYtMDAwMDc3NDkxXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2MvM2Qv0KYtMDAwMDc3NDkxXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzgvMmIv0KYtMDAwMDc3NDkxXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTYvOWYv0KYtMDAwMDc3NDkxXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2YvMDQv0KYtMDAwMDc3NDkxXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTUvNzgv0KYtMDAwMDc3NDkxXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Hoco</vendor>
+<vendorCode>Ц-000077491</vendorCode>
+<code>774225</code>
+<name>Home Charger 20W PD QC3.0 Hoco N34 Dazzling __ — Transparent Black</name>
+<description><![CDATA[«1. Материал: огнестойкий материал ПК. 2. Выход: Тип-C: 20 Вт (PD/QC/FCP/AFC); USB-A: 18 Вт (QC/FCP/AFC); Тип-C + USB-A = 5 В/3 А 3, вилка европейского стандарта. 4. Размер: 74*45*29 мм, вес: 53 г.]]></description>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Колво USB портов">1 U | 1 C</param>
+<param name="Зарядные устройства">Home Chargers</param>
+<param name="Сила тока и Мощность">20W</param>
+</offer>
 <offer id="ts000075939000024725" available="true">
 <url>https://kmt5.com.ua/home-charger-20w-pd-qc30-usb-c-cable-1m-wiwu-wiu002-white</url>
 <price>436.0</price>
@@ -125758,27 +125624,6 @@
 <name>Power Bank 20000 mAh |  Hoco J163A  — Black</name>
 <description><![CDATA[Повербанк 20000mAh з вбудованими кабелями HOCO J163A - зручність та надійність HOCO J163A - це потужний і універсальний павербанк з ємністю 20000 mAh і вбудованим кабелями створений для зручної і безпечної зарядки ваших гаджетів в будь-яких умовах Велика ємність 20000 mAh: Забезпечує кілька повних зарядок смартфонів, планшетів, навушників та інших пристроїв без потреби в частому підзарядженні 4 вбудовані кабелі: Вже вбудовані кабелі з роз’ємами Type-C, Lightning, micro USB та USB — не потрібно носити окремі шнури Універсальні варіанти зарядки павербанка: Можна заряджати через Type-C порт або вбудований USB кабель, що додає зручності LED-дисплей: Відображає рівень заряду акумулятора — ви завжди знаєте, скільки енергії залишилось Багаторівнева система захисту: Захист від короткого замикання, перегріву, перенапруги та перевантаження гарантує безпечне використання для вас і ваших пристроїв Технічні характеристики: Бренд: HOCO Модель: J163A Ємність батареї: 20000 mAh Номінальна ємність: 12000 mAh Тип акумулятора: Літій-полімерний Матеріал корпусу: ABS + вогнестійкий ПК Вхідні порти: Type-C: 5V/2A USB кабель: 5V/2A Вихідні порти: USB 1: 5V/2A USB 2: 5V/2A Вбудовані кабелі (Type-C, Lightning, micro USB): 5V/2A кожен Загальний вихід: 5V/2A Розміри: 151 × 68,5 × 32,5 мм Вага: 430 г]]></description>
 <quantity_in_stock>113</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Виды аккумуляторов">Power Bank</param>
-<param name="Емкость аккумулятора">От 20000 mAh</param>
-</offer>
-<offer id="ts000083632000031615" available="true">
-<url>https://kmt5.com.ua/power-bank-20000-mah%C2%A0-225wpd20w%C2%A0-hoco-j154a-white</url>
-<price>772.0</price>
-<vendorprice>490.0</vendorprice>
-<vendorpricedoll>10.9</vendorpricedoll>
-<rrcdoll>17.19</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>50081230</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTQvZGQv0KYtMDAwMDgzNjMyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTQvMDEv0KYtMDAwMDgzNjMyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWMvNzgv0KYtMDAwMDgzNjMyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWQvY2Iv0KYtMDAwMDgzNjMyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000083632</vendorCode>
-<code>790913</code>
-<name>Power Bank 20000 mAh | 22.5W+PD20W — Hoco J154A — White</name>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Виды аккумуляторов">Power Bank</param>
 <param name="Емкость аккумулятора">От 20000 mAh</param>
@@ -148094,10 +147939,10 @@
 </offer>
 <offer id="ts000069277" available="true">
 <url>https://kmt5.com.ua/lampa-koltsevaya-led-46-cm-18-rl18-bez-shtativa-416-pcs-lights</url>
-<price>2271.0</price>
-<vendorprice>1437.0</vendorprice>
-<vendorpricedoll>32.0</vendorpricedoll>
-<rrcdoll>50.57</rrcdoll>
+<price>1789.0</price>
+<vendorprice>1119.0</vendorprice>
+<vendorpricedoll>24.9</vendorpricedoll>
+<rrcdoll>39.84</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>55912833</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDcvNTUv0KYtMDAwMDY5Mjc3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -153581,27 +153426,6 @@
 <param name="Бренд">Hoco</param>
 <param name="Аудіо товари">Bluetooth гарнітура TWS</param>
 </offer>
-<offer id="ts000082715000030654" available="true">
-<url>https://kmt5.com.ua/bluetooth-garntura-tws-hoco-eq34-white</url>
-<price>655.0</price>
-<vendorprice>333.0</vendorprice>
-<vendorpricedoll>7.4</vendorpricedoll>
-<rrcdoll>14.57</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54581499</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGEvYjcv0KYtMDAwMDgyNzE1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWEvMzUv0KYtMDAwMDgyNzE1XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzEvMzAv0KYtMDAwMDgyNzE1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTEvNTQv0KYtMDAwMDgyNzE1XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000082715</vendorCode>
-<code>789062</code>
-<name>Bluetooth гарнітура TWS Hoco EQ34 Plus — White</name>
-<description><![CDATA[1. Bluetooth 5.4; чіп: Jerry AC7003D4 2. Ємність акумулятора: зарядний футляр 300 мАг; гарнітура 40 мАг 3. Час використання: 7 годин (ANC 6 годин) 4. Матеріал: ABS; розмір: 61*51,5*28,5 мм; загальна вага: 44,8 г 5. З функцією APP, підтримується перемикач Hall Switch]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Аудіо товари">Bluetooth гарнітура TWS</param>
-</offer>
 <offer id="ts000080729000029383" available="true">
 <url>https://kmt5.com.ua/bluetooth-garntura-tws-hoco-ew111-pink</url>
 <price>858.0</price>
@@ -157410,27 +157234,6 @@
 <param name="Бренд">Различные</param>
 <param name="Аудіо товари">Навушники MP3</param>
 <param name="Интерфейс подключения">3.5mm</param>
-</offer>
-<offer id="ts000072767000022717" available="true">
-<url>https://kmt5.com.ua/bm27-amazing-sound-typec-earphones-with-mic-white</url>
-<price>137.0</price>
-<vendorprice>72.0</vendorprice>
-<vendorpricedoll>1.6</vendorpricedoll>
-<rrcdoll>3.03</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>16127759</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWMvMTcv0KYtMDAwMDcyNzY3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzUvM2Qv0KYtMDAwMDcyNzY3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTcvNDAv0KYtMDAwMDcyNzY3XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjEvOGIv0KYtMDAwMDcyNzY3XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Borofone</vendor>
-<vendorCode>Ц-000072767</vendorCode>
-<code>754645</code>
-<name>Навушники Type C з мікрофоном Borofone BM27 Amazing Sound — White</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Borofone</param>
-<param name="Аудіо товари">Навушники USB C</param>
-<param name="Интерфейс подключения">USB C</param>
 </offer>
 <offer id="ts000072766000022968" available="true">
 <url>https://kmt5.com.ua/naushniki-s-mikrofonom-borofone-bm60-typec-white</url>
@@ -179271,27 +179074,6 @@
 <code>737112</code>
 <name>Ремінець Sport Band Apple Watch 42 mm 44 mm 45 mm 49 mm — Spearmint (50)</name>
 <quantity_in_stock>12</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Watch Series 3 42 mm, Apple Watch Series 4 44 mm, Apple Watch Series 7 45 mm, Apple Watch Series 8 49 mm</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Силикон</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
-<offer id="ts000037062000025517" available="true">
-<url>https://kmt5.com.ua/remnets-sport-band-apple-watch-42-mm-44-mm-45-mm-49-mm-stone</url>
-<price>60.0</price>
-<vendorprice>31.0</vendorprice>
-<vendorpricedoll>0.67</vendorpricedoll>
-<rrcdoll>1.32</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>96847083</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWUvZGYv0KYtMDAwMDM3MDYyXzI2LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWMvZTMv0KYtMDAwMDM3MDYyXzU3LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000037062</vendorCode>
-<code>773924</code>
-<name>Ремінець Sport Band Apple Watch 42 mm 44 mm 45 mm 49 mm — Stone</name>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Watch Series 3 42 mm, Apple Watch Series 4 44 mm, Apple Watch Series 7 45 mm, Apple Watch Series 8 49 mm</param>
 <param name="Бренд">Различные</param>
@@ -202279,23 +202061,6 @@
 <name>Увлажнитель воздуха камин</name>
 <quantity_in_stock>51</quantity_in_stock>
 <param name="Бренд">Различные</param>
-</offer>
-<offer id="ts000083034" available="true">
-<url>https://kmt5.com.ua/nasadka-dlya-fena-7-in-1</url>
-<price>1769.0</price>
-<vendorprice>1123.0</vendorprice>
-<vendorpricedoll>25.0</vendorpricedoll>
-<rrcdoll>39.38</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>16918768</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzEvMzEv0KYtMDAwMDgzMDM0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTEvMDQv0KYtMDAwMDgzMDM0XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2MvYTMv0KYtMDAwMDgzMDM0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGYvMjkv0KYtMDAwMDgzMDM0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendorCode>Ц-000083034</vendorCode>
-<code>789774</code>
-<name>Фен Стайлер 7 in 1</name>
-<quantity_in_stock>1</quantity_in_stock>
 </offer>
 <offer id="ts000083031" available="true">
 <url>https://kmt5.com.ua/kraskopult-paint-zoom</url>
