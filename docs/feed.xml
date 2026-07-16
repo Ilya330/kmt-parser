@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-07-16 06:22">
+<yml_catalog date="2026-07-16 10:51">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -5329,26 +5329,6 @@
 <code>756077</code>
 <name>Сумка 14'' WiWU Vivi Laptop Handbag — Gray</name>
 <quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Сумка</param>
-<param name="Бренд">Wiwu</param>
-<param name="Материал">Ткань</param>
-<param name="Цвет">Multi Color</param>
-</offer>
-<offer id="ts000073621000023493" available="true">
-<url>https://kmt5.com.ua/sumka-14-wiwu-vivi-laptop-handbag-pink</url>
-<price>632.0</price>
-<vendorprice>382.0</vendorprice>
-<vendorpricedoll>8.5</vendorpricedoll>
-<rrcdoll>14.07</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>71284098</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTgvMWMv0KYtMDAwMDczNjIxXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGEvZWIv0KYtMDAwMDczNjIxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Wiwu</vendor>
-<vendorCode>Ц-000073621</vendorCode>
-<code>756078</code>
-<name>Сумка 14'' WiWU Vivi Laptop Handbag — Pink</name>
-<quantity_in_stock>4</quantity_in_stock>
 <param name="Форм фактор">Сумка</param>
 <param name="Бренд">Wiwu</param>
 <param name="Материал">Ткань</param>
@@ -22111,6 +22091,48 @@
 <param name="Бренд">Apple</param>
 <param name="Материал">Полиуретан</param>
 </offer>
+<offer id="ts000083263000031352" available="true">
+<url>https://kmt5.com.ua/black-world-rock-case-with-magsafe-iphone-17-pro-max-silver</url>
+<price>709.0</price>
+<vendorprice>400.0</vendorprice>
+<vendorpricedoll>8.9</vendorpricedoll>
+<rrcdoll>15.77</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>28366547</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGIvMGIv0KYtMDAwMDgzMjYzXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWEvNDQv0KYtMDAwMDgzMjYzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000083263</vendorCode>
+<code>790295</code>
+<name>Bling World Rock Case With MagSafe — iPhone 17 Pro Max — Silver</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 17 Pro Max</param>
+<param name="Бренд">Apple</param>
+<param name="Материал">Полиуретан</param>
+</offer>
+<offer id="ts000083263000031355" available="true">
+<url>https://kmt5.com.ua/black-world-rock-case-with-magsafe-iphone-17-pro-max-white</url>
+<price>709.0</price>
+<vendorprice>400.0</vendorprice>
+<vendorpricedoll>8.9</vendorpricedoll>
+<rrcdoll>15.77</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>28366547</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjEvNTkv0KYtMDAwMDgzMjYzXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWEvNDQv0KYtMDAwMDgzMjYzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000083263</vendorCode>
+<code>790298</code>
+<name>Bling World Rock Case With MagSafe — iPhone 17 Pro Max — White</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 17 Pro Max</param>
+<param name="Бренд">Apple</param>
+<param name="Материал">Полиуретан</param>
+</offer>
 <offer id="ts000083262000031343" available="true">
 <url>https://kmt5.com.ua/black-world-rock-case-with-magsafe-iphone-17-pro-black</url>
 <price>709.0</price>
@@ -30807,28 +30829,6 @@
 <param name="Модель девайса">Apple iPhone 16 Pro</param>
 <param name="Бренд">Apple</param>
 <param name="Материал">Полиуретан</param>
-</offer>
-<offer id="ts000082146000030213" available="true">
-<url>https://kmt5.com.ua/creative-tpu-case-iphone-15-pro-max-black</url>
-<price>263.0</price>
-<vendorprice>149.0</vendorprice>
-<vendorpricedoll>3.3</vendorpricedoll>
-<rrcdoll>5.85</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>86411438</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTUvZjkv0KYtMDAwMDgyMTQ2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDIvZDUv0KYtMDAwMDgyMTQ2XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082146</vendorCode>
-<code>788062</code>
-<name>Creative TPU Case iPhone 15 Pro Max — Black</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 15 Pro Max</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Полиуретан</param>
-<param name="Цвет">Transparent</param>
 </offer>
 <offer id="ts000082146000030214" available="true">
 <url>https://kmt5.com.ua/creative-tpu-case-iphone-15-pro-max-transparent</url>
@@ -41386,27 +41386,6 @@
 <param name="Бренд">Различные</param>
 <param name="Материал">Полиуретан</param>
 <param name="Цвет">С дизайном</param>
-</offer>
-<offer id="ts000070593000018993" available="true">
-<url>https://kmt5.com.ua/imagen-design-silcone-case-iphone-11-pro-max-black</url>
-<price>75.0</price>
-<vendorprice>45.0</vendorprice>
-<vendorpricedoll>1.0</vendorpricedoll>
-<rrcdoll>1.66</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>61932884</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmUvYjEv0KYtMDAwMDcwNTkzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWIvN2Yv0KYtMDAwMDcwNTkzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000070593</vendorCode>
-<code>748199</code>
-<name>iMaGen Case (TPU) iPhone 11 Pro Max — Black</name>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 11 Pro Max</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Силикон</param>
 </offer>
 <offer id="ts000070593000018996" available="true">
 <url>https://kmt5.com.ua/imagen-design-silcone-case-iphone-11-pro-max-lilac</url>
@@ -59023,26 +59002,6 @@
 <code>735915</code>
 <name>Original Silicone Case HC iPhone 11 Pro Max — Orange (13)</name>
 <quantity_in_stock>14</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 11 Pro Max</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Силикон</param>
-</offer>
-<offer id="ts000067345000016276" available="true">
-<url>https://kmt5.com.ua/original-silicone-case-hc-iphone-11-pro-max-papaya-56</url>
-<price>167.0</price>
-<vendorprice>86.0</vendorprice>
-<vendorpricedoll>1.9</vendorpricedoll>
-<rrcdoll>3.7</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>61932884</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2IvZDEv0KYtMDAwMDY3MzQ1XzUzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000067345</vendorCode>
-<code>737302</code>
-<name>Original Silicone Case HC iPhone 11 Pro Max — Papaya (56)</name>
-<quantity_in_stock>26</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 11 Pro Max</param>
@@ -85189,27 +85148,6 @@
 <param name="Бренд">Apple</param>
 <param name="Материал">Силикон</param>
 </offer>
-<offer id="ts000083279000031467" available="true">
-<url>https://kmt5.com.ua/smoky-case-with-magsafe-iphone-15-pro-max-pale-purple</url>
-<price>233.0</price>
-<vendorprice>134.0</vendorprice>
-<vendorpricedoll>2.98</vendorpricedoll>
-<rrcdoll>5.18</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>86411438</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmUvN2Yv0KYtMDAwMDgzMjc5XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDcvMTgv0KYtMDAwMDgzMjc5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000083279</vendorCode>
-<code>790425</code>
-<name>Smoky Case with MagSafe — iPhone 15 Pro Max — Pale Purple</name>
-<quantity_in_stock>16</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 15 Pro Max</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Силикон</param>
-</offer>
 <offer id="ts000083277000031456" available="true">
 <url>https://kmt5.com.ua/smoky-case-with-magsafe-iphone-15-pro-black</url>
 <price>233.0</price>
@@ -93195,6 +93133,27 @@
 <param name="Бренд">Apple</param>
 <param name="Материал">Пластик &amp; TPU</param>
 </offer>
+<offer id="ts000079353000027200" available="true">
+<url>https://kmt5.com.ua/swarovski-case-with-magsafe-iphone-15-pro-titanium-gray</url>
+<price>365.0</price>
+<vendorprice>221.0</vendorprice>
+<vendorpricedoll>4.9</vendorpricedoll>
+<rrcdoll>8.12</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>99363376</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTMvYWMv0KYtMDAwMDc5MzUzXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDEvOGMv0KYtMDAwMDc5MzUzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000079353</vendorCode>
+<code>779101</code>
+<name>Swarovski Case with MagSafe iPhone 15 Pro — Titanium Gray</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 15 Pro</param>
+<param name="Бренд">Apple</param>
+<param name="Материал">Пластик &amp; TPU</param>
+</offer>
 <offer id="ts000080044000028174" available="true">
 <url>https://kmt5.com.ua/swarovski-case-with-magsafe-iphone-16-black</url>
 <price>239.0</price>
@@ -94179,27 +94138,6 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 Pro Max 6.7&quot;</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Пластик &amp; TPU</param>
-</offer>
-<offer id="ts000081748000030047" available="true">
-<url>https://kmt5.com.ua/swarovski-stand-case-with-magsafe-iphone-1413-pink</url>
-<price>291.0</price>
-<vendorprice>176.0</vendorprice>
-<vendorpricedoll>3.9</vendorpricedoll>
-<rrcdoll>6.47</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>99363376</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjIvOGEv0KYtMDAwMDgxNzQ4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWYvNTEv0KYtMDAwMDgxNzQ4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000081748</vendorCode>
-<code>787510</code>
-<name>Swarovski Stand Case with MagSafe iPhone 14/13 — Pink</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 14 6.1&quot;, Apple iPhone 13 6.1&quot;</param>
 <param name="Бренд">Apple</param>
 <param name="Материал">Пластик &amp; TPU</param>
 </offer>
@@ -108278,25 +108216,6 @@
 <param name="Бренд">Wiwu</param>
 <param name="Материал">Ткань</param>
 </offer>
-<offer id="ts000082523000030547" available="true">
-<url>https://kmt5.com.ua/sumka-13-wiwu-skin-zero-sleeve-purple</url>
-<price>490.0</price>
-<vendorprice>288.0</vendorprice>
-<vendorpricedoll>6.4</vendorpricedoll>
-<rrcdoll>10.9</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>71284098</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGEvMjIv0KYtMDAwMDgyNTIzXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjQvNDMv0KYtMDAwMDgyNTIzXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Wiwu</vendor>
-<vendorCode>Ц-000082523</vendorCode>
-<code>788764</code>
-<name>Сумка 13'' — WiWU Skin Zero Sleeve  — Purple</name>
-<quantity_in_stock>4</quantity_in_stock>
-<param name="Форм фактор">Сумка</param>
-<param name="Бренд">Wiwu</param>
-<param name="Материал">Ткань</param>
-</offer>
 <offer id="ts000072902000023162" available="true">
 <url>https://kmt5.com.ua/sumka-skin-pro-portable-stand-sleeve-bag-133-blue</url>
 <price>1060.0</price>
@@ -109179,25 +109098,6 @@
 <param name="Бренд">Wiwu</param>
 <param name="Материал">Ткань</param>
 <param name="Цвет">Multi Color</param>
-</offer>
-<offer id="ts000082525000030553" available="true">
-<url>https://kmt5.com.ua/sumka-16-wiwu-skin-zero-sleeve-black</url>
-<price>574.0</price>
-<vendorprice>337.0</vendorprice>
-<vendorpricedoll>7.5</vendorpricedoll>
-<rrcdoll>12.78</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>71284098</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmQvYjkv0KYtMDAwMDgyNTI1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTIvMTkv0KYtMDAwMDgyNTI1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Wiwu</vendor>
-<vendorCode>Ц-000082525</vendorCode>
-<code>788772</code>
-<name>Сумка 16'' — WiWU Skin Zero Sleeve  — Black</name>
-<quantity_in_stock>5</quantity_in_stock>
-<param name="Форм фактор">Сумка</param>
-<param name="Бренд">Wiwu</param>
-<param name="Материал">Ткань</param>
 </offer>
 <offer id="ts000078900" available="true">
 <url>https://kmt5.com.ua/sumka-earldom-ets3</url>
@@ -193008,26 +192908,6 @@
 <param name="Бренд">Различные</param>
 <param name="Украшения для Телефонов">Шнурки</param>
 </offer>
-<offer id="ts000082630000031200" available="true">
-<url>https://kmt5.com.ua/shnurok-na-sheyu-color-cord-pink</url>
-<price>204.0</price>
-<vendorprice>108.0</vendorprice>
-<vendorpricedoll>2.4</vendorpricedoll>
-<rrcdoll>4.54</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>16846687</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGUvMGYv0KYtMDAwMDgyNjMwXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmQvMzYv0KYtMDAwMDgyNjMwXzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTIvMWEv0KYtMDAwMDgyNjMwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmIvZmQv0KYtMDAwMDgyNjMwXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082630</vendorCode>
-<code>790127</code>
-<name>Шнурок на шею «Color Cord» — Pink</name>
-<quantity_in_stock>3</quantity_in_stock>
-<param name="Бренд">Различные</param>
-<param name="Украшения для Телефонов">Шнурки</param>
-</offer>
 <offer id="ts000082633000031228" available="true">
 <url>https://kmt5.com.ua/shnurok-na-sheyu-fat-blue</url>
 <price>204.0</price>
@@ -193136,26 +193016,6 @@
 <param name="Бренд">Различные</param>
 <param name="Украшения для Телефонов">Шнурки</param>
 </offer>
-<offer id="ts000082629000031248" available="true">
-<url>https://kmt5.com.ua/shnurok-na-sheyu-knitting-black</url>
-<price>145.0</price>
-<vendorprice>77.0</vendorprice>
-<vendorpricedoll>1.7</vendorpricedoll>
-<rrcdoll>3.21</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>16846687</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmIvNDgv0KYtMDAwMDgyNjI5XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTQvZWYv0KYtMDAwMDgyNjI5XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTYvYTQv0KYtMDAwMDgyNjI5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjkvMmIv0KYtMDAwMDgyNjI5XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082629</vendorCode>
-<code>790175</code>
-<name>Шнурок на шею «Knitting» — Black</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Различные</param>
-<param name="Украшения для Телефонов">Шнурки</param>
-</offer>
 <offer id="ts000082629000031243" available="true">
 <url>https://kmt5.com.ua/shnurok-na-sheyu-knitting-brown</url>
 <price>145.0</price>
@@ -193233,26 +193093,6 @@
 <code>790164</code>
 <name>Шнурок на шею «Knitting» — Light Green</name>
 <quantity_in_stock>9</quantity_in_stock>
-<param name="Бренд">Различные</param>
-<param name="Украшения для Телефонов">Шнурки</param>
-</offer>
-<offer id="ts000082629000031238" available="true">
-<url>https://kmt5.com.ua/shnurok-na-sheyu-knitting-light-pink</url>
-<price>145.0</price>
-<vendorprice>77.0</vendorprice>
-<vendorpricedoll>1.7</vendorpricedoll>
-<rrcdoll>3.21</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>16846687</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjYvYWUv0KYtMDAwMDgyNjI5XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTQvZWYv0KYtMDAwMDgyNjI5XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTYvYTQv0KYtMDAwMDgyNjI5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjkvMmIv0KYtMDAwMDgyNjI5XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082629</vendorCode>
-<code>790165</code>
-<name>Шнурок на шею «Knitting» — Light Pink</name>
-<quantity_in_stock>2</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Украшения для Телефонов">Шнурки</param>
 </offer>
@@ -196709,31 +196549,6 @@
 <quantity_in_stock>2</quantity_in_stock>
 <param name="Бренд">Различные</param>
 </offer>
-<offer id="ts000083742000031669" available="true">
-<url>https://kmt5.com.ua/igrushka-smart-dog-xi-pink</url>
-<price>2661.0</price>
-<vendorprice>1325.0</vendorprice>
-<vendorpricedoll>29.5</vendorpricedoll>
-<rrcdoll>59.26</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>75087609</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjYvYmIv0KYtMDAwMDgzNzQyXzEyLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2YvZjEv0KYtMDAwMDgzNzQyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2IvMTgv0KYtMDAwMDgzNzQyXzE4LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWUvZDcv0KYtMDAwMDgzNzQyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjcvNTYv0KYtMDAwMDgzNzQyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTAvZDkv0KYtMDAwMDgzNzQyXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGEvNWUv0KYtMDAwMDgzNzQyXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjkvZTYv0KYtMDAwMDgzNzQyXzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWUvYTgv0KYtMDAwMDgzNzQyXzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWUvMWUv0KYtMDAwMDgzNzQyXzEzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000083742</vendorCode>
-<code>791072</code>
-<name>Игрушка Smart Dog XI  — Pink</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Различные</param>
-</offer>
 <offer id="ts000083741000031667" available="true">
 <url>https://kmt5.com.ua/igrushka-sunt-car-jc013pb-green</url>
 <price>2213.0</price>
@@ -197717,6 +197532,47 @@
 <name>Весы электронные     2kg</name>
 <quantity_in_stock>19</quantity_in_stock>
 <param name="Бренд">Различные</param>
+</offer>
+<offer id="ts000067345000016276" available="true">
+<url>https://kmt5.com.ua/original-silicone-case-hc-iphone-11-pro-max-papaya-56</url>
+<price>167.0</price>
+<vendorprice>86.0</vendorprice>
+<vendorpricedoll>1.9</vendorpricedoll>
+<rrcdoll>3.7</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>61932884</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2IvZDEv0KYtMDAwMDY3MzQ1XzUzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000067345</vendorCode>
+<code>737302</code>
+<name>Original Silicone Case HC iPhone 11 Pro Max — Papaya (56)</name>
+<quantity_in_stock>26</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 11 Pro Max</param>
+<param name="Бренд">Различные</param>
+<param name="Материал">Силикон</param>
+</offer>
+<offer id="ts000070593000018993" available="true">
+<url>https://kmt5.com.ua/imagen-design-silcone-case-iphone-11-pro-max-black</url>
+<price>75.0</price>
+<vendorprice>45.0</vendorprice>
+<vendorpricedoll>1.0</vendorpricedoll>
+<rrcdoll>1.66</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>61932884</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmUvYjEv0KYtMDAwMDcwNTkzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWIvN2Yv0KYtMDAwMDcwNTkzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000070593</vendorCode>
+<code>748199</code>
+<name>iMaGen Case (TPU) iPhone 11 Pro Max — Black</name>
+<quantity_in_stock>2</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 11 Pro Max</param>
+<param name="Бренд">Различные</param>
+<param name="Материал">Силикон</param>
 </offer>
 <offer id="ts000070663000019076" available="true">
 <url>https://kmt5.com.ua/igrushkaantistress-pop-it-round-raninbow</url>
@@ -202401,6 +202257,27 @@
 <description><![CDATA[Характеристики ✔ Матеріал корпусу: силікон + PP + ABS ✔ Потужність світла: 2 Вт ✔ Акумулятор: 1200 mAh, час зарядки — близько 3 годин ✔ Час автономної роботи: до 7 годин ✔ Режими роботи: 3 рівні яскравості, таймер автоматичного вимкнення на 30 хвилин ✔ Розміри «качечки»: 151 × 133 × 120 мм, вага 188 г]]></description>
 <quantity_in_stock>9</quantity_in_stock>
 <param name="Бренд">Hoco</param>
+</offer>
+<offer id="ts000083279000031467" available="true">
+<url>https://kmt5.com.ua/smoky-case-with-magsafe-iphone-15-pro-max-pale-purple</url>
+<price>233.0</price>
+<vendorprice>134.0</vendorprice>
+<vendorpricedoll>2.98</vendorpricedoll>
+<rrcdoll>5.18</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>86411438</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmUvN2Yv0KYtMDAwMDgzMjc5XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDcvMTgv0KYtMDAwMDgzMjc5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000083279</vendorCode>
+<code>790425</code>
+<name>Smoky Case with MagSafe — iPhone 15 Pro Max — Pale Purple</name>
+<quantity_in_stock>16</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 15 Pro Max</param>
+<param name="Бренд">Apple</param>
+<param name="Материал">Силикон</param>
 </offer>
 <offer id="ts000083522000031584" available="true">
 <url>https://kmt5.com.ua/fotoapparat-detskiy-s2-cat-pink</url>
