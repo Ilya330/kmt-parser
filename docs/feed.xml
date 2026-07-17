@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-07-17 10:31">
+<yml_catalog date="2026-07-17 16:09">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -7427,33 +7427,6 @@
 <code>790498</code>
 <name>Smoky Case with MagSafe — iPhone 17 Pro Max — Black</name>
 <quantity_in_stock>33</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro Max</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Силикон</param>
-</offer>
-<offer id="ts000083287000031529" available="true">
-<url>https://kmt5.com.ua/smoky-case-with-magsafe-iphone-17-pro-max-cherry-red</url>
-<price>233.0</price>
-<vendorprice>134.0</vendorprice>
-<vendorpricedoll>2.98</vendorpricedoll>
-<rrcdoll>5.18</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>28366547</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzIvOTQv0KYtMDAwMDgzMjg3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWQvYTEv0KYtMDAwMDgzMjg3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDAvODMv0KYtMDAwMDgzMjg3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGIvOTMv0KYtMDAwMDgzMjg3XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTIvMjQv0KYtMDAwMDgzMjg3XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmUvNDgv0KYtMDAwMDgzMjg3XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmMvYTIv0KYtMDAwMDgzMjg3XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmQvM2Mv0KYtMDAwMDgzMjg3XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000083287</vendorCode>
-<code>790495</code>
-<name>Smoky Case with MagSafe — iPhone 17 Pro Max — Cherry Red</name>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max</param>
@@ -65117,6 +65090,30 @@
 <param name="Бренд">Apple</param>
 <param name="Материал">Полиуретан</param>
 </offer>
+<offer id="ts000082512000030537" available="true">
+<url>https://kmt5.com.ua/original-techwoven-case-iphone-17-pro-blue</url>
+<price>784.0</price>
+<vendorprice>445.0</vendorprice>
+<vendorpricedoll>9.9</vendorpricedoll>
+<rrcdoll>17.46</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>28366547</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmUvNzkv0KYtMDAwMDgyNTEyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDIvN2Iv0KYtMDAwMDgyNTEyXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTkvYTEv0KYtMDAwMDgyNTEyXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjQvZTIv0KYtMDAwMDgyNTEyXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGUvZWYv0KYtMDAwMDgyNTEyXzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000082512</vendorCode>
+<code>788743</code>
+<name>Original TechWoven Case iPhone 17 Pro — Blue</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 17 Pro</param>
+<param name="Бренд">Apple</param>
+<param name="Материал">Полиуретан</param>
+</offer>
 <offer id="ts000082512000030538" available="true">
 <url>https://kmt5.com.ua/original-techwoven-case-iphone-17-pro-green</url>
 <price>784.0</price>
@@ -65159,6 +65156,30 @@
 <code>788745</code>
 <name>Original TechWoven Case iPhone 17 Pro — Purple</name>
 <quantity_in_stock>4</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 17 Pro</param>
+<param name="Бренд">Apple</param>
+<param name="Материал">Полиуретан</param>
+</offer>
+<offer id="ts000082512000030536" available="true">
+<url>https://kmt5.com.ua/original-techwoven-case-iphone-17-pro-sienna</url>
+<price>784.0</price>
+<vendorprice>445.0</vendorprice>
+<vendorpricedoll>9.9</vendorpricedoll>
+<rrcdoll>17.46</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>28366547</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzkvZmQv0KYtMDAwMDgyNTEyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDIvN2Iv0KYtMDAwMDgyNTEyXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTkvYTEv0KYtMDAwMDgyNTEyXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjQvZTIv0KYtMDAwMDgyNTEyXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGUvZWYv0KYtMDAwMDgyNTEyXzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000082512</vendorCode>
+<code>788742</code>
+<name>Original TechWoven Case iPhone 17 Pro — Sienna</name>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro</param>
@@ -80020,27 +80041,6 @@
 <code>787092</code>
 <name>Silicone Case HC with MagSafe — iPhone 16 Pro — Black (18)</name>
 <quantity_in_stock>22</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 16 Pro</param>
-<param name="Бренд">Apple HQ</param>
-<param name="Материал">Силикон</param>
-</offer>
-<offer id="ts000081437000029929" available="true">
-<url>https://kmt5.com.ua/original-silicone-case-hc-with-magsafe-iphone-16-pro-charcoal-gray-10</url>
-<price>189.0</price>
-<vendorprice>113.0</vendorprice>
-<vendorpricedoll>2.5</vendorpricedoll>
-<rrcdoll>4.19</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>89640525</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGUvZDMv0KYtMDAwMDgxNDM3XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODQvYzcv0KYtMDAwMDgxNDM3XzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Apple HQ</vendor>
-<vendorCode>Ц-000081437</vendorCode>
-<code>787093</code>
-<name>Silicone Case HC with MagSafe — iPhone 16 Pro — Charcoal Gray (10)</name>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16 Pro</param>
@@ -96236,27 +96236,6 @@
 <code>782156</code>
 <name>UAG Adventure Magnetic Case — iPhone 13 Pro Max 6.7&quot;  — Black</name>
 <quantity_in_stock>9</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 13 Pro Max 6.7&quot;</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Пластик</param>
-</offer>
-<offer id="ts000077300000028458" available="true">
-<url>https://kmt5.com.ua/uag-adventure-magnetic-case-iphone-13-pro-max-67-gray</url>
-<price>351.0</price>
-<vendorprice>198.0</vendorprice>
-<vendorpricedoll>4.4</vendorpricedoll>
-<rrcdoll>7.81</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>3890985</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzYvM2Yv0KYtMDAwMDc3MzAwXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODgvNjAv0KYtMDAwMDc3MzAwXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000077300</vendorCode>
-<code>782155</code>
-<name>UAG Adventure Magnetic Case — iPhone 13 Pro Max 6.7&quot;  — Gray</name>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 13 Pro Max 6.7&quot;</param>
@@ -151492,30 +151471,6 @@
 <param name="Бренд">Wiwu</param>
 <param name="Аудіо товари">Портативні колонки</param>
 </offer>
-<offer id="ts000077406000025566" available="true">
-<url>https://kmt5.com.ua/35mm-earphones-with-mic-hoco-m106-silver</url>
-<price>91.0</price>
-<vendorprice>50.0</vendorprice>
-<vendorpricedoll>1.1</vendorpricedoll>
-<rrcdoll>2.02</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>72062147</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTUvODQv0KYtMDAwMDc3NDA2XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGQvYmUv0KYtMDAwMDc3NDA2XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWIvN2Yv0KYtMDAwMDc3NDA2XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzAvNDQv0KYtMDAwMDc3NDA2XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjkvMTkv0KYtMDAwMDc3NDA2XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjkvZGEv0KYtMDAwMDc3NDA2XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmIvZTEv0KYtMDAwMDc3NDA2XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000077406</vendorCode>
-<code>774088</code>
-<name>3.5 mm Earphones With Mic —Hoco M106 — Silver</name>
-<quantity_in_stock>4</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Аудіо товари">Навушники з мікрофоном 3.5mm</param>
-<param name="Интерфейс подключения">3.5mm</param>
-</offer>
 <offer id="ts000077407000025567" available="true">
 <url>https://kmt5.com.ua/35mm-earphones-with-mic-hoco-m3-black</url>
 <price>174.0</price>
@@ -192686,25 +192641,6 @@
 <code>790147</code>
 <name>Шнурок на шею «Node» — Blue &amp; Orange</name>
 <quantity_in_stock>6</quantity_in_stock>
-<param name="Бренд">Различные</param>
-<param name="Украшения для Телефонов">Шнурки</param>
-</offer>
-<offer id="ts000082628000031218" available="true">
-<url>https://kmt5.com.ua/shnurok-na-sheyu-node-blue-pink</url>
-<price>145.0</price>
-<vendorprice>77.0</vendorprice>
-<vendorpricedoll>1.7</vendorpricedoll>
-<rrcdoll>3.21</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>16846687</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWIvODEv0KYtMDAwMDgyNjI4XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWUvODAv0KYtMDAwMDgyNjI4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDUvMGEv0KYtMDAwMDgyNjI4XzEzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082628</vendorCode>
-<code>790145</code>
-<name>Шнурок на шею «Node» — Blue &amp; Pink</name>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Украшения для Телефонов">Шнурки</param>
 </offer>
