@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-07-17 06:23">
+<yml_catalog date="2026-07-17 10:31">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -5263,26 +5263,6 @@
 <vendorCode>Ц-000073621</vendorCode>
 <code>756077</code>
 <name>Сумка 14'' WiWU Vivi Laptop Handbag — Gray</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Сумка</param>
-<param name="Бренд">Wiwu</param>
-<param name="Материал">Ткань</param>
-<param name="Цвет">Multi Color</param>
-</offer>
-<offer id="ts000073621000023493" available="true">
-<url>https://kmt5.com.ua/sumka-14-wiwu-vivi-laptop-handbag-pink</url>
-<price>632.0</price>
-<vendorprice>382.0</vendorprice>
-<vendorpricedoll>8.5</vendorpricedoll>
-<rrcdoll>14.07</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>71284098</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTgvMWMv0KYtMDAwMDczNjIxXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGEvZWIv0KYtMDAwMDczNjIxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Wiwu</vendor>
-<vendorCode>Ц-000073621</vendorCode>
-<code>756078</code>
-<name>Сумка 14'' WiWU Vivi Laptop Handbag — Pink</name>
 <quantity_in_stock>1</quantity_in_stock>
 <param name="Форм фактор">Сумка</param>
 <param name="Бренд">Wiwu</param>
@@ -159339,29 +159319,6 @@
 <param name="Бренд">Hoco</param>
 <param name="Компьютерные аксессуары">Компьютерные мыши</param>
 </offer>
-<offer id="ts000078660000026928" available="true">
-<url>https://kmt5.com.ua/bezdrotova-misha-hoco-gm25-royal-dualmode-romantic-purple</url>
-<price>410.0</price>
-<vendorprice>221.0</vendorprice>
-<vendorpricedoll>4.9</vendorpricedoll>
-<rrcdoll>9.12</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>84259818</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjAvNzMv0KYtMDAwMDc4NjYwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDMvYzQv0KYtMDAwMDc4NjYwXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODYvMmUv0KYtMDAwMDc4NjYwXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmYvNWUv0KYtMDAwMDc4NjYwXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzcvNjAv0KYtMDAwMDc4NjYwXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWQvMmQv0KYtMDAwMDc4NjYwXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000078660</vendorCode>
-<code>778205</code>
-<name>Wireless Mouse — Hoco GM25 black — romantic purple</name>
-<description><![CDATA[Материал: ABS Размеры: 113х64х37 мм; Вес: 65 г Схема: Хань Тянься; Чип: MX8650 Режим связи: 2,4 ГГц / Bluetooth (3.0+5.2) Значение DPI: 800-1200-1600 (значение CPI: 800-1200-1600) Срок службы: 3 миллиона раз Кнопки: 4 кнопки]]></description>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Компьютерные аксессуары">Компьютерные мыши</param>
-</offer>
 <offer id="ts000078660000026927" available="true">
 <url>https://kmt5.com.ua/bezdrotova-misha-hoco-gm25-royal-dualmode-space-white</url>
 <price>410.0</price>
@@ -181948,31 +181905,6 @@
 <name>Car Holder Hoco CA201 smart electric — black</name>
 <description><![CDATA[«1. Материал: АБС-пластик + алюминиевый сплав + линза. 2. Поверхностный процесс: рисунок солнца 3. Размер: 73*49*122 мм; Вес: 85 г 4. Емкость аккумулятора: 120 мАч; время использования: около 30 дней; заряжается около 1 часа 5. Для мобильного телефона 4,5-7,0 дюймов (диапазон зажима: 65-85 мм) 6. Применимая сцена: воздуховыпускное отверстие автомобиля»]]></description>
 <quantity_in_stock>4</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Автоаксессуары">Автотримачі</param>
-</offer>
-<offer id="ts000077435000025583" available="true">
-<url>https://kmt5.com.ua/car-holder-hoco-ca55-astute-series-windshield-blackgray</url>
-<price>317.0</price>
-<vendorprice>194.0</vendorprice>
-<vendorpricedoll>4.3</vendorpricedoll>
-<rrcdoll>7.06</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>83056549</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2QvNjgv0KYtMDAwMDc3NDM1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWEvOTkv0KYtMDAwMDc3NDM1XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWQvMDkv0KYtMDAwMDc3NDM1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjAvY2Yv0KYtMDAwMDc3NDM1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDkvMDQv0KYtMDAwMDc3NDM1XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjUvYmIv0KYtMDAwMDc3NDM1XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2IvNDkv0KYtMDAwMDc3NDM1XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzAvNGEv0KYtMDAwMDc3NDM1XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000077435</vendorCode>
-<code>774105</code>
-<name>Car Holder Hoco CA55 Astute series windshield — black＆gray</name>
-<description><![CDATA[Компания Hoco предлагает новую модель Hoco CA55 Intelligent Dashboard. Этот универсальный автомобильный магнитный держатель отлично подойдёт для Вашего смартфона и не габаритного планшета. Крепится аксессуар на торпеду автомобиля. Два магнитные пластины, идущие в комплекте, можно приклеить на смартфон, планшет или GPS-навигатор. Благодаря специальным магнитам, Ваше устройство будет надежно зафиксировано, а особый состав сплава не повлияет на работу и сигнал смартфона. Миниатюрный холдер станет надежным помощником для любого автомобилиста. Материал: PC / ABS / силикон Поверхность: рисунок под карбон Размер: 220*78*70мм Вес: 98г Совместимость: для всех мобильных телефонов (с магнитным стикером) Место крепления: ветровое стекло Универсальное вращение]]></description>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Автоаксессуары">Автотримачі</param>
 </offer>
