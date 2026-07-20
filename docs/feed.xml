@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-07-20 06:38">
+<yml_catalog date="2026-07-20 11:34">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -11,6 +11,7 @@
 <category id="72551390" parentId="53463516">За Брендами</category>
 <category id="11565584" parentId="72551390">Baseus</category>
 <category id="50081230" parentId="72551390">Hoco</category>
+<category id="55476867" parentId="72551390">Remax</category>
 <category id="47292881" parentId="72551390">Veron</category>
 <category id="77289882" parentId="72551390">Wiwu</category>
 <category id="55803025" parentId="72551390">Yoobao</category>
@@ -121854,6 +121855,32 @@
 <param name="Сила тока и Мощность">2.4A</param>
 <param name="Цвет">Silver</param>
 </offer>
+<offer id="ts000068642000012153" available="true">
+<url>https://kmt5.com.ua/szu-i-kabel-type-c-hoco-c73a-eu-2-usb-white</url>
+<price>184.0</price>
+<vendorprice>95.0</vendorprice>
+<vendorpricedoll>2.1</vendorpricedoll>
+<rrcdoll>4.08</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>1099827</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTEvMzgv0KYtMDAwMDY4NjQyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTkvYTkv0KYtMDAwMDY4NjQyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWUvNmMv0KYtMDAwMDY4NjQyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmYvYzEv0KYtMDAwMDY4NjQyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODMvZWIv0KYtMDAwMDY4NjQyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzgvZmIv0KYtMDAwMDY4NjQyXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjAvZjcv0KYtMDAwMDY4NjQyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Hoco</vendor>
+<vendorCode>Ц-000068642</vendorCode>
+<code>734108</code>
+<name>Home Charger 2.4A 2U USB C Cable (1m) Hoco C73A — White</name>
+<description><![CDATA[Hoco C73A - блок питания с 2 USB входами Максимальная сила выходного тока: 2,4А Защита от перенапряжения, перегрева и перезаряда Сила выходного тока (Output): AC 100-240V 50/60Hz, 0,4A Материал: поликарбонат Количество портов: 2 Вид: сетевой Тип разъема: USB Выходной ток: 2,4A Длина шнура: 1м Вид: Зарядное устройство Тип зарядного устройства: Сетевое Тип разъема: USB Сила тока: 2.4A]]></description>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Колво USB портов">2 U</param>
+<param name="Зарядные устройства">СЗУ &amp; Кабель Type C</param>
+<param name="Сила тока и Мощность">2.4A</param>
+</offer>
 <offer id="ts000071407000020454" available="true">
 <url>https://kmt5.com.ua/n8-briar-dual-port-charger-settypeceu-white</url>
 <price>264.0</price>
@@ -121972,6 +121999,30 @@
 <param name="Зарядные устройства">СЗУ &amp; Кабель Lightning</param>
 <param name="Сила тока и Мощность">20W</param>
 </offer>
+<offer id="ts000073749000023683" available="true">
+<url>https://kmt5.com.ua/szu-borofone-ba71a-power-pd20w-eu-black</url>
+<price>151.0</price>
+<vendorprice>82.0</vendorprice>
+<vendorpricedoll>1.82</vendorpricedoll>
+<rrcdoll>3.36</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>56676196</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWYvNGEv0KYtMDAwMDczNzQ5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDAvNWIv0KYtMDAwMDczNzQ5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzAvN2Yv0KYtMDAwMDczNzQ5XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTEvNTcv0KYtMDAwMDczNzQ5XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODkvMzAv0KYtMDAwMDczNzQ5XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Borofone</vendor>
+<vendorCode>Ц-000073749</vendorCode>
+<code>756392</code>
+<name>Home Charger 20W PD Borofone BA71A — Black</name>
+<description><![CDATA[6 931 474 727 343]]></description>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Borofone</param>
+<param name="Колво USB портов">1 Type - C</param>
+<param name="Зарядные устройства">Home Chargers</param>
+<param name="Сила тока и Мощность">20W</param>
+</offer>
 <offer id="ts000073994000023901" available="true">
 <url>https://kmt5.com.ua/szu-i-kabel-lightning-hoco-ba71a-power-pd20w-type-c-to-lightning-eu-white</url>
 <price>248.0</price>
@@ -121994,6 +122045,27 @@
 <param name="Бренд">Borofone</param>
 <param name="Колво USB портов">1 Type - C</param>
 <param name="Зарядные устройства">СЗУ &amp; Кабель Lightning</param>
+<param name="Сила тока и Мощность">20W</param>
+</offer>
+<offer id="ts000069747000016980" available="true">
+<url>https://kmt5.com.ua/hoco-c80a-rapido-pdqc30-charger-settypec-to-typeceu-white</url>
+<price>294.0</price>
+<vendorprice>176.0</vendorprice>
+<vendorpricedoll>3.9</vendorpricedoll>
+<rrcdoll>6.53</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>1099827</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzEvYzUv0KYtMDAwMDY5NzQ3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmEvYzAv0KYtMDAwMDY5NzQ3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Hoco</vendor>
+<vendorCode>Ц-000069747</vendorCode>
+<code>741427</code>
+<name>Home Charger 20W PD QC3.0 C to C Cable (1m) Hoco C80A — White</name>
+<description><![CDATA[Сетевое зарядное устройство Hoco C80A PD + Quick Charge 3.0 Type-C to Type-C 1USB / 3.1A – White – предназначен для быстрого и безопасного подзарядки ваших гаджетов. Имеет разъем Type-C to Type-C. Если ваш девайс поддерживает функцию быстрой зарядки QC 3.0 и PD, то он будет заряжаться в 2 раза быстрее. Выдает ток до 3.1A, мощность составляет до 18W. В комплекте, кроме самого блока питания, входит также кабель Type-C to Type-C. Это очень удобно, поскольку не каждый провод дома может иметь необходимую для блока питания пропускную способность.]]></description>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Колво USB портов">1 U | 1 C</param>
+<param name="Зарядные устройства">СЗУ &amp; Кабель Type C</param>
 <param name="Сила тока и Мощность">20W</param>
 </offer>
 <offer id="ts000073657000023531" available="true">
@@ -124086,6 +124158,29 @@
 <param name="Виды аккумуляторов">Power Bank</param>
 <param name="Емкость аккумулятора">От 10000 mAh</param>
 </offer>
+<offer id="ts000081681000030002" available="true">
+<url>https://kmt5.com.ua/power-bank-10000-mah%C2%A0-hoco-q43-metal-gray</url>
+<price>1190.0</price>
+<vendorprice>755.0</vendorprice>
+<vendorpricedoll>16.8</vendorpricedoll>
+<rrcdoll>26.49</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>50081230</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGUvYTgv0KYtMDAwMDgxNjgxXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmUvYmIv0KYtMDAwMDgxNjgxXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDkvN2Iv0KYtMDAwMDgxNjgxXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGMvODQv0KYtMDAwMDgxNjgxXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2YvNmUv0KYtMDAwMDgxNjgxXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Hoco</vendor>
+<vendorCode>Ц-000081681</vendorCode>
+<code>787399</code>
+<name>Power Bank 10000 mAh Magsafe — Hoco Q43 — Metal Gray</name>
+<description><![CDATA[1. Ємність: 10000 мАг 38,5 Вт·год Номінальна ємність: 5500 мАг 2. Вхід: кабель USB-C/USB-C: 18 Вт 3. Вихід: кабель USB-C/USB-C: 20 Вт (PD/QC/FCC/AFC); Вихід бездротової зарядки: мобільний телефон: 5 Вт/7,5 Вт/10 Вт/15 Вт (MagSafe 7,5 Вт); iWatch: 2,5 Вт (сумісний з Apple Watch 1-10, SE/SE2, Ultra/Ultra2); Загальна вихідна потужність: 5 В/2 А 4. Дисплей: світлодіодний цифровий дисплей рівня заряду батареї 5. Матеріал: вогнестійкий корпус з ПК + ABS + літій-полімерний акумулятор 6. Розмір: 112 * 73 * 18,5 мм; Вага: 220 г]]></description>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Виды аккумуляторов">Power Bank</param>
+<param name="Емкость аккумулятора">От 10000 mAh</param>
+</offer>
 <offer id="ts000081681000030018" available="true">
 <url>https://kmt5.com.ua/power-bank-10000-mah%C2%A0-hoco-q43-silver</url>
 <price>1190.0</price>
@@ -124680,24 +124775,45 @@
 <param name="Виды аккумуляторов">Power Bank</param>
 <param name="Емкость аккумулятора">От 20000 mAh</param>
 </offer>
-<offer id="ts000080868000029507" available="true">
-<url>https://kmt5.com.ua/power-bank-20000-mah%C2%A0-225wpd20w%C2%A0-hoco-q39-metal-grey</url>
+<offer id="ts000083632000031615" available="true">
+<url>https://kmt5.com.ua/power-bank-20000-mah%C2%A0-225wpd20w%C2%A0-hoco-j154a-white</url>
+<price>772.0</price>
+<vendorprice>490.0</vendorprice>
+<vendorpricedoll>10.9</vendorpricedoll>
+<rrcdoll>17.19</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>50081230</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTQvZGQv0KYtMDAwMDgzNjMyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTQvMDEv0KYtMDAwMDgzNjMyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWMvNzgv0KYtMDAwMDgzNjMyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWQvY2Iv0KYtMDAwMDgzNjMyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Hoco</vendor>
+<vendorCode>Ц-000083632</vendorCode>
+<code>790913</code>
+<name>Power Bank 20000 mAh | 22.5W+PD20W — Hoco J154A — White</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Виды аккумуляторов">Power Bank</param>
+<param name="Емкость аккумулятора">От 20000 mAh</param>
+</offer>
+<offer id="ts000080868000029508" available="true">
+<url>https://kmt5.com.ua/power-bank-20000-mah%C2%A0-225wpd20w%C2%A0-hoco-q39-silver</url>
 <price>1367.0</price>
 <vendorprice>876.0</vendorprice>
 <vendorpricedoll>19.5</vendorpricedoll>
 <rrcdoll>30.44</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>50081230</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDMvYjAv0KYtMDAwMDgwODY4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTAvNTUv0KYtMDAwMDgwODY4XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjcvZDgv0KYtMDAwMDgwODY4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzgvZTYv0KYtMDAwMDgwODY4XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTQvZjIv0KYtMDAwMDgwODY4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWYvYWEv0KYtMDAwMDgwODY4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Hoco</vendor>
 <vendorCode>Ц-000080868</vendorCode>
-<code>786106</code>
-<name>Power Bank 20000 mAh | 22.5W+PD20W — Hoco Q39 — Metal Grey</name>
+<code>786107</code>
+<name>Power Bank 20000 mAh | 22.5W+PD20W — Hoco Q39 — Silver</name>
 <description><![CDATA[Портативний зарядний пристрій ємністю 20000 мА·г – надійне рішення для щоденного користування Ємність батареї: 20000 мА·г Призначення: – Для телефонів – Для планшетів – Для смарт-годинників і браслетів – Для роутерів – Для іншої електроніки Функції зарядки: – Підтримка Power Delivery – Швидка зарядка QC 3.0 Вихідні інтерфейси: – Lightning – USB Type-A – USB Type-C Вхідний інтерфейс: – USB Type-C Особливості: – Швидка зарядка батареї – Вбудований кабель – Можливість одночасної зарядки до 4 пристроїв – Дисплей для відображення рівня заряду Тип акумулятора: Літій-полімерний (Li-Pol) Захист: – Від короткого замикання – Від перегріву – Від перезарядки Вихідна напруга: 5 В Сила струму: до 3 А Колір: Сірий Цей повербанк поєднує потужність, універсальність і безпеку — ідеально підходить для подорожей, роботи та повсякденного використання.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Виды аккумуляторов">Power Bank</param>
 <param name="Емкость аккумулятора">От 20000 mAh</param>
@@ -124735,6 +124851,45 @@
 <code>790921</code>
 <name>Power Bank 20000 mAh | PD20W — Hoco J102A  — White</name>
 <quantity_in_stock>116</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Виды аккумуляторов">Power Bank</param>
+<param name="Емкость аккумулятора">От 20000 mAh</param>
+</offer>
+<offer id="ts000083636000031621" available="true">
+<url>https://kmt5.com.ua/power-bank-20000-mah%C2%A0-225wpd20w%C2%A0-hoco-j72a-black</url>
+<price>881.0</price>
+<vendorprice>562.0</vendorprice>
+<vendorpricedoll>12.5</vendorpricedoll>
+<rrcdoll>19.6</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>50081230</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzkvZDEv0KYtMDAwMDgzNjM2XzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<vendor>Hoco</vendor>
+<vendorCode>Ц-000083636</vendorCode>
+<code>790923</code>
+<name>Power Bank 20000 mAh | — Hoco J72A  — Black</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Виды аккумуляторов">Power Bank</param>
+<param name="Емкость аккумулятора">От 20000 mAh</param>
+</offer>
+<offer id="ts000077780000026124" available="true">
+<url>https://kmt5.com.ua/power-bank-20000-mah%C2%A0-hoco-j100a-black</url>
+<price>652.0</price>
+<vendorprice>414.0</vendorprice>
+<vendorpricedoll>9.2</vendorpricedoll>
+<rrcdoll>14.51</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>50081230</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTgvMTIv0KYtMDAwMDc3NzgwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjcvYTAv0KYtMDAwMDc3NzgwXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDMvZWMv0KYtMDAwMDc3NzgwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTQvYmMv0KYtMDAwMDc3NzgwXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Hoco</vendor>
+<vendorCode>Ц-000077780</vendorCode>
+<code>776453</code>
+<name>Power Bank 20000 mAh — Hoco J100A — Black</name>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Виды аккумуляторов">Power Bank</param>
 <param name="Емкость аккумулятора">От 20000 mAh</param>
@@ -124806,6 +124961,29 @@
 <param name="Виды аккумуляторов">Power Bank</param>
 <param name="Емкость аккумулятора">От 20000 mAh</param>
 </offer>
+<offer id="ts000082810000031617" available="true">
+<url>https://kmt5.com.ua/power-bank-30000-mah-borofone-bj80b-225wpd20w-white</url>
+<price>1157.0</price>
+<vendorprice>741.0</vendorprice>
+<vendorpricedoll>16.5</vendorpricedoll>
+<rrcdoll>25.75</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>6144175</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTkvNzcv0KYtMDAwMDgyODEwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTQvZTkv0KYtMDAwMDgyODEwXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTcvOTgv0KYtMDAwMDgyODEwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjgvODYv0KYtMDAwMDgyODEwXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjcvNjMv0KYtMDAwMDgyODEwXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Borofone</vendor>
+<vendorCode>Ц-000082810</vendorCode>
+<code>790915</code>
+<name>Power Bank 30000 mAh — Borofone BJ80B 22.5W+PD20W — White</name>
+<description><![CDATA[1. Ємність: 30000 мАг 111 Вт·год Ємність: 16500 мАг 2. Вхід: USB-C/Micro USB: 18 Вт 3. Вихід: USB-A1/A2: 22,5 Вт (QC/FCP/SCP/AFC) USB-C: 20 Вт (PD/QC/FCP/AFC) Загальна вихідна потужність: 5 В/2 А 4. Індикація: Світлодіодний індикатор рівня заряду акумулятора. 5. Матеріал: ABS+PC+полімерна електроніка 6. Розмір: 146*69*40 мм Вага: 605 грамів]]></description>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Borofone</param>
+<param name="Виды аккумуляторов">Power Bank</param>
+<param name="Емкость аккумулятора">От 30000 mAh</param>
+</offer>
 <offer id="ts000082806" available="true">
 <url>https://kmt5.com.ua/power-bank-5000-mah-borofone-bj82</url>
 <price>571.0</price>
@@ -124869,6 +125047,28 @@
 <param name="Бренд">Различные</param>
 <param name="Виды аккумуляторов">Power Bank</param>
 <param name="Емкость аккумулятора">От 5000 mAh</param>
+</offer>
+<offer id="ts000079898000027986" available="true">
+<url>https://kmt5.com.ua/power-bank-60000-mah-remax-rpp100-100w225w-with-light-blue</url>
+<price>3785.0</price>
+<vendorprice>2425.0</vendorprice>
+<vendorpricedoll>54.0</vendorpricedoll>
+<rrcdoll>84.28</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>55476867</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmYvNmUv0KYtMDAwMDc5ODk4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDYvMDUv0KYtMDAwMDc5ODk4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGIvZDUv0KYtMDAwMDc5ODk4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDcvZDQv0KYtMDAwMDc5ODk4XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Remax</vendor>
+<vendorCode>Ц-000079898</vendorCode>
+<code>781301</code>
+<name>Power Bank 60000 mAh 100W+22.5W— Remax RPP-100  with light Fast charging  — Blue</name>
+<description><![CDATA[Преимущества данного Power Bank: Модель павербанка мощностью 100W и емкостью 60000mAh, он способен поддерживать работу не только мобильных устройств, но и ноутбуков Интеллектуальная система управления напряжением обеспечивает оптимальную зарядку для разных устройств Наличие 3USB порта для зарядки ваших гаджетов и 2 универсальных разъема Type-C, способных поставлять питание в обе стороны Огнеупорные материалы, из которых изготовлен PowerBank Заряд Повербанка через разъем Type-C Интеллектуальный цифровой дисплей Ремешок для удобной переноски Встроенный фонарь Характеристики: Емкость батареи: 60000mAh Номинальная емкость: 39000mAh Материал: ABS+PC Вход Type-C 1: 5V3A, 9V3A, 12V3A, 15V3A, 20V5A 100W(Max) Вход Type-C 2: 5V3A, 9V3A, 12V3A, 15V3A, 20V5A 100W(Max) Выход USB 1/2: 5V3A, 9V2A, 10V/2.25A, 12V/1.5A, 22.5W(Max) Выход USB 3: 10W Выход Type-C 1/2: 5V3A, 9V3A, 12V3A, 15V3A, 20V5A 100W(Max) Размер: 420*355*250 мм Вес: 1800 г]]></description>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Remax</param>
+<param name="Виды аккумуляторов">Power Bank</param>
+<param name="Емкость аккумулятора">От 60000 mAh</param>
 </offer>
 <offer id="ts000082464" available="true">
 <url>https://kmt5.com.ua/power-bank-8000-mah%C2%A0-hoco-j164</url>
@@ -124959,6 +125159,29 @@
 <param name="Бренд">Borofone</param>
 <param name="Виды аккумуляторов">Power Bank</param>
 <param name="Емкость аккумулятора">От 30000 mAh</param>
+</offer>
+<offer id="ts000083633000031618" available="true">
+<url>https://kmt5.com.ua/power-bank-50000-mah%C2%A0-225w%C2%A0pd20w%C2%A0%C2%A0-borofone-bj80c-white</url>
+<price>1422.0</price>
+<vendorprice>885.0</vendorprice>
+<vendorpricedoll>19.7</vendorpricedoll>
+<rrcdoll>31.66</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>50081230</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjQvOWYv0KYtMDAwMDgzNjMzXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDgvOWIv0KYtMDAwMDgzNjMzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWUvMjMv0KYtMDAwMDgzNjMzXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTQvNjcv0KYtMDAwMDgzNjMzXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2EvYmUv0KYtMDAwMDgzNjMzXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODQvOGUv0KYtMDAwMDgzNjMzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Borofone</vendor>
+<vendorCode>Ц-000083633</vendorCode>
+<code>790917</code>
+<name>Power Bank | 50000 mAh | 22.5W| PD20W | — Borofone BJ80C  — White</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Borofone</param>
+<param name="Виды аккумуляторов">Power Bank</param>
+<param name="Емкость аккумулятора">От 50000 mAh</param>
 </offer>
 <offer id="ts000083373" available="true">
 <url>https://kmt5.com.ua/power-inverter-earldom-etlt01</url>
@@ -183034,6 +183257,29 @@
 <param name="Бренд">Hoco</param>
 <param name="Автоаксессуары">Автотримачі</param>
 </offer>
+<offer id="ts000078223000026512" available="true">
+<url>https://kmt5.com.ua/avtoderjatel-razdvijnoy-na-prisoske-hoco-ca104-black</url>
+<price>260.0</price>
+<vendorprice>164.0</vendorprice>
+<vendorpricedoll>3.65</vendorpricedoll>
+<rrcdoll>5.77</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>29376332</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDYvYWMv0KYtMDAwMDc4MjIzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzkvNjQv0KYtMDAwMDc4MjIzXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWMvZGIv0KYtMDAwMDc4MjIzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzYvMzkv0KYtMDAwMDc4MjIzXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTcvZGUv0KYtMDAwMDc4MjIzXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWIvYjgv0KYtMDAwMDc4MjIzXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Hoco</vendor>
+<vendorCode>Ц-000078223</vendorCode>
+<code>777275</code>
+<name>Автодержатель раздвижной на присоске Hoco CA104 — Black</name>
+<description><![CDATA[Материал: ABS+силикон. Технология поверхности: солнечный узор + масляная распылительная обработка. Размер: 10095170 мм. Вес: 151 г. Подходит для мобильных телефонов с диагональю от 4.5 до 7.0 дюймов (диапазон зажима: 60-85 мм). Применимые сценарии: центральная консоль автомобиля/ветровое стекло автомобиля.]]></description>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Автоаксессуары">Автотримачі</param>
+</offer>
 <offer id="ts000083212" available="true">
 <url>https://kmt5.com.ua/avtoderjatel-razdvijnoy-na-prisoske-hoco-h100</url>
 <price>354.0</price>
@@ -191121,27 +191367,6 @@
 <param name="Украшения для Телефонов">Попсокет и Кольцо</param>
 <param name="Цвет">Mix Color</param>
 </offer>
-<offer id="ts000077202000027350" available="true">
-<url>https://kmt5.com.ua/koltso-derjatel-steel-black</url>
-<price>58.0</price>
-<vendorprice>31.0</vendorprice>
-<vendorpricedoll>0.68</vendorpricedoll>
-<rrcdoll>1.27</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>28459303</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjAvZTYv0KYtMDAwMDc3MjAyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTYvZDUv0KYtMDAwMDc3MjAyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzUvZDAv0KYtMDAwMDc3MjAyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000077202</vendorCode>
-<code>779443</code>
-<name>Кольцо держатель « Steel » — Black</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Различные</param>
-<param name="Материал">Пластик</param>
-<param name="Украшения для Телефонов">Попсокет и Кольцо</param>
-<param name="Цвет">Mix Color</param>
-</offer>
 <offer id="ts000077202000027351" available="true">
 <url>https://kmt5.com.ua/koltso-derjatel-steel-gold</url>
 <price>58.0</price>
@@ -195097,6 +195322,56 @@
 <name>Игрушка Berserk Stunt Car JC03PRO — Yellow</name>
 <description><![CDATA[Тип: Автомобиль для трюков с шестью колесами и качающимися руками Материал: ABS, электронные компоненты Тип двигателя: Щеточный двигатель Тип привода: 4W Функции: Режим дрифта, вперед/назад, поворот влево/вправо, со светом Рекомендуемый возраст: Свыше 8 лет Пульт дистанционного управления: Беспроводной пульт дистанционного управления 2,4 ГГц Питание автомобиля: 1 литиевая батарея (включена) Время работы: Около 25 минут Вес изделия: 0,75 кг Вес упаковки: 1,05 кг Размер изделия (Длина x Ширина x Высота): 24 см x 20 см x 9,5 см Размер упаковки (Длина x Ширина x Высота): 28,5 см x 20,5 см x 10,5 см Батарея для автомобиля: Литиевая батарея 3,7 В и 1200 мАч (включена) Время зарядки: 120 минут Скорость: 15 км/ч Дистанция дистанционного управления: 40-50 метров Батарейки для пульта управления: 2 батарейки AAA 1,5 В (не включены) Функции: Вперед, назад, поворот влево, поворот вправо, дрифт, свет, музыка, распылитель воды Содержание упаковки: 1 автомобиль RC 1 пульт дистанционного управления 1 кабель для зарядки USB 1 руководство на английском языке 1 бутылочка для капельной поливки]]></description>
 <quantity_in_stock>32</quantity_in_stock>
+<param name="Бренд">Различные</param>
+</offer>
+<offer id="ts000083742000031668" available="true">
+<url>https://kmt5.com.ua/igrushka-smart-dog-xi-grey</url>
+<price>2661.0</price>
+<vendorprice>1325.0</vendorprice>
+<vendorpricedoll>29.5</vendorpricedoll>
+<rrcdoll>59.26</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>75087609</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjkvYjMv0KYtMDAwMDgzNzQyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2YvZjEv0KYtMDAwMDgzNzQyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmEvZWQv0KYtMDAwMDgzNzQyXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWUvZDcv0KYtMDAwMDgzNzQyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjcvNTYv0KYtMDAwMDgzNzQyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTAvZDkv0KYtMDAwMDgzNzQyXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGEvNWUv0KYtMDAwMDgzNzQyXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjkvZTYv0KYtMDAwMDgzNzQyXzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWUvYTgv0KYtMDAwMDgzNzQyXzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWUvMWUv0KYtMDAwMDgzNzQyXzEzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000083742</vendorCode>
+<code>791071</code>
+<name>Игрушка Smart Dog XI  — Grey</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Различные</param>
+</offer>
+<offer id="ts000083742000031669" available="true">
+<url>https://kmt5.com.ua/igrushka-smart-dog-xi-pink</url>
+<price>2661.0</price>
+<vendorprice>1325.0</vendorprice>
+<vendorpricedoll>29.5</vendorpricedoll>
+<rrcdoll>59.26</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>75087609</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjYvYmIv0KYtMDAwMDgzNzQyXzEyLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2YvZjEv0KYtMDAwMDgzNzQyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2IvMTgv0KYtMDAwMDgzNzQyXzE4LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWUvZDcv0KYtMDAwMDgzNzQyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjcvNTYv0KYtMDAwMDgzNzQyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTAvZDkv0KYtMDAwMDgzNzQyXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGEvNWUv0KYtMDAwMDgzNzQyXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjkvZTYv0KYtMDAwMDgzNzQyXzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWUvYTgv0KYtMDAwMDgzNzQyXzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWUvMWUv0KYtMDAwMDgzNzQyXzEzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000083742</vendorCode>
+<code>791072</code>
+<name>Игрушка Smart Dog XI  — Pink</name>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Бренд">Различные</param>
 </offer>
 <offer id="ts000083741000031667" available="true">
