@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-07-22 10:59">
+<yml_catalog date="2026-07-22 16:14">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -11,7 +11,6 @@
 <category id="72551390" parentId="53463516">За Брендами</category>
 <category id="11565584" parentId="72551390">Baseus</category>
 <category id="50081230" parentId="72551390">Hoco</category>
-<category id="55476867" parentId="72551390">Remax</category>
 <category id="47292881" parentId="72551390">Veron</category>
 <category id="77289882" parentId="72551390">Wiwu</category>
 <category id="55803025" parentId="72551390">Yoobao</category>
@@ -4060,48 +4059,6 @@
 <code>791673</code>
 <name>Rimova Metal Case iPhone 17 Pro — Blue</name>
 <quantity_in_stock>3</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Металл</param>
-</offer>
-<offer id="ts000084046000031976" available="true">
-<url>https://kmt5.com.ua/rimova-metal-case-iphone-17-pro-orange</url>
-<price>311.0</price>
-<vendorprice>173.0</vendorprice>
-<vendorpricedoll>3.85</vendorpricedoll>
-<rrcdoll>6.91</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>28366547</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2EvZTAv0KYtMDAwMDg0MDQ2XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTMvMDEv0KYtMDAwMDg0MDQ2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000084046</vendorCode>
-<code>791675</code>
-<name>Rimova Metal Case iPhone 17 Pro — Orange</name>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Металл</param>
-</offer>
-<offer id="ts000084046000031975" available="true">
-<url>https://kmt5.com.ua/rimova-metal-case-iphone-17-pro-silver</url>
-<price>311.0</price>
-<vendorprice>173.0</vendorprice>
-<vendorpricedoll>3.85</vendorpricedoll>
-<rrcdoll>6.91</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>28366547</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjIvYTUv0KYtMDAwMDg0MDQ2XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTMvMDEv0KYtMDAwMDg0MDQ2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000084046</vendorCode>
-<code>791674</code>
-<name>Rimova Metal Case iPhone 17 Pro — Silver</name>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro</param>
@@ -27289,27 +27246,6 @@
 <param name="Бренд">Различные</param>
 <param name="Материал">Пластик &amp; TPU</param>
 </offer>
-<offer id="ts000076186000025036" available="true">
-<url>https://kmt5.com.ua/clear-magnetic-tpupc-case-iphone-15-pro-pink</url>
-<price>91.0</price>
-<vendorprice>54.0</vendorprice>
-<vendorpricedoll>1.2</vendorpricedoll>
-<rrcdoll>2.01</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>86411438</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjcvNTYv0KYtMDAwMDc2MTg2XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjgvYjcv0KYtMDAwMDc2MTg2XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000076186</vendorCode>
-<code>772038</code>
-<name>Clear Magnetic TPU+PC Case iPhone 15 Pro — Pink</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 15 Pro</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Пластик &amp; TPU</param>
-</offer>
 <offer id="ts000076184000025025" available="true">
 <url>https://kmt5.com.ua/clear-magnetic-tpupc-case-iphone-15-blue</url>
 <price>91.0</price>
@@ -28970,27 +28906,6 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 13 Pro 6.1&quot;</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Полиуретан</param>
-</offer>
-<offer id="ts000079991000028132" available="true">
-<url>https://kmt5.com.ua/colorful-case-with-magsafe-iphone-15-pro-black</url>
-<price>235.0</price>
-<vendorprice>131.0</vendorprice>
-<vendorpricedoll>2.9</vendorpricedoll>
-<rrcdoll>5.23</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>86411438</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGQvNDEv0KYtMDAwMDc5OTkxXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTMvZmQv0KYtMDAwMDc5OTkxXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000079991</vendorCode>
-<code>781558</code>
-<name>Colorful Case with MagSafe iPhone 15 Pro — Black</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 15 Pro</param>
 <param name="Бренд">Apple</param>
 <param name="Материал">Полиуретан</param>
 </offer>
@@ -58821,69 +58736,6 @@
 <param name="Бренд">Apple</param>
 <param name="Материал">Полиуретан</param>
 </offer>
-<offer id="ts000082275000030340" available="true">
-<url>https://kmt5.com.ua/original-silicone-case-full-size-iphone-17-pro-max-khaki-48</url>
-<price>155.0</price>
-<vendorprice>88.0</vendorprice>
-<vendorpricedoll>1.95</vendorpricedoll>
-<rrcdoll>3.44</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>28366547</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTIvNGEv0KYtMDAwMDgyMjc1XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTcvMTgv0KYtMDAwMDgyMjc1XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000082275</vendorCode>
-<code>788315</code>
-<name>Original Silicone Case Full Size iPhone 17 Pro Max — Khaki (48)</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro Max</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Полиуретан</param>
-</offer>
-<offer id="ts000082275000030338" available="true">
-<url>https://kmt5.com.ua/original-silicone-case-full-size-iphone-17-pro-max-lavender-41</url>
-<price>155.0</price>
-<vendorprice>88.0</vendorprice>
-<vendorpricedoll>1.95</vendorpricedoll>
-<rrcdoll>3.44</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>28366547</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGMvY2Qv0KYtMDAwMDgyMjc1XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTcvMTgv0KYtMDAwMDgyMjc1XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000082275</vendorCode>
-<code>788313</code>
-<name>Original Silicone Case Full Size iPhone 17 Pro Max — Lavender (41)</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro Max</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Полиуретан</param>
-</offer>
-<offer id="ts000082274000030323" available="true">
-<url>https://kmt5.com.ua/original-silicone-case-full-size-iphone-17-pro-charcoal-gray-15</url>
-<price>155.0</price>
-<vendorprice>88.0</vendorprice>
-<vendorpricedoll>1.95</vendorpricedoll>
-<rrcdoll>3.44</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>28366547</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTMvMjEv0KYtMDAwMDgyMjc0XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDEvMDIv0KYtMDAwMDgyMjc0XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000082274</vendorCode>
-<code>788297</code>
-<name>Original Silicone Case Full Size iPhone 17 Pro — Charcoal Gray (15)</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Полиуретан</param>
-</offer>
 <offer id="ts000082274000031290" available="true">
 <url>https://kmt5.com.ua/original-silicone-case-full-size-iphone-17-pro-hermes-orange-81</url>
 <price>155.0</price>
@@ -58899,48 +58751,6 @@
 <code>790220</code>
 <name>Original Silicone Case Full Size iPhone 17 Pro — Hermes Orange (81)</name>
 <quantity_in_stock>13</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Полиуретан</param>
-</offer>
-<offer id="ts000082274000030328" available="true">
-<url>https://kmt5.com.ua/original-silicone-case-full-size-iphone-17-pro-khaki-48</url>
-<price>155.0</price>
-<vendorprice>88.0</vendorprice>
-<vendorpricedoll>1.95</vendorpricedoll>
-<rrcdoll>3.44</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>28366547</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDgvM2Mv0KYtMDAwMDgyMjc0XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDEvMDIv0KYtMDAwMDgyMjc0XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000082274</vendorCode>
-<code>788302</code>
-<name>Original Silicone Case Full Size iPhone 17 Pro — Khaki (48)</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Полиуретан</param>
-</offer>
-<offer id="ts000082274000030319" available="true">
-<url>https://kmt5.com.ua/original-silicone-case-full-size-iphone-17-pro-lilac-5</url>
-<price>155.0</price>
-<vendorprice>88.0</vendorprice>
-<vendorpricedoll>1.95</vendorpricedoll>
-<rrcdoll>3.44</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>28366547</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWIvOTcv0KYtMDAwMDgyMjc0XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDEvMDIv0KYtMDAwMDgyMjc0XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000082274</vendorCode>
-<code>788293</code>
-<name>Original Silicone Case Full Size iPhone 17 Pro — Lilac (5)</name>
-<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro</param>
@@ -59070,27 +58880,6 @@
 <code>788216</code>
 <name>Original Silicone Case Full Size iPhone 17 — Neon Pink (47)</name>
 <quantity_in_stock>7</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Полиуретан</param>
-</offer>
-<offer id="ts000082214000030299" available="true">
-<url>https://kmt5.com.ua/original-silicone-case-full-size-iphone-17-pink-sand-19</url>
-<price>155.0</price>
-<vendorprice>88.0</vendorprice>
-<vendorpricedoll>1.95</vendorpricedoll>
-<rrcdoll>3.44</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>28366547</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjQvOGQv0KYtMDAwMDgyMjE0XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTAvNDYv0KYtMDAwMDgyMjE0XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000082214</vendorCode>
-<code>788214</code>
-<name>Original Silicone Case Full Size iPhone 17 — Pink Sand (19)</name>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17</param>
@@ -86907,27 +86696,6 @@
 <param name="Бренд">Apple</param>
 <param name="Материал">Силикон</param>
 </offer>
-<offer id="ts000083281000031481" available="true">
-<url>https://kmt5.com.ua/smoky-case-with-magsafe-iphone-16-pro-light-pink</url>
-<price>233.0</price>
-<vendorprice>134.0</vendorprice>
-<vendorpricedoll>2.98</vendorpricedoll>
-<rrcdoll>5.18</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>89640525</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDgvMzUv0KYtMDAwMDgzMjgxXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTMvNGQv0KYtMDAwMDgzMjgxXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000083281</vendorCode>
-<code>790441</code>
-<name>Smoky Case with MagSafe — iPhone 16 Pro — Light Pink</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 16 Pro</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Силикон</param>
-</offer>
 <offer id="ts000083281000031482" available="true">
 <url>https://kmt5.com.ua/smoky-case-with-magsafe-iphone-16-pro-pale-cyan</url>
 <price>233.0</price>
@@ -87446,27 +87214,6 @@
 <vendorCode>Ц-000083285</vendorCode>
 <code>790476</code>
 <name>Smoky Case with MagSafe — iPhone 17 Pro — Dark Blue</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Силикон</param>
-</offer>
-<offer id="ts000083285000031513" available="true">
-<url>https://kmt5.com.ua/smoky-case-with-magsafe-iphone-17-pro-gray</url>
-<price>233.0</price>
-<vendorprice>134.0</vendorprice>
-<vendorpricedoll>2.98</vendorpricedoll>
-<rrcdoll>5.18</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>28366547</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzIvNWUv0KYtMDAwMDgzMjg1XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2EvYTMv0KYtMDAwMDgzMjg1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000083285</vendorCode>
-<code>790477</code>
-<name>Smoky Case with MagSafe — iPhone 17 Pro — Gray</name>
 <quantity_in_stock>1</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
@@ -112359,26 +112106,6 @@
 <param name="Виды защиты экрана">Захисне скло</param>
 <param name="Вид покрытия">Camera Glass</param>
 </offer>
-<offer id="ts000083914000031766" available="true">
-<url>https://kmt5.com.ua/camera-glass-metal-color-iphone-17-pro-blue</url>
-<price>162.0</price>
-<vendorprice>81.0</vendorprice>
-<vendorpricedoll>1.8</vendorpricedoll>
-<rrcdoll>3.6</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>44908845</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2QvZDAv0KYtMDAwMDgzOTE0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000083914</vendorCode>
-<code>791337</code>
-<name>Camera Glass Metal Color — iPhone 17 Pro   — Blue</name>
-<quantity_in_stock>5</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro</param>
-<param name="Бренд">Различные</param>
-<param name="Виды защиты экрана">Захисне скло</param>
-<param name="Вид покрытия">Camera Glass</param>
-</offer>
 <offer id="ts000083914000031768" available="true">
 <url>https://kmt5.com.ua/camera-glass-metal-color-iphone-17-pro-orange</url>
 <price>162.0</price>
@@ -120639,32 +120366,6 @@
 <param name="Зарядные устройства">Home Chargers</param>
 <param name="Сила тока и Мощность">20W</param>
 </offer>
-<offer id="ts000071460000020344" available="true">
-<url>https://kmt5.com.ua/hoco-c76a-plus-speed-source-pd20w-chargereu-white</url>
-<price>217.0</price>
-<vendorprice>117.0</vendorprice>
-<vendorpricedoll>2.6</vendorpricedoll>
-<rrcdoll>4.82</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>56676196</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGMvOTMv0KYtMDAwMDcxNDYwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODgvMTEv0KYtMDAwMDcxNDYwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjgvNWUv0KYtMDAwMDcxNDYwXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmYvOWUv0KYtMDAwMDcxNDYwXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzEvMTcv0KYtMDAwMDcxNDYwXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTYvZjgv0KYtMDAwMDcxNDYwXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDkvNzAv0KYtMDAwMDcxNDYwXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000071460</vendorCode>
-<code>750592</code>
-<name>Home Charger 20W PD3.0 Hoco C76A Plus — White</name>
-<description><![CDATA[Сетевое зарядное устройство Hoco C76A Speed PD3.0 гарантирует быструю и безопасную зарядку любому планшету или смартфону фирмы Apple. Модель оснащена многоуровневой системой защиты от перегрева, перегрузки и короткого замыкания. Аксессуар поддерживает технологии: PD3.0, QC3.0 и QC2.0, Huawei FCP/SCP, Samsung AFC и другие протоколы быстрой зарядки. Материал Изготовления: Огнестойкий Пластик Размер: 79*42*27мм Вес: 39г Выход Type-C: 9V/2.22A, 12V/1.67A (PD 20W) Поддержка PD3.0, QC, FCP и прочих протоколов быстрой зарядки Поддержка протоколов быстрой зарядки iPhone12]]></description>
-<quantity_in_stock>154</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Колво USB портов">1 Type - C</param>
-<param name="Зарядные устройства">Home Chargers</param>
-<param name="Сила тока и Мощность">20W</param>
-</offer>
 <offer id="ts000082104" available="true">
 <url>https://kmt5.com.ua/home-charger-45w-pd-qc30-borofone-bn30</url>
 <price>576.0</price>
@@ -126502,27 +126203,6 @@
 <param name="Виды аккумуляторов">Power Bank</param>
 <param name="Емкость аккумулятора">От 20000 mAh</param>
 </offer>
-<offer id="ts000077780000026124" available="true">
-<url>https://kmt5.com.ua/power-bank-20000-mah%C2%A0-hoco-j100a-black</url>
-<price>652.0</price>
-<vendorprice>414.0</vendorprice>
-<vendorpricedoll>9.2</vendorpricedoll>
-<rrcdoll>14.51</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>50081230</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTgvMTIv0KYtMDAwMDc3NzgwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjcvYTAv0KYtMDAwMDc3NzgwXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDMvZWMv0KYtMDAwMDc3NzgwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTQvYmMv0KYtMDAwMDc3NzgwXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000077780</vendorCode>
-<code>776453</code>
-<name>Power Bank 20000 mAh — Hoco J100A — Black</name>
-<quantity_in_stock>5</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Виды аккумуляторов">Power Bank</param>
-<param name="Емкость аккумулятора">От 20000 mAh</param>
-</offer>
 <offer id="ts000081838000030122" available="true">
 <url>https://kmt5.com.ua/power-bank-20000-mah%C2%A0-hoco-j153a-black</url>
 <price>652.0</price>
@@ -126702,28 +126382,6 @@
 <param name="Бренд">Различные</param>
 <param name="Виды аккумуляторов">Power Bank</param>
 <param name="Емкость аккумулятора">От 5000 mAh</param>
-</offer>
-<offer id="ts000079898000027986" available="true">
-<url>https://kmt5.com.ua/power-bank-60000-mah-remax-rpp100-100w225w-with-light-blue</url>
-<price>3785.0</price>
-<vendorprice>2425.0</vendorprice>
-<vendorpricedoll>54.0</vendorpricedoll>
-<rrcdoll>84.28</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>55476867</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmYvNmUv0KYtMDAwMDc5ODk4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDYvMDUv0KYtMDAwMDc5ODk4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGIvZDUv0KYtMDAwMDc5ODk4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDcvZDQv0KYtMDAwMDc5ODk4XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Remax</vendor>
-<vendorCode>Ц-000079898</vendorCode>
-<code>781301</code>
-<name>Power Bank 60000 mAh 100W+22.5W— Remax RPP-100  with light Fast charging  — Blue</name>
-<description><![CDATA[Преимущества данного Power Bank: Модель павербанка мощностью 100W и емкостью 60000mAh, он способен поддерживать работу не только мобильных устройств, но и ноутбуков Интеллектуальная система управления напряжением обеспечивает оптимальную зарядку для разных устройств Наличие 3USB порта для зарядки ваших гаджетов и 2 универсальных разъема Type-C, способных поставлять питание в обе стороны Огнеупорные материалы, из которых изготовлен PowerBank Заряд Повербанка через разъем Type-C Интеллектуальный цифровой дисплей Ремешок для удобной переноски Встроенный фонарь Характеристики: Емкость батареи: 60000mAh Номинальная емкость: 39000mAh Материал: ABS+PC Вход Type-C 1: 5V3A, 9V3A, 12V3A, 15V3A, 20V5A 100W(Max) Вход Type-C 2: 5V3A, 9V3A, 12V3A, 15V3A, 20V5A 100W(Max) Выход USB 1/2: 5V3A, 9V2A, 10V/2.25A, 12V/1.5A, 22.5W(Max) Выход USB 3: 10W Выход Type-C 1/2: 5V3A, 9V3A, 12V3A, 15V3A, 20V5A 100W(Max) Размер: 420*355*250 мм Вес: 1800 г]]></description>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Бренд">Remax</param>
-<param name="Виды аккумуляторов">Power Bank</param>
-<param name="Емкость аккумулятора">От 60000 mAh</param>
 </offer>
 <offer id="ts000082464" available="true">
 <url>https://kmt5.com.ua/power-bank-8000-mah%C2%A0-hoco-j164</url>
@@ -183758,31 +183416,6 @@
 <param name="Бренд">Hoco</param>
 <param name="Автоаксессуары">Автотримачі</param>
 </offer>
-<offer id="ts000077460000025609" available="true">
-<url>https://kmt5.com.ua/car-holder-hoco-h9-general-center-console-black</url>
-<price>232.0</price>
-<vendorprice>149.0</vendorprice>
-<vendorpricedoll>3.3</vendorpricedoll>
-<rrcdoll>5.16</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>29376332</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmUvNGUv0KYtMDAwMDc3NDYwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTAvZTUv0KYtMDAwMDc3NDYwXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjUvOWIv0KYtMDAwMDc3NDYwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjUvZmEv0KYtMDAwMDc3NDYwXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjIvMmQv0KYtMDAwMDc3NDYwXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGUvNmEv0KYtMDAwMDc3NDYwXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGIvNmYv0KYtMDAwMDc3NDYwXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTUvMWIv0KYtMDAwMDc3NDYwXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000077460</vendorCode>
-<code>774131</code>
-<name>Car Holder Hoco H9 General (center console) — Black</name>
-<description><![CDATA[«1. Материал: силикагель АБС+ПУ+. 2. Поверхностный процесс: солнечный рисунок + напряжение 3. Размер: 70*147*110 мм 4. Вес: 151 г. 5. Подходит для мобильного телефона 4,7-7 дюймов (диапазон ширины патрона: 54-90 мм) 6. Сценарий применения: центральная консоль автомобиля».]]></description>
-<quantity_in_stock>4</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Автоаксессуары">Автотримачі</param>
-</offer>
 <offer id="ts000082100" available="true">
 <url>https://kmt5.com.ua/car-holder-hoco-h92-high-vacuum-suction-cup-magnetic-holderuniversal</url>
 <price>513.0</price>
@@ -183919,33 +183552,6 @@
 <name>Car Holder — Hoco CA91 Magic magnetic wireless fast charging — gray</name>
 <description><![CDATA[Специально разработан для iPhone 12/13/14/15 серии. Беспроводной вывод: 5W/7.5W/10W/15W, беспроводной вывод Magsafe: 7.5W, требуется автомобильное зарядное устройство с поддержкой PD. Материал: алюминиевый сплав + ABS + закаленное стекло. Процесс: окисление + текстура матрицы. Размер: 6310576 мм; Вес: 98 г. Сцена использования: автомобильный воздушный вентиляционный отсек.]]></description>
 <quantity_in_stock>8</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Автоаксессуары">Автотримачі</param>
-</offer>
-<offer id="ts000077448000025596" available="true">
-<url>https://kmt5.com.ua/car-holder-hoco-h15-fair-pushtype-center-console-black</url>
-<price>340.0</price>
-<vendorprice>216.0</vendorprice>
-<vendorpricedoll>4.8</vendorpricedoll>
-<rrcdoll>7.57</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>29376332</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTQvNDEv0KYtMDAwMDc3NDQ4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGMvYzQv0KYtMDAwMDc3NDQ4XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGYvNGIv0KYtMDAwMDc3NDQ4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjAvOGQv0KYtMDAwMDc3NDQ4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTEvODcv0KYtMDAwMDc3NDQ4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGYvNmYv0KYtMDAwMDc3NDQ4XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWQvYTYv0KYtMDAwMDc3NDQ4XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTgvMDkv0KYtMDAwMDc3NDQ4XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTcvYmUv0KYtMDAwMDc3NDQ4XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTQvYTAv0KYtMDAwMDc3NDQ4XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000077448</vendorCode>
-<code>774118</code>
-<name>Car Holder — Hoco H15 Fair push-type (center console) — black</name>
-<description><![CDATA[Особенности: Совместимость с любыми телефонами Использование одной рукой Красивый и стильный дизайн Место установки: торпеда (панель) авто, лобовое стекло автомобиля Вращается на 360° Надежная система фиксации Простота использования Прорезиненная поверхность держателя сохранит ваш девайс от царапин Не мешает осмотру водителя Подходит под любой интерьер авто Возможность поворачивать конструкцию в нужную сторону Характеристики: Бренд: HOCO Тип: автомобильный крепеж Крепление: Зажим Материал: ABS пластик+силикон Место установки: приборная панель автомобиля, лобовое стекло Способ монтажа: вакуумная присоска Подходит для мобильных телефонов 4.5-7 дюймов Зажим: 60 – 85 мм Цвет: Черный]]></description>
-<quantity_in_stock>5</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Автоаксессуары">Автотримачі</param>
 </offer>
