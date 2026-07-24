@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-07-24 06:17">
+<yml_catalog date="2026-07-24 10:55">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -52939,28 +52939,6 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">PU кожа</param>
-<param name="Цвет">Mix Color</param>
-</offer>
-<offer id="ts000083256000031311" available="true">
-<url>https://kmt5.com.ua/leather-case-with-magsafe-iphone-17-pro-max-orange</url>
-<price>732.0</price>
-<vendorprice>414.0</vendorprice>
-<vendorpricedoll>9.2</vendorpricedoll>
-<rrcdoll>16.3</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>28366547</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGIvMzQv0KYtMDAwMDgzMjU2XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDgvYzQv0KYtMDAwMDgzMjU2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000083256</vendorCode>
-<code>790248</code>
-<name>Leather Case With Magsafe iPhone 17 Pro Max — Orange</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro Max</param>
 <param name="Бренд">Apple</param>
 <param name="Материал">PU кожа</param>
 <param name="Цвет">Mix Color</param>
