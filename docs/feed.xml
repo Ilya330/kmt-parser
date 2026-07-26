@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-07-26 06:34">
+<yml_catalog date="2026-07-26 10:29">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -11669,6 +11669,26 @@
 <param name="Бренд">Различные</param>
 <param name="Аудіо товари">Чехол для Airpods</param>
 </offer>
+<offer id="ts000075718000024507" available="true">
+<url>https://kmt5.com.ua/airpods-pro-2-case-microfiber-white-15</url>
+<price>76.0</price>
+<vendorprice>41.0</vendorprice>
+<vendorpricedoll>0.9</vendorpricedoll>
+<rrcdoll>1.68</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>92761193</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWUvYTcv0KYtMDAwMDc1NzE4XzE1LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODUvZTUv0KYtMDAwMDc1NzE4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000075718</vendorCode>
+<code>771079</code>
+<name>Airpods Pro 2 Case Microfiber — White (15)</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Airpods Pro 2</param>
+<param name="Бренд">Различные</param>
+<param name="Аудіо товари">Чехол для Airpods</param>
+</offer>
 <offer id="ts000082734000030665" available="true">
 <url>https://kmt5.com.ua/airpods-pro-3-case-microfiber-black</url>
 <price>87.0</price>
@@ -11752,26 +11772,6 @@
 <code>789102</code>
 <name>Airpods Pro 3 Case Microfiber — Light Purple</name>
 <quantity_in_stock>13</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Airpods Pro 3</param>
-<param name="Бренд">Различные</param>
-<param name="Аудіо товари">Чехол для Airpods</param>
-</offer>
-<offer id="ts000082734000030667" available="true">
-<url>https://kmt5.com.ua/airpods-pro-3-case-microfiber-lilac-5</url>
-<price>87.0</price>
-<vendorprice>45.0</vendorprice>
-<vendorpricedoll>0.98</vendorpricedoll>
-<rrcdoll>1.93</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>87591679</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDgvM2Yv0KYtMDAwMDgyNzM0XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjYvMDgv0KYtMDAwMDgyNzM0XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082734</vendorCode>
-<code>789093</code>
-<name>Airpods Pro 3 Case Microfiber — Lilac (5)</name>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Airpods Pro 3</param>
 <param name="Бренд">Различные</param>
@@ -46210,10 +46210,10 @@
 </offer>
 <offer id="ts000083646" available="true">
 <url>https://kmt5.com.ua/hi15-tablet-pc-protective-cover-</url>
-<price>286.0</price>
-<vendorprice>161.0</vendorprice>
-<vendorpricedoll>3.58</vendorpricedoll>
-<rrcdoll>6.35</rrcdoll>
+<price>241.0</price>
+<vendorprice>134.0</vendorprice>
+<vendorpricedoll>2.98</vendorpricedoll>
+<rrcdoll>5.36</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>10321210</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTgvNTUv0KYtMDAwMDgzNjQ2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -59410,6 +59410,28 @@
 <param name="Бренд">Apple</param>
 <param name="Материал">Силикон</param>
 </offer>
+<offer id="ts000079335000027155" available="true">
+<url>https://kmt5.com.ua/oc-matte-case-with-magsafe-iphone-14-pro-grey</url>
+<price>181.0</price>
+<vendorprice>107.0</vendorprice>
+<vendorpricedoll>2.38</vendorpricedoll>
+<rrcdoll>4.01</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>99363376</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjYvMWIv0KYtMDAwMDc5MzM1XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWMvYzgv0KYtMDAwMDc5MzM1XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTUvNGMv0KYtMDAwMDc5MzM1XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000079335</vendorCode>
+<code>779040</code>
+<name>OC Matte Case With MagSafe iPhone 14 Pro — Grey</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 14 Pro 6.1&quot;</param>
+<param name="Бренд">Apple</param>
+<param name="Материал">Силикон</param>
+</offer>
 <offer id="ts000079335000031690" available="true">
 <url>https://kmt5.com.ua/oc-matte-case-with-magsafe-iphone-14-pro-white</url>
 <price>181.0</price>
@@ -60396,6 +60418,33 @@
 <code>782877</code>
 <name>Original Silicone Case Full Size iPhone 11 — Cactus (61)</name>
 <quantity_in_stock>8</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 11</param>
+<param name="Бренд">Apple</param>
+<param name="Материал">Полиуретан</param>
+</offer>
+<offer id="ts000068663000015844" available="true">
+<url>https://kmt5.com.ua/original-silicone-case-full-size-iphone-11-marsala-52</url>
+<price>155.0</price>
+<vendorprice>88.0</vendorprice>
+<vendorpricedoll>1.95</vendorpricedoll>
+<rrcdoll>3.44</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>61932884</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTkvN2Mv0KYtMDAwMDY4NjYzXzI5LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzcvZDcv0KYtMDAwMDY4NjYzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2MvMDIv0KYtMDAwMDY4NjYzXzUzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDAvZmYv0KYtMDAwMDY4NjYzXzU0LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjkvOWIv0KYtMDAwMDY4NjYzXzU1LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTAvNTkv0KYtMDAwMDY4NjYzXzU2LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDIvYTUv0KYtMDAwMDY4NjYzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2UvMDQv0KYtMDAwMDY4NjYzXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000068663</vendorCode>
+<code>736856</code>
+<name>Original Silicone Case Full Size iPhone 11 — Marsala (52)</name>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 11</param>
@@ -79495,6 +79544,31 @@
 <param name="Бренд">Различные</param>
 <param name="Материал">Полиуретан</param>
 </offer>
+<offer id="ts000070215000029623" available="true">
+<url>https://kmt5.com.ua/ring-full-protect-case-iphone-11-black-91767</url>
+<price>116.0</price>
+<vendorprice>70.0</vendorprice>
+<vendorpricedoll>1.55</vendorpricedoll>
+<rrcdoll>2.57</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>61932884</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODkvNjIv0KYtMDAwMDcwMjE1XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGUvZGIv0KYtMDAwMDcwMjE1XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjUvNDMv0KYtMDAwMDcwMjE1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODkvM2Uv0KYtMDAwMDcwMjE1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2IvNWIv0KYtMDAwMDcwMjE1XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000070215</vendorCode>
+<code>786561</code>
+<name>Ring Full Protect Case iPhone 11 — Black</name>
+<description><![CDATA[Это надёжная защита Вашего девайса от каких-либо повреждений и грязи. Аксессуар плотно охватывает гаджет, а бронированный корпус защищает даже при сильных ударах об асфальт. Несмотря на прочность, материал, из которого состоит чехол, довольно тонкий и легкий. Отличительной особенностью является наличие кольца для держания – удобное и практичное дополнение к основному назначению чехла. Более того, кольцо практически не выступает, а, следовательно, не занимает много места.]]></description>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 11</param>
+<param name="Бренд">Различные</param>
+<param name="Материал">Полиуретан</param>
+</offer>
 <offer id="ts000070215000029624" available="true">
 <url>https://kmt5.com.ua/ring-full-protect-case-iphone-11-blue</url>
 <price>116.0</price>
@@ -79718,6 +79792,28 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 7, Apple iPhone 8</param>
+<param name="Бренд">Различные</param>
+<param name="Материал">Полиуретан</param>
+</offer>
+<offer id="ts000081209000029620" available="true">
+<url>https://kmt5.com.ua/ring-full-protect-case-iphone-x-xs-black</url>
+<price>116.0</price>
+<vendorprice>70.0</vendorprice>
+<vendorpricedoll>1.55</vendorpricedoll>
+<rrcdoll>2.57</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>95510130</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2EvNDQv0KYtMDAwMDgxMjA5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTkvNmUv0KYtMDAwMDgxMjA5XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000081209</vendorCode>
+<code>786558</code>
+<name>Ring Full Protect Case iPhone X ; XS — Black</name>
+<description><![CDATA[Это надёжная защита Вашего девайса от каких-либо повреждений и грязи. Аксессуар плотно охватывает гаджет, а бронированный корпус защищает даже при сильных ударах об асфальт. Несмотря на прочность, материал, из которого состоит чехол, довольно тонкий и легкий. Отличительной особенностью является наличие кольца для держания – удобное и практичное дополнение к основному назначению чехла. Более того, кольцо практически не выступает, а, следовательно, не занимает много места.]]></description>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone X, Apple iPhone Xs</param>
 <param name="Бренд">Различные</param>
 <param name="Материал">Полиуретан</param>
 </offer>
@@ -98413,6 +98509,27 @@
 <param name="Бренд">Apple</param>
 <param name="Материал">Пластик &amp; TPU</param>
 </offer>
+<offer id="ts000083157000031094" available="true">
+<url>https://kmt5.com.ua/swarovski-case-with-magsafe-iphone-17-pro-max-pink</url>
+<price>384.0</price>
+<vendorprice>221.0</vendorprice>
+<vendorpricedoll>4.9</vendorpricedoll>
+<rrcdoll>8.54</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>28366547</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmUvMjUv0KYtMDAwMDgzMTU3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTcvYmUv0KYtMDAwMDgzMTU3XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000083157</vendorCode>
+<code>789932</code>
+<name>Swarovski Case with MagSafe iPhone 17 Pro Max — Pink</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 17 Pro Max</param>
+<param name="Бренд">Apple</param>
+<param name="Материал">Пластик &amp; TPU</param>
+</offer>
 <offer id="ts000083157000031096" available="true">
 <url>https://kmt5.com.ua/swarovski-case-with-magsafe-iphone-17-pro-max-purple</url>
 <price>384.0</price>
@@ -113140,10 +113257,10 @@
 </offer>
 <offer id="ts000080861000029499" available="true">
 <url>https://kmt5.com.ua/sumka-14-hoco-gt7-black</url>
-<price>705.0</price>
-<vendorprice>400.0</vendorprice>
-<vendorpricedoll>8.9</vendorpricedoll>
-<rrcdoll>15.7</rrcdoll>
+<price>607.0</price>
+<vendorprice>337.0</vendorprice>
+<vendorpricedoll>7.5</vendorpricedoll>
+<rrcdoll>13.5</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>71284098</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWUvZDgv0KYtMDAwMDgwODYxXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -113162,10 +113279,10 @@
 </offer>
 <offer id="ts000080861000029500" available="true">
 <url>https://kmt5.com.ua/sumka-14-hoco-gt7-space-grey</url>
-<price>705.0</price>
-<vendorprice>400.0</vendorprice>
-<vendorpricedoll>8.9</vendorpricedoll>
-<rrcdoll>15.7</rrcdoll>
+<price>607.0</price>
+<vendorprice>337.0</vendorprice>
+<vendorpricedoll>7.5</vendorpricedoll>
+<rrcdoll>13.5</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>71284098</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzgvOWIv0KYtMDAwMDgwODYxXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -124606,10 +124723,10 @@
 </offer>
 <offer id="ts000080515" available="true">
 <url>https://kmt5.com.ua/car-charger-hoco-nz6-pd45w-3port2c1a-car-charger</url>
-<price>580.0</price>
-<vendorprice>310.0</vendorprice>
-<vendorpricedoll>6.9</vendorpricedoll>
-<rrcdoll>12.91</rrcdoll>
+<price>584.0</price>
+<vendorprice>292.0</vendorprice>
+<vendorpricedoll>6.5</vendorpricedoll>
+<rrcdoll>13.0</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>88941842</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGMvMDIv0KYtMDAwMDgwNTE1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -124701,10 +124818,10 @@
 </offer>
 <offer id="ts000082104" available="true">
 <url>https://kmt5.com.ua/home-charger-45w-pd-qc30-borofone-bn30</url>
-<price>576.0</price>
-<vendorprice>292.0</vendorprice>
-<vendorpricedoll>6.5</vendorpricedoll>
-<rrcdoll>12.81</rrcdoll>
+<price>557.0</price>
+<vendorprice>279.0</vendorprice>
+<vendorpricedoll>6.2</vendorpricedoll>
+<rrcdoll>12.4</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>56676196</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDIvOWYv0KYtMDAwMDgyMTA0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -126019,6 +126136,30 @@
 <quantity_in_stock>1</quantity_in_stock>
 <param name="Бренд">Baseus</param>
 <param name="Колво USB портов">2 U | 2 C</param>
+<param name="Зарядные устройства">Автомобильные</param>
+<param name="Сила тока и Мощность">120W</param>
+</offer>
+<offer id="ts000070647000021190" available="true">
+<url>https://kmt5.com.ua/baseus-ccbtb0g-share-together-pps-multiport-fast-charging-car-charger-with-extension-cord-120w-3u1c-gray-ccbtb0g-gray</url>
+<price>878.0</price>
+<vendorprice>494.0</vendorprice>
+<vendorpricedoll>11.0</vendorpricedoll>
+<rrcdoll>19.55</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>88941842</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmYvNjEv0KYtMDAwMDcwNjQ3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzkvMjMv0KYtMDAwMDcwNjQ3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWUvMzgv0KYtMDAwMDcwNjQ3XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmIvM2Qv0KYtMDAwMDcwNjQ3XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDQvYWQv0KYtMDAwMDcwNjQ3XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTQvOTEv0KYtMDAwMDcwNjQ3XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Baseus</vendor>
+<vendorCode>Ц-000070647</vendorCode>
+<code>752002</code>
+<name>Car Charger | 120W | 3 USB | 1 USB-C | Extension Cord — Baseus (CCBT-B0G)  — CCBT-B0G Gray</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Baseus</param>
+<param name="Колво USB портов">3 U | 1 C</param>
 <param name="Зарядные устройства">Автомобильные</param>
 <param name="Сила тока и Мощность">120W</param>
 </offer>
@@ -131910,10 +132051,10 @@
 </offer>
 <offer id="ts000082692" available="true">
 <url>https://kmt5.com.ua/merejeviy-fltr-2500w-1u-1p-2c-30w-15m-hoco-ac33</url>
-<price>638.0</price>
-<vendorprice>324.0</vendorprice>
-<vendorpricedoll>7.2</vendorpricedoll>
-<rrcdoll>14.19</rrcdoll>
+<price>575.0</price>
+<vendorprice>288.0</vendorprice>
+<vendorpricedoll>6.4</vendorpricedoll>
+<rrcdoll>12.8</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>58403385</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzMvZDgv0KYtMDAwMDgyNjkyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -132092,10 +132233,10 @@
 </offer>
 <offer id="ts000083224" available="true">
 <url>https://kmt5.com.ua/razvetvitel-prikurivatelya-2s-2p-1u-hoco-z65a</url>
-<price>441.0</price>
-<vendorprice>265.0</vendorprice>
-<vendorpricedoll>5.89</vendorpricedoll>
-<rrcdoll>9.81</rrcdoll>
+<price>420.0</price>
+<vendorprice>247.0</vendorprice>
+<vendorpricedoll>5.5</vendorpricedoll>
+<rrcdoll>9.35</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>88941842</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGEvYmEv0KYtMDAwMDgzMjI0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -132488,10 +132629,10 @@
 </offer>
 <offer id="ts000080883" available="true">
 <url>https://kmt5.com.ua/kabel-usb-c-to-lightning-27w-pd-1m-hoco-x112</url>
-<price>182.0</price>
-<vendorprice>95.0</vendorprice>
-<vendorpricedoll>2.1</vendorpricedoll>
-<rrcdoll>4.04</rrcdoll>
+<price>171.0</price>
+<vendorprice>86.0</vendorprice>
+<vendorpricedoll>1.9</vendorpricedoll>
+<rrcdoll>3.8</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>71294670</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDUvOTIv0KYtMDAwMDgwODgzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -132796,10 +132937,10 @@
 </offer>
 <offer id="ts000064290" available="true">
 <url>https://kmt5.com.ua/adapter-usb-c-to-usb-hoco-ua9-pearl-nickel</url>
-<price>162.0</price>
-<vendorprice>84.0</vendorprice>
-<vendorpricedoll>1.85</vendorpricedoll>
-<rrcdoll>3.59</rrcdoll>
+<price>144.0</price>
+<vendorprice>72.0</vendorprice>
+<vendorpricedoll>1.6</vendorpricedoll>
+<rrcdoll>3.2</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>66783771</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODUvM2Qv0KYtMDAwMDY0MjkwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -132900,10 +133041,10 @@
 </offer>
 <offer id="ts000060372" available="true">
 <url>https://kmt5.com.ua/cable-dual-rca-to-35mm-155m-hoco-upa10-lotus-metal-gray</url>
-<price>251.0</price>
-<vendorprice>131.0</vendorprice>
-<vendorpricedoll>2.9</vendorpricedoll>
-<rrcdoll>5.58</rrcdoll>
+<price>234.0</price>
+<vendorprice>117.0</vendorprice>
+<vendorpricedoll>2.6</vendorpricedoll>
+<rrcdoll>5.2</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>46538363</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjAvYmEv0KYtMDAwMDYwMzcyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -133055,10 +133196,10 @@
 </offer>
 <offer id="ts000080597000029234" available="true">
 <url>https://kmt5.com.ua/usb-hub-usb-c-to-4-usb-hoco-hb26-metal-grey</url>
-<price>340.0</price>
-<vendorprice>170.0</vendorprice>
-<vendorpricedoll>3.77</vendorpricedoll>
-<rrcdoll>7.56</rrcdoll>
+<price>315.0</price>
+<vendorprice>158.0</vendorprice>
+<vendorpricedoll>3.5</vendorpricedoll>
+<rrcdoll>7.0</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>34908147</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDYvY2Qv0KYtMDAwMDgwNTk3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -133209,10 +133350,10 @@
 </offer>
 <offer id="ts000080592000029229" available="true">
 <url>https://kmt5.com.ua/kabel-micro-24a-1m-hoco-x88-black</url>
-<price>49.0</price>
-<vendorprice>25.0</vendorprice>
-<vendorpricedoll>0.55</vendorpricedoll>
-<rrcdoll>1.08</rrcdoll>
+<price>45.0</price>
+<vendorprice>23.0</vendorprice>
+<vendorpricedoll>0.5</vendorpricedoll>
+<rrcdoll>1.0</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>15362910</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWUvMjIv0KYtMDAwMDgwNTkyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -133228,10 +133369,10 @@
 </offer>
 <offer id="ts000080592000029230" available="true">
 <url>https://kmt5.com.ua/kabel-micro-24a-1m-hoco-x88-white</url>
-<price>49.0</price>
-<vendorprice>25.0</vendorprice>
-<vendorpricedoll>0.55</vendorpricedoll>
-<rrcdoll>1.08</rrcdoll>
+<price>45.0</price>
+<vendorprice>23.0</vendorprice>
+<vendorpricedoll>0.5</vendorpricedoll>
+<rrcdoll>1.0</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>15362910</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWYvYWMv0KYtMDAwMDgwNTkyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -133274,9 +133415,9 @@
 <offer id="ts000080572000029213" available="true">
 <url>https://kmt5.com.ua/kabel-usb-c-24a-1m-hoco-x86-black</url>
 <price>108.0</price>
-<vendorprice>59.0</vendorprice>
-<vendorpricedoll>1.3</vendorpricedoll>
-<rrcdoll>2.39</rrcdoll>
+<vendorprice>54.0</vendorprice>
+<vendorpricedoll>1.2</vendorpricedoll>
+<rrcdoll>2.4</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>96483753</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGQvMDAv0KYtMDAwMDgwNTcyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -133294,9 +133435,9 @@
 <offer id="ts000080572000029214" available="true">
 <url>https://kmt5.com.ua/kabel-usb-c-24a-1m-hoco-x86-white</url>
 <price>108.0</price>
-<vendorprice>59.0</vendorprice>
-<vendorpricedoll>1.3</vendorpricedoll>
-<rrcdoll>2.39</rrcdoll>
+<vendorprice>54.0</vendorprice>
+<vendorpricedoll>1.2</vendorpricedoll>
+<rrcdoll>2.4</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>96483753</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTQvNmEv0KYtMDAwMDgwNTcyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -133351,10 +133492,10 @@
 </offer>
 <offer id="ts000071341000020066" available="true">
 <url>https://kmt5.com.ua/x37-cool-power-charging-data-cable-for-typec-hoco-white</url>
-<price>71.0</price>
-<vendorprice>39.0</vendorprice>
-<vendorpricedoll>0.85</vendorpricedoll>
-<rrcdoll>1.56</rrcdoll>
+<price>63.0</price>
+<vendorprice>32.0</vendorprice>
+<vendorpricedoll>0.7</vendorpricedoll>
+<rrcdoll>1.4</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>96483753</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWIvNWQv0KYtMDAwMDcxMzQxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -133376,10 +133517,10 @@
 </offer>
 <offer id="ts000072298000021772" available="true">
 <url>https://kmt5.com.ua/kabel-usb-c-3a-1m-hoco-x82-silicone-black</url>
-<price>94.0</price>
-<vendorprice>50.0</vendorprice>
-<vendorpricedoll>1.1</vendorpricedoll>
-<rrcdoll>2.09</rrcdoll>
+<price>89.0</price>
+<vendorprice>45.0</vendorprice>
+<vendorpricedoll>0.98</vendorpricedoll>
+<rrcdoll>1.96</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>96483753</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzQvMTUv0KYtMDAwMDcyMjk4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -133401,10 +133542,10 @@
 </offer>
 <offer id="ts000072298000021773" available="true">
 <url>https://kmt5.com.ua/kabel-usb-c-3a-1m-hoco-x82-silicone-white</url>
-<price>94.0</price>
-<vendorprice>50.0</vendorprice>
-<vendorpricedoll>1.1</vendorpricedoll>
-<rrcdoll>2.09</rrcdoll>
+<price>89.0</price>
+<vendorprice>45.0</vendorprice>
+<vendorpricedoll>0.98</vendorpricedoll>
+<rrcdoll>1.96</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>96483753</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzUvNzgv0KYtMDAwMDcyMjk4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -133508,10 +133649,10 @@
 </offer>
 <offer id="ts000081774" available="true">
 <url>https://kmt5.com.ua/kabel-usb-c-to-c-60w-1m-hoco-x118</url>
-<price>158.0</price>
-<vendorprice>85.0</vendorprice>
-<vendorpricedoll>1.88</vendorpricedoll>
-<rrcdoll>3.5</rrcdoll>
+<price>153.0</price>
+<vendorprice>77.0</vendorprice>
+<vendorpricedoll>1.7</vendorpricedoll>
+<rrcdoll>3.4</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>51161204</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmQvYzEv0KYtMDAwMDgxNzc0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -135896,10 +136037,10 @@
 </offer>
 <offer id="ts000083240000031156" available="true">
 <url>https://kmt5.com.ua/cable-usb-c-to-lightning-30-w-1m-borofone-bx123-black</url>
-<price>93.0</price>
-<vendorprice>48.0</vendorprice>
-<vendorpricedoll>1.05</vendorpricedoll>
-<rrcdoll>2.05</rrcdoll>
+<price>89.0</price>
+<vendorprice>45.0</vendorprice>
+<vendorpricedoll>0.98</vendorpricedoll>
+<rrcdoll>1.96</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>71294670</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmMvMDYv0KYtMDAwMDgzMjQwXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -135916,10 +136057,10 @@
 </offer>
 <offer id="ts000083240000031157" available="true">
 <url>https://kmt5.com.ua/cable-usb-c-to-lightning-30-w-1m-borofone-bx123-white</url>
-<price>93.0</price>
-<vendorprice>48.0</vendorprice>
-<vendorpricedoll>1.05</vendorpricedoll>
-<rrcdoll>2.05</rrcdoll>
+<price>89.0</price>
+<vendorprice>45.0</vendorprice>
+<vendorpricedoll>0.98</vendorpricedoll>
+<rrcdoll>1.96</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>71294670</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2YvNjQv0KYtMDAwMDgzMjQwXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -138330,10 +138471,10 @@
 </offer>
 <offer id="ts000080589000029223" available="true">
 <url>https://kmt5.com.ua/kabel-lightning-24a-1m-hoco-x96-black</url>
-<price>62.0</price>
-<vendorprice>34.0</vendorprice>
-<vendorpricedoll>0.75</vendorpricedoll>
-<rrcdoll>1.38</rrcdoll>
+<price>54.0</price>
+<vendorprice>27.0</vendorprice>
+<vendorpricedoll>0.6</vendorpricedoll>
+<rrcdoll>1.2</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>82989936</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2UvNmMv0KYtMDAwMDgwNTg5XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -138349,10 +138490,10 @@
 </offer>
 <offer id="ts000080589000029224" available="true">
 <url>https://kmt5.com.ua/kabel-lightning-24a-1m-hoco-x96-white</url>
-<price>62.0</price>
-<vendorprice>34.0</vendorprice>
-<vendorpricedoll>0.75</vendorpricedoll>
-<rrcdoll>1.38</rrcdoll>
+<price>54.0</price>
+<vendorprice>27.0</vendorprice>
+<vendorpricedoll>0.6</vendorpricedoll>
+<rrcdoll>1.2</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>82989936</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTQvMjcv0KYtMDAwMDgwNTg5XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -140106,10 +140247,10 @@
 </offer>
 <offer id="ts000083242000031160" available="true">
 <url>https://kmt5.com.ua/kabel-usb-c-3a-1m-borofone-bx123-black</url>
-<price>66.0</price>
-<vendorprice>34.0</vendorprice>
-<vendorpricedoll>0.75</vendorpricedoll>
-<rrcdoll>1.46</rrcdoll>
+<price>60.0</price>
+<vendorprice>30.0</vendorprice>
+<vendorpricedoll>0.66</vendorpricedoll>
+<rrcdoll>1.32</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>96483753</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWUvMDcv0KYtMDAwMDgzMjQyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -140126,10 +140267,10 @@
 </offer>
 <offer id="ts000083242000031161" available="true">
 <url>https://kmt5.com.ua/kabel-usb-c-3a-1m-borofone-bx123-white</url>
-<price>66.0</price>
-<vendorprice>34.0</vendorprice>
-<vendorpricedoll>0.75</vendorpricedoll>
-<rrcdoll>1.46</rrcdoll>
+<price>60.0</price>
+<vendorprice>30.0</vendorprice>
+<vendorpricedoll>0.66</vendorpricedoll>
+<rrcdoll>1.32</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>96483753</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTMvMTEv0KYtMDAwMDgzMjQyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -140474,10 +140615,10 @@
 </offer>
 <offer id="ts000080581" available="true">
 <url>https://kmt5.com.ua/kabel-usb-c-to-c-60w-1m-hoco-u119</url>
-<price>128.0</price>
-<vendorprice>70.0</vendorprice>
-<vendorpricedoll>1.55</vendorpricedoll>
-<rrcdoll>2.85</rrcdoll>
+<price>117.0</price>
+<vendorprice>59.0</vendorprice>
+<vendorpricedoll>1.3</vendorpricedoll>
+<rrcdoll>2.6</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>51161204</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDYvMDgv0KYtMDAwMDgwNTgxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -141803,10 +141944,10 @@
 </offer>
 <offer id="ts000083206" available="true">
 <url>https://kmt5.com.ua/battery-15v-hoco-ja2a-aaa-2pcs</url>
-<price>36.0</price>
-<vendorprice>23.0</vendorprice>
-<vendorpricedoll>0.5</vendorpricedoll>
-<rrcdoll>0.78</rrcdoll>
+<price>34.0</price>
+<vendorprice>22.0</vendorprice>
+<vendorpricedoll>0.47</vendorpricedoll>
+<rrcdoll>0.75</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>35220530</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDgvM2Uv0KYtMDAwMDgzMjA2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -146078,10 +146219,10 @@
 </offer>
 <offer id="ts000081677" available="true">
 <url>https://kmt5.com.ua/gimbal-stabilizer-hoco-k23</url>
-<price>876.0</price>
-<vendorprice>562.0</vendorprice>
-<vendorpricedoll>12.5</vendorpricedoll>
-<rrcdoll>19.51</rrcdoll>
+<price>827.0</price>
+<vendorprice>517.0</vendorprice>
+<vendorpricedoll>11.5</vendorpricedoll>
+<rrcdoll>18.4</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>81717433</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTkvYTQv0KYtMDAwMDgxNjc3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -149444,10 +149585,10 @@
 </offer>
 <offer id="ts000083183" available="true">
 <url>https://kmt5.com.ua/besprovodnoy-mikrofon-dlya-telefona-usb-c-borofone-bfk16</url>
-<price>259.0</price>
-<vendorprice>130.0</vendorprice>
-<vendorpricedoll>2.88</vendorpricedoll>
-<rrcdoll>5.76</rrcdoll>
+<price>243.0</price>
+<vendorprice>122.0</vendorprice>
+<vendorpricedoll>2.7</vendorpricedoll>
+<rrcdoll>5.4</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>38556079</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWUvOTgv0KYtMDAwMDgzMTgzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -156322,10 +156463,10 @@
 </offer>
 <offer id="ts000073485000023409" available="true">
 <url>https://kmt5.com.ua/bluetooth-garntura-tws-hoco-ew45-forest-cat</url>
-<price>611.0</price>
-<vendorprice>310.0</vendorprice>
-<vendorpricedoll>6.9</vendorpricedoll>
-<rrcdoll>13.59</rrcdoll>
+<price>602.0</price>
+<vendorprice>301.0</vendorprice>
+<vendorpricedoll>6.7</vendorpricedoll>
+<rrcdoll>13.4</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>54581499</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGUvZTAv0KYtMDAwMDczNDg1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -156342,10 +156483,10 @@
 </offer>
 <offer id="ts000073485000023408" available="true">
 <url>https://kmt5.com.ua/bluetooth-garntura-tws-hoco-ew45-magic-cat</url>
-<price>611.0</price>
-<vendorprice>310.0</vendorprice>
-<vendorpricedoll>6.9</vendorpricedoll>
-<rrcdoll>13.59</rrcdoll>
+<price>602.0</price>
+<vendorprice>301.0</vendorprice>
+<vendorpricedoll>6.7</vendorpricedoll>
+<rrcdoll>13.4</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>54581499</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWMvZGYv0KYtMDAwMDczNDg1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -156506,10 +156647,10 @@
 </offer>
 <offer id="ts000056892000015683" available="true">
 <url>https://kmt5.com.ua/naushniki-s-mikrofonom-hoco-m34-honor-music-black</url>
-<price>104.0</price>
-<vendorprice>54.0</vendorprice>
-<vendorpricedoll>1.2</vendorpricedoll>
-<rrcdoll>2.31</rrcdoll>
+<price>99.0</price>
+<vendorprice>50.0</vendorprice>
+<vendorpricedoll>1.1</vendorpricedoll>
+<rrcdoll>2.2</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>72062147</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjMvOWQv0KYtMDAwMDU2ODkyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -156530,8 +156671,8 @@
 <offer id="ts000071109000019814" available="true">
 <url>https://kmt5.com.ua/navushniki-z-mkrofonom-35mm-hoco-m60-perfect-sound-universal-black</url>
 <price>108.0</price>
-<vendorprice>59.0</vendorprice>
-<vendorpricedoll>1.3</vendorpricedoll>
+<vendorprice>54.0</vendorprice>
+<vendorpricedoll>1.2</vendorpricedoll>
 <rrcdoll>2.4</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>72062147</categoryId>
@@ -157831,10 +157972,10 @@
 </offer>
 <offer id="ts000083127000031078" available="true">
 <url>https://kmt5.com.ua/bluetooth-speaker-hoco-hc44-blue</url>
-<price>788.0</price>
-<vendorprice>400.0</vendorprice>
-<vendorpricedoll>8.9</vendorpricedoll>
-<rrcdoll>17.54</rrcdoll>
+<price>692.0</price>
+<vendorprice>346.0</vendorprice>
+<vendorpricedoll>7.7</vendorpricedoll>
+<rrcdoll>15.4</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>31204796</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2IvYjQv0KYtMDAwMDgzMTI3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -157851,10 +157992,10 @@
 </offer>
 <offer id="ts000083231" available="true">
 <url>https://kmt5.com.ua/bluetooth-speaker-hoco-hc45</url>
-<price>753.0</price>
-<vendorprice>382.0</vendorprice>
-<vendorpricedoll>8.5</vendorpricedoll>
-<rrcdoll>16.75</rrcdoll>
+<price>710.0</price>
+<vendorprice>355.0</vendorprice>
+<vendorpricedoll>7.9</vendorpricedoll>
+<rrcdoll>15.8</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>31204796</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDcvZWUv0KYtMDAwMDgzMjMxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -158097,10 +158238,10 @@
 </offer>
 <offer id="ts000083228000031152" available="true">
 <url>https://kmt5.com.ua/bluetooth-garntura-tws-hoco-eq100-black</url>
-<price>859.0</price>
-<vendorprice>441.0</vendorprice>
-<vendorpricedoll>9.8</vendorpricedoll>
-<rrcdoll>19.12</rrcdoll>
+<price>827.0</price>
+<vendorprice>414.0</vendorprice>
+<vendorpricedoll>9.2</vendorpricedoll>
+<rrcdoll>18.4</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>54581499</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTIvY2Mv0KYtMDAwMDgzMjI4XzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
@@ -158117,10 +158258,10 @@
 </offer>
 <offer id="ts000083228000031153" available="true">
 <url>https://kmt5.com.ua/bluetooth-garntura-tws-hoco-eq100-white</url>
-<price>859.0</price>
-<vendorprice>441.0</vendorprice>
-<vendorpricedoll>9.8</vendorpricedoll>
-<rrcdoll>19.12</rrcdoll>
+<price>827.0</price>
+<vendorprice>414.0</vendorprice>
+<vendorpricedoll>9.2</vendorpricedoll>
+<rrcdoll>18.4</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>54581499</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzAvMDQv0KYtMDAwMDgzMjI4XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
@@ -158885,10 +159026,10 @@
 </offer>
 <offer id="ts000072751000022649" available="true">
 <url>https://kmt5.com.ua/bluetoothgarntura-borofone-bc37-imperor-black</url>
-<price>558.0</price>
-<vendorprice>283.0</vendorprice>
-<vendorpricedoll>6.3</vendorpricedoll>
-<rrcdoll>12.42</rrcdoll>
+<price>535.0</price>
+<vendorprice>268.0</vendorprice>
+<vendorpricedoll>5.95</vendorpricedoll>
+<rrcdoll>11.9</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>92217225</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzEvNjIv0KYtMDAwMDcyNzUxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -159999,10 +160140,10 @@
 </offer>
 <offer id="ts000083193000031150" available="true">
 <url>https://kmt5.com.ua/karaoke-mikrofon-hoco-l24-blue</url>
-<price>882.0</price>
-<vendorprice>441.0</vendorprice>
-<vendorpricedoll>9.8</vendorpricedoll>
-<rrcdoll>19.64</rrcdoll>
+<price>827.0</price>
+<vendorprice>414.0</vendorprice>
+<vendorpricedoll>9.2</vendorpricedoll>
+<rrcdoll>18.4</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>89410283</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGIvMTcv0KYtMDAwMDgzMTkzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -160020,10 +160161,10 @@
 </offer>
 <offer id="ts000083193000031149" available="true">
 <url>https://kmt5.com.ua/karaoke-mikrofon-hoco-l24-white</url>
-<price>882.0</price>
-<vendorprice>441.0</vendorprice>
-<vendorpricedoll>9.8</vendorpricedoll>
-<rrcdoll>19.64</rrcdoll>
+<price>827.0</price>
+<vendorprice>414.0</vendorprice>
+<vendorpricedoll>9.2</vendorpricedoll>
+<rrcdoll>18.4</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>89410283</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTEvZjQv0KYtMDAwMDgzMTkzXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -161073,10 +161214,10 @@
 </offer>
 <offer id="ts000083188000031143" available="true">
 <url>https://kmt5.com.ua/navushniki-bluetooth-hoco-w68-calma-metal-grey</url>
-<price>1198.0</price>
-<vendorprice>611.0</vendorprice>
-<vendorpricedoll>13.6</vendorpricedoll>
-<rrcdoll>26.66</rrcdoll>
+<price>1123.0</price>
+<vendorprice>562.0</vendorprice>
+<vendorpricedoll>12.5</vendorpricedoll>
+<rrcdoll>25.0</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>22933428</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjMvZmYv0KYtMDAwMDgzMTg4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -161096,10 +161237,10 @@
 </offer>
 <offer id="ts000083188000031144" available="true">
 <url>https://kmt5.com.ua/navushniki-bluetooth-hoco-w68-calma-silver</url>
-<price>1198.0</price>
-<vendorprice>611.0</vendorprice>
-<vendorpricedoll>13.6</vendorpricedoll>
-<rrcdoll>26.66</rrcdoll>
+<price>1123.0</price>
+<vendorprice>562.0</vendorprice>
+<vendorpricedoll>12.5</vendorpricedoll>
+<rrcdoll>25.0</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>22933428</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGUvMmEv0KYtMDAwMDgzMTg4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -161119,10 +161260,10 @@
 </offer>
 <offer id="ts000083523" available="true">
 <url>https://kmt5.com.ua/navushniki-bluetooth-hoco-w71-cool</url>
-<price>1399.0</price>
-<vendorprice>710.0</vendorprice>
-<vendorpricedoll>15.8</vendorpricedoll>
-<rrcdoll>31.14</rrcdoll>
+<price>1303.0</price>
+<vendorprice>652.0</vendorprice>
+<vendorpricedoll>14.5</vendorpricedoll>
+<rrcdoll>29.0</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>22933428</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmIvOWUv0KYtMDAwMDgzNTIzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -164845,6 +164986,29 @@
 <param name="Бренд">Hoco</param>
 <param name="Компьютерные аксессуары">Веб-Камеры</param>
 </offer>
+<offer id="ts000078660000026854" available="true">
+<url>https://kmt5.com.ua/bezdrotova-misha-hoco-gm25-royal-dualmode-dark-night-black</url>
+<price>410.0</price>
+<vendorprice>221.0</vendorprice>
+<vendorpricedoll>4.9</vendorpricedoll>
+<rrcdoll>9.12</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>84259818</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGUvNDIv0KYtMDAwMDc4NjYwXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDMvYzQv0KYtMDAwMDc4NjYwXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODYvMmUv0KYtMDAwMDc4NjYwXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmYvNWUv0KYtMDAwMDc4NjYwXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzcvNjAv0KYtMDAwMDc4NjYwXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWQvMmQv0KYtMDAwMDc4NjYwXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Hoco</vendor>
+<vendorCode>Ц-000078660</vendorCode>
+<code>778074</code>
+<name>Wireless Mouse — Hoco GM25 black — dark night black</name>
+<description><![CDATA[Материал: ABS Размеры: 113х64х37 мм; Вес: 65 г Схема: Хань Тянься; Чип: MX8650 Режим связи: 2,4 ГГц / Bluetooth (3.0+5.2) Значение DPI: 800-1200-1600 (значение CPI: 800-1200-1600) Срок службы: 3 миллиона раз Кнопки: 4 кнопки]]></description>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Компьютерные аксессуары">Компьютерные мыши</param>
+</offer>
 <offer id="ts000078660000026927" available="true">
 <url>https://kmt5.com.ua/bezdrotova-misha-hoco-gm25-royal-dualmode-space-white</url>
 <price>410.0</price>
@@ -167071,10 +167235,10 @@
 </offer>
 <offer id="ts000083194" available="true">
 <url>https://kmt5.com.ua/klavatura-hoco-gm61</url>
-<price>666.0</price>
-<vendorprice>333.0</vendorprice>
-<vendorpricedoll>7.4</vendorpricedoll>
-<rrcdoll>14.83</rrcdoll>
+<price>625.0</price>
+<vendorprice>313.0</vendorprice>
+<vendorpricedoll>6.95</vendorpricedoll>
+<rrcdoll>13.9</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>45901704</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjYvMjUv0KYtMDAwMDgzMTk0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -168510,10 +168674,10 @@
 </offer>
 <offer id="ts000080906000029527" available="true">
 <url>https://kmt5.com.ua/smart-sports-watch-call-version-hoco-y104-black</url>
-<price>2338.0</price>
-<vendorprice>1258.0</vendorprice>
-<vendorpricedoll>28.0</vendorpricedoll>
-<rrcdoll>52.07</rrcdoll>
+<price>2380.0</price>
+<vendorprice>1190.0</vendorprice>
+<vendorpricedoll>26.5</vendorpricedoll>
+<rrcdoll>53.0</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>52936706</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2EvOTQv0KYtMDAwMDgwOTA2XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -168531,10 +168695,10 @@
 </offer>
 <offer id="ts000080906000029528" available="true">
 <url>https://kmt5.com.ua/smart-sports-watch-call-version-hoco-y104-blue</url>
-<price>2338.0</price>
-<vendorprice>1258.0</vendorprice>
-<vendorpricedoll>28.0</vendorpricedoll>
-<rrcdoll>52.07</rrcdoll>
+<price>2380.0</price>
+<vendorprice>1190.0</vendorprice>
+<vendorpricedoll>26.5</vendorpricedoll>
+<rrcdoll>53.0</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>52936706</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWUvNGQv0KYtMDAwMDgwOTA2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -169017,10 +169181,10 @@
 </offer>
 <offer id="ts000083191000031147" available="true">
 <url>https://kmt5.com.ua/smart-sports-watch-call-version-hoco-y42-black</url>
-<price>1402.0</price>
-<vendorprice>710.0</vendorprice>
-<vendorpricedoll>15.8</vendorpricedoll>
-<rrcdoll>31.21</rrcdoll>
+<price>1321.0</price>
+<vendorprice>661.0</vendorprice>
+<vendorpricedoll>14.7</vendorpricedoll>
+<rrcdoll>29.4</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>37246614</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2YvMmYv0KYtMDAwMDgzMTkxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -169044,10 +169208,10 @@
 </offer>
 <offer id="ts000083191000031148" available="true">
 <url>https://kmt5.com.ua/smart-sports-watch-call-version-hoco-y42-silver</url>
-<price>1402.0</price>
-<vendorprice>710.0</vendorprice>
-<vendorpricedoll>15.8</vendorpricedoll>
-<rrcdoll>31.21</rrcdoll>
+<price>1321.0</price>
+<vendorprice>661.0</vendorprice>
+<vendorpricedoll>14.7</vendorpricedoll>
+<rrcdoll>29.4</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>37246614</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjYvOTMv0KYtMDAwMDgzMTkxXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -169071,10 +169235,10 @@
 </offer>
 <offer id="ts000081700000030009" available="true">
 <url>https://kmt5.com.ua/smart-sports-watch-call-version-borofone-bd14-silver</url>
-<price>726.0</price>
-<vendorprice>369.0</vendorprice>
-<vendorpricedoll>8.2</vendorpricedoll>
-<rrcdoll>16.16</rrcdoll>
+<price>710.0</price>
+<vendorprice>355.0</vendorprice>
+<vendorpricedoll>7.9</vendorpricedoll>
+<rrcdoll>15.8</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>37246614</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTQvMWYv0KYtMDAwMDgxNzAwXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -169690,10 +169854,10 @@
 </offer>
 <offer id="ts000083132" available="true">
 <url>https://kmt5.com.ua/povyazka-dlya-volos-hoco-ea10</url>
-<price>836.0</price>
-<vendorprice>530.0</vendorprice>
-<vendorpricedoll>11.8</vendorpricedoll>
-<rrcdoll>18.61</rrcdoll>
+<price>705.0</price>
+<vendorprice>441.0</vendorprice>
+<vendorpricedoll>9.8</vendorpricedoll>
+<rrcdoll>15.68</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>37246614</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDAvMTkv0KYtMDAwMDgzMTMyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -172234,10 +172398,10 @@
 </offer>
 <offer id="ts000082106000030182" available="true">
 <url>https://kmt5.com.ua/remnets-hoco-wa39-apple-watch-38-mm-40-mm-41-mm-armygreen-black</url>
-<price>342.0</price>
-<vendorprice>175.0</vendorprice>
-<vendorpricedoll>3.88</vendorpricedoll>
-<rrcdoll>7.6</rrcdoll>
+<price>315.0</price>
+<vendorprice>158.0</vendorprice>
+<vendorpricedoll>3.5</vendorpricedoll>
+<rrcdoll>7.0</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>56448677</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmQvZGYv0KYtMDAwMDgyMTA2XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -172257,10 +172421,10 @@
 </offer>
 <offer id="ts000082106000030179" available="true">
 <url>https://kmt5.com.ua/remnets-hoco-wa39-apple-watch-38-mm-40-mm-41-mm-black-orange</url>
-<price>342.0</price>
-<vendorprice>175.0</vendorprice>
-<vendorpricedoll>3.88</vendorpricedoll>
-<rrcdoll>7.6</rrcdoll>
+<price>315.0</price>
+<vendorprice>158.0</vendorprice>
+<vendorpricedoll>3.5</vendorpricedoll>
+<rrcdoll>7.0</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>56448677</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGMvZjUv0KYtMDAwMDgyMTA2XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -172280,10 +172444,10 @@
 </offer>
 <offer id="ts000082106000030180" available="true">
 <url>https://kmt5.com.ua/remnets-hoco-wa39-apple-watch-38-mm-40-mm-41-mm-coal-black</url>
-<price>342.0</price>
-<vendorprice>175.0</vendorprice>
-<vendorpricedoll>3.88</vendorpricedoll>
-<rrcdoll>7.6</rrcdoll>
+<price>315.0</price>
+<vendorprice>158.0</vendorprice>
+<vendorpricedoll>3.5</vendorpricedoll>
+<rrcdoll>7.0</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>56448677</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzEvNjQv0KYtMDAwMDgyMTA2XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -172303,10 +172467,10 @@
 </offer>
 <offer id="ts000082106000030181" available="true">
 <url>https://kmt5.com.ua/remnets-hoco-wa39-apple-watch-38-mm-40-mm-41-mm-starlight-orange</url>
-<price>342.0</price>
-<vendorprice>175.0</vendorprice>
-<vendorpricedoll>3.88</vendorpricedoll>
-<rrcdoll>7.6</rrcdoll>
+<price>315.0</price>
+<vendorprice>158.0</vendorprice>
+<vendorpricedoll>3.5</vendorpricedoll>
+<rrcdoll>7.0</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>56448677</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTEvODAv0KYtMDAwMDgyMTA2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -181493,27 +181657,6 @@
 <param name="Бренд">Различные</param>
 <param name="Аксессуары Для Смарт Часов">Браслеты</param>
 </offer>
-<offer id="ts000077745000026100" available="true">
-<url>https://kmt5.com.ua/remnets-silicone-magic-lock-unversalniy-22-mm-gray</url>
-<price>111.0</price>
-<vendorprice>57.0</vendorprice>
-<vendorpricedoll>1.25</vendorpricedoll>
-<rrcdoll>2.46</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>19143218</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWMvNjMv0KYtMDAwMDc3NzQ1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWIvMDEv0KYtMDAwMDc3NzQ1XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000077745</vendorCode>
-<code>776397</code>
-<name>Ремінець Silicone Magic Lock Універсальний 22 mm — Gray</name>
-<quantity_in_stock>7</quantity_in_stock>
-<param name="Марка">Universal</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Силикон</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-<param name="Цвет">Mix Color</param>
-</offer>
 <offer id="ts000077745000026102" available="true">
 <url>https://kmt5.com.ua/remnets-silicone-magic-lock-unversalniy-22-mm-premium-blue</url>
 <price>111.0</price>
@@ -186294,10 +186437,10 @@
 </offer>
 <offer id="ts000082821" available="true">
 <url>https://kmt5.com.ua/car-holder-borofone-bh116-vicktory-car-holder-for-dashboard</url>
-<price>221.0</price>
-<vendorprice>130.0</vendorprice>
-<vendorpricedoll>2.88</vendorpricedoll>
-<rrcdoll>4.92</rrcdoll>
+<price>206.0</price>
+<vendorprice>121.0</vendorprice>
+<vendorpricedoll>2.69</vendorpricedoll>
+<rrcdoll>4.57</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>80861603</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzAvMDcv0KYtMDAwMDgyODIxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -186454,10 +186597,10 @@
 </offer>
 <offer id="ts000073870000023743" available="true">
 <url>https://kmt5.com.ua/avtotrimach-magntniy-na-povtroprovd-hoco-h12-fine-jade-black</url>
-<price>256.0</price>
-<vendorprice>176.0</vendorprice>
-<vendorpricedoll>3.9</vendorpricedoll>
-<rrcdoll>5.7</rrcdoll>
+<price>268.0</price>
+<vendorprice>158.0</vendorprice>
+<vendorpricedoll>3.5</vendorpricedoll>
+<rrcdoll>5.95</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>83056549</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDcvMGQv0KYtMDAwMDczODcwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -187527,10 +187670,10 @@
 </offer>
 <offer id="ts000081686" available="true">
 <url>https://kmt5.com.ua/car-holder-borofone-bh129-follower-gravity</url>
-<price>136.0</price>
-<vendorprice>81.0</vendorprice>
-<vendorpricedoll>1.8</vendorpricedoll>
-<rrcdoll>3.02</rrcdoll>
+<price>127.0</price>
+<vendorprice>75.0</vendorprice>
+<vendorpricedoll>1.66</vendorpricedoll>
+<rrcdoll>2.82</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>29376332</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTkvYzEv0KYtMDAwMDgxNjg2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -187588,10 +187731,10 @@
 </offer>
 <offer id="ts000083239" available="true">
 <url>https://kmt5.com.ua/car-holder-borofone-bh142-support-pull-clip-car-holdercenter-console</url>
-<price>189.0</price>
-<vendorprice>113.0</vendorprice>
-<vendorpricedoll>2.5</vendorpricedoll>
-<rrcdoll>4.2</rrcdoll>
+<price>168.0</price>
+<vendorprice>99.0</vendorprice>
+<vendorpricedoll>2.2</vendorpricedoll>
+<rrcdoll>3.74</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>29376332</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzUvNzEv0KYtMDAwMDgzMjM5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -187911,10 +188054,10 @@
 </offer>
 <offer id="ts000083213" available="true">
 <url>https://kmt5.com.ua/car-holder-hoco-h99-crown-magnetic-car-holderheadrest</url>
-<price>272.0</price>
-<vendorprice>162.0</vendorprice>
-<vendorpricedoll>3.6</vendorpricedoll>
-<rrcdoll>6.05</rrcdoll>
+<price>226.0</price>
+<vendorprice>133.0</vendorprice>
+<vendorpricedoll>2.95</vendorpricedoll>
+<rrcdoll>5.02</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>83056549</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDcvZjkv0KYtMDAwMDgzMjEzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -188326,10 +188469,10 @@
 </offer>
 <offer id="ts000083118" available="true">
 <url>https://kmt5.com.ua/carplay-adapter-hoco-hu3</url>
-<price>921.0</price>
-<vendorprice>548.0</vendorprice>
-<vendorpricedoll>12.2</vendorpricedoll>
-<rrcdoll>20.49</rrcdoll>
+<price>878.0</price>
+<vendorprice>517.0</vendorprice>
+<vendorpricedoll>11.5</vendorpricedoll>
+<rrcdoll>19.55</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>71022154</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDAvMGUv0KYtMDAwMDgzMTE4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -191663,10 +191806,10 @@
 </offer>
 <offer id="ts000083103" available="true">
 <url>https://kmt5.com.ua/veloderjatel-hoco-h95</url>
-<price>410.0</price>
-<vendorprice>247.0</vendorprice>
-<vendorpricedoll>5.5</vendorpricedoll>
-<rrcdoll>9.12</rrcdoll>
+<price>367.0</price>
+<vendorprice>216.0</vendorprice>
+<vendorpricedoll>4.8</vendorpricedoll>
+<rrcdoll>8.16</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>87943739</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTEvNWIv0KYtMDAwMDgzMTAzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -194841,10 +194984,10 @@
 </offer>
 <offer id="ts000081785" available="true">
 <url>https://kmt5.com.ua/stylus-pen-hoco-gm114</url>
-<price>487.0</price>
-<vendorprice>247.0</vendorprice>
-<vendorpricedoll>5.5</vendorpricedoll>
-<rrcdoll>10.84</rrcdoll>
+<price>467.0</price>
+<vendorprice>234.0</vendorprice>
+<vendorpricedoll>5.2</vendorpricedoll>
+<rrcdoll>10.4</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>40334165</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDgvN2Yv0KYtMDAwMDgxNzg1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -196100,23 +196243,6 @@
 <quantity_in_stock>28</quantity_in_stock>
 <param name="Бренд">Различные</param>
 </offer>
-<offer id="ts000083986000031787" available="true">
-<url>https://kmt5.com.ua/brelok-swarovski-color-bear-black</url>
-<price>86.0</price>
-<vendorprice>43.0</vendorprice>
-<vendorpricedoll>0.95</vendorpricedoll>
-<rrcdoll>1.9</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>16846687</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTQvY2Qv0KYtMDAwMDgzOTg2XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTIvZTUv0KYtMDAwMDgzOTg2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000083986</vendorCode>
-<code>791429</code>
-<name>Брелок Swarovski Color Bear — Black</name>
-<quantity_in_stock>6</quantity_in_stock>
-<param name="Бренд">Различные</param>
-</offer>
 <offer id="ts000083986000032119" available="true">
 <url>https://kmt5.com.ua/brelok-swarovski-color-bear-mint</url>
 <price>86.0</price>
@@ -196134,40 +196260,6 @@
 <quantity_in_stock>27</quantity_in_stock>
 <param name="Бренд">Различные</param>
 </offer>
-<offer id="ts000083986000031789" available="true">
-<url>https://kmt5.com.ua/brelok-swarovski-color-bear-pink</url>
-<price>86.0</price>
-<vendorprice>43.0</vendorprice>
-<vendorpricedoll>0.95</vendorpricedoll>
-<rrcdoll>1.9</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>16846687</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDMvMDgv0KYtMDAwMDgzOTg2XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTIvZTUv0KYtMDAwMDgzOTg2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000083986</vendorCode>
-<code>791431</code>
-<name>Брелок Swarovski Color Bear — Pink</name>
-<quantity_in_stock>9</quantity_in_stock>
-<param name="Бренд">Различные</param>
-</offer>
-<offer id="ts000083986000031790" available="true">
-<url>https://kmt5.com.ua/brelok-swarovski-color-bear-green</url>
-<price>86.0</price>
-<vendorprice>43.0</vendorprice>
-<vendorpricedoll>0.95</vendorpricedoll>
-<rrcdoll>1.9</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>16846687</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDUvYTUv0KYtMDAwMDgzOTg2XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTIvZTUv0KYtMDAwMDgzOTg2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000083986</vendorCode>
-<code>791432</code>
-<name>Брелок Swarovski Color Bear — Purple</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Различные</param>
-</offer>
 <offer id="ts000083986000032120" available="true">
 <url>https://kmt5.com.ua/brelok-swarovski-color-bear-silver</url>
 <price>86.0</price>
@@ -196183,23 +196275,6 @@
 <code>791918</code>
 <name>Брелок Swarovski Color Bear — Silver</name>
 <quantity_in_stock>5</quantity_in_stock>
-<param name="Бренд">Различные</param>
-</offer>
-<offer id="ts000083986000031788" available="true">
-<url>https://kmt5.com.ua/brelok-swarovski-color-bear-white</url>
-<price>86.0</price>
-<vendorprice>43.0</vendorprice>
-<vendorpricedoll>0.95</vendorpricedoll>
-<rrcdoll>1.9</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>16846687</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDIvNTIv0KYtMDAwMDgzOTg2XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTIvZTUv0KYtMDAwMDgzOTg2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000083986</vendorCode>
-<code>791430</code>
-<name>Брелок Swarovski Color Bear — White</name>
-<quantity_in_stock>11</quantity_in_stock>
 <param name="Бренд">Различные</param>
 </offer>
 <offer id="ts000083985000031782" available="true">
@@ -198405,6 +198480,25 @@
 <param name="Бренд">Различные</param>
 <param name="Украшения для Телефонов">Шнурки</param>
 </offer>
+<offer id="ts000082632000031260" available="true">
+<url>https://kmt5.com.ua/shnurok-na-sheyu-multicore-black</url>
+<price>213.0</price>
+<vendorprice>113.0</vendorprice>
+<vendorpricedoll>2.5</vendorpricedoll>
+<rrcdoll>4.73</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>16846687</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzcvNjYv0KYtMDAwMDgyNjMyXzEzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2QvNGEv0KYtMDAwMDgyNjMyXzE1LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTQvZmYv0KYtMDAwMDgyNjMyXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000082632</vendorCode>
+<code>790187</code>
+<name>Шнурок на шею «Multicore» — Black</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Различные</param>
+<param name="Украшения для Телефонов">Шнурки</param>
+</offer>
 <offer id="ts000082632000031257" available="true">
 <url>https://kmt5.com.ua/shnurok-na-sheyu-multicore-lavander</url>
 <price>213.0</price>
@@ -199969,10 +200063,10 @@
 </offer>
 <offer id="ts000083196" available="true">
 <url>https://kmt5.com.ua/phone-stand-hoco-gh10</url>
-<price>414.0</price>
-<vendorprice>212.0</vendorprice>
-<vendorpricedoll>4.7</vendorpricedoll>
-<rrcdoll>9.21</rrcdoll>
+<price>405.0</price>
+<vendorprice>203.0</vendorprice>
+<vendorpricedoll>4.5</vendorpricedoll>
+<rrcdoll>9.0</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>52765482</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDYvZDMv0KYtMDAwMDgzMTk2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -199993,10 +200087,10 @@
 </offer>
 <offer id="ts000083120" available="true">
 <url>https://kmt5.com.ua/phone-stand-hoco-gt20</url>
-<price>390.0</price>
-<vendorprice>198.0</vendorprice>
-<vendorpricedoll>4.4</vendorpricedoll>
-<rrcdoll>8.67</rrcdoll>
+<price>351.0</price>
+<vendorprice>176.0</vendorprice>
+<vendorpricedoll>3.9</vendorpricedoll>
+<rrcdoll>7.8</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>52765482</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzcvMDkv0KYtMDAwMDgzMTIwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -200017,10 +200111,10 @@
 </offer>
 <offer id="ts000083211" available="true">
 <url>https://kmt5.com.ua/phone-stand-hoco-h101</url>
-<price>546.0</price>
-<vendorprice>279.0</vendorprice>
-<vendorpricedoll>6.2</vendorpricedoll>
-<rrcdoll>12.15</rrcdoll>
+<price>503.0</price>
+<vendorprice>252.0</vendorprice>
+<vendorpricedoll>5.6</vendorpricedoll>
+<rrcdoll>11.2</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>52765482</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTkvOWYv0KYtMDAwMDgzMjExXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -200041,10 +200135,10 @@
 </offer>
 <offer id="ts000083210" available="true">
 <url>https://kmt5.com.ua/phone-stand-hoco-h102</url>
-<price>564.0</price>
-<vendorprice>288.0</vendorprice>
-<vendorpricedoll>6.4</vendorpricedoll>
-<rrcdoll>12.54</rrcdoll>
+<price>494.0</price>
+<vendorprice>247.0</vendorprice>
+<vendorpricedoll>5.5</vendorpricedoll>
+<rrcdoll>11.0</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>52765482</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjcvMDMv0KYtMDAwMDgzMjEwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -202698,6 +202792,124 @@
 <quantity_in_stock>14</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Видео аксессуары">Камеры видеонаблюдения</param>
+</offer>
+<offer id="ts000083128" available="true">
+<url>https://kmt5.com.ua/instrument-dlya-chistki-ushey-s-kameroy-hoco-hp65</url>
+<price>518.0</price>
+<vendorprice>324.0</vendorprice>
+<vendorpricedoll>7.2</vendorpricedoll>
+<rrcdoll>11.52</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>40002390</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjAvMTYv0KYtMDAwMDgzMTI4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWIvNGMv0KYtMDAwMDgzMTI4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmMvOTIv0KYtMDAwMDgzMTI4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTIvYmIv0KYtMDAwMDgzMTI4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2EvODUv0KYtMDAwMDgzMTI4XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDcvYmEv0KYtMDAwMDgzMTI4XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmIvOGEv0KYtMDAwMDgzMTI4XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjUvOWQv0KYtMDAwMDgzMTI4XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzIvNDEv0KYtMDAwMDgzMTI4XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTcvMmQv0KYtMDAwMDgzMTI4XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<vendor>Hoco</vendor>
+<vendorCode>Ц-000083128</vendorCode>
+<code>789888</code>
+<name>Инструмент для чистки ушей с камерой Hoco HP65</name>
+<quantity_in_stock>87</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Цвет">Mix Color</param>
+</offer>
+<offer id="ts000083448" available="true">
+<url>https://kmt5.com.ua/massajer-hoco-hp54-eye-massager</url>
+<price>1092.0</price>
+<vendorprice>683.0</vendorprice>
+<vendorpricedoll>15.2</vendorpricedoll>
+<rrcdoll>24.32</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>95145044</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGMvOWIv0KYtMDAwMDgzNDQ4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWQvZmEv0KYtMDAwMDgzNDQ4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDEvMzkv0KYtMDAwMDgzNDQ4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGIvMWQv0KYtMDAwMDgzNDQ4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGMvYmMv0KYtMDAwMDgzNDQ4XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWYvM2Qv0KYtMDAwMDgzNDQ4XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzcvY2Uv0KYtMDAwMDgzNDQ4XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzcvMjUv0KYtMDAwMDgzNDQ4XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODIvOTkv0KYtMDAwMDgzNDQ4XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Hoco</vendor>
+<vendorCode>Ц-000083448</vendorCode>
+<code>790668</code>
+<name>Массажер Hoco HP54 Eye Massager</name>
+<quantity_in_stock>42</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+</offer>
+<offer id="ts000083447" available="true">
+<url>https://kmt5.com.ua/mashinka-dlya-strijki-volos-hoco-hp81</url>
+<price>611.0</price>
+<vendorprice>382.0</vendorprice>
+<vendorpricedoll>8.5</vendorpricedoll>
+<rrcdoll>13.6</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>39317560</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODAvMmEv0KYtMDAwMDgzNDQ3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTgvZjMv0KYtMDAwMDgzNDQ3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjYvOTcv0KYtMDAwMDgzNDQ3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzkvNmQv0KYtMDAwMDgzNDQ3XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWEvMDcv0KYtMDAwMDgzNDQ3XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGIvY2Ev0KYtMDAwMDgzNDQ3XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTMvMGYv0KYtMDAwMDgzNDQ3XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjMvZDQv0KYtMDAwMDgzNDQ3XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjQvZGQv0KYtMDAwMDgzNDQ3XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDgvYmYv0KYtMDAwMDgzNDQ3XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<vendor>Hoco</vendor>
+<vendorCode>Ц-000083447</vendorCode>
+<code>790667</code>
+<name>Машинка для стрижки волос — Hoco HP81</name>
+<quantity_in_stock>51</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+</offer>
+<offer id="ts000083134" available="true">
+<url>https://kmt5.com.ua/nasadka-dlya-electric-toothbrush-hoco-hp64</url>
+<price>101.0</price>
+<vendorprice>63.0</vendorprice>
+<vendorpricedoll>1.4</vendorpricedoll>
+<rrcdoll>2.24</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>1140505</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGUvY2Ev0KYtMDAwMDgzMTM0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTUvYmIv0KYtMDAwMDgzMTM0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDYvODEv0KYtMDAwMDgzMTM0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTEvODMv0KYtMDAwMDgzMTM0XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2IvYWQv0KYtMDAwMDgzMTM0XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Hoco</vendor>
+<vendorCode>Ц-000083134</vendorCode>
+<code>789894</code>
+<name>Насадка для Electric Toothbrush Hoco HP64</name>
+<quantity_in_stock>264</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+</offer>
+<offer id="ts000083645" available="true">
+<url>https://kmt5.com.ua/planshet-1095-hoco-hi12</url>
+<price>9430.0</price>
+<vendorprice>4715.0</vendorprice>
+<vendorpricedoll>105.0</vendorpricedoll>
+<rrcdoll>210.0</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>39173668</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGEvMDkv0KYtMDAwMDgzNjQ1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODIvZmQv0KYtMDAwMDgzNjQ1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjIvMTMv0KYtMDAwMDgzNjQ1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWMvYTIv0KYtMDAwMDgzNjQ1XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDIvNDMv0KYtMDAwMDgzNjQ1XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTIvZTQv0KYtMDAwMDgzNjQ1XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2MvZTkv0KYtMDAwMDgzNjQ1XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjIvZmQv0KYtMDAwMDgzNjQ1XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Hoco</vendor>
+<vendorCode>Ц-000083645</vendorCode>
+<code>790933</code>
+<name>Планшет 10.95&quot; Hoco HI12</name>
+<quantity_in_stock>22</quantity_in_stock>
+<param name="Бренд">Hoco</param>
 </offer>
 <offer id="ts000079691" available="true">
 <url>https://kmt5.com.ua/povorotnaya-wifi-ip-kamera-overscam-smart-8k-s-10x-zumom-i-4-linzami</url>
@@ -207388,73 +207600,6 @@
 <quantity_in_stock>10</quantity_in_stock>
 <param name="Бренд">Earldom</param>
 </offer>
-<offer id="ts000083645" available="true">
-<url>https://kmt5.com.ua/planshet-1095-hoco-hi12</url>
-<price>10951.0</price>
-<vendorprice>5613.0</vendorprice>
-<vendorpricedoll>125.0</vendorpricedoll>
-<rrcdoll>243.88</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>39173668</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGEvMDkv0KYtMDAwMDgzNjQ1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODIvZmQv0KYtMDAwMDgzNjQ1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjIvMTMv0KYtMDAwMDgzNjQ1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWMvYTIv0KYtMDAwMDgzNjQ1XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDIvNDMv0KYtMDAwMDgzNjQ1XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTIvZTQv0KYtMDAwMDgzNjQ1XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2MvZTkv0KYtMDAwMDgzNjQ1XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjIvZmQv0KYtMDAwMDgzNjQ1XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000083645</vendorCode>
-<code>790933</code>
-<name>Планшет 10.95&quot; Hoco HI12</name>
-<quantity_in_stock>22</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-</offer>
-<offer id="ts000083448" available="true">
-<url>https://kmt5.com.ua/massajer-hoco-hp54-eye-massager</url>
-<price>1133.0</price>
-<vendorprice>719.0</vendorprice>
-<vendorpricedoll>16.0</vendorpricedoll>
-<rrcdoll>25.23</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>95145044</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGMvOWIv0KYtMDAwMDgzNDQ4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWQvZmEv0KYtMDAwMDgzNDQ4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDEvMzkv0KYtMDAwMDgzNDQ4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGIvMWQv0KYtMDAwMDgzNDQ4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGMvYmMv0KYtMDAwMDgzNDQ4XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWYvM2Qv0KYtMDAwMDgzNDQ4XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzcvY2Uv0KYtMDAwMDgzNDQ4XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzcvMjUv0KYtMDAwMDgzNDQ4XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODIvOTkv0KYtMDAwMDgzNDQ4XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000083448</vendorCode>
-<code>790668</code>
-<name>Массажер Hoco HP54 Eye Massager</name>
-<quantity_in_stock>42</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-</offer>
-<offer id="ts000083134" available="true">
-<url>https://kmt5.com.ua/nasadka-dlya-electric-toothbrush-hoco-hp64</url>
-<price>107.0</price>
-<vendorprice>68.0</vendorprice>
-<vendorpricedoll>1.5</vendorpricedoll>
-<rrcdoll>2.37</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>1140505</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGUvY2Ev0KYtMDAwMDgzMTM0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTUvYmIv0KYtMDAwMDgzMTM0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDYvODEv0KYtMDAwMDgzMTM0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTEvODMv0KYtMDAwMDgzMTM0XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2IvYWQv0KYtMDAwMDgzMTM0XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000083134</vendorCode>
-<code>789894</code>
-<name>Насадка для Electric Toothbrush Hoco HP64</name>
-<quantity_in_stock>264</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-</offer>
 <offer id="ts000083555" available="true">
 <url>https://kmt5.com.ua/podstavka-s-podogrevom-earldom-etc05</url>
 <price>1087.0</price>
@@ -207478,57 +207623,6 @@
 <name>Подставка с подогревом Earldom ET-C05</name>
 <quantity_in_stock>5</quantity_in_stock>
 <param name="Бренд">Earldom</param>
-</offer>
-<offer id="ts000083128" available="true">
-<url>https://kmt5.com.ua/instrument-dlya-chistki-ushey-s-kameroy-hoco-hp65</url>
-<price>554.0</price>
-<vendorprice>351.0</vendorprice>
-<vendorpricedoll>7.8</vendorpricedoll>
-<rrcdoll>12.33</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>40002390</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjAvMTYv0KYtMDAwMDgzMTI4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWIvNGMv0KYtMDAwMDgzMTI4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmMvOTIv0KYtMDAwMDgzMTI4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTIvYmIv0KYtMDAwMDgzMTI4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2EvODUv0KYtMDAwMDgzMTI4XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDcvYmEv0KYtMDAwMDgzMTI4XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmIvOGEv0KYtMDAwMDgzMTI4XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjUvOWQv0KYtMDAwMDgzMTI4XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzIvNDEv0KYtMDAwMDgzMTI4XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTcvMmQv0KYtMDAwMDgzMTI4XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000083128</vendorCode>
-<code>789888</code>
-<name>Инструмент для чистки ушей с камерой Hoco HP65</name>
-<quantity_in_stock>87</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Цвет">Mix Color</param>
-</offer>
-<offer id="ts000083447" available="true">
-<url>https://kmt5.com.ua/mashinka-dlya-strijki-volos-hoco-hp81</url>
-<price>674.0</price>
-<vendorprice>427.0</vendorprice>
-<vendorpricedoll>9.5</vendorpricedoll>
-<rrcdoll>15.01</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>39317560</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODAvMmEv0KYtMDAwMDgzNDQ3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTgvZjMv0KYtMDAwMDgzNDQ3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjYvOTcv0KYtMDAwMDgzNDQ3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzkvNmQv0KYtMDAwMDgzNDQ3XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWEvMDcv0KYtMDAwMDgzNDQ3XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGIvY2Ev0KYtMDAwMDgzNDQ3XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTMvMGYv0KYtMDAwMDgzNDQ3XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjMvZDQv0KYtMDAwMDgzNDQ3XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjQvZGQv0KYtMDAwMDgzNDQ3XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDgvYmYv0KYtMDAwMDgzNDQ3XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000083447</vendorCode>
-<code>790667</code>
-<name>Машинка для стрижки волос — Hoco HP81</name>
-<quantity_in_stock>51</quantity_in_stock>
-<param name="Бренд">Hoco</param>
 </offer>
 <offer id="ts000083227" available="true">
 <url>https://kmt5.com.ua/mashinka-dlya-strijki-volos-hoco-hp27</url>
