@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-07-27 12:10">
+<yml_catalog date="2026-07-27 16:54">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -156028,27 +156028,6 @@
 <quantity_in_stock>9</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Аудіо товари">Навушники Bluetooth</param>
-<param name="Интерфейс подключения">Bluetooth</param>
-</offer>
-<offer id="ts000077385000025536" available="true">
-<url>https://kmt5.com.ua/bluetooth-headset-hoco-e54-black</url>
-<price>280.0</price>
-<vendorprice>151.0</vendorprice>
-<vendorpricedoll>3.35</vendorpricedoll>
-<rrcdoll>6.22</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>92217225</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTcvNzcv0KYtMDAwMDc3Mzg1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjMvYTcv0KYtMDAwMDc3Mzg1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmEvZWYv0KYtMDAwMDc3Mzg1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000077385</vendorCode>
-<code>774058</code>
-<name>Bluetooth Headset Hoco E54 — Black</name>
-<description><![CDATA[1. Материал: АБС-пластик 2. Размер: Д24×Ш16×В23мм; вес: 3 г 3. Версия Bluetooth: 5,0; Чип Bluetooth: синий trum 5335B 4. Емкость аккумулятора: 40 мАч; время зарядки: около 50 минут 5. Время разговора/прослушивания музыки: 4 часа; время ожидания: 100 часов 6, динамик: 8 мм 7. Переключатель голосовой подсказки: если соединение не подключено, дважды щелкните многофункциональную кнопку, и раздастся звуковой сигнал.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Аудіо товари">Bluetooth-гарнітура</param>
 <param name="Интерфейс подключения">Bluetooth</param>
 </offer>
 <offer id="ts000077386000025537" available="true">
