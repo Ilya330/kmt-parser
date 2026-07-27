@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-07-26 15:54">
+<yml_catalog date="2026-07-27 06:18">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -195,7 +195,6 @@
 <category id="60997769" parentId="3470392">44</category>
 <category id="38066463" parentId="3470392">45</category>
 <category id="5583013" parentId="3470392">46</category>
-<category id="98642996" parentId="3470392">49</category>
 <category id="6001330" parentId="22594817">Тип скла</category>
 <category id="3129602" parentId="6001330">Ceramic Glass</category>
 <category id="28384618" parentId="6001330">Full Glue</category>
@@ -24454,27 +24453,6 @@
 <param name="Бренд">Apple</param>
 <param name="Материал">Полиуретан</param>
 </offer>
-<offer id="ts000080608" available="true">
-<url>https://kmt5.com.ua/black-hybrid-case-with-magsafe-iphone-11-pro-max</url>
-<price>187.0</price>
-<vendorprice>113.0</vendorprice>
-<vendorpricedoll>2.5</vendorpricedoll>
-<rrcdoll>4.16</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>61932884</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjEvYTIv0KYtMDAwMDgwNjA4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWIvY2Iv0KYtMDAwMDgwNjA4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000080608</vendorCode>
-<code>785211</code>
-<name>Black Hybrid Case With MagSafe — iPhone 11 Pro Max</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 11 Pro Max</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Полиуретан</param>
-</offer>
 <offer id="ts000080609" available="true">
 <url>https://kmt5.com.ua/black-hybrid-case-with-magsafe-iphone-12-12-pro</url>
 <price>187.0</price>
@@ -47371,28 +47349,6 @@
 <param name="Материал">Силикон</param>
 <param name="Цвет">Transparent</param>
 </offer>
-<offer id="ts000082150" available="true">
-<url>https://kmt5.com.ua/ipaky-comely-case-with-magsafe-iphone-17-pro-max</url>
-<price>388.0</price>
-<vendorprice>234.0</vendorprice>
-<vendorpricedoll>5.2</vendorpricedoll>
-<rrcdoll>8.62</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>28366547</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTAvNDEv0KYtMDAwMDgyMTUwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjgvMjIv0KYtMDAwMDgyMTUwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082150</vendorCode>
-<code>788071</code>
-<name>Ipaky Comely Case With Magsafe iPhone 17 Pro Max</name>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro Max</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Силикон</param>
-<param name="Цвет">Transparent</param>
-</offer>
 <offer id="ts000080166" available="true">
 <url>https://kmt5.com.ua/ipaky-crystal-case-with-magsafe-iphone-16-plus</url>
 <price>350.0</price>
@@ -47443,66 +47399,6 @@
 <param name="Модель девайса">Apple iPhone 16 Pro</param>
 <param name="Бренд">Различные</param>
 <param name="Материал">Силикон</param>
-<param name="Цвет">Transparent</param>
-</offer>
-<offer id="ts000077987" available="true">
-<url>https://kmt5.com.ua/ipaky-crystal-series-tpu-case-iphone-15-pro</url>
-<price>291.0</price>
-<vendorprice>176.0</vendorprice>
-<vendorpricedoll>3.9</vendorpricedoll>
-<rrcdoll>6.47</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>86411438</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjIvYzAv0KYtMDAwMDc3OTg3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjcvZTkv0KYtMDAwMDc3OTg3XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjIvYWMv0KYtMDAwMDc3OTg3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDYvMjIv0KYtMDAwMDc3OTg3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWIvZDgv0KYtMDAwMDc3OTg3XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGQvOTMv0KYtMDAwMDc3OTg3XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGMvZmEv0KYtMDAwMDc3OTg3XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWMvZjMv0KYtMDAwMDc3OTg3XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzMvYWYv0KYtMDAwMDc3OTg3XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGEvZDMv0KYtMDAwMDc3OTg3XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000077987</vendorCode>
-<code>776764</code>
-<name>Ipaky Crystal Series TPU Case iPhone 15 Pro</name>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 15 Pro</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Пластик &amp; TPU</param>
-<param name="Цвет">Transparent</param>
-</offer>
-<offer id="ts000077988" available="true">
-<url>https://kmt5.com.ua/ipaky-crystal-series-tpu-case-iphone-15-pro-max</url>
-<price>291.0</price>
-<vendorprice>176.0</vendorprice>
-<vendorpricedoll>3.9</vendorpricedoll>
-<rrcdoll>6.47</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>86411438</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjMvMjQv0KYtMDAwMDc3OTg4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDQvMDcv0KYtMDAwMDc3OTg4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDQvZTUv0KYtMDAwMDc3OTg4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjQvOTIv0KYtMDAwMDc3OTg4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2YvNjYv0KYtMDAwMDc3OTg4XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmYvNzEv0KYtMDAwMDc3OTg4XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzQvNjcv0KYtMDAwMDc3OTg4XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTMvYWIv0KYtMDAwMDc3OTg4XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjAvMmMv0KYtMDAwMDc3OTg4XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjYvMGMv0KYtMDAwMDc3OTg4XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000077988</vendorCode>
-<code>776765</code>
-<name>Ipaky Crystal Series TPU Case iPhone 15 Pro Max</name>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 15 Pro Max</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Пластик &amp; TPU</param>
 <param name="Цвет">Transparent</param>
 </offer>
 <offer id="ts000082155" available="true">
@@ -118510,32 +118406,6 @@
 <param name="Толщина">0.3 mm</param>
 <param name="Цвет">Remax HD ES-01</param>
 </offer>
-<offer id="ts000083818" available="true">
-<url>https://kmt5.com.ua/zahisne-sklo-remax-hd-tempered-glass-es01-iphone-15-pro-max</url>
-<price>266.0</price>
-<vendorprice>134.0</vendorprice>
-<vendorpricedoll>2.98</vendorpricedoll>
-<rrcdoll>5.91</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>76136671</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWMvOTQv0KYtMDAwMDgzODE4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzYvMDkv0KYtMDAwMDgzODE4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTEvZTMv0KYtMDAwMDgzODE4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTUvM2Ev0KYtMDAwMDgzODE4XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGYvMzAv0KYtMDAwMDgzODE4XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Remax</vendor>
-<vendorCode>Ц-000083818</vendorCode>
-<code>791160</code>
-<name>Захисне скло Remax HD Tempered Glass ES-01  iPhone 15 Pro Max</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 15 Pro Max</param>
-<param name="Бренд">Remax</param>
-<param name="Виды защиты экрана">Захисне скло</param>
-<param name="Вид покрытия">Прозрачное стекло</param>
-<param name="Толщина">0.3 mm</param>
-<param name="Цвет">Remax HD ES-01</param>
-</offer>
 <offer id="ts000083813" available="true">
 <url>https://kmt5.com.ua/zahisne-sklo-remax-hd-tempered-glass-es01-iphone-16-pro-17</url>
 <price>266.0</price>
@@ -121779,6 +121649,29 @@
 <param name="Толщина">0.3 mm</param>
 <param name="Цвет">Black</param>
 </offer>
+<offer id="ts000077890" available="true">
+<url>https://kmt5.com.ua/zaschitnoe-steklo-super-x-esd-antistatic-samsung-a12-black</url>
+<price>58.0</price>
+<vendorprice>30.0</vendorprice>
+<vendorpricedoll>0.65</vendorpricedoll>
+<rrcdoll>1.27</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>89511238</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTUvMjQv0KYtMDAwMDc3ODkwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmUvZjEv0KYtMDAwMDc3ODkwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000077890</vendorCode>
+<code>776638</code>
+<name>Защитное стекло Super X ESD Antistatic Samsung A12 (Black)</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Марка">Samsung</param>
+<param name="Модель девайса">Samsung A12 (A125)</param>
+<param name="Бренд">Различные</param>
+<param name="Виды защиты экрана">Захисне скло</param>
+<param name="Вид покрытия">Прозрачное стекло</param>
+<param name="Толщина">0.3 mm</param>
+<param name="Цвет">Black</param>
+</offer>
 <offer id="ts000078056" available="true">
 <url>https://kmt5.com.ua/zaschitnoe-steklo-super-x-esd-antistatic-samsung-a14-5g-black</url>
 <price>58.0</price>
@@ -121796,29 +121689,6 @@
 <quantity_in_stock>3</quantity_in_stock>
 <param name="Марка">Samsung</param>
 <param name="Модель девайса">Samsung A14 5G</param>
-<param name="Бренд">Различные</param>
-<param name="Виды защиты экрана">Захисне скло</param>
-<param name="Вид покрытия">Прозрачное стекло</param>
-<param name="Толщина">0.3 mm</param>
-<param name="Цвет">Black</param>
-</offer>
-<offer id="ts000081420" available="true">
-<url>https://kmt5.com.ua/zaschitnoe-steklo-super-x-esd-antistatic-samsung-a16-black</url>
-<price>58.0</price>
-<vendorprice>30.0</vendorprice>
-<vendorpricedoll>0.65</vendorpricedoll>
-<rrcdoll>1.27</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>89511238</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzUvOTIv0KYtMDAwMDgxNDIwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTQvYTUv0KYtMDAwMDgxNDIwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000081420</vendorCode>
-<code>787006</code>
-<name>Защитное стекло Super X ESD Antistatic Samsung A16 (Black)</name>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Марка">Samsung</param>
-<param name="Модель девайса">Samsung A16 5G</param>
 <param name="Бренд">Различные</param>
 <param name="Виды защиты экрана">Захисне скло</param>
 <param name="Вид покрытия">Прозрачное стекло</param>
@@ -121957,29 +121827,6 @@
 <quantity_in_stock>36</quantity_in_stock>
 <param name="Марка">Samsung</param>
 <param name="Модель девайса">Samsung A26 5G</param>
-<param name="Бренд">Различные</param>
-<param name="Виды защиты экрана">Захисне скло</param>
-<param name="Вид покрытия">Прозрачное стекло</param>
-<param name="Толщина">0.3 mm</param>
-<param name="Цвет">Black</param>
-</offer>
-<offer id="ts000077894" available="true">
-<url>https://kmt5.com.ua/zaschitnoe-steklo-super-x-esd-antistatic-samsung-a31-black</url>
-<price>58.0</price>
-<vendorprice>30.0</vendorprice>
-<vendorpricedoll>0.65</vendorpricedoll>
-<rrcdoll>1.27</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>78242379</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzQvYjAv0KYtMDAwMDc3ODk0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWIvNDYv0KYtMDAwMDc3ODk0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000077894</vendorCode>
-<code>776642</code>
-<name>Защитное стекло Super X ESD Antistatic Samsung A31 (Black)</name>
-<quantity_in_stock>10</quantity_in_stock>
-<param name="Марка">Samsung</param>
-<param name="Модель девайса">Samsung A31</param>
 <param name="Бренд">Различные</param>
 <param name="Виды защиты экрана">Захисне скло</param>
 <param name="Вид покрытия">Прозрачное стекло</param>
@@ -122581,29 +122428,6 @@
 <param name="Толщина">0.3 mm</param>
 <param name="Цвет">Black</param>
 </offer>
-<offer id="ts000077935" available="true">
-<url>https://kmt5.com.ua/zaschitnoe-steklo-super-x-esd-antistatic-xiaomi-redmi-12-black</url>
-<price>58.0</price>
-<vendorprice>30.0</vendorprice>
-<vendorpricedoll>0.65</vendorpricedoll>
-<rrcdoll>1.27</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>25425653</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmEvYzUv0KYtMDAwMDc3OTM1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjEvNDIv0KYtMDAwMDc3OTM1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000077935</vendorCode>
-<code>776683</code>
-<name>Защитное стекло Super X ESD Antistatic Xiaomi Redmi 12 (Black)</name>
-<quantity_in_stock>10</quantity_in_stock>
-<param name="Марка">Xiaomi</param>
-<param name="Модель девайса">Xiaomi Redmi 12</param>
-<param name="Бренд">Различные</param>
-<param name="Виды защиты экрана">Захисне скло</param>
-<param name="Вид покрытия">Прозрачное стекло</param>
-<param name="Толщина">0.3 mm</param>
-<param name="Цвет">Black</param>
-</offer>
 <offer id="ts000077929" available="true">
 <url>https://kmt5.com.ua/zaschitnoe-steklo-super-x-esd-antistatic-xiaomi-redmi-12c-black</url>
 <price>58.0</price>
@@ -122828,29 +122652,6 @@
 <quantity_in_stock>8</quantity_in_stock>
 <param name="Марка">Xiaomi</param>
 <param name="Модель девайса">Xiaomi Redmi Note 11 5G</param>
-<param name="Бренд">Различные</param>
-<param name="Виды защиты экрана">Захисне скло</param>
-<param name="Вид покрытия">Прозрачное стекло</param>
-<param name="Толщина">0.3 mm</param>
-<param name="Цвет">Black</param>
-</offer>
-<offer id="ts000077924" available="true">
-<url>https://kmt5.com.ua/zaschitnoe-steklo-super-x-esd-antistatic-xiaomi-redmi-note-11-pro-black</url>
-<price>58.0</price>
-<vendorprice>30.0</vendorprice>
-<vendorpricedoll>0.65</vendorpricedoll>
-<rrcdoll>1.27</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>18553748</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjcvNmIv0KYtMDAwMDc3OTI0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzkvM2Uv0KYtMDAwMDc3OTI0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000077924</vendorCode>
-<code>776672</code>
-<name>Защитное стекло Super X ESD Antistatic Xiaomi Redmi Note 11 Pro (Black)</name>
-<quantity_in_stock>10</quantity_in_stock>
-<param name="Марка">Xiaomi</param>
-<param name="Модель девайса">Xiaomi Redmi Note 11 Pro</param>
 <param name="Бренд">Различные</param>
 <param name="Виды защиты экрана">Захисне скло</param>
 <param name="Вид покрытия">Прозрачное стекло</param>
@@ -123356,28 +123157,6 @@
 <quantity_in_stock>5</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Watch Series 10 (46 mm)</param>
-<param name="Бренд">Различные</param>
-<param name="Аксессуары Для Смарт Часов">Защитное стекло</param>
-<param name="Цвет">Transparent</param>
-</offer>
-<offer id="ts000073862" available="true">
-<url>https://kmt5.com.ua/zaschitnoe-stekloplenka-pmma-apple-watch-49-mm</url>
-<price>76.0</price>
-<vendorprice>43.0</vendorprice>
-<vendorpricedoll>0.95</vendorpricedoll>
-<rrcdoll>1.69</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>98642996</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGMvNDcv0KYtMDAwMDczODYyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjQvYTAv0KYtMDAwMDczODYyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjYvOTMv0KYtMDAwMDczODYyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000073862</vendorCode>
-<code>759634</code>
-<name>Защитное стекло-плёнка PMMA Apple Watch 49 mm</name>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Watch Series 8 49 mm</param>
 <param name="Бренд">Различные</param>
 <param name="Аксессуары Для Смарт Часов">Защитное стекло</param>
 <param name="Цвет">Transparent</param>
@@ -124139,6 +123918,29 @@
 <param name="Сила тока и Мощность">2.4A</param>
 <param name="Цвет">Black</param>
 </offer>
+<offer id="ts000080914000029534" available="true">
+<url>https://kmt5.com.ua/car-charger-34a-2u-hoco-z54-metal-grey</url>
+<price>159.0</price>
+<vendorprice>86.0</vendorprice>
+<vendorpricedoll>1.9</vendorpricedoll>
+<rrcdoll>3.53</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>88941842</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzUvY2Uv0KYtMDAwMDgwOTE0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWIvMmYv0KYtMDAwMDgwOTE0XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjAvMzgv0KYtMDAwMDgwOTE0XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTEvMzAv0KYtMDAwMDgwOTE0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Hoco</vendor>
+<vendorCode>Ц-000080914</vendorCode>
+<code>786179</code>
+<name>Car Charger | 17W | 2 USB — Hoco Z54  — Metal Grey</name>
+<description><![CDATA[1. Материал: алюминиевый сплав 2. Длина * диаметр: 82,5 * 25 мм, вес: 24 г 3. Выход: USB-A1/A2: 5 В / 2,4 А; USB-A1+USB-A2：5 В / 3,1 А]]></description>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Колво USB портов">2 U</param>
+<param name="Зарядные устройства">Автомобильные</param>
+<param name="Сила тока и Мощность">3.4A</param>
+</offer>
 <offer id="ts000082830" available="true">
 <url>https://kmt5.com.ua/car-charger-38w-1u-1c-borofone-bz18a</url>
 <price>135.0</price>
@@ -124302,62 +124104,6 @@
 <param name="Колво USB портов">1 U | 1 C</param>
 <param name="Зарядные устройства">Home Chargers</param>
 <param name="Сила тока и Мощность">65W</param>
-</offer>
-<offer id="ts000083683" available="true">
-<url>https://kmt5.com.ua/home-charger-100w-gan-1u-2c-c-to-c-cable-1m-wiwu-chg300</url>
-<price>2744.0</price>
-<vendorprice>1392.0</vendorprice>
-<vendorpricedoll>31.0</vendorpricedoll>
-<rrcdoll>61.1</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>1099827</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzIvMzYv0KYtMDAwMDgzNjgzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDUvN2Ev0KYtMDAwMDgzNjgzXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTIvZGMv0KYtMDAwMDgzNjgzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDAvYjkv0KYtMDAwMDgzNjgzXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzcvMDkv0KYtMDAwMDgzNjgzXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjMvM2Uv0KYtMDAwMDgzNjgzXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTYvMWMv0KYtMDAwMDgzNjgzXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmIvMzYv0KYtMDAwMDgzNjgzXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDYvYTIv0KYtMDAwMDgzNjgzXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTYvZGUv0KYtMDAwMDgzNjgzXzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Wiwu</vendor>
-<vendorCode>Ц-000083683</vendorCode>
-<code>790992</code>
-<name>Home Charger | 100W | GaN | 1U | 2C | C to C Cable (1m)— Wiwu CHG300</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Wiwu</param>
-<param name="Колво USB портов">1 USB +2 USB-C</param>
-<param name="Зарядные устройства">Home Chargers</param>
-<param name="Цвет">Black</param>
-</offer>
-<offer id="ts000083682" available="true">
-<url>https://kmt5.com.ua/home-charger-140w-gan-3-pd30-qc30-wiwu-chg200</url>
-<price>3187.0</price>
-<vendorprice>1617.0</vendorprice>
-<vendorpricedoll>36.0</vendorpricedoll>
-<rrcdoll>70.96</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>56676196</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjAvMTYv0KYtMDAwMDgzNjgyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzcvODYv0KYtMDAwMDgzNjgyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzcvOTYv0KYtMDAwMDgzNjgyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjcvZTEv0KYtMDAwMDgzNjgyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjcvN2Uv0KYtMDAwMDgzNjgyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDcvODQv0KYtMDAwMDgzNjgyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTEvZGEv0KYtMDAwMDgzNjgyXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGYvMjcv0KYtMDAwMDgzNjgyXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTkvODEv0KYtMDAwMDgzNjgyXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGYvNjgv0KYtMDAwMDgzNjgyXzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Wiwu</vendor>
-<vendorCode>Ц-000083682</vendorCode>
-<code>790991</code>
-<name>Home Charger | 140W | GaN | 3 PD3.0 |  QC3.0 — Wiwu CHG200</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Wiwu</param>
-<param name="Колво USB портов">1 U | 3 C</param>
-<param name="Зарядные устройства">Home Chargers</param>
-<param name="Цвет">Black</param>
 </offer>
 <offer id="ts000069748000016981" available="true">
 <url>https://kmt5.com.ua/hoco-c72q-glorious-single-port-qc30-chargereu-black</url>
@@ -127131,27 +126877,6 @@
 <param name="Зарядные устройства">СЗУ &amp; Кабель Lightning</param>
 <param name="Сила тока и Мощность">20W</param>
 </offer>
-<offer id="ts000069747000016980" available="true">
-<url>https://kmt5.com.ua/hoco-c80a-rapido-pdqc30-charger-settypec-to-typeceu-white</url>
-<price>294.0</price>
-<vendorprice>176.0</vendorprice>
-<vendorpricedoll>3.9</vendorpricedoll>
-<rrcdoll>6.53</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>1099827</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzEvYzUv0KYtMDAwMDY5NzQ3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmEvYzAv0KYtMDAwMDY5NzQ3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000069747</vendorCode>
-<code>741427</code>
-<name>Home Charger 20W PD QC3.0 C to C Cable (1m) Hoco C80A — White</name>
-<description><![CDATA[Сетевое зарядное устройство Hoco C80A PD + Quick Charge 3.0 Type-C to Type-C 1USB / 3.1A – White – предназначен для быстрого и безопасного подзарядки ваших гаджетов. Имеет разъем Type-C to Type-C. Если ваш девайс поддерживает функцию быстрой зарядки QC 3.0 и PD, то он будет заряжаться в 2 раза быстрее. Выдает ток до 3.1A, мощность составляет до 18W. В комплекте, кроме самого блока питания, входит также кабель Type-C to Type-C. Это очень удобно, поскольку не каждый провод дома может иметь необходимую для блока питания пропускную способность.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Колво USB портов">1 U | 1 C</param>
-<param name="Зарядные устройства">СЗУ &amp; Кабель Type C</param>
-<param name="Сила тока и Мощность">20W</param>
-</offer>
 <offer id="ts000073657000023531" available="true">
 <url>https://kmt5.com.ua/szu-i-kabel-lightning-borofone-ba69a-resource-pd20wqc30-charger-setc-to-ipeu-white</url>
 <price>261.0</price>
@@ -127287,29 +127012,6 @@
 <param name="Зарядные устройства">СЗУ &amp; Кабель Lightning</param>
 <param name="Сила тока и Мощность">20W</param>
 </offer>
-<offer id="ts000081233" available="true">
-<url>https://kmt5.com.ua/home-charger-20w-pd30-c-to-lightning-cable-1m-hoco-c143a</url>
-<price>175.0</price>
-<vendorprice>95.0</vendorprice>
-<vendorpricedoll>2.1</vendorpricedoll>
-<rrcdoll>3.88</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>36418036</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzEvYjcv0KYtMDAwMDgxMjMzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjMvMDUv0KYtMDAwMDgxMjMzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGYvYTUv0KYtMDAwMDgxMjMzXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTcvYjUv0KYtMDAwMDgxMjMzXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000081233</vendorCode>
-<code>786633</code>
-<name>Home Charger 20W PD3.0 C to Lightning Cable (1m) Hoco C143A</name>
-<description><![CDATA[1. Материал: ABS-материал 2. Выход: USB-C: 20 Вт (PD/QC/FCP/AFC) 3. Контакты европейского стандарта EU 4. Размер: 83,5 * 40 * 26 мм, общий вес: 63 г 5. В комплекте кабель для быстрой зарядки C-iP длиной 1 м]]></description>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Колво USB портов">1 Type - C</param>
-<param name="Зарядные устройства">СЗУ &amp; Кабель Lightning</param>
-<param name="Сила тока и Мощность">20W</param>
-</offer>
 <offer id="ts000078173000026454" available="true">
 <url>https://kmt5.com.ua/home-charger-20w-pd30-c-to-lightning-cable-1m-hoco-n37-black</url>
 <price>425.0</price>
@@ -127400,33 +127102,6 @@
 <param name="Колво USB портов">2 U</param>
 <param name="Зарядные устройства">СЗУ &amp; Кабель Lightning</param>
 <param name="Сила тока и Мощность">3.1A</param>
-<param name="Цвет">Black</param>
-</offer>
-<offer id="ts000082537" available="true">
-<url>https://kmt5.com.ua/home-charger-30w-1u-2c-wiwu-wig010-eu</url>
-<price>666.0</price>
-<vendorprice>337.0</vendorprice>
-<vendorpricedoll>7.5</vendorpricedoll>
-<rrcdoll>14.82</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>56676196</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmYvMzMv0KYtMDAwMDgyNTM3XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzMvZmIv0KYtMDAwMDgyNTM3XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjYvYmEv0KYtMDAwMDgyNTM3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzIvZGUv0KYtMDAwMDgyNTM3XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTYvZmMv0KYtMDAwMDgyNTM3XzE0LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzAvNTIv0KYtMDAwMDgyNTM3XzE3LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjIvMmMv0KYtMDAwMDgyNTM3XzIwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Wiwu</vendor>
-<vendorCode>Ц-000082537</vendorCode>
-<code>788789</code>
-<name>Home Charger 30W 1U 2C Wiwu Wi-G010 EU  __</name>
-<description><![CDATA[Модель: Wi-G010 Порт: USB+2* USB C Матеріал: Вогнестійкий ПК Вхід: 110-240 В, 50/60 Гц, 0,7 А Вихід: TYPE-C1: 5 В 3 А/ 9 В 3 А/ 12 В 2,5 А (PPS: 3,3-11 В/2,75 А) TYPE-C2: 5 В 3 А/ 9 В 3 А/ 12 В 2,5 А (PPS: 3,3-11 В/2,75 А) USB-A: 5 В 3 А/ 9 В 3 А/ 12 В 2,5 А Одночасний вихід: 5 В 3,4 А Сертифікація: CE]]></description>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Бренд">Wiwu</param>
-<param name="Колво USB портов">1 USB | 2 Type - C</param>
-<param name="Зарядные устройства">Home Chargers</param>
-<param name="Сила тока и Мощность">30W</param>
 <param name="Цвет">Black</param>
 </offer>
 <offer id="ts000068588000012131" available="true">
@@ -128135,29 +127810,6 @@
 <name>Home Charger | 18W | 1U | Micro Cable (1m) — Veron VR-C18Q</name>
 <description><![CDATA[Фото: E:\rabo4aja\foto sait\ЗУ\1287.JPG]]></description>
 <quantity_in_stock>660</quantity_in_stock>
-<param name="Бренд">VERON</param>
-<param name="Колво USB портов">2 USB</param>
-<param name="Зарядные устройства">СЗУ &amp; Кабель Lightning</param>
-<param name="Сила тока и Мощность">2.4A</param>
-</offer>
-<offer id="ts000079029" available="true">
-<url>https://kmt5.com.ua/home-charger-18w-1u-usb-c-cable-1m-veron-vrc18q</url>
-<price>212.0</price>
-<vendorprice>115.0</vendorprice>
-<vendorpricedoll>2.55</vendorpricedoll>
-<rrcdoll>4.72</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>1099827</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzgvZTkv0KYtMDAwMDc5MDI5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWUvMDAv0KYtMDAwMDc5MDI5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTMvYjgv0KYtMDAwMDc5MDI5XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmYvNzAv0KYtMDAwMDc5MDI5XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>VERON</vendor>
-<vendorCode>Ц-000079029</vendorCode>
-<code>778541</code>
-<name>Home Charger | 18W | 1U | USB C Cable (1m) — Veron VR-C18Q</name>
-<description><![CDATA[Фото: E:\rabo4aja\foto sait\ЗУ\1287.JPG]]></description>
-<quantity_in_stock>5</quantity_in_stock>
 <param name="Бренд">VERON</param>
 <param name="Колво USB портов">2 USB</param>
 <param name="Зарядные устройства">СЗУ &amp; Кабель Lightning</param>
@@ -135676,28 +135328,6 @@
 <param name="Переходники">Type C Hub</param>
 <param name="Цвет">Gold</param>
 </offer>
-<offer id="ts000080907" available="true">
-<url>https://kmt5.com.ua/hub-usb-c-to-hdtv-rj45-sdtf-pd-typec30-2usb-hoco-hb52</url>
-<price>1208.0</price>
-<vendorprice>652.0</vendorprice>
-<vendorpricedoll>14.5</vendorpricedoll>
-<rrcdoll>26.9</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>34908147</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTgvMDEv0KYtMDAwMDgwOTA3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTQvNDAv0KYtMDAwMDgwOTA3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTMvYmUv0KYtMDAwMDgwOTA3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGIvNmQv0KYtMDAwMDgwOTA3XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjYvZWEv0KYtMDAwMDgwOTA3XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000080907</vendorCode>
-<code>786166</code>
-<name>HUB USB C To HDTV ; RJ45 ; SD/TF ; PD ; Type-C3.0 2USB — Hoco HB52</name>
-<description><![CDATA[1. Материал: алюминиевый сплав + акрил 2. Размер: 113 * 44 * 15,5 ± 0,5 мм; Вес: 74 г; Длина кабеля: 18 ± 0,5 см 3. Интерфейс: Type-C для HDTV + RJ45 + SD/TF + PD + Type-C3.0 + USB3.0 * 2 4. Функция: HDTV поддерживает разрешение 4K 60 Гц; RJ45：100 Мбит/с; SD/TF: теоретическая скорость 480 Мбит/с, не поддерживает одновременное чтение; Type-C поддерживает вход PD100W и теоретическую скорость 5 Гбит/с; USB 3.0: теоретическая скорость 5 Гбит/с]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Переходники">Type C Hub</param>
-</offer>
 <offer id="ts000082704" available="true">
 <url>https://kmt5.com.ua/hub-usb-to-3-usb30-rj45-hoco-hb1d</url>
 <price>441.0</price>
@@ -139883,25 +139513,6 @@
 <param name="Разъем подключения">Cable USB C to C</param>
 <param name="Длина кабеля">1m</param>
 </offer>
-<offer id="ts000080576" available="true">
-<url>https://kmt5.com.ua/kabel-usb-c-to-c-60w-1m-hoco-u129</url>
-<price>109.0</price>
-<vendorprice>59.0</vendorprice>
-<vendorpricedoll>1.3</vendorpricedoll>
-<rrcdoll>2.42</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>51161204</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzkvOWYv0KYtMDAwMDgwNTc2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTMvYWIv0KYtMDAwMDgwNTc2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000080576</vendorCode>
-<code>785164</code>
-<name>Кабель USB C to C 60W (1m) — Hoco U129</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Разъем подключения">Cable USB C to C</param>
-<param name="Длина кабеля">1m</param>
-</offer>
 <offer id="ts000082677" available="true">
 <url>https://kmt5.com.ua/kabel-usb-c-to-c-60w-1m-hoco-u146</url>
 <price>131.0</price>
@@ -140669,30 +140280,6 @@
 <param name="Компьютерные аксессуары">Переходники</param>
 <param name="Цвет">Black</param>
 </offer>
-<offer id="ts000076079" available="true">
-<url>https://kmt5.com.ua/adapter-lightning-to-usb-earldom-etot81</url>
-<price>280.0</price>
-<vendorprice>158.0</vendorprice>
-<vendorpricedoll>3.5</vendorpricedoll>
-<rrcdoll>6.22</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>85326957</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDQvNTkv0KYtMDAwMDc2MDc5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTcvN2Qv0KYtMDAwMDc2MDc5XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjMvNTIv0KYtMDAwMDc2MDc5XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDAvYzgv0KYtMDAwMDc2MDc5XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjcvYzEv0KYtMDAwMDc2MDc5XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2MvODMv0KYtMDAwMDc2MDc5XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWQvZTkv0KYtMDAwMDc2MDc5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Earldom</vendor>
-<vendorCode>Ц-000076079</vendorCode>
-<code>771881</code>
-<name>Переходник Earldom ET-OT81 OTG на Lightning (8 Pin)</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Earldom</param>
-<param name="Переходники">Adapter Lightning To USB</param>
-<param name="Цвет">Grey</param>
-</offer>
 <offer id="ts000069338" available="true">
 <url>https://kmt5.com.ua/perehodnik-earldom-ettc07-otg-type-c</url>
 <price>67.0</price>
@@ -141291,26 +140878,6 @@
 <name>Battery 3V CR2025 — Hoco JA7 (5PCS)</name>
 <description><![CDATA[1. Ємність акумулятора: 150 мАг 2. Номінальна напруга: 3 В 3. Розмір: 20 * 2,5 мм (діаметр * висота); Вага: 2,5 г 4. Спосіб упаковки: картон + вакуумне формування 5. Вміст ртуті: без ртуті 6. Використання: ключі від автомобіля, селфі-палки, пульти дистанційного керування, розумні контролери температури та вологості, електронні ваги та інші пристрої]]></description>
 <quantity_in_stock>9</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-</offer>
-<offer id="ts000083204" available="true">
-<url>https://kmt5.com.ua/battery-cr2032-3v-hoco-ja6-5pcs</url>
-<price>53.0</price>
-<vendorprice>34.0</vendorprice>
-<vendorpricedoll>0.75</vendorpricedoll>
-<rrcdoll>1.18</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>35220530</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTcvNzIv0KYtMDAwMDgzMjA0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTAvYmYv0KYtMDAwMDgzMjA0XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTUvZjQv0KYtMDAwMDgzMjA0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWQvNTEv0KYtMDAwMDgzMjA0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000083204</vendorCode>
-<code>790036</code>
-<name>Battery CR2032 3V — Hoco JA6 (5PCS)</name>
-<description><![CDATA[1. Ємність акумулятора: 210 мАг 2. Номінальна напруга: 3 В 3. Розмір: 20 * 3,2 мм (діаметр * висота); Вага: 3,2 г 4. Спосіб упаковки: картон + вакуумне формування 5. Вміст ртуті: без ртуті 6. Використання: ключі від автомобіля, годинники, пульти дистанційного керування, материнські плати комп'ютерів, рації та інше обладнання]]></description>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 </offer>
 <offer id="ts000083101" available="true">
@@ -142745,28 +142312,6 @@
 <name>Зеркало с LED подсветкой MagSafe K04</name>
 <quantity_in_stock>2</quantity_in_stock>
 <param name="Бренд">Различные</param>
-</offer>
-<offer id="ts000082116" available="true">
-<url>https://kmt5.com.ua/lhtarik-hoco-hx13</url>
-<price>740.0</price>
-<vendorprice>396.0</vendorprice>
-<vendorpricedoll>8.8</vendorpricedoll>
-<rrcdoll>16.46</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>70008598</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2UvNDQv0KYtMDAwMDgyMTE2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjIvOGMv0KYtMDAwMDgyMTE2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTkvODcv0KYtMDAwMDgyMTE2XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTMvZTMv0KYtMDAwMDgyMTE2XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTQvNDMv0KYtMDAwMDgyMTE2XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDIvY2Iv0KYtMDAwMDgyMTE2XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000082116</vendorCode>
-<code>788022</code>
-<name>Ліхтарик Hoco HX13</name>
-<description><![CDATA["1. Матеріал: ABS 2. Ємність акумулятора: 1200 мАг; Час заряджання: 2 години; Термін служби акумулятора: 1,3-10 годин 3. Потужність джерела світла: 3 Вт 4. Яскравість: Три рівні затемнення 5. Розмір: 236 * 38 * 39 мм; Вага: 151 г 6. Різні способи освітлення: ручне, підвісне, настільне, сигнальне світло SOS, ліхтарик"]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Hoco</param>
 </offer>
 <offer id="ts000073501" available="true">
 <url>https://kmt5.com.ua/fonarik-working-light</url>
@@ -144845,34 +144390,6 @@
 <param name="Студийное оборудование">Лампа видеосвет</param>
 <param name="Количество светодиодов">96</param>
 <param name="Цветовая температура">2700-6000K</param>
-</offer>
-<offer id="ts000079464" available="true">
-<url>https://kmt5.com.ua/lampa-koltsevaya-led-fd480-ii-lsd</url>
-<price>9364.0</price>
-<vendorprice>5029.0</vendorprice>
-<vendorpricedoll>112.0</vendorpricedoll>
-<rrcdoll>208.54</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>22721647</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzgvN2Uv0KYtMDAwMDc5NDY0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjAvYmMv0KYtMDAwMDc5NDY0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTQvNTMv0KYtMDAwMDc5NDY0XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTEvODAv0KYtMDAwMDc5NDY0XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTgvMjAv0KYtMDAwMDc5NDY0XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjcvNDQv0KYtMDAwMDc5NDY0XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWMvOGQv0KYtMDAwMDc5NDY0XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGMvMjMv0KYtMDAwMDc5NDY0XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWYvZTcv0KYtMDAwMDc5NDY0XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTIvNDcv0KYtMDAwMDc5NDY0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>VERON</vendor>
-<vendorCode>Ц-000079464</vendorCode>
-<code>779284</code>
-<name>Лампа Кольцевая LED Veron FD-480 II LSD 96W White с зеркалом</name>
-<description><![CDATA[Мощность: 96 Вт Кол-во светодиодов: 480 LED Наружный диаметр: 45 см Внутренний диаметр: 30 см Цветовая температура: 2700 K - 7500 K Управление: димер яркости и температуры, цифровой Digital display usb разъем Напряжение: 2 Световой поток: 9600 Лм CRI: 95 Ra]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">VERON</param>
-<param name="Студийное оборудование">Кольцевые лампы</param>
-<param name="Цвет">White</param>
 </offer>
 <offer id="ts000079538" available="true">
 <url>https://kmt5.com.ua/lampa-koltsevaya-led-fd640-ii</url>
@@ -147196,30 +146713,6 @@
 <param name="Особенности">С пультом</param>
 <param name="Студийное оборудование">Монопод Трипод</param>
 <param name="Максимальная высота">1.83m</param>
-</offer>
-<offer id="ts000083487" available="true">
-<url>https://kmt5.com.ua/monopod-tripod-185m-jmary-ks355hg60</url>
-<price>3478.0</price>
-<vendorprice>2201.0</vendorprice>
-<vendorpricedoll>49.0</vendorpricedoll>
-<rrcdoll>77.44</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>67670974</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjAvOTkv0KYtMDAwMDgzNDg3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjIvOWUv0KYtMDAwMDgzNDg3XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDEvYTQv0KYtMDAwMDgzNDg3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTQvMmQv0KYtMDAwMDgzNDg3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjMvZGQv0KYtMDAwMDgzNDg3XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjAvMjEv0KYtMDAwMDgzNDg3XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWUvZGUv0KYtMDAwMDgzNDg3XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Jmary</vendor>
-<vendorCode>Ц-000083487</vendorCode>
-<code>790709</code>
-<name>Monopod Tripod (1.85m) — Jmary KS355+HG60</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Jmary</param>
-<param name="Студийное оборудование">Монопод Трипод</param>
-<param name="Максимальная высота">1.77m</param>
 </offer>
 <offer id="ts000079222" available="true">
 <url>https://kmt5.com.ua/monopod-tripod-fsv22</url>
