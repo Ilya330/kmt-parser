@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-07-27 06:18">
+<yml_catalog date="2026-07-27 12:10">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -10495,6 +10495,27 @@
 <param name="Бренд">Различные</param>
 <param name="Материал">Металл</param>
 </offer>
+<offer id="ts000084041000031955" available="true">
+<url>https://kmt5.com.ua/rimova-metal-case-iphone-15-pro-max-silver</url>
+<price>311.0</price>
+<vendorprice>173.0</vendorprice>
+<vendorpricedoll>3.85</vendorpricedoll>
+<rrcdoll>6.91</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>86411438</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzkvNjUv0KYtMDAwMDg0MDQxXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTYvMTYv0KYtMDAwMDg0MDQxXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000084041</vendorCode>
+<code>791649</code>
+<name>Rimova Metal Case iPhone 15 Pro Max — Silver</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 15 Pro Max</param>
+<param name="Бренд">Различные</param>
+<param name="Материал">Металл</param>
+</offer>
 <offer id="ts000084042000031957" available="true">
 <url>https://kmt5.com.ua/rimova-metal-case-iphone-15-pro-black</url>
 <price>311.0</price>
@@ -10580,6 +10601,27 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16 Pro Max</param>
+<param name="Бренд">Различные</param>
+<param name="Материал">Металл</param>
+</offer>
+<offer id="ts000084046000031975" available="true">
+<url>https://kmt5.com.ua/rimova-metal-case-iphone-17-pro-silver</url>
+<price>311.0</price>
+<vendorprice>173.0</vendorprice>
+<vendorpricedoll>3.85</vendorpricedoll>
+<rrcdoll>6.91</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>28366547</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjIvYTUv0KYtMDAwMDg0MDQ2XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTMvMDEv0KYtMDAwMDg0MDQ2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000084046</vendorCode>
+<code>791674</code>
+<name>Rimova Metal Case iPhone 17 Pro — Silver</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 17 Pro</param>
 <param name="Бренд">Различные</param>
 <param name="Материал">Металл</param>
 </offer>
@@ -126192,32 +126234,6 @@
 <param name="Зарядные устройства">СЗУ &amp; Кабель Lightning</param>
 <param name="Сила тока и Мощность">2.1A</param>
 </offer>
-<offer id="ts000072720000022716" available="true">
-<url>https://kmt5.com.ua/ba64a-single-port-charger-setipeu-white</url>
-<price>141.0</price>
-<vendorprice>77.0</vendorprice>
-<vendorpricedoll>1.7</vendorpricedoll>
-<rrcdoll>3.13</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>36418036</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTIvZDAv0KYtMDAwMDcyNzIwXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2YvNDkv0KYtMDAwMDcyNzIwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTQvMWEv0KYtMDAwMDcyNzIwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmUvYzAv0KYtMDAwMDcyNzIwXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWEvZDUv0KYtMDAwMDcyNzIwXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2UvNDUv0KYtMDAwMDcyNzIwXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Borofone</vendor>
-<vendorCode>Ц-000072720</vendorCode>
-<code>754644</code>
-<name>Home Charger 2.1A 1U Lightning Cable (1m) Borofone BA64A — White</name>
-<description><![CDATA[BOROFONE BA64A, настенное зарядное устройство с выходом USB 5V / 2.1A, вилкой EU, комплект с кабелем для Lightning / Micro-USB / USB-C 1. Материал: огнестойкий АБС + ПК. 2. Выход: USB-A — 5 В / 2,1 А. 3. Вилка европейского стандарта. 4. Размеры: 76*40*22 мм. Вес одного зарядного устройства: 31 г. Вес комплекта с кабелем: 45 г. 5. Комплект с зарядным кабелем 1м для Lightning/Micro-USB/USB-C.]]></description>
-<quantity_in_stock>8</quantity_in_stock>
-<param name="Бренд">Borofone</param>
-<param name="Колво USB портов">1 U</param>
-<param name="Зарядные устройства">СЗУ &amp; Кабель Lightning</param>
-<param name="Сила тока и Мощность">2.1A</param>
-<param name="Цвет">White</param>
-</offer>
 <offer id="ts000072716000022633" available="true">
 <url>https://kmt5.com.ua/szu-i-kabel-lightning-borofone-ba68a-single-port-eu-black</url>
 <price>149.0</price>
@@ -126534,34 +126550,6 @@
 <name>Home Charger 2.4A 2U Lightning Cable (1m) Hoco C73A — White</name>
 <description><![CDATA[Зарядное устройство Hoco — предназначенное для большого ассортимента устройств, смартфонов, планшетов, плееров, электронных книг и многих других девайсов, совместимых по характеристикам и параметрам. Вход: AC100-240V, 50 / 60Hz, 0.4A Выход USB 1 / 2: 5V-2.4A Общий выход: 5V-2.4A макс EU штекер Материал: огнеупорный PC Двойной USB выход 2.4A макс (intelligent balance) Размер: 82*42*26мм Вес зарядного устройства: 34г вес набора с кабелем: 56г]]></description>
 <quantity_in_stock>8</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Колво USB портов">2 U</param>
-<param name="Зарядные устройства">СЗУ &amp; Кабель Lightning</param>
-<param name="Сила тока и Мощность">2.4A</param>
-</offer>
-<offer id="ts000071405000020456" available="true">
-<url>https://kmt5.com.ua/n8-briar-dual-port-charger-setlightningeu-white</url>
-<price>291.0</price>
-<vendorprice>158.0</vendorprice>
-<vendorpricedoll>3.5</vendorpricedoll>
-<rrcdoll>6.46</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>36418036</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDUvNjAv0KYtMDAwMDcxNDA1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWQvMDYv0KYtMDAwMDcxNDA1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmMvM2Mv0KYtMDAwMDcxNDA1XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGYvZWMv0KYtMDAwMDcxNDA1XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjYvYjEv0KYtMDAwMDcxNDA1XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzUvMjkv0KYtMDAwMDcxNDA1XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmUvOTgv0KYtMDAwMDcxNDA1XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjAvZjAv0KYtMDAwMDcxNDA1XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTQvYWEv0KYtMDAwMDcxNDA1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000071405</vendorCode>
-<code>750707</code>
-<name>Home Charger 2.4A 2U Lightning Cable (1m) Hoco N8 — White</name>
-<description><![CDATA[Hoco N8 - это качественный сетевой адаптер в комплекте с кабелем Lightning за доступные деньги, который поможет быстро и безопасно зарядить любой телефон, планшет, наушники за короткий промежуток времени. Качественный блок зарядки необходим для безопасной зарядки гаджетов, чтобы не повреждать их аккумуляторы. В данном случае имеется идеальное соотношение параметров силы тока и напряжения, что гарантирует быстрое пополнение заряда даже самых мощных аккумуляторов. Кроме того, радует наличие двух портов USB и высокое качество материалов, из которых создан адаптер. Материал: огнеупорный PC Общий выход: 5V / 2.4A Один порт: 5V / 2.4A Штекер: EU Размер: 74*36*30мм Вес: 50г Вес набора с кабелем: 65г Длина кабеля: 1м]]></description>
-<quantity_in_stock>2</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Колво USB портов">2 U</param>
 <param name="Зарядные устройства">СЗУ &amp; Кабель Lightning</param>
@@ -127149,33 +127137,6 @@
 <param name="Бренд">Hoco</param>
 <param name="Колво USB портов">1 Type - C</param>
 <param name="Зарядные устройства">СЗУ &amp; Кабель Lightning</param>
-<param name="Сила тока и Мощность">30W</param>
-</offer>
-<offer id="ts000083442" available="true">
-<url>https://kmt5.com.ua/home-charger-30w-pd-qc30-borofone-bas85a</url>
-<price>213.0</price>
-<vendorprice>108.0</vendorprice>
-<vendorpricedoll>2.4</vendorpricedoll>
-<rrcdoll>4.74</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>56676196</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzcvODUv0KYtMDAwMDgzNDQyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWMvZGMv0KYtMDAwMDgzNDQyXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmMvMzMv0KYtMDAwMDgzNDQyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2QvZjUv0KYtMDAwMDgzNDQyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjIvOWIv0KYtMDAwMDgzNDQyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTMvZTkv0KYtMDAwMDgzNDQyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODYvOTkv0KYtMDAwMDgzNDQyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTYvNjAv0KYtMDAwMDgzNDQyXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGIvMjcv0KYtMDAwMDgzNDQyXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Borofone</vendor>
-<vendorCode>Ц-000083442</vendorCode>
-<code>790658</code>
-<name>Home Charger 30W PD QC3.0 Borofone BAS85A</name>
-<quantity_in_stock>4</quantity_in_stock>
-<param name="Бренд">Borofone</param>
-<param name="Колво USB портов">1 U | 1 C</param>
-<param name="Зарядные устройства">Home Chargers</param>
 <param name="Сила тока и Мощность">30W</param>
 </offer>
 <offer id="ts000078180000026461" available="true">
@@ -139832,26 +139793,6 @@
 <param name="Бренд">VERON</param>
 <param name="Разъем подключения">Cable USB C To Lightning</param>
 <param name="Длина кабеля">0.25m</param>
-</offer>
-<offer id="ts000075789000024599" available="true">
-<url>https://kmt5.com.ua/kabel-usb-c-to-lightning-20w-1m-veron-cl09-nylon-black</url>
-<price>136.0</price>
-<vendorprice>81.0</vendorprice>
-<vendorpricedoll>1.8</vendorpricedoll>
-<rrcdoll>3.01</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>71294670</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGMvNzEv0KYtMDAwMDc1Nzg5XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2UvNWEv0KYtMDAwMDc1Nzg5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWEvNDkv0KYtMDAwMDc1Nzg5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>VERON</vendor>
-<vendorCode>Ц-000075789</vendorCode>
-<code>771226</code>
-<name>Кабель USB C to Lightning 20W PD (1m) Veron CL09 Nylon — Black</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">VERON</param>
-<param name="Разъем подключения">Cable USB C To Lightning</param>
-<param name="Длина кабеля">1m</param>
 </offer>
 <offer id="ts000073194" available="true">
 <url>https://kmt5.com.ua/v9-kabel-veron-cl09-type-c-to-lightning-usb-cable-1m-20w</url>
@@ -155529,28 +155470,6 @@
 <param name="Бренд">Различные</param>
 <param name="Аудіо товари">Портативні колонки</param>
 </offer>
-<offer id="ts000082276000030345" available="true">
-<url>https://kmt5.com.ua/portativna-kolonka-hopestar-a85-gray</url>
-<price>14570.0</price>
-<vendorprice>7409.0</vendorprice>
-<vendorpricedoll>165.0</vendorpricedoll>
-<rrcdoll>324.49</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>31204796</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmEvZjkv0KYtMDAwMDgyMjc2XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmQvNjgv0KYtMDAwMDgyMjc2XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTkvNzEv0KYtMDAwMDgyMjc2XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTkvY2Yv0KYtMDAwMDgyMjc2XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGMvMTYv0KYtMDAwMDgyMjc2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082276</vendorCode>
-<code>788321</code>
-<name>Портативна колонка Hopestar A85 400W — Gray</name>
-<description><![CDATA[Портативная блютуз колонка Hopestar A85 – это настоящий взрыв звука и света в удобном корпусе. Благодаря мощности 400 Вт она легко озвучит вечеринку на природе, во дворе или дома, а стильная RGB-подсветка создаст атмосферу клуба где угодно. Колонка оснащена современной версией Bluetooth 5.3, что обеспечивает стабильное соединение без задержек. Огромный аккумулятор на 30000 мАч (со съемной батареей) гарантирует до 6–8 часов непрерывной работы, поэтому музыка будет звучать дольше без необходимости в частой подзарядке. Качественный звук с диапазоном частот 80 Гц – 20 кГц позволяет наслаждаться как глубокими басами, так и чистыми высокими нотами. А благодаря степени защиты IPX6, колонка не боится дождя или брызг – бери ее с собой на пляж, в поход или на вечеринку у бассейна. Хопстар A85 – идеальный выбор для тех, кто ценит громкий, чистый звук, автономность и эффектный дизайн. Характеристики: Тип: портативна колонка Модель: Hopestar A85 Версія Bluetooth: 5.3 Потужність: 400W Підсвічування: RGB Інтерфейс підключення: AUX, USB, Bluetooth Ємність акумулятора: 30000mAh (знімна батарея) Відтворювані частоти: 80 Гц - 20 КГц Час роботи: близько 6-8 годин (заявлено виробником) Тип батареї: 21700 літій-іонний акумулятор Вхідна потужність: 5V/9V/12V/15V/20V - 2.2A Ступінь захисту: IPX6 Підтримка карт пам'яті: так Радіус дії: 10 метрів Кількість динаміків: 6 TWS 1+1 Функція: Два динаміки можуть бути з'єднані разом, один динамік з'єднується з мобільним телефоном, два динаміки можуть відтворювати пісню водночас Потужність динаміка: 1) 135 мм, 100 Вт * 2 шт.; 2) 78 мм, 60 Вт * 2 шт.; 3) 66 мм, 40 Вт * 2 шт. Наявність мікрофона: так Розмір: 311 х 231.6 х 563 мм]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Различные</param>
-<param name="Аудіо товари">Портативні колонки</param>
-</offer>
 <offer id="ts000076064000030104" available="true">
 <url>https://kmt5.com.ua/portativna-kolonka-hopestar-h56-black</url>
 <price>1344.0</price>
@@ -161192,25 +161111,6 @@
 <param name="Бренд">Borofone</param>
 <param name="Аудіо товари">Портативні колонки</param>
 </offer>
-<offer id="ts000082854000030778" available="true">
-<url>https://kmt5.com.ua/portativna-kolonka-borofone-br20-navy-blue</url>
-<price>1303.0</price>
-<vendorprice>665.0</vendorprice>
-<vendorpricedoll>14.8</vendorpricedoll>
-<rrcdoll>29.01</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>31204796</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDQvMzkv0KYtMDAwMDgyODU0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWMvMTQv0KYtMDAwMDgyODU0XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Borofone</vendor>
-<vendorCode>Ц-000082854</vendorCode>
-<code>789323</code>
-<name>Портативна колонка Borofone BR20 __ — Navy Blue</name>
-<description><![CDATA[BOROFONE BR20 Звукова хвиля, спортивна портативна колонка, BT v5.0, батарея 2400mAh на 3 години використання, підтримка BT, FM, TF, USB, AUX, TWS режимів відтворення 1. BT v5.0. Чип: JL AC6965E. 2. Ємність батареї: 2400mAh, час зарядки близько 3 годин. 3. Час використання: 3 години. 4. Динамік: 52мм*2. Потужність: 5W*2. 5. Розміри: 210,5*94,5*94,5 мм. Вага: 693г. 6. Підтримка BT, FM, TF карт, USB, AUX, TWS та інших режимів.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Borofone</param>
-<param name="Аудіо товари">Портативні колонки</param>
-</offer>
 <offer id="ts000082854000030777" available="true">
 <url>https://kmt5.com.ua/portativna-kolonka-borofone-br20-red</url>
 <price>1303.0</price>
@@ -161720,52 +161620,6 @@
 <name>Портативна колонка Earldom ET-A49</name>
 <quantity_in_stock>15</quantity_in_stock>
 <param name="Бренд">Earldom</param>
-<param name="Аудіо товари">Портативні колонки</param>
-</offer>
-<offer id="ts000077714000030118" available="true">
-<url>https://kmt5.com.ua/portativna-kolonka-hopestar-h53-black</url>
-<price>3052.0</price>
-<vendorprice>1572.0</vendorprice>
-<vendorpricedoll>35.0</vendorpricedoll>
-<rrcdoll>67.97</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>31204796</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjEvNjQv0KYtMDAwMDc3NzE0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjkvMmYv0KYtMDAwMDc3NzE0XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjIvMmIv0KYtMDAwMDc3NzE0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTIvMzAv0KYtMDAwMDc3NzE0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzAvY2Qv0KYtMDAwMDc3NzE0XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODUvNWIv0KYtMDAwMDc3NzE0XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTAvZWMv0KYtMDAwMDc3NzE0XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000077714</vendorCode>
-<code>787659</code>
-<name>Портативна колонка Hopestar H53 — Black</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Различные</param>
-<param name="Аудіо товари">Портативні колонки</param>
-</offer>
-<offer id="ts000077714000030119" available="true">
-<url>https://kmt5.com.ua/portativna-kolonka-hopestar-h53-blue</url>
-<price>3052.0</price>
-<vendorprice>1572.0</vendorprice>
-<vendorpricedoll>35.0</vendorpricedoll>
-<rrcdoll>67.97</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>31204796</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjEvNjQv0KYtMDAwMDc3NzE0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjkvMmYv0KYtMDAwMDc3NzE0XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjIvMmIv0KYtMDAwMDc3NzE0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTIvMzAv0KYtMDAwMDc3NzE0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzAvY2Qv0KYtMDAwMDc3NzE0XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODUvNWIv0KYtMDAwMDc3NzE0XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTAvZWMv0KYtMDAwMDc3NzE0XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000077714</vendorCode>
-<code>787660</code>
-<name>Портативна колонка Hopestar H53 — Blue</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Различные</param>
 <param name="Аудіо товари">Портативні колонки</param>
 </offer>
 <offer id="ts000076060000030094" available="true">
@@ -190601,6 +190455,25 @@
 <name>Щетка для машины 2</name>
 <quantity_in_stock>201</quantity_in_stock>
 </offer>
+<offer id="ts000084016000032468" available="true">
+<url>https://kmt5.com.ua/shnurok-na-ruku-silk-scarf-black-beige</url>
+<price>173.0</price>
+<vendorprice>87.0</vendorprice>
+<vendorpricedoll>1.92</vendorpricedoll>
+<rrcdoll>3.84</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>16846687</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTQvM2Qv0KYtMDAwMDg0MDE2XzEzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmEvMmUv0KYtMDAwMDg0MDE2XzE4LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2QvZjcv0KYtMDAwMDg0MDE2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000084016</vendorCode>
+<code>792551</code>
+<name>Шнурок на руку « Silk Scarf » — Black &amp; Beige</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Различные</param>
+<param name="Украшения для Телефонов">Шнурки</param>
+</offer>
 <offer id="ts000084016000031857" available="true">
 <url>https://kmt5.com.ua/shnurok-na-ruku-silk-scarf-black</url>
 <price>173.0</price>
@@ -190617,6 +190490,44 @@
 <code>791528</code>
 <name>Шнурок на руку « Silk Scarf » — Black &amp; White</name>
 <quantity_in_stock>197</quantity_in_stock>
+<param name="Бренд">Различные</param>
+<param name="Украшения для Телефонов">Шнурки</param>
+</offer>
+<offer id="ts000084016000032461" available="true">
+<url>https://kmt5.com.ua/shnurok-na-ruku-silk-scarf-blue-96101</url>
+<price>173.0</price>
+<vendorprice>87.0</vendorprice>
+<vendorpricedoll>1.92</vendorpricedoll>
+<rrcdoll>3.84</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>16846687</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTgvNjUv0KYtMDAwMDg0MDE2XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmEvMmUv0KYtMDAwMDg0MDE2XzE4LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2QvZjcv0KYtMDAwMDg0MDE2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000084016</vendorCode>
+<code>792544</code>
+<name>Шнурок на руку « Silk Scarf » — Blue</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Различные</param>
+<param name="Украшения для Телефонов">Шнурки</param>
+</offer>
+<offer id="ts000084016000032467" available="true">
+<url>https://kmt5.com.ua/shnurok-na-ruku-silk-scarf-blue-gray</url>
+<price>173.0</price>
+<vendorprice>87.0</vendorprice>
+<vendorpricedoll>1.92</vendorpricedoll>
+<rrcdoll>3.84</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>16846687</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWUvZTUv0KYtMDAwMDg0MDE2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmEvMmUv0KYtMDAwMDg0MDE2XzE4LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2QvZjcv0KYtMDAwMDg0MDE2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000084016</vendorCode>
+<code>792550</code>
+<name>Шнурок на руку « Silk Scarf » — Blue &amp; Gray</name>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Украшения для Телефонов">Шнурки</param>
 </offer>
@@ -190639,6 +190550,25 @@
 <param name="Бренд">Различные</param>
 <param name="Украшения для Телефонов">Шнурки</param>
 </offer>
+<offer id="ts000084016000032466" available="true">
+<url>https://kmt5.com.ua/shnurok-na-ruku-silk-scarf-brown</url>
+<price>173.0</price>
+<vendorprice>87.0</vendorprice>
+<vendorpricedoll>1.92</vendorpricedoll>
+<rrcdoll>3.84</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>16846687</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTUvYzQv0KYtMDAwMDg0MDE2XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmEvMmUv0KYtMDAwMDg0MDE2XzE4LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2QvZjcv0KYtMDAwMDg0MDE2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000084016</vendorCode>
+<code>792549</code>
+<name>Шнурок на руку « Silk Scarf » — Brown</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Различные</param>
+<param name="Украшения для Телефонов">Шнурки</param>
+</offer>
 <offer id="ts000084016000031860" available="true">
 <url>https://kmt5.com.ua/shnurok-na-ruku-silk-scarf-green</url>
 <price>173.0</price>
@@ -190655,6 +190585,82 @@
 <code>791531</code>
 <name>Шнурок на руку « Silk Scarf » — Green</name>
 <quantity_in_stock>198</quantity_in_stock>
+<param name="Бренд">Различные</param>
+<param name="Украшения для Телефонов">Шнурки</param>
+</offer>
+<offer id="ts000084016000032458" available="true">
+<url>https://kmt5.com.ua/shnurok-na-ruku-silk-scarf-light-blue</url>
+<price>173.0</price>
+<vendorprice>87.0</vendorprice>
+<vendorpricedoll>1.92</vendorpricedoll>
+<rrcdoll>3.84</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>16846687</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2EvNWIv0KYtMDAwMDg0MDE2XzE2LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmEvMmUv0KYtMDAwMDg0MDE2XzE4LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2QvZjcv0KYtMDAwMDg0MDE2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000084016</vendorCode>
+<code>792541</code>
+<name>Шнурок на руку « Silk Scarf » — Light Blue</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Различные</param>
+<param name="Украшения для Телефонов">Шнурки</param>
+</offer>
+<offer id="ts000084016000032459" available="true">
+<url>https://kmt5.com.ua/shnurok-na-ruku-silk-scarf-light-pink</url>
+<price>173.0</price>
+<vendorprice>87.0</vendorprice>
+<vendorpricedoll>1.92</vendorpricedoll>
+<rrcdoll>3.84</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>16846687</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTYvZWUv0KYtMDAwMDg0MDE2XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmEvMmUv0KYtMDAwMDg0MDE2XzE4LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2QvZjcv0KYtMDAwMDg0MDE2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000084016</vendorCode>
+<code>792542</code>
+<name>Шнурок на руку « Silk Scarf » — Light Pink</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Различные</param>
+<param name="Украшения для Телефонов">Шнурки</param>
+</offer>
+<offer id="ts000084016000032464" available="true">
+<url>https://kmt5.com.ua/shnurok-na-ruku-silk-scarf-light-purple</url>
+<price>173.0</price>
+<vendorprice>87.0</vendorprice>
+<vendorpricedoll>1.92</vendorpricedoll>
+<rrcdoll>3.84</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>16846687</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2QvZTEv0KYtMDAwMDg0MDE2XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmEvMmUv0KYtMDAwMDg0MDE2XzE4LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2QvZjcv0KYtMDAwMDg0MDE2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000084016</vendorCode>
+<code>792547</code>
+<name>Шнурок на руку « Silk Scarf » — Light Purple</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Различные</param>
+<param name="Украшения для Телефонов">Шнурки</param>
+</offer>
+<offer id="ts000084016000032462" available="true">
+<url>https://kmt5.com.ua/shnurok-na-ruku-silk-scarf-mint</url>
+<price>173.0</price>
+<vendorprice>87.0</vendorprice>
+<vendorpricedoll>1.92</vendorpricedoll>
+<rrcdoll>3.84</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>16846687</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmIvODgv0KYtMDAwMDg0MDE2XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmEvMmUv0KYtMDAwMDg0MDE2XzE4LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2QvZjcv0KYtMDAwMDg0MDE2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000084016</vendorCode>
+<code>792545</code>
+<name>Шнурок на руку « Silk Scarf » — Mint</name>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Украшения для Телефонов">Шнурки</param>
 </offer>
@@ -190677,6 +190683,44 @@
 <param name="Бренд">Различные</param>
 <param name="Украшения для Телефонов">Шнурки</param>
 </offer>
+<offer id="ts000084016000032465" available="true">
+<url>https://kmt5.com.ua/shnurok-na-ruku-silk-scarf-purple</url>
+<price>173.0</price>
+<vendorprice>87.0</vendorprice>
+<vendorpricedoll>1.92</vendorpricedoll>
+<rrcdoll>3.84</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>16846687</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmEvMDYv0KYtMDAwMDg0MDE2XzEyLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmEvMmUv0KYtMDAwMDg0MDE2XzE4LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2QvZjcv0KYtMDAwMDg0MDE2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000084016</vendorCode>
+<code>792548</code>
+<name>Шнурок на руку « Silk Scarf » — Purple</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Различные</param>
+<param name="Украшения для Телефонов">Шнурки</param>
+</offer>
+<offer id="ts000084016000032460" available="true">
+<url>https://kmt5.com.ua/shnurok-na-ruku-silk-scarf-white-black</url>
+<price>173.0</price>
+<vendorprice>87.0</vendorprice>
+<vendorpricedoll>1.92</vendorpricedoll>
+<rrcdoll>3.84</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>16846687</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmQvOWYv0KYtMDAwMDg0MDE2XzE0LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmEvMmUv0KYtMDAwMDg0MDE2XzE4LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2QvZjcv0KYtMDAwMDg0MDE2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000084016</vendorCode>
+<code>792543</code>
+<name>Шнурок на руку « Silk Scarf » — White &amp; Black</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Различные</param>
+<param name="Украшения для Телефонов">Шнурки</param>
+</offer>
 <offer id="ts000084016000031858" available="true">
 <url>https://kmt5.com.ua/shnurok-na-ruku-silk-scarf-white</url>
 <price>173.0</price>
@@ -190693,6 +190737,46 @@
 <code>791529</code>
 <name>Шнурок на руку « Silk Scarf » — White &amp; Blue</name>
 <quantity_in_stock>198</quantity_in_stock>
+<param name="Бренд">Различные</param>
+<param name="Украшения для Телефонов">Шнурки</param>
+</offer>
+<offer id="ts000084016000032463" available="true">
+<url>https://kmt5.com.ua/shnurok-na-ruku-silk-scarf-yellow</url>
+<price>173.0</price>
+<vendorprice>87.0</vendorprice>
+<vendorpricedoll>1.92</vendorpricedoll>
+<rrcdoll>3.84</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>16846687</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjkvNmQv0KYtMDAwMDg0MDE2XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmEvMmUv0KYtMDAwMDg0MDE2XzE4LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2QvZjcv0KYtMDAwMDg0MDE2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000084016</vendorCode>
+<code>792546</code>
+<name>Шнурок на руку « Silk Scarf » — Yellow</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Различные</param>
+<param name="Украшения для Телефонов">Шнурки</param>
+</offer>
+<offer id="ts000084017000032457" available="true">
+<url>https://kmt5.com.ua/shnurok-na-sheyu-silk-scarf-dark-blue</url>
+<price>467.0</price>
+<vendorprice>234.0</vendorprice>
+<vendorpricedoll>5.2</vendorpricedoll>
+<rrcdoll>10.4</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>16846687</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzYvY2Ev0KYtMDAwMDg0MDE3XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDgvYWEv0KYtMDAwMDg0MDE3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTMvOWIv0KYtMDAwMDg0MDE3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmEvODgv0KYtMDAwMDg0MDE3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDEvYzUv0KYtMDAwMDg0MDE3XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000084017</vendorCode>
+<code>792540</code>
+<name>Шнурок на шею «Silk Scarf » — Dark Blue</name>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Украшения для Телефонов">Шнурки</param>
 </offer>
@@ -203516,6 +203600,30 @@
 <name>Портативный мини вентилятор Earldom ET-F05</name>
 <description><![CDATA[1: материал: ABS + алюминий и модель из листового алюминиевого материала (без батареи) 2. размер мобильного телефона: 4,5-6,5 дюймов, толщина применимого мобильного телефона: 5,5-11,0 мм 3. Необходимо зарядить для использования, эффект охлаждения мобильного телефона очень хороший. Ультратонкий и маленький, удобный, может использоваться в качестве подставки для мобильного телефона. 4. интерфейс зарядки: USB TYPE-C 5. размер упаковки: 95 * 35 * 135 мм Вес: 187 г]]></description>
 <quantity_in_stock>1</quantity_in_stock>
+<param name="Бренд">Earldom</param>
+</offer>
+<offer id="ts000081043" available="true">
+<url>https://kmt5.com.ua/portativnyiy-mini-ventilyator-earldom-etf15</url>
+<price>938.0</price>
+<vendorprice>503.0</vendorprice>
+<vendorpricedoll>11.2</vendorpricedoll>
+<rrcdoll>20.88</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>58682601</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjUvOGMv0KYtMDAwMDgxMDQzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2QvYzcv0KYtMDAwMDgxMDQzXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWUvY2Mv0KYtMDAwMDgxMDQzXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzMvNTkv0KYtMDAwMDgxMDQzXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2UvYzcv0KYtMDAwMDgxMDQzXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDIvNDkv0KYtMDAwMDgxMDQzXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmEvNWIv0KYtMDAwMDgxMDQzXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGMvNjkv0KYtMDAwMDgxMDQzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Earldom</vendor>
+<vendorCode>Ц-000081043</vendorCode>
+<code>786331</code>
+<name>Портативный мини вентилятор Earldom ET-F15</name>
+<description><![CDATA[1, материал: ABS + алюминиевый сплав + термический силикон + термический алюминиевый лист 2, функции продукта: радиатор мобильного телефона с задним зажимом, 3, аккумулятор: аккумулятор емкостью 2500 мАч, 4, трехскоростная регулировка температуры, 5, сценарий использования: совместим с 99,9% мобильных телефонов на рынке Бесщеточный двигатель с низким уровнем шума]]></description>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Бренд">Earldom</param>
 </offer>
 <offer id="ts000081268" available="true">
