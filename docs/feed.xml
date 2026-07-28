@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-07-28 11:10">
+<yml_catalog date="2026-07-28 16:30">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -1947,27 +1947,6 @@
 <param name="Бренд">Wiwu</param>
 <param name="Материал">Полиуретан</param>
 </offer>
-<offer id="ts000081429000029875" available="true">
-<url>https://kmt5.com.ua/original-silicone-case-hc-with-magsafe-iphone-12-pro-max-ash-75</url>
-<price>189.0</price>
-<vendorprice>113.0</vendorprice>
-<vendorpricedoll>2.5</vendorpricedoll>
-<rrcdoll>4.19</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>5726391</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDQvMWUv0KYtMDAwMDgxNDI5XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODMvYWIv0KYtMDAwMDgxNDI5XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple HQ</vendor>
-<vendorCode>Ц-000081429</vendorCode>
-<code>787031</code>
-<name>Silicone Case HC with MagSafe — iPhone 12 Pro Max — Ash (75)</name>
-<quantity_in_stock>10</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 12 Pro Max 6.7&quot;</param>
-<param name="Бренд">Apple HQ</param>
-<param name="Материал">Силикон</param>
-</offer>
 <offer id="ts000081429000029873" available="true">
 <url>https://kmt5.com.ua/original-silicone-case-hc-with-magsafe-iphone-12-pro-max-black-18</url>
 <price>189.0</price>
@@ -2073,27 +2052,6 @@
 <param name="Бренд">Apple HQ</param>
 <param name="Материал">Силикон</param>
 </offer>
-<offer id="ts000081428000029863" available="true">
-<url>https://kmt5.com.ua/original-silicone-case-hc-with-magsafe-iphone-12-charcoal-gray-10</url>
-<price>189.0</price>
-<vendorprice>113.0</vendorprice>
-<vendorpricedoll>2.5</vendorpricedoll>
-<rrcdoll>4.19</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>5726391</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2MvMDYv0KYtMDAwMDgxNDI4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTQvOWIv0KYtMDAwMDgxNDI4XzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Apple HQ</vendor>
-<vendorCode>Ц-000081428</vendorCode>
-<code>787018</code>
-<name>Silicone Case HC with MagSafe — iPhone 12 — Charcoal Gray (10)</name>
-<quantity_in_stock>10</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 12 6.1&quot;</param>
-<param name="Бренд">Apple HQ</param>
-<param name="Материал">Силикон</param>
-</offer>
 <offer id="ts000081428000029872" available="true">
 <url>https://kmt5.com.ua/original-silicone-case-hc-with-magsafe-iphone-12-light-purple</url>
 <price>189.0</price>
@@ -2130,6 +2088,35 @@
 <code>787022</code>
 <name>Silicone Case HC with MagSafe — iPhone 12 — Lilac (76)</name>
 <quantity_in_stock>14</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 12 6.1&quot;</param>
+<param name="Бренд">Apple HQ</param>
+<param name="Материал">Силикон</param>
+</offer>
+<offer id="ts000081428000032449" available="true">
+<url>https://kmt5.com.ua/silicone-case-hc-with-magsafe-iphone-12-mellow-yellow</url>
+<price>189.0</price>
+<vendorprice>113.0</vendorprice>
+<vendorpricedoll>2.5</vendorpricedoll>
+<rrcdoll>4.19</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>5726391</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTcvMTYv0KYtMDAwMDgxNDI4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTQvOWIv0KYtMDAwMDgxNDI4XzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTYvNmEv0KYtMDAwMDgxNDI4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGIvMmQv0KYtMDAwMDgxNDI4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2MvMDYv0KYtMDAwMDgxNDI4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGMvMzMv0KYtMDAwMDgxNDI4XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGMvZjQv0KYtMDAwMDgxNDI4XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2IvYTAv0KYtMDAwMDgxNDI4XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWYvNTgv0KYtMDAwMDgxNDI4XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODgvZDUv0KYtMDAwMDgxNDI4XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple HQ</vendor>
+<vendorCode>Ц-000081428</vendorCode>
+<code>792532</code>
+<name>Silicone Case HC with MagSafe — iPhone 12 — Mellow Yellow</name>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 12 6.1&quot;</param>
@@ -2220,27 +2207,6 @@
 <param name="Бренд">Apple HQ</param>
 <param name="Материал">Силикон</param>
 </offer>
-<offer id="ts000081430000029878" available="true">
-<url>https://kmt5.com.ua/original-silicone-case-hc-with-magsafe-iphone-13-pro-max-ash-75</url>
-<price>189.0</price>
-<vendorprice>113.0</vendorprice>
-<vendorpricedoll>2.5</vendorpricedoll>
-<rrcdoll>4.19</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>3890985</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDIvNTMv0KYtMDAwMDgxNDMwXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzQvZjAv0KYtMDAwMDgxNDMwXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple HQ</vendor>
-<vendorCode>Ц-000081430</vendorCode>
-<code>787035</code>
-<name>Silicone Case HC with MagSafe — iPhone 13 Pro Max — Ash (75)</name>
-<quantity_in_stock>10</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 13 Pro Max 6.7&quot;</param>
-<param name="Бренд">Apple HQ</param>
-<param name="Материал">Силикон</param>
-</offer>
 <offer id="ts000081430000029876" available="true">
 <url>https://kmt5.com.ua/original-silicone-case-hc-with-magsafe-iphone-13-pro-max-black-18</url>
 <price>189.0</price>
@@ -2283,21 +2249,21 @@
 <param name="Бренд">Apple HQ</param>
 <param name="Материал">Силикон</param>
 </offer>
-<offer id="ts000081430000029877" available="true">
-<url>https://kmt5.com.ua/original-silicone-case-hc-with-magsafe-iphone-13-pro-max-lilac-76</url>
+<offer id="ts000081430000030148" available="true">
+<url>https://kmt5.com.ua/original-silicone-case-hc-with-magsafe-iphone-13-pro-max-pink-sand</url>
 <price>189.0</price>
 <vendorprice>113.0</vendorprice>
 <vendorpricedoll>2.5</vendorpricedoll>
 <rrcdoll>4.19</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>3890985</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWMvMWYv0KYtMDAwMDgxNDMwXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGUvZWIv0KYtMDAwMDgxNDMwXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzQvZjAv0KYtMDAwMDgxNDMwXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Apple HQ</vendor>
 <vendorCode>Ц-000081430</vendorCode>
-<code>787034</code>
-<name>Silicone Case HC with MagSafe — iPhone 13 Pro Max — Lilac (76)</name>
-<quantity_in_stock>9</quantity_in_stock>
+<code>787896</code>
+<name>Silicone Case HC with MagSafe — iPhone 13 Pro Max — Pink Sand</name>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 13 Pro Max 6.7&quot;</param>
@@ -2409,6 +2375,35 @@
 <param name="Бренд">Apple HQ</param>
 <param name="Материал">Силикон</param>
 </offer>
+<offer id="ts000081439000032451" available="true">
+<url>https://kmt5.com.ua/silicone-case-hc-with-magsafe-iphone-14-pro-mellow-yellow</url>
+<price>189.0</price>
+<vendorprice>113.0</vendorprice>
+<vendorpricedoll>2.5</vendorpricedoll>
+<rrcdoll>4.19</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>99363376</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzAvYWYv0KYtMDAwMDgxNDM5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWMvMzkv0KYtMDAwMDgxNDM5XzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmYvNGUv0KYtMDAwMDgxNDM5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTYvMzkv0KYtMDAwMDgxNDM5XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODkvNTAv0KYtMDAwMDgxNDM5XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWEvMDEv0KYtMDAwMDgxNDM5XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTUvNjMv0KYtMDAwMDgxNDM5XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmMvNmMv0KYtMDAwMDgxNDM5XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjUvZTkv0KYtMDAwMDgxNDM5XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmEvOTMv0KYtMDAwMDgxNDM5XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple HQ</vendor>
+<vendorCode>Ц-000081439</vendorCode>
+<code>792534</code>
+<name>Silicone Case HC with MagSafe — iPhone 14 Pro — Mellow Yellow</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 14 Pro 6.1&quot;</param>
+<param name="Бренд">Apple HQ</param>
+<param name="Материал">Силикон</param>
+</offer>
 <offer id="ts000081439000029949" available="true">
 <url>https://kmt5.com.ua/original-silicone-case-hc-with-magsafe-iphone-14-pro-midnight-blue-8</url>
 <price>189.0</price>
@@ -2472,27 +2467,6 @@
 <param name="Бренд">Apple HQ</param>
 <param name="Материал">Силикон</param>
 </offer>
-<offer id="ts000081431000029879" available="true">
-<url>https://kmt5.com.ua/original-silicone-case-hc-with-magsafe-iphone-14-ash-75</url>
-<price>189.0</price>
-<vendorprice>113.0</vendorprice>
-<vendorpricedoll>2.5</vendorpricedoll>
-<rrcdoll>4.19</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>99363376</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjEvYmEv0KYtMDAwMDgxNDMxXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjEvYzcv0KYtMDAwMDgxNDMxXzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Apple HQ</vendor>
-<vendorCode>Ц-000081431</vendorCode>
-<code>787037</code>
-<name>Silicone Case HC with MagSafe — iPhone 14 — Ash (75)</name>
-<quantity_in_stock>10</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 14 6.1&quot;</param>
-<param name="Бренд">Apple HQ</param>
-<param name="Материал">Силикон</param>
-</offer>
 <offer id="ts000081431000029880" available="true">
 <url>https://kmt5.com.ua/original-silicone-case-hc-with-magsafe-iphone-14-black-18</url>
 <price>189.0</price>
@@ -2508,27 +2482,6 @@
 <code>787038</code>
 <name>Silicone Case HC with MagSafe — iPhone 14 — Black (18)</name>
 <quantity_in_stock>32</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 14 6.1&quot;</param>
-<param name="Бренд">Apple HQ</param>
-<param name="Материал">Силикон</param>
-</offer>
-<offer id="ts000081431000029881" available="true">
-<url>https://kmt5.com.ua/original-silicone-case-hc-with-magsafe-iphone-14-charcoal-gray-10</url>
-<price>189.0</price>
-<vendorprice>113.0</vendorprice>
-<vendorpricedoll>2.5</vendorpricedoll>
-<rrcdoll>4.19</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>99363376</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTcvYmYv0KYtMDAwMDgxNDMxXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjEvYzcv0KYtMDAwMDgxNDMxXzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Apple HQ</vendor>
-<vendorCode>Ц-000081431</vendorCode>
-<code>787039</code>
-<name>Silicone Case HC with MagSafe — iPhone 14 — Charcoal Gray (10)</name>
-<quantity_in_stock>20</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 6.1&quot;</param>
@@ -2556,21 +2509,29 @@
 <param name="Бренд">Apple HQ</param>
 <param name="Материал">Силикон</param>
 </offer>
-<offer id="ts000081431000029883" available="true">
-<url>https://kmt5.com.ua/original-silicone-case-hc-with-magsafe-iphone-14-lilac-76</url>
+<offer id="ts000081431000032450" available="true">
+<url>https://kmt5.com.ua/silicone-case-hc-with-magsafe-iphone-14-mellow-yellow</url>
 <price>189.0</price>
 <vendorprice>113.0</vendorprice>
 <vendorpricedoll>2.5</vendorpricedoll>
 <rrcdoll>4.19</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>99363376</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODMvZmUv0KYtMDAwMDgxNDMxXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDgvYzkv0KYtMDAwMDgxNDMxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjEvYzcv0KYtMDAwMDgxNDMxXzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGIvNjEv0KYtMDAwMDgxNDMxXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjEvYmQv0KYtMDAwMDgxNDMxXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTcvYmYv0KYtMDAwMDgxNDMxXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTUvNjMv0KYtMDAwMDgxNDMxXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDEvNDQv0KYtMDAwMDgxNDMxXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjEvYmEv0KYtMDAwMDgxNDMxXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODMvZmUv0KYtMDAwMDgxNDMxXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjIvMWMv0KYtMDAwMDgxNDMxXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Apple HQ</vendor>
 <vendorCode>Ц-000081431</vendorCode>
-<code>787041</code>
-<name>Silicone Case HC with MagSafe — iPhone 14 — Lilac (76)</name>
-<quantity_in_stock>20</quantity_in_stock>
+<code>792533</code>
+<name>Silicone Case HC with MagSafe — iPhone 14 — Mellow Yellow</name>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 6.1&quot;</param>
@@ -2619,6 +2580,27 @@
 <param name="Бренд">Apple HQ</param>
 <param name="Материал">Силикон</param>
 </offer>
+<offer id="ts000081431000029886" available="true">
+<url>https://kmt5.com.ua/original-silicone-case-hc-with-magsafe-iphone-14-stone</url>
+<price>189.0</price>
+<vendorprice>113.0</vendorprice>
+<vendorpricedoll>2.5</vendorpricedoll>
+<rrcdoll>4.19</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>99363376</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmYvYmQv0KYtMDAwMDgxNDMxXzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjEvYzcv0KYtMDAwMDgxNDMxXzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<vendor>Apple HQ</vendor>
+<vendorCode>Ц-000081431</vendorCode>
+<code>787044</code>
+<name>Silicone Case HC with MagSafe — iPhone 14 — Stone</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 14 6.1&quot;</param>
+<param name="Бренд">Apple HQ</param>
+<param name="Материал">Силикон</param>
+</offer>
 <offer id="ts000081431000029887" available="true">
 <url>https://kmt5.com.ua/original-silicone-case-hc-with-magsafe-iphone-14-white-9</url>
 <price>189.0</price>
@@ -2655,27 +2637,6 @@
 <code>787072</code>
 <name>Silicone Case HC with MagSafe — iPhone 15 Pro Max — Black (18)</name>
 <quantity_in_stock>17</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 15 Pro Max</param>
-<param name="Бренд">Apple HQ</param>
-<param name="Материал">Силикон</param>
-</offer>
-<offer id="ts000081435000029911" available="true">
-<url>https://kmt5.com.ua/original-silicone-case-hc-with-magsafe-iphone-15-pro-max-charcoal-gray-10</url>
-<price>189.0</price>
-<vendorprice>113.0</vendorprice>
-<vendorpricedoll>2.5</vendorpricedoll>
-<rrcdoll>4.19</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>86411438</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWIvNjkv0KYtMDAwMDgxNDM1XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTcvMWYv0KYtMDAwMDgxNDM1XzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Apple HQ</vendor>
-<vendorCode>Ц-000081435</vendorCode>
-<code>787073</code>
-<name>Silicone Case HC with MagSafe — iPhone 15 Pro Max — Charcoal Gray (10)</name>
-<quantity_in_stock>20</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro Max</param>
@@ -2724,6 +2685,35 @@
 <param name="Бренд">Apple HQ</param>
 <param name="Материал">Силикон</param>
 </offer>
+<offer id="ts000081435000032452" available="true">
+<url>https://kmt5.com.ua/silicone-case-hc-with-magsafe-iphone-15-pro-max-mellow-yellow</url>
+<price>189.0</price>
+<vendorprice>113.0</vendorprice>
+<vendorpricedoll>2.5</vendorpricedoll>
+<rrcdoll>4.19</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>86411438</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTUvNzEv0KYtMDAwMDgxNDM1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTcvMWYv0KYtMDAwMDgxNDM1XzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGUvMmIv0KYtMDAwMDgxNDM1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDIvNWYv0KYtMDAwMDgxNDM1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWIvNjkv0KYtMDAwMDgxNDM1XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjIvMDAv0KYtMDAwMDgxNDM1XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjEvZmEv0KYtMDAwMDgxNDM1XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmEvOTgv0KYtMDAwMDgxNDM1XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2MvNDMv0KYtMDAwMDgxNDM1XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmQvODcv0KYtMDAwMDgxNDM1XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple HQ</vendor>
+<vendorCode>Ц-000081435</vendorCode>
+<code>792535</code>
+<name>Silicone Case HC with MagSafe — iPhone 15 Pro Max — Mellow Yellow</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 15 Pro Max</param>
+<param name="Бренд">Apple HQ</param>
+<param name="Материал">Силикон</param>
+</offer>
 <offer id="ts000081435000029915" available="true">
 <url>https://kmt5.com.ua/original-silicone-case-hc-with-magsafe-iphone-15-pro-max-pink-sand</url>
 <price>189.0</price>
@@ -2760,6 +2750,27 @@
 <code>787078</code>
 <name>Silicone Case HC with MagSafe — iPhone 15 Pro Max — Stone</name>
 <quantity_in_stock>9</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 15 Pro Max</param>
+<param name="Бренд">Apple HQ</param>
+<param name="Материал">Силикон</param>
+</offer>
+<offer id="ts000081435000032453" available="true">
+<url>https://kmt5.com.ua/silicone-case-hc-with-magsafe-iphone-15-pro-max-turquoise</url>
+<price>189.0</price>
+<vendorprice>113.0</vendorprice>
+<vendorpricedoll>2.5</vendorpricedoll>
+<rrcdoll>4.19</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>86411438</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTkvYmMv0KYtMDAwMDgxNDM1XzEzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTcvMWYv0KYtMDAwMDgxNDM1XzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<vendor>Apple HQ</vendor>
+<vendorCode>Ц-000081435</vendorCode>
+<code>792536</code>
+<name>Silicone Case HC with MagSafe — iPhone 15 Pro Max — Turquoise</name>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro Max</param>
@@ -2829,27 +2840,6 @@
 <param name="Бренд">Apple HQ</param>
 <param name="Материал">Силикон</param>
 </offer>
-<offer id="ts000081433000029898" available="true">
-<url>https://kmt5.com.ua/original-silicone-case-hc-with-magsafe-iphone-15-lilac-76</url>
-<price>189.0</price>
-<vendorprice>113.0</vendorprice>
-<vendorpricedoll>2.5</vendorpricedoll>
-<rrcdoll>4.19</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>86411438</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWYvNzYv0KYtMDAwMDgxNDMzXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzQvYjYv0KYtMDAwMDgxNDMzXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple HQ</vendor>
-<vendorCode>Ц-000081433</vendorCode>
-<code>787058</code>
-<name>Silicone Case HC with MagSafe — iPhone 15 — Lilac (76)</name>
-<quantity_in_stock>10</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 15</param>
-<param name="Бренд">Apple HQ</param>
-<param name="Материал">Силикон</param>
-</offer>
 <offer id="ts000081433000030149" available="true">
 <url>https://kmt5.com.ua/original-silicone-case-hc-with-magsafe-iphone-15-pink-sand</url>
 <price>189.0</price>
@@ -2868,27 +2858,6 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15</param>
-<param name="Бренд">Apple HQ</param>
-<param name="Материал">Силикон</param>
-</offer>
-<offer id="ts000081438000029936" available="true">
-<url>https://kmt5.com.ua/original-silicone-case-hc-with-magsafe-iphone-16-pro-max-ash-75</url>
-<price>189.0</price>
-<vendorprice>113.0</vendorprice>
-<vendorpricedoll>2.5</vendorpricedoll>
-<rrcdoll>4.19</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>89640525</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDkvN2Qv0KYtMDAwMDgxNDM4XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWMvNjUv0KYtMDAwMDgxNDM4XzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Apple HQ</vendor>
-<vendorCode>Ц-000081438</vendorCode>
-<code>787101</code>
-<name>Silicone Case HC with MagSafe — iPhone 16 Pro Max — Ash (75)</name>
-<quantity_in_stock>10</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 16 Pro Max</param>
 <param name="Бренд">Apple HQ</param>
 <param name="Материал">Силикон</param>
 </offer>
@@ -3123,27 +3092,6 @@
 <param name="Бренд">Apple HQ</param>
 <param name="Материал">Силикон</param>
 </offer>
-<offer id="ts000081437000029933" available="true">
-<url>https://kmt5.com.ua/original-silicone-case-hc-with-magsafe-iphone-16-pro-stone</url>
-<price>189.0</price>
-<vendorprice>113.0</vendorprice>
-<vendorpricedoll>2.5</vendorpricedoll>
-<rrcdoll>4.19</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>89640525</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmUvN2Uv0KYtMDAwMDgxNDM3XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODQvYzcv0KYtMDAwMDgxNDM3XzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Apple HQ</vendor>
-<vendorCode>Ц-000081437</vendorCode>
-<code>787097</code>
-<name>Silicone Case HC with MagSafe — iPhone 16 Pro — Stone</name>
-<quantity_in_stock>10</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 16 Pro</param>
-<param name="Бренд">Apple HQ</param>
-<param name="Материал">Силикон</param>
-</offer>
 <offer id="ts000081437000031024" available="true">
 <url>https://kmt5.com.ua/silicone-case-hc-with-magsafe-iphone-16-pro-turquoise</url>
 <price>189.0</price>
@@ -3186,33 +3134,6 @@
 <param name="Бренд">Apple HQ</param>
 <param name="Материал">Силикон</param>
 </offer>
-<offer id="ts000082502000030500" available="true">
-<url>https://kmt5.com.ua/silicone-case-hc-with-magsafe-iphone-17-pro-max-ash-75</url>
-<price>191.0</price>
-<vendorprice>113.0</vendorprice>
-<vendorpricedoll>2.5</vendorpricedoll>
-<rrcdoll>4.24</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>28366547</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTYvOGYv0KYtMDAwMDgyNTAyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTcvNmEv0KYtMDAwMDgyNTAyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWIvMTIv0KYtMDAwMDgyNTAyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzAvNTIv0KYtMDAwMDgyNTAyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmQvM2Qv0KYtMDAwMDgyNTAyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2MvMzkv0KYtMDAwMDgyNTAyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2EvMzAv0KYtMDAwMDgyNTAyXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjAvYzEv0KYtMDAwMDgyNTAyXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple HQ</vendor>
-<vendorCode>Ц-000082502</vendorCode>
-<code>788697</code>
-<name>Silicone Case HC with MagSafe — iPhone 17 Pro Max — Ash (75)</name>
-<quantity_in_stock>10</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro Max</param>
-<param name="Бренд">Apple HQ</param>
-<param name="Материал">Силикон</param>
-</offer>
 <offer id="ts000082502000030497" available="true">
 <url>https://kmt5.com.ua/silicone-case-hc-with-magsafe-iphone-17-pro-max-black-18</url>
 <price>191.0</price>
@@ -3234,20 +3155,26 @@
 <param name="Бренд">Apple HQ</param>
 <param name="Материал">Силикон</param>
 </offer>
-<offer id="ts000082502000030503" available="true">
-<url>https://kmt5.com.ua/silicone-case-hc-with-magsafe-iphone-17-pro-max-charcoal-gray-10</url>
+<offer id="ts000082502000031033" available="true">
+<url>https://kmt5.com.ua/silicone-case-hc-with-magsafe-iphone-17-pro-max-light-purple</url>
 <price>191.0</price>
 <vendorprice>113.0</vendorprice>
 <vendorpricedoll>2.5</vendorpricedoll>
 <rrcdoll>4.24</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>28366547</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjAvYzEv0KYtMDAwMDgyNTAyXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTYvOGYv0KYtMDAwMDgyNTAyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTcvNmEv0KYtMDAwMDgyNTAyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWIvMTIv0KYtMDAwMDgyNTAyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzAvNTIv0KYtMDAwMDgyNTAyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmQvM2Qv0KYtMDAwMDgyNTAyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2MvMzkv0KYtMDAwMDgyNTAyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2EvMzAv0KYtMDAwMDgyNTAyXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjAvYzEv0KYtMDAwMDgyNTAyXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Apple HQ</vendor>
 <vendorCode>Ц-000082502</vendorCode>
-<code>788700</code>
-<name>Silicone Case HC with MagSafe — iPhone 17 Pro Max — Charcoal Gray (10)</name>
+<code>789730</code>
+<name>Silicone Case HC with MagSafe — iPhone 17 Pro Max — Light Purple</name>
 <quantity_in_stock>10</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
@@ -3255,20 +3182,26 @@
 <param name="Бренд">Apple HQ</param>
 <param name="Материал">Силикон</param>
 </offer>
-<offer id="ts000082502000030502" available="true">
-<url>https://kmt5.com.ua/silicone-case-hc-with-magsafe-iphone-17-pro-max-lilac-76</url>
+<offer id="ts000082502000032456" available="true">
+<url>https://kmt5.com.ua/silicone-case-hc-with-magsafe-iphone-17-pro-max-mellow-yellow</url>
 <price>191.0</price>
 <vendorprice>113.0</vendorprice>
 <vendorpricedoll>2.5</vendorpricedoll>
 <rrcdoll>4.24</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>28366547</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2MvMzkv0KYtMDAwMDgyNTAyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTYvOGYv0KYtMDAwMDgyNTAyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTcvNmEv0KYtMDAwMDgyNTAyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWIvMTIv0KYtMDAwMDgyNTAyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzAvNTIv0KYtMDAwMDgyNTAyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmQvM2Qv0KYtMDAwMDgyNTAyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2MvMzkv0KYtMDAwMDgyNTAyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2EvMzAv0KYtMDAwMDgyNTAyXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjAvYzEv0KYtMDAwMDgyNTAyXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Apple HQ</vendor>
 <vendorCode>Ц-000082502</vendorCode>
-<code>788699</code>
-<name>Silicone Case HC with MagSafe — iPhone 17 Pro Max — Lilac (76)</name>
+<code>792539</code>
+<name>Silicone Case HC with MagSafe — iPhone 17 Pro Max — Mellow Yellow</name>
 <quantity_in_stock>10</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
@@ -3297,20 +3230,26 @@
 <param name="Бренд">Apple HQ</param>
 <param name="Материал">Силикон</param>
 </offer>
-<offer id="ts000082502000030501" available="true">
-<url>https://kmt5.com.ua/silicone-case-hc-with-magsafe-iphone-17-pro-max-stone</url>
+<offer id="ts000082502000031032" available="true">
+<url>https://kmt5.com.ua/silicone-case-hc-with-magsafe-iphone-17-pro-max-turquoise</url>
 <price>191.0</price>
 <vendorprice>113.0</vendorprice>
 <vendorpricedoll>2.5</vendorpricedoll>
 <rrcdoll>4.24</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>28366547</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzAvNTIv0KYtMDAwMDgyNTAyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTYvOGYv0KYtMDAwMDgyNTAyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTcvNmEv0KYtMDAwMDgyNTAyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWIvMTIv0KYtMDAwMDgyNTAyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzAvNTIv0KYtMDAwMDgyNTAyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmQvM2Qv0KYtMDAwMDgyNTAyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2MvMzkv0KYtMDAwMDgyNTAyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2EvMzAv0KYtMDAwMDgyNTAyXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjAvYzEv0KYtMDAwMDgyNTAyXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Apple HQ</vendor>
 <vendorCode>Ц-000082502</vendorCode>
-<code>788698</code>
-<name>Silicone Case HC with MagSafe — iPhone 17 Pro Max — Stone</name>
+<code>789729</code>
+<name>Silicone Case HC with MagSafe — iPhone 17 Pro Max — Turquoise</name>
 <quantity_in_stock>10</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
@@ -3360,27 +3299,6 @@
 <param name="Бренд">Apple HQ</param>
 <param name="Материал">Силикон</param>
 </offer>
-<offer id="ts000082503000030510" available="true">
-<url>https://kmt5.com.ua/silicone-case-hc-with-magsafe-iphone-17-pro-charcoal-gray-10</url>
-<price>191.0</price>
-<vendorprice>113.0</vendorprice>
-<vendorpricedoll>2.5</vendorpricedoll>
-<rrcdoll>4.24</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>28366547</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2MvNmIv0KYtMDAwMDgyNTAzXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTAvNmYv0KYtMDAwMDgyNTAzXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple HQ</vendor>
-<vendorCode>Ц-000082503</vendorCode>
-<code>788708</code>
-<name>Silicone Case HC with MagSafe — iPhone 17 Pro — Charcoal Gray (10)</name>
-<quantity_in_stock>10</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro</param>
-<param name="Бренд">Apple HQ</param>
-<param name="Материал">Силикон</param>
-</offer>
 <offer id="ts000082503000031030" available="true">
 <url>https://kmt5.com.ua/silicone-case-hc-with-magsafe-iphone-17-pro-light-purple</url>
 <price>191.0</price>
@@ -3408,20 +3326,26 @@
 <param name="Бренд">Apple HQ</param>
 <param name="Материал">Силикон</param>
 </offer>
-<offer id="ts000082503000030509" available="true">
-<url>https://kmt5.com.ua/silicone-case-hc-with-magsafe-iphone-17-pro-lilac-76</url>
+<offer id="ts000082503000032455" available="true">
+<url>https://kmt5.com.ua/silicone-case-hc-with-magsafe-iphone-17-pro-mellow-yellow</url>
 <price>191.0</price>
 <vendorprice>113.0</vendorprice>
 <vendorpricedoll>2.5</vendorpricedoll>
 <rrcdoll>4.24</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>28366547</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODMvNDYv0KYtMDAwMDgyNTAzXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjEvY2Iv0KYtMDAwMDgyNTAzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTAvNmYv0KYtMDAwMDgyNTAzXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2MvZGMv0KYtMDAwMDgyNTAzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDgvMzMv0KYtMDAwMDgyNTAzXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWUvNDIv0KYtMDAwMDgyNTAzXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODMvNDYv0KYtMDAwMDgyNTAzXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGMvNjgv0KYtMDAwMDgyNTAzXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2MvNmIv0KYtMDAwMDgyNTAzXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Apple HQ</vendor>
 <vendorCode>Ц-000082503</vendorCode>
-<code>788707</code>
-<name>Silicone Case HC with MagSafe — iPhone 17 Pro — Lilac (76)</name>
+<code>792538</code>
+<name>Silicone Case HC with MagSafe — iPhone 17 Pro — Mellow Yellow</name>
 <quantity_in_stock>10</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
@@ -3540,8 +3464,8 @@
 <param name="Бренд">Apple HQ</param>
 <param name="Материал">Силикон</param>
 </offer>
-<offer id="ts000082504000031026" available="true">
-<url>https://kmt5.com.ua/silicone-case-hc-with-magsafe-iphone-17-light-purple</url>
+<offer id="ts000082504000032454" available="true">
+<url>https://kmt5.com.ua/silicone-case-hc-with-magsafe-iphone-17-mellow-yellow</url>
 <price>191.0</price>
 <vendorprice>113.0</vendorprice>
 <vendorpricedoll>2.5</vendorpricedoll>
@@ -3559,8 +3483,8 @@
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjUvM2Iv0KYtMDAwMDgyNTA0XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Apple HQ</vendor>
 <vendorCode>Ц-000082504</vendorCode>
-<code>789723</code>
-<name>Silicone Case HC with MagSafe — iPhone 17 — Light Purple</name>
+<code>792537</code>
+<name>Silicone Case HC with MagSafe — iPhone 17 — Mellow Yellow</name>
 <quantity_in_stock>10</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
@@ -12545,24 +12469,6 @@
 <code>789864</code>
 <name>Сумка 15.6&quot; (16.2&quot;) WiWU Minimalist Laptop Bag II — Black</name>
 <quantity_in_stock>34</quantity_in_stock>
-<param name="Форм фактор">Сумка</param>
-<param name="Бренд">Wiwu</param>
-<param name="Материал">Ткань</param>
-</offer>
-<offer id="ts000080935000029546" available="true">
-<url>https://kmt5.com.ua/sumka-156-162-wiwu-minimalist-laptop-bag-ii-gray</url>
-<price>845.0</price>
-<vendorprice>504.0</vendorprice>
-<vendorpricedoll>11.2</vendorpricedoll>
-<rrcdoll>18.77</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>71284098</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjcvMzUv0KYtMDAwMDgwOTM1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Wiwu</vendor>
-<vendorCode>Ц-000080935</vendorCode>
-<code>786212</code>
-<name>Сумка 15.6&quot; (16.2&quot;) WiWU Minimalist Laptop Bag II — Gray</name>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм фактор">Сумка</param>
 <param name="Бренд">Wiwu</param>
 <param name="Материал">Ткань</param>
@@ -73483,26 +73389,6 @@
 <param name="Бренд">Polo</param>
 <param name="Материал">Силикон</param>
 </offer>
-<offer id="ts000083015000031041" available="true">
-<url>https://kmt5.com.ua/polo-kyle-leather-case-with-magsafe-iphone-17-pro-navy-blue</url>
-<price>1212.0</price>
-<vendorprice>698.0</vendorprice>
-<vendorpricedoll>15.5</vendorpricedoll>
-<rrcdoll>26.94</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>28366547</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDEvOTgv0KYtMDAwMDgzMDE1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Polo</vendor>
-<vendorCode>Ц-000083015</vendorCode>
-<code>789742</code>
-<name>Polo Kyle Leather Case with Magsafe iPhone 17 Pro — Navy Blue</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro</param>
-<param name="Бренд">Polo</param>
-<param name="Материал">Силикон</param>
-</offer>
 <offer id="ts000083015000031042" available="true">
 <url>https://kmt5.com.ua/polo-kyle-leather-case-with-magsafe-iphone-17-pro-orange</url>
 <price>1212.0</price>
@@ -73522,28 +73408,6 @@
 <param name="Модель девайса">Apple iPhone 17 Pro</param>
 <param name="Бренд">Polo</param>
 <param name="Материал">Силикон</param>
-</offer>
-<offer id="ts000080061000028201" available="true">
-<url>https://kmt5.com.ua/polo-leonard-leather-case-iphone-16-pro-max-grey</url>
-<price>863.0</price>
-<vendorprice>518.0</vendorprice>
-<vendorpricedoll>11.5</vendorpricedoll>
-<rrcdoll>19.18</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>89640525</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDMvMTMv0KYtMDAwMDgwMDYxXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGMvNzAv0KYtMDAwMDgwMDYxXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Polo</vendor>
-<vendorCode>Ц-000080061</vendorCode>
-<code>781689</code>
-<name>Polo Leonard Leather Case iPhone 16 Pro Max — Grey</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 16 Pro Max</param>
-<param name="Бренд">Polo</param>
-<param name="Материал">PU кожа</param>
-<param name="Цвет">Black</param>
 </offer>
 <offer id="ts000080060000028198" available="true">
 <url>https://kmt5.com.ua/polo-leonard-leather-case-iphone-16-pro-black</url>
@@ -77259,28 +77123,6 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Macbook Neo 13 A3404</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Силикон</param>
-</offer>
-<offer id="ts000063045000021953" available="true">
-<url>https://kmt5.com.ua/protective-case-macbook-pro-13-a1706a1708a1989a2159a2289a2251a2338-pink</url>
-<price>429.0</price>
-<vendorprice>266.0</vendorprice>
-<vendorpricedoll>5.9</vendorpricedoll>
-<rrcdoll>9.53</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>8738120</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGEvNWYv0KYtMDAwMDYzMDQ1XzEyLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2QvMmIv0KYtMDAwMDYzMDQ1XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGUvYWYv0KYtMDAwMDYzMDQ1XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000063045</vendorCode>
-<code>753304</code>
-<name>Protective Case MacBook Pro 13'' A1706 ; A1708 ; A1989 ; A2159 ; A2289 ; A2251 ; A2338 — Pink</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Macbook Pro 13</param>
 <param name="Бренд">Apple</param>
 <param name="Материал">Силикон</param>
 </offer>
@@ -97904,27 +97746,6 @@
 <param name="Бренд">Apple</param>
 <param name="Материал">Пластик &amp; TPU</param>
 </offer>
-<offer id="ts000083157000031094" available="true">
-<url>https://kmt5.com.ua/swarovski-case-with-magsafe-iphone-17-pro-max-pink</url>
-<price>385.0</price>
-<vendorprice>221.0</vendorprice>
-<vendorpricedoll>4.9</vendorpricedoll>
-<rrcdoll>8.54</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>28366547</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmUvMjUv0KYtMDAwMDgzMTU3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTcvYmUv0KYtMDAwMDgzMTU3XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000083157</vendorCode>
-<code>789932</code>
-<name>Swarovski Case with MagSafe iPhone 17 Pro Max — Pink</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro Max</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Пластик &amp; TPU</param>
-</offer>
 <offer id="ts000083157000031096" available="true">
 <url>https://kmt5.com.ua/swarovski-case-with-magsafe-iphone-17-pro-max-purple</url>
 <price>385.0</price>
@@ -100878,27 +100699,6 @@
 <code>773409</code>
 <name>UAG Adventure Magnetic Case — iPhone 14 Pro Max 6.7&quot;  — Camouflage Black</name>
 <quantity_in_stock>6</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 14 Pro Max 6.7&quot;</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Пластик</param>
-</offer>
-<offer id="ts000077303000028466" available="true">
-<url>https://kmt5.com.ua/uag-adventure-magnetic-case-iphone-14-pro-max-67-gray</url>
-<price>352.0</price>
-<vendorprice>198.0</vendorprice>
-<vendorpricedoll>4.4</vendorpricedoll>
-<rrcdoll>7.81</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>99363376</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmEvOWQv0KYtMDAwMDc3MzAzXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzQvMDgv0KYtMDAwMDc3MzAzXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000077303</vendorCode>
-<code>782163</code>
-<name>UAG Adventure Magnetic Case — iPhone 14 Pro Max 6.7&quot;  — Gray</name>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 Pro Max 6.7&quot;</param>
@@ -199794,24 +199594,6 @@
 <quantity_in_stock>30</quantity_in_stock>
 <param name="Бренд">Различные</param>
 </offer>
-<offer id="ts000080772000029459" available="true">
-<url>https://kmt5.com.ua/igrushka-sunt-car-jc02-green</url>
-<price>1425.0</price>
-<vendorprice>734.0</vendorprice>
-<vendorpricedoll>16.3</vendorpricedoll>
-<rrcdoll>31.66</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>75087609</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzEvNWIv0KYtMDAwMDgwNzcyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzUvYjUv0KYtMDAwMDgwNzcyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTMvYjUv0KYtMDAwMDgwNzcyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000080772</vendorCode>
-<code>785969</code>
-<name>Игрушка Sunt car JC02 — Green</name>
-<quantity_in_stock>3</quantity_in_stock>
-<param name="Бренд">Различные</param>
-</offer>
 <offer id="ts000080772000029458" available="true">
 <url>https://kmt5.com.ua/igrushka-sunt-car-jc02-orange</url>
 <price>1425.0</price>
@@ -200298,27 +200080,6 @@
 <vendorCode>Ц-000070570</vendorCode>
 <code>748170</code>
 <name>Велосипед KONAR KS-26&quot;17# — Glossy Red/White</name>
-<description><![CDATA[Рама: стальная, хардтейл, вилка: сталь, амортизационная, обод: двойной алюминиевый, тормоз: Disc-brake покрышка *1,95, руль и вынос: алюминий, моноблок + TZ30 + TZ50 + задняя звезда FW-7, картридж.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Я</param>
-</offer>
-<offer id="ts000070570000018969" available="true">
-<url>https://kmt5.com.ua/velosiped-konar-ks2617-matt-blackgraywhite</url>
-<price>7998.0</price>
-<vendorprice>5398.0</vendorprice>
-<vendorpricedoll>120.0</vendorpricedoll>
-<rrcdoll>177.8</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>38465602</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTEvYjMv0KYtMDAwMDcwNTcwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTEvYzAv0KYtMDAwMDcwNTcwXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmEvMzgv0KYtMDAwMDcwNTcwXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzgvMDIv0KYtMDAwMDcwNTcwXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2QvYjIv0KYtMDAwMDcwNTcwXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Я</vendor>
-<vendorCode>Ц-000070570</vendorCode>
-<code>748169</code>
-<name>Велосипед KONAR KS-26&quot;17# — Matt Black/Gray/White</name>
 <description><![CDATA[Рама: стальная, хардтейл, вилка: сталь, амортизационная, обод: двойной алюминиевый, тормоз: Disc-brake покрышка *1,95, руль и вынос: алюминий, моноблок + TZ30 + TZ50 + задняя звезда FW-7, картридж.]]></description>
 <quantity_in_stock>1</quantity_in_stock>
 <param name="Бренд">Я</param>
