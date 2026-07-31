@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-07-31 11:17">
+<yml_catalog date="2026-07-31 16:31">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -160328,29 +160328,6 @@
 <description><![CDATA["1. Bluetooth 5.4; Чіп: JL AC6965E 2. Ємність акумулятора: 1200 мАг; Час заряджання: 3,5 години 3. Час використання: 5 годин 4. Динамік: 52 мм; Потужність: 5 Вт 5. Матеріал: ABS+силікон; Розмір: 115 * 115 * 62 мм; Вага: 228 г 6. Підтримка відтворення через Bluetooth та сполучення TWS"]]></description>
 <quantity_in_stock>33</quantity_in_stock>
 <param name="Бренд">Borofone</param>
-<param name="Аудіо товари">Портативні колонки</param>
-</offer>
-<offer id="ts000073880000023765" available="true">
-<url>https://kmt5.com.ua/kolonka-bluetooth-br28-joyful-sports-red</url>
-<price>443.0</price>
-<vendorprice>234.0</vendorprice>
-<vendorpricedoll>5.2</vendorpricedoll>
-<rrcdoll>9.85</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>31204796</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWQvYjYv0KYtMDAwMDczODgwXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDAvOTIv0KYtMDAwMDczODgwXzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmIvZjIv0KYtMDAwMDczODgwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDAvNDUv0KYtMDAwMDczODgwXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWIvYjcv0KYtMDAwMDczODgwXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGIvZWQv0KYtMDAwMDczODgwXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzYvNjgv0KYtMDAwMDczODgwXzEyLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000073880</vendorCode>
-<code>759687</code>
-<name>Портативна колонка BR28 Joyful sports — Red</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Различные</param>
 <param name="Аудіо товари">Портативні колонки</param>
 </offer>
 <offer id="ts000073879000023760" available="true">
