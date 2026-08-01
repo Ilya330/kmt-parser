@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-01 06:41">
+<yml_catalog date="2026-08-01 10:28">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -7707,28 +7707,6 @@
 <param name="Бренд">Apple</param>
 <param name="Материал">Силикон</param>
 </offer>
-<offer id="ts000079331000027139" available="true">
-<url>https://kmt5.com.ua/oc-matte-case-with-magsafe-iphone-12-pro-max-grey</url>
-<price>180.0</price>
-<vendorprice>107.0</vendorprice>
-<vendorpricedoll>2.38</vendorpricedoll>
-<rrcdoll>4.0</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>5726391</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDAvMTEv0KYtMDAwMDc5MzMxXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTAvNjgv0KYtMDAwMDc5MzMxXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDIvYWEv0KYtMDAwMDc5MzMxXzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000079331</vendorCode>
-<code>779020</code>
-<name>OC Matte Case With MagSafe iPhone 12 Pro Max — Grey</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 12 Pro Max 6.7&quot;</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Силикон</param>
-</offer>
 <offer id="ts000079331000027141" available="true">
 <url>https://kmt5.com.ua/oc-matte-case-with-magsafe-iphone-12-pro-max-pink</url>
 <price>180.0</price>
@@ -10806,26 +10784,6 @@
 <code>785882</code>
 <name>Airpods 4 Case Microfiber — Lavender (14)</name>
 <quantity_in_stock>19</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Airpods 4</param>
-<param name="Бренд">Различные</param>
-<param name="Аудіо товари">Чехол для Airpods</param>
-</offer>
-<offer id="ts000080740000029402" available="true">
-<url>https://kmt5.com.ua/airpods-4-case-microfiber-lavender-gray-12</url>
-<price>76.0</price>
-<vendorprice>41.0</vendorprice>
-<vendorpricedoll>0.9</vendorpricedoll>
-<rrcdoll>1.68</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>52376858</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjgvMTcv0KYtMDAwMDgwNzQwXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzIvYjgv0KYtMDAwMDgwNzQwXzI2LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000080740</vendorCode>
-<code>785881</code>
-<name>Airpods 4 Case Microfiber — Lavender Gray (12)</name>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Airpods 4</param>
 <param name="Бренд">Различные</param>
@@ -200943,23 +200901,6 @@
 <code>748155</code>
 <name>Велосипед KONAR KA-26&quot;17#  — Matt Gray/Green</name>
 <description><![CDATA[Рама: алюминий, хардтейл, вилка: стальная, амортизационная, обод: двойной алюминиевый, тормоз: Disc-brake покрышка *1,95, руль и вынос: алюминий, моноблок + TZ30 + TZ50 + задняя звезда FW-7I, картридж.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Я</param>
-</offer>
-<offer id="ts000070574000018964" available="true">
-<url>https://kmt5.com.ua/velosiped-konar-ka2918-21s-matt-blackorange</url>
-<price>8982.0</price>
-<vendorprice>6069.0</vendorprice>
-<vendorpricedoll>135.0</vendorpricedoll>
-<rrcdoll>199.8</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>38465602</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzQvOWQv0KYtMDAwMDcwNTc0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Я</vendor>
-<vendorCode>Ц-000070574</vendorCode>
-<code>748164</code>
-<name>Велосипед KONAR KA-29&quot;18# 21S — Matt Black/Orange</name>
-<description><![CDATA[Рама: алюминий, хардтэйл, Вилка: cтальная, амортиационная, обод: двойной, алюминиевый, тормоз: Disc-brake покрышка *2,35, Руль и вынос: алюминиевый, SHIMANO EF500 3*8 + TZ30 + TZ50 + Звезды FW-8, картридж.]]></description>
 <quantity_in_stock>1</quantity_in_stock>
 <param name="Бренд">Я</param>
 </offer>
