@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-02 06:38">
+<yml_catalog date="2026-08-02 10:26">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -542,29 +542,6 @@
 <code>788581</code>
 <name>Armor Pro Case With MagSafe FGG-012 — iPhone 16 Pro  — Grey</name>
 <quantity_in_stock>14</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 16 Pro</param>
-<param name="Бренд">Wiwu</param>
-<param name="Материал">Полиуретан</param>
-</offer>
-<offer id="ts000082456000030432" available="true">
-<url>https://kmt5.com.ua/armor-pro-case-with-magsafe-fgg012-iphone-16-pro-pink</url>
-<price>434.0</price>
-<vendorprice>257.0</vendorprice>
-<vendorpricedoll>5.7</vendorpricedoll>
-<rrcdoll>9.64</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>89640525</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDcvNGUv0KYtMDAwMDgyNDU2XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGEvNWMv0KYtMDAwMDgyNDU2XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWMvN2Mv0KYtMDAwMDgyNDU2XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmMvNTQv0KYtMDAwMDgyNDU2XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Wiwu</vendor>
-<vendorCode>Ц-000082456</vendorCode>
-<code>788583</code>
-<name>Armor Pro Case With MagSafe FGG-012 — iPhone 16 Pro  — Pink</name>
-<quantity_in_stock>5</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16 Pro</param>
@@ -50216,6 +50193,26 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 Pro Max 6.7&quot;</param>
+<param name="Бренд">Различные</param>
+<param name="Материал">Пластик &amp; TPU</param>
+</offer>
+<offer id="ts000081459" available="true">
+<url>https://kmt5.com.ua/leopard-pattern-case-iphone-15-pro</url>
+<price>146.0</price>
+<vendorprice>88.0</vendorprice>
+<vendorpricedoll>1.95</vendorpricedoll>
+<rrcdoll>3.23</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>86411438</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDgvNTcv0KYtMDAwMDgxNDU5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000081459</vendorCode>
+<code>787168</code>
+<name>Leopard pattern Case — iPhone 15 Pro</name>
+<quantity_in_stock>26</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 15 Pro</param>
 <param name="Бренд">Различные</param>
 <param name="Материал">Пластик &amp; TPU</param>
 </offer>
@@ -128606,10 +128603,10 @@
 </offer>
 <offer id="ts000082811" available="true">
 <url>https://kmt5.com.ua/power-bank-30000-mah%C2%A0-20w%C2%A0%C2%A0-borofone-bj79b</url>
-<price>933.0</price>
-<vendorprice>581.0</vendorprice>
-<vendorpricedoll>12.92</vendorpricedoll>
-<rrcdoll>20.74</rrcdoll>
+<price>601.0</price>
+<vendorprice>499.0</vendorprice>
+<vendorpricedoll>11.1</vendorpricedoll>
+<rrcdoll>13.35</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>6144175</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzAvMzIv0KYtMDAwMDgyODExXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -136847,6 +136844,28 @@
 <name>Кабель Micro 2.4A (1m) Momax DDM3L2 — Rose Gold</name>
 <quantity_in_stock>5</quantity_in_stock>
 <param name="Бренд">Различные</param>
+<param name="Разъем подключения">Cable USB to Micro</param>
+<param name="Длина кабеля">1m</param>
+</offer>
+<offer id="ts000072333000021849" available="true">
+<url>https://kmt5.com.ua/kabel-veron-ms06-micro-1m-white</url>
+<price>116.0</price>
+<vendorprice>63.0</vendorprice>
+<vendorpricedoll>1.39</vendorpricedoll>
+<rrcdoll>2.57</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>15362910</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTYvZDkv0KYtMDAwMDcyMzMzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2EvNzAv0KYtMDAwMDcyMzMzXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjUvM2Uv0KYtMDAwMDcyMzMzXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDQvMjAv0KYtMDAwMDcyMzMzXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>VERON</vendor>
+<vendorCode>Ц-000072333</vendorCode>
+<code>753025</code>
+<name>Кабель Micro 2.4A (1m) Veron MS06 Silicon — White</name>
+<description><![CDATA[Версия USB: 2.0 Длина: 1 м Материал: Силикон Сила тока: 2.4 А Тип зарядки: Стандартная Тип коннекторов: Micro USB на USB Мощность: 10 Вт Назначение: Для телефона, планшета Цвет: Белый]]></description>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">VERON</param>
 <param name="Разъем подключения">Cable USB to Micro</param>
 <param name="Длина кабеля">1m</param>
 </offer>
@@ -153643,6 +153662,25 @@
 <code>785746</code>
 <name>Штатив Консольный кронштейн 36cm Cantilever bracket C Type  (алюминиевый стержень 1/4 зуба + круглая лепешка) металлическое алюминиевое седло</name>
 <quantity_in_stock>5</quantity_in_stock>
+<param name="Бренд">Различные</param>
+<param name="Студийное оборудование">Штативы</param>
+</offer>
+<offer id="ts000078837" available="true">
+<url>https://kmt5.com.ua/shtativ-konsolnyiy-kronshteyn-b35-type-alyuminievyiy-sterjen-14-zuba-kruglaya-lepeshka-dvoynoe-metallicheskoe-alyuminievoe-sedlo</url>
+<price>392.0</price>
+<vendorprice>266.0</vendorprice>
+<vendorpricedoll>5.9</vendorpricedoll>
+<rrcdoll>8.71</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>4979007</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjcvM2Uv0KYtMDAwMDc4ODM3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmMvOGIv0KYtMDAwMDc4ODM3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmQvMmEv0KYtMDAwMDc4ODM3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000078837</vendorCode>
+<code>778340</code>
+<name>Штатив Консольный кронштейн B35 Type алюминиевый стержень 1/4 зуба + круглая лепешка) двойное металлическое алюминиевое седло</name>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Студийное оборудование">Штативы</param>
 </offer>
@@ -198246,29 +198284,6 @@
 <quantity_in_stock>200</quantity_in_stock>
 <param name="Бренд">Различные</param>
 </offer>
-<offer id="ts000078752000026942" available="false">
-<url>https://kmt5.com.ua/pdstavka-dlya-telefonu-ipaid-lazy-black</url>
-<price>222.0</price>
-<vendorprice>121.0</vendorprice>
-<vendorpricedoll>2.68</vendorpricedoll>
-<rrcdoll>4.93</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>52765482</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGYvM2Iv0KYtMDAwMDc4NzUyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjAvOGEv0KYtMDAwMDc4NzUyXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTUvZmEv0KYtMDAwMDc4NzUyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTcvMTkv0KYtMDAwMDc4NzUyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2QvZDQv0KYtMDAwMDc4NzUyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODIvZjQv0KYtMDAwMDc4NzUyXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWQvYTcv0KYtMDAwMDc4NzUyXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000078752</vendorCode>
-<code>778252</code>
-<name>Підставка для планшета та телефону Plastic lazy — Black</name>
-<description><![CDATA[Новый дизайн ленивого крепления с многофункциональным зажимом, позволяющий использовать зажим как настольный держатель для телефона/планшета. Идеально подходит для просмотра фильмов/видеороликов, прослушивания музыки в постели или рядом с рабочим столом, не удерживая телефон в руках! Освободите себя для других дел. Может предотвратить вред глазам, сохраняя расстояние для детей. Не нужно опускать голову, чтобы избежать цервикальной спондилопатии у взрослых. Легко настраивается по длине как вам удобно. Диапазон удерживания достигает 110 мм, это универсальный держатель для разных телефонов до 6 дюймов. Весь длинный приблизительно 700 мм. Гибкий рычаг для разных углов и расстояний. Мобильный телефон может вращаться на 360 градусов.]]></description>
-<quantity_in_stock>0</quantity_in_stock>
-<param name="Бренд">Различные</param>
-</offer>
 <offer id="ts000078753000026944" available="true">
 <url>https://kmt5.com.ua/pdstavka-dlya-telefonu-metal-lazy-black</url>
 <price>181.0</price>
@@ -200536,75 +200551,6 @@
 <param name="Бренд">Различные</param>
 <param name="Видео аксессуары">Камеры видеонаблюдения</param>
 </offer>
-<offer id="ts000079262" available="true">
-<url>https://kmt5.com.ua/4mp-ip-camera-ptip54f</url>
-<price>6466.0</price>
-<vendorprice>4046.0</vendorprice>
-<vendorpricedoll>90.0</vendorpricedoll>
-<rrcdoll>143.84</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>22825303</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGUvYzMv0KYtMDAwMDc5MjYyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTQvZmEv0KYtMDAwMDc5MjYyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjUvNGMv0KYtMDAwMDc5MjYyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmIvMDkv0KYtMDAwMDc5MjYyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTUvNzgv0KYtMDAwMDc5MjYyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzYvZDIv0KYtMDAwMDc5MjYyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000079262</vendorCode>
-<code>778877</code>
-<name>IP Camera 4MP HD-IP POE AI Smart PTZ - Model: PT-IP54F (IP66)</name>
-<description><![CDATA[Цвет: Белый-4Мп Входящие компоненты: камера Технологии беспроводной связи: ИК Эффективное видеоразрешение: 4 Мп Угол обзора: 360 градусов Материал: Металл Напряжение: 12 Вольт Мощность: 20 ватт Размеры товара Д x Ш x В: 27,9 x 17,8 x 17,8 сантиметров Вес товара: 1,81 килограмм Габариты товара: 27,94 x 17,78 x 17,78 см; 1,81 кг Цвет: Белый-8Мп Тип источника света: Инфракрасный Специальные функции: Технология PTZ Специфическое использование: Наблюдение]]></description>
-<quantity_in_stock>3</quantity_in_stock>
-<param name="Бренд">Различные</param>
-<param name="Видео аксессуары">Камеры видеонаблюдения</param>
-</offer>
-<offer id="ts000079263" available="true">
-<url>https://kmt5.com.ua/5mp-ip-camera-ptip54f</url>
-<price>7903.0</price>
-<vendorprice>4945.0</vendorprice>
-<vendorpricedoll>110.0</vendorpricedoll>
-<rrcdoll>175.8</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>22825303</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTkvY2Ev0KYtMDAwMDc5MjYzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDMvZDEv0KYtMDAwMDc5MjYzXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDkvYWMv0KYtMDAwMDc5MjYzXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmYvNmUv0KYtMDAwMDc5MjYzXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjAvMmEv0KYtMDAwMDc5MjYzXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzkvNDIv0KYtMDAwMDc5MjYzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000079263</vendorCode>
-<code>778878</code>
-<name>IP Camera 5MP HD-IP POE AI Smart PTZ - Model: PT-IP54F (IP66)</name>
-<description><![CDATA[Цвет: Белый-5Мп Входящие компоненты: камера Технологии беспроводной связи: ИК Эффективное видеоразрешение: 5 Мп Угол обзора: 360 градусов Материал: Металл Напряжение: 12 Вольт Мощность: 20 ватт Размеры товара Д x Ш x В: 27,9 x 17,8 x 17,8 сантиметров Вес товара: 1,81 килограмм Габариты товара: 27,94 x 17,78 x 17,78 см; 1,81 кг Цвет: Белый-8Мп Тип источника света: Инфракрасный Специальные функции: Технология PTZ Специфическое использование: Наблюдение]]></description>
-<quantity_in_stock>4</quantity_in_stock>
-<param name="Бренд">Различные</param>
-<param name="Видео аксессуары">Камеры видеонаблюдения</param>
-</offer>
-<offer id="ts000079264" available="true">
-<url>https://kmt5.com.ua/8mp-ip-camera-ptip54f</url>
-<price>10417.0</price>
-<vendorprice>6518.0</vendorprice>
-<vendorpricedoll>145.0</vendorpricedoll>
-<rrcdoll>231.74</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>22825303</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWUvYzkv0KYtMDAwMDc5MjY0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGYvNjcv0KYtMDAwMDc5MjY0XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODUvNGEv0KYtMDAwMDc5MjY0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTEvMDQv0KYtMDAwMDc5MjY0XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODcvNDMv0KYtMDAwMDc5MjY0XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzEvZWMv0KYtMDAwMDc5MjY0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000079264</vendorCode>
-<code>778879</code>
-<name>IP Camera 8MP HD-IP POE AI Smart PTZ - Model: PT-IP54F (IP66)</name>
-<description><![CDATA[Цвет: Белый-8Мп Входящие компоненты: камера Технологии беспроводной связи: ИК Эффективное видеоразрешение: 8 Мп Угол обзора: 360 градусов Материал: Металл Напряжение: 12 Вольт Мощность: 20 ватт Размеры товара Д x Ш x В: 27,9 x 17,8 x 17,8 сантиметров Вес товара: 1,81 килограмм Габариты товара: 27,94 x 17,78 x 17,78 см; 1,81 кг Цвет: Белый-8Мп Тип источника света: Инфракрасный Специальные функции: Технология PTZ Специфическое использование: Наблюдение]]></description>
-<quantity_in_stock>6</quantity_in_stock>
-<param name="Бренд">Различные</param>
-<param name="Видео аксессуары">Камеры видеонаблюдения</param>
-</offer>
 <offer id="ts000079267" available="true">
 <url>https://kmt5.com.ua/ip-camera-intercom-system-ahd1v1</url>
 <price>6825.0</price>
@@ -200690,6 +200636,24 @@
 <param name="Бренд">Hoco</param>
 <param name="Компьютерные аксессуары">Веб-Камеры</param>
 </offer>
+<offer id="ts000083024" available="true">
+<url>https://kmt5.com.ua/shurupovert-akkumulyatornyiy-45-in-1</url>
+<price>828.0</price>
+<vendorprice>414.0</vendorprice>
+<vendorpricedoll>9.2</vendorpricedoll>
+<rrcdoll>18.4</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>95805898</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWQvMjEv0KYtMDAwMDgzMDI0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGIvMjgv0KYtMDAwMDgzMDI0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGUvMDAv0KYtMDAwMDgzMDI0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000083024</vendorCode>
+<code>789764</code>
+<name>Аккумуляторная отвертка  45 in 1</name>
+<quantity_in_stock>18</quantity_in_stock>
+<param name="Бренд">Различные</param>
+</offer>
 <offer id="ts000082625" available="true">
 <url>https://kmt5.com.ua/ip-wifi-door-eye-camera</url>
 <price>1998.0</price>
@@ -200760,6 +200724,29 @@
 <param name="Бренд">Hoco</param>
 <param name="Цвет">Mix Color</param>
 </offer>
+<offer id="ts000083031" available="true">
+<url>https://kmt5.com.ua/kraskopult-paint-zoom</url>
+<price>1376.0</price>
+<vendorprice>688.0</vendorprice>
+<vendorpricedoll>15.3</vendorpricedoll>
+<rrcdoll>30.6</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>95805898</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTcvM2Ev0KYtMDAwMDgzMDMxXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjEvYTIv0KYtMDAwMDgzMDMxXzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzQvNTYv0KYtMDAwMDgzMDMxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGQvMjkv0KYtMDAwMDgzMDMxXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTUvODYv0KYtMDAwMDgzMDMxXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjkvNmIv0KYtMDAwMDgzMDMxXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWIvMWYv0KYtMDAwMDgzMDMxXzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjEvNTIv0KYtMDAwMDgzMDMxXzEyLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWUvNTcv0KYtMDAwMDgzMDMxXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODQvYTYv0KYtMDAwMDgzMDMxXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendorCode>Ц-000083031</vendorCode>
+<code>789771</code>
+<name>Краскопульт Paint Zoom</name>
+<quantity_in_stock>40</quantity_in_stock>
+</offer>
 <offer id="ts000081298000029802" available="true">
 <url>https://kmt5.com.ua/portativnyiy-mini-ventilyator-wtt30-white</url>
 <price>894.0</price>
@@ -200783,6 +200770,30 @@
 <name>Лампа от комаров WT-T30  — White</name>
 <quantity_in_stock>33</quantity_in_stock>
 <param name="Бренд">Различные</param>
+</offer>
+<offer id="ts000082884" available="true">
+<url>https://kmt5.com.ua/mtsna-sumka-dlya-nstrumentv-z-klkoma-vddlennyami-ta-regulovanim-plechovim-remnem</url>
+<price>585.0</price>
+<vendorprice>293.0</vendorprice>
+<vendorpricedoll>6.5</vendorpricedoll>
+<rrcdoll>13.0</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>95805898</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmYvMDcv0KYtMDAwMDgyODg0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWMvN2Ev0KYtMDAwMDgyODg0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2EvNDQv0KYtMDAwMDgyODg0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTYvNGEv0KYtMDAwMDgyODg0XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjQvMzUv0KYtMDAwMDgyODg0XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzEvYWYv0KYtMDAwMDgyODg0XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000082884</vendorCode>
+<code>789368</code>
+<name>Міцна сумка для інструментів з кількома відділеннями та регульованим плечовим ремінем</name>
+<quantity_in_stock>196</quantity_in_stock>
+<param name="Форм фактор">Сумка</param>
+<param name="Марка">Универсальная</param>
+<param name="Бренд">Различные</param>
+<param name="Материал">PU кожа</param>
 </offer>
 <offer id="ts000083448" available="true">
 <url>https://kmt5.com.ua/massajer-hoco-hp54-eye-massager</url>
@@ -200917,6 +200928,29 @@
 <quantity_in_stock>49</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 </offer>
+<offer id="ts000080205" available="true">
+<url>https://kmt5.com.ua/mashinka-dlya-udaleniya-katyishkov-lint-remover-tc010</url>
+<price>401.0</price>
+<vendorprice>201.0</vendorprice>
+<vendorpricedoll>4.45</vendorpricedoll>
+<rrcdoll>8.9</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>34592365</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjMvMWQv0KYtMDAwMDgwMjA1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzcvMWYv0KYtMDAwMDgwMjA1XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2QvZDgv0KYtMDAwMDgwMjA1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2EvMWYv0KYtMDAwMDgwMjA1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDIvZWMv0KYtMDAwMDgwMjA1XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWQvYWEv0KYtMDAwMDgwMjA1XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWQvNDMv0KYtMDAwMDgwMjA1XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000080205</vendorCode>
+<code>782371</code>
+<name>Машинка для удаления катышков Lint remover TC-010</name>
+<description><![CDATA[Модель: TC-010 Вхідна напруга: 5V-1А Потужність: 5W П'ять режимів швидкості LED Дисплей Комплект: тример, щітка для чищення, інструкція з експлуатації, зарядний кабель]]></description>
+<quantity_in_stock>224</quantity_in_stock>
+<param name="Бренд">Различные</param>
+</offer>
 <offer id="ts000083045" available="true">
 <url>https://kmt5.com.ua/mnogofunktsionalnaya-chistyaschaya-mashina</url>
 <price>5305.0</price>
@@ -201045,6 +201079,20 @@
 <quantity_in_stock>24</quantity_in_stock>
 <param name="Бренд">Earldom</param>
 </offer>
+<offer id="ts000083028" available="true">
+<url>https://kmt5.com.ua/podstavka-dlya-obuvi</url>
+<price>1520.0</price>
+<vendorprice>760.0</vendorprice>
+<vendorpricedoll>16.9</vendorpricedoll>
+<rrcdoll>33.8</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>91659062</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmUvYTkv0KYtMDAwMDgzMDI4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendorCode>Ц-000083028</vendorCode>
+<code>789768</code>
+<name>Подставка для обуви</name>
+<quantity_in_stock>18</quantity_in_stock>
+</offer>
 <offer id="ts000083555" available="true">
 <url>https://kmt5.com.ua/podstavka-s-podogrevom-earldom-etc05</url>
 <price>1011.0</price>
@@ -201068,6 +201116,31 @@
 <name>Подставка с подогревом Earldom ET-C05</name>
 <quantity_in_stock>5</quantity_in_stock>
 <param name="Бренд">Earldom</param>
+</offer>
+<offer id="ts000080237" available="true">
+<url>https://kmt5.com.ua/portativnyiy-dush-7800-mah-hs01</url>
+<price>1187.0</price>
+<vendorprice>594.0</vendorprice>
+<vendorpricedoll>13.2</vendorpricedoll>
+<rrcdoll>26.4</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>34592365</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTAvYzQv0KYtMDAwMDgwMjM3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2IvMjAv0KYtMDAwMDgwMjM3XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGEvMTcv0KYtMDAwMDgwMjM3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDkvMDQv0KYtMDAwMDgwMjM3XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTQvNTgv0KYtMDAwMDgwMjM3XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDIvMGIv0KYtMDAwMDgwMjM3XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjkvZDIv0KYtMDAwMDgwMjM3XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTIvYWEv0KYtMDAwMDgwMjM3XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2QvM2Qv0KYtMDAwMDgwMjM3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000080237</vendorCode>
+<code>782453</code>
+<name>Портативный душ 7800 mAh HS-01</name>
+<description><![CDATA[Сверхдолгий срок службы батареи: Кемпинговый душ с самой высокой конфигурацией в серии - батарея 7800 мАч. При полной зарядке он может непрерывно заряжаться в течение примерно 120 минут и до 160 минут в отдельных случаях, что примерно в два раза дольше, чем у других подобных устройств на рынке сегодня. Портативный душ с присоской на полу: дно с четырьмя небольшими присосками можно надежно прикрепить к любому контейнеру с водой, эффективно предотвращая опрокидывание или хлопанье и приводя к проблеме невозможности всасывания воды. Кроме того, конструкция нижнего водозаборника может эффективно всасывать воду при низком уровне ниже 1 см. Портативный подогреваемый душ Портативный насос для кемпингового душа оснащен интеллектуальным цифровым дисплеем, который не только наглядно показывает температуру воды в ведре, но и имеет светодиодный цветной индикатор. Регулируемая душевая головка Душ для кемпинга оснащен душевой головкой и душевой насадкой с 3 выбранными режимами. Вы можете легко изменить поток, нажав переключатель на душевой головке. Вы также можете самостоятельно заменить душевую головку/насадку по мере необходимости. Наши продукты имеют период бесплатной замены в один год. ЛЕГКО УСТАНАВЛИВАТЬ И ИСПОЛЬЗОВАТЬ Просто погрузите насос полностью в ведро/ведро и включите мотор, он перекачивает воду из ведра в равномерный и мягкий поток душа, и вы получите мягкий душ. Используйте его для купания в море, игр на пляже или кемпинга.]]></description>
+<quantity_in_stock>360</quantity_in_stock>
+<param name="Бренд">Различные</param>
 </offer>
 <offer id="ts000081288000029794" available="true">
 <url>https://kmt5.com.ua/portativnyiy-mini-ventilyator-gla8-green</url>
@@ -201834,6 +201907,78 @@
 <quantity_in_stock>126</quantity_in_stock>
 <param name="Бренд">Различные</param>
 </offer>
+<offer id="ts000083033" available="true">
+<url>https://kmt5.com.ua/sushka-dlya-obuvi-shoe-dryer</url>
+<price>495.0</price>
+<vendorprice>248.0</vendorprice>
+<vendorpricedoll>5.5</vendorpricedoll>
+<rrcdoll>11.0</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>95805898</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWQvM2Iv0KYtMDAwMDgzMDMzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendorCode>Ц-000083033</vendorCode>
+<code>789773</code>
+<name>Сушка для обуви Shoe Dryer</name>
+<quantity_in_stock>45</quantity_in_stock>
+</offer>
+<offer id="ts000082698000030651" available="true">
+<url>https://kmt5.com.ua/taymer-hoco-hx43-blue</url>
+<price>203.0</price>
+<vendorprice>102.0</vendorprice>
+<vendorpricedoll>2.25</vendorpricedoll>
+<rrcdoll>4.5</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>91659062</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGYvODYv0KYtMDAwMDgyNjk4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzgvYTYv0KYtMDAwMDgyNjk4XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmEvNjEv0KYtMDAwMDgyNjk4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjUvZDYv0KYtMDAwMDgyNjk4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Hoco</vendor>
+<vendorCode>Ц-000082698</vendorCode>
+<code>789042</code>
+<name>Таймер — Hoco HX43 — Blue</name>
+<description><![CDATA[Цифровий таймер / секундомір HOCO HX43 HOCO HX43 — це зручний і точний цифровий таймер, який стане вашим надійним помічником у приготуванні їжі, заняттях спортом, навчанні чи роботі. Просте управління та продуманий дизайн роблять його універсальним аксесуаром для дому, офісу чи кухні. Особливості: Зручне керування: Кнопки Start, Pause, Reset, а також швидкий вибір часу — 10 хвилин, 1 хвилина, 10 секунд Чіткий цифровий дисплей: Великий РК-екран забезпечує легке зчитування часу навіть з відстані Магнітне кріплення: Вбудований магніт дозволяє легко закріпити таймер на холодильнику чи будь-якій металевій поверхні Висувна підставка: Дає змогу зручно розмістити таймер на столі або робочій поверхні Універсальне застосування: Ідеальний для кухні, тренувань, відпочинку, нарад чи презентацій Компактний і легкий: Легко поміщається в кишеню або сумку, зручно брати із собою Міцний корпус: Виготовлений із якісного пластику ABS, що гарантує довговічність і надійність у використанні Технічні характеристики Бренд: HOCO Модель: HX43 Матеріал: ABS Екран: РК-дисплей Живлення: 1 батарейка Розмір: 62 × 60 × 19 мм Вага: 46 г]]></description>
+<quantity_in_stock>60</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+</offer>
+<offer id="ts000082698000030652" available="true">
+<url>https://kmt5.com.ua/taymer-hoco-hx43-yellow</url>
+<price>203.0</price>
+<vendorprice>102.0</vendorprice>
+<vendorpricedoll>2.25</vendorpricedoll>
+<rrcdoll>4.5</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>91659062</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDEvM2Ev0KYtMDAwMDgyNjk4XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmEvNjEv0KYtMDAwMDgyNjk4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjUvZDYv0KYtMDAwMDgyNjk4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Hoco</vendor>
+<vendorCode>Ц-000082698</vendorCode>
+<code>789043</code>
+<name>Таймер — Hoco HX43 — Yellow</name>
+<description><![CDATA[Цифровий таймер / секундомір HOCO HX43 HOCO HX43 — це зручний і точний цифровий таймер, який стане вашим надійним помічником у приготуванні їжі, заняттях спортом, навчанні чи роботі. Просте управління та продуманий дизайн роблять його універсальним аксесуаром для дому, офісу чи кухні. Особливості: Зручне керування: Кнопки Start, Pause, Reset, а також швидкий вибір часу — 10 хвилин, 1 хвилина, 10 секунд Чіткий цифровий дисплей: Великий РК-екран забезпечує легке зчитування часу навіть з відстані Магнітне кріплення: Вбудований магніт дозволяє легко закріпити таймер на холодильнику чи будь-якій металевій поверхні Висувна підставка: Дає змогу зручно розмістити таймер на столі або робочій поверхні Універсальне застосування: Ідеальний для кухні, тренувань, відпочинку, нарад чи презентацій Компактний і легкий: Легко поміщається в кишеню або сумку, зручно брати із собою Міцний корпус: Виготовлений із якісного пластику ABS, що гарантує довговічність і надійність у використанні Технічні характеристики Бренд: HOCO Модель: HX43 Матеріал: ABS Екран: РК-дисплей Живлення: 1 батарейка Розмір: 62 × 60 × 19 мм Вага: 46 г]]></description>
+<quantity_in_stock>53</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+</offer>
+<offer id="ts000082873" available="true">
+<url>https://kmt5.com.ua/-94413</url>
+<price>279.0</price>
+<vendorprice>140.0</vendorprice>
+<vendorpricedoll>3.1</vendorpricedoll>
+<rrcdoll>6.2</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>63716615</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjQvYmQv0KYtMDAwMDgyODczXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2MvMzAv0KYtMDAwMDgyODczXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTEvOWMv0KYtMDAwMDgyODczXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2IvNzAv0KYtMDAwMDgyODczXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTEvNzQv0KYtMDAwMDgyODczXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGIvOTYv0KYtMDAwMDgyODczXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendorCode>Ц-000082873</vendorCode>
+<code>789351</code>
+<name>Трьохрівневий контейнер для зберігання яєць для холодильника</name>
+<quantity_in_stock>148</quantity_in_stock>
+</offer>
 <offer id="ts000080721" available="true">
 <url>https://kmt5.com.ua/uvlajnitel-hoco-hx31</url>
 <price>677.0</price>
@@ -202013,6 +202158,76 @@
 <code>777630</code>
 <name>Цифровой термометр и гигрометр для измерения температуры и влажности внутри и снаружи помещения (55*95мм)</name>
 <quantity_in_stock>45</quantity_in_stock>
+<param name="Бренд">Различные</param>
+</offer>
+<offer id="ts000080213" available="true">
+<url>https://kmt5.com.ua/elektricheskaya-melnitsa-dlya-spetsiy-electric-grinder-kymq43b01</url>
+<price>468.0</price>
+<vendorprice>234.0</vendorprice>
+<vendorpricedoll>5.2</vendorpricedoll>
+<rrcdoll>10.4</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>34592365</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjUvMTAv0KYtMDAwMDgwMjEzXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDIvOWMv0KYtMDAwMDgwMjEzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTkvNjQv0KYtMDAwMDgwMjEzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmUvYWQv0KYtMDAwMDgwMjEzXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTYvNWMv0KYtMDAwMDgwMjEzXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzAvY2Iv0KYtMDAwMDgwMjEzXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjUvNzAv0KYtMDAwMDgwMjEzXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGMvNTgv0KYtMDAwMDgwMjEzXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000080213</vendorCode>
+<code>782379</code>
+<name>Электрическая мельница для специй Electric Grinder KYMQ-43B-01 Silver</name>
+<description><![CDATA[Модный дизайн с декоративной окантовкой Закруглённая кнопка с узором в виде CD, автоматическое измельчение одним нажатием Патентованная световодная система позволяет очистить все части, контактирующие с приправами Оставшееся количество перца/соли видно спереди Светодиод автоматически включается во время работы измельчителя Регулируемая мельница: легко настраивайте степень помола с помощью специального переключателя Керамический механизм обеспечивает отличную консистенцию помола Работает от 4-х щелочных батареек типа AAA (не входят в комплект)]]></description>
+<quantity_in_stock>257</quantity_in_stock>
+<param name="Бренд">Различные</param>
+</offer>
+<offer id="ts000080212" available="true">
+<url>https://kmt5.com.ua/elektricheskaya-melnitsa-dlya-spetsiy-electric-grinder-kymq44b</url>
+<price>414.0</price>
+<vendorprice>207.0</vendorprice>
+<vendorpricedoll>4.6</vendorpricedoll>
+<rrcdoll>9.2</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>34592365</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODUvZDMv0KYtMDAwMDgwMjEyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDAvNzMv0KYtMDAwMDgwMjEyXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjAvNjgv0KYtMDAwMDgwMjEyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDgvZDEv0KYtMDAwMDgwMjEyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDIvNDgv0KYtMDAwMDgwMjEyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGMvM2Ev0KYtMDAwMDgwMjEyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGIvYzEv0KYtMDAwMDgwMjEyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTcvNWYv0KYtMDAwMDgwMjEyXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWYvYzEv0KYtMDAwMDgwMjEyXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000080212</vendorCode>
+<code>782378</code>
+<name>Электрическая мельница для специй Electric Grinder KYMQ-44B</name>
+<description><![CDATA[Модный дизайн с декоративной окантовкой Закруглённая кнопка с узором в виде CD, автоматическое измельчение одним нажатием Патентованная световодная система позволяет очистить все части, контактирующие с приправами Оставшееся количество перца/соли видно спереди Светодиод автоматически включается во время работы измельчителя Регулируемая мельница: легко настраивайте степень помола с помощью специального переключателя Керамический механизм обеспечивает отличную консистенцию помола Работает от 4-х щелочных батареек типа AAA (не входят в комплект)]]></description>
+<quantity_in_stock>66</quantity_in_stock>
+<param name="Бренд">Различные</param>
+</offer>
+<offer id="ts000078392" available="true">
+<url>https://kmt5.com.ua/mikser-davin-mc01</url>
+<price>693.0</price>
+<vendorprice>347.0</vendorprice>
+<vendorpricedoll>7.7</vendorpricedoll>
+<rrcdoll>15.4</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>61823304</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjEvM2Uv0KYtMDAwMDc4MzkyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmQvYWUv0KYtMDAwMDc4MzkyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmIvMzkv0KYtMDAwMDc4MzkyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTEvNzAv0KYtMDAwMDc4MzkyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDcvYzQv0KYtMDAwMDc4MzkyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000078392</vendorCode>
+<code>777582</code>
+<name>Электрическая чаша для смешивания Davin MC01</name>
+<description><![CDATA[Используемый материал: стекло. Рукоять: дерево. Объём блендера: 400мл. Мощность: 1 Вт. Многофункциональный блендер для горячей и холодной воды: Высокоскоростной многофункциональный блендер для горячей и холодной воды обеспечивает легкость и эффективность смешивания напитков, как горячих, так и холодных, а также отличается многофункциональным дизайном и высокой мощностью смешивания. Это также отличный подарок: его легко переносить, что делает его идеальным компаньоном, чтобы наслаждаться любимыми напитками в любое время и в любом месте. Мы рады Вашему визиту и присутствию в отделении.Аксессуары для дома. Вы также найдете все, что вам подойдет и на любой вкус, и мы надеемся, что вы получите новые впечатления от покупок. Не стесняйтесь начинать покупки прямо сейчас. Особенности многофункционального блендера для горячей/холодной обработки: Чашка оснащена быстрым и мощным венчиком, который помогает быстро и точно смешивать вязкие и сыпучие жидкости. Просто нажав кнопку, чашка быстро и эффективно размешивает напитки. Имеет возможность работать самостоятельно, без необходимости использования ложек или мешалок. Он может работать как с горячими, так и с холодными жидкостями и позволяет с легкостью готовить разнообразные напитки. Вы можете использовать электрическую чашку для смешивания для приготовления широкого спектра ваших любимых напитков, таких как чай с молоком, кофе с протеиновыми гранулами, медовое молоко и многое другое. Чашка автоматически смешивает ингредиенты, что экономит ваше время и силы при приготовлении. Это идеальный подарок для ваших друзей и семьи, которые любят кофе или чай. Вы можете выразить свою любовь и заботу о них с помощью этого практичного и оригинального подарка. Он также имеет эргономичный и легкий дизайн, что позволяет легко носить с собой и использовать его в любое время и в любом месте. Вы можете наслаждаться коктейлем дома, на работе или в дороге.]]></description>
+<quantity_in_stock>7</quantity_in_stock>
 <param name="Бренд">Различные</param>
 </offer>
 <offer id="ts000078428" available="true">
@@ -202247,27 +202462,6 @@
 <name>Самоочищающаяся щетка Davin MOP04</name>
 <description><![CDATA[Портативная Ручная Швабра Характеристики: Материал: ПП Цвет: Белый Вес: 180 г Размер: 11,6 x 6,1 дюйма Особенности: Компактная и эластичная, идеальна для ванной, кухни и уголков дома. Высококачественные материалы и ватная насадка с адсорбцией. Намачиваемая ватная головка для удобства использования. Безрукавая конструкция облегчает уборку, сильное всасывание, поворотная регулировка.]]></description>
 <quantity_in_stock>30</quantity_in_stock>
-<param name="Бренд">Различные</param>
-</offer>
-<offer id="ts000078392" available="true">
-<url>https://kmt5.com.ua/mikser-davin-mc01</url>
-<price>723.0</price>
-<vendorprice>392.0</vendorprice>
-<vendorpricedoll>8.7</vendorpricedoll>
-<rrcdoll>16.08</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>61823304</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjEvM2Uv0KYtMDAwMDc4MzkyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmQvYWUv0KYtMDAwMDc4MzkyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmIvMzkv0KYtMDAwMDc4MzkyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTEvNzAv0KYtMDAwMDc4MzkyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDcvYzQv0KYtMDAwMDc4MzkyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000078392</vendorCode>
-<code>777582</code>
-<name>Электрическая чаша для смешивания Davin MC01</name>
-<description><![CDATA[Используемый материал: стекло. Рукоять: дерево. Объём блендера: 400мл. Мощность: 1 Вт. Многофункциональный блендер для горячей и холодной воды: Высокоскоростной многофункциональный блендер для горячей и холодной воды обеспечивает легкость и эффективность смешивания напитков, как горячих, так и холодных, а также отличается многофункциональным дизайном и высокой мощностью смешивания. Это также отличный подарок: его легко переносить, что делает его идеальным компаньоном, чтобы наслаждаться любимыми напитками в любое время и в любом месте. Мы рады Вашему визиту и присутствию в отделении.Аксессуары для дома. Вы также найдете все, что вам подойдет и на любой вкус, и мы надеемся, что вы получите новые впечатления от покупок. Не стесняйтесь начинать покупки прямо сейчас. Особенности многофункционального блендера для горячей/холодной обработки: Чашка оснащена быстрым и мощным венчиком, который помогает быстро и точно смешивать вязкие и сыпучие жидкости. Просто нажав кнопку, чашка быстро и эффективно размешивает напитки. Имеет возможность работать самостоятельно, без необходимости использования ложек или мешалок. Он может работать как с горячими, так и с холодными жидкостями и позволяет с легкостью готовить разнообразные напитки. Вы можете использовать электрическую чашку для смешивания для приготовления широкого спектра ваших любимых напитков, таких как чай с молоком, кофе с протеиновыми гранулами, медовое молоко и многое другое. Чашка автоматически смешивает ингредиенты, что экономит ваше время и силы при приготовлении. Это идеальный подарок для ваших друзей и семьи, которые любят кофе или чай. Вы можете выразить свою любовь и заботу о них с помощью этого практичного и оригинального подарка. Он также имеет эргономичный и легкий дизайн, что позволяет легко носить с собой и использовать его в любое время и в любом месте. Вы можете наслаждаться коктейлем дома, на работе или в дороге.]]></description>
-<quantity_in_stock>7</quantity_in_stock>
 <param name="Бренд">Различные</param>
 </offer>
 <offer id="ts000078399000026661" available="true">
@@ -202547,6 +202741,29 @@
 <quantity_in_stock>163</quantity_in_stock>
 <param name="Бренд">Различные</param>
 </offer>
+<offer id="ts000079263" available="true">
+<url>https://kmt5.com.ua/5mp-ip-camera-ptip54f</url>
+<price>8127.0</price>
+<vendorprice>5080.0</vendorprice>
+<vendorpricedoll>113.0</vendorpricedoll>
+<rrcdoll>180.8</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>22825303</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTkvY2Ev0KYtMDAwMDc5MjYzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDMvZDEv0KYtMDAwMDc5MjYzXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDkvYWMv0KYtMDAwMDc5MjYzXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmYvNmUv0KYtMDAwMDc5MjYzXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjAvMmEv0KYtMDAwMDc5MjYzXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzkvNDIv0KYtMDAwMDc5MjYzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000079263</vendorCode>
+<code>778878</code>
+<name>IP Camera 5MP HD-IP POE AI Smart PTZ - Model: PT-IP54F (IP66)</name>
+<description><![CDATA[Цвет: Белый-5Мп Входящие компоненты: камера Технологии беспроводной связи: ИК Эффективное видеоразрешение: 5 Мп Угол обзора: 360 градусов Материал: Металл Напряжение: 12 Вольт Мощность: 20 ватт Размеры товара Д x Ш x В: 27,9 x 17,8 x 17,8 сантиметров Вес товара: 1,81 килограмм Габариты товара: 27,94 x 17,78 x 17,78 см; 1,81 кг Цвет: Белый-8Мп Тип источника света: Инфракрасный Специальные функции: Технология PTZ Специфическое использование: Наблюдение]]></description>
+<quantity_in_stock>4</quantity_in_stock>
+<param name="Бренд">Различные</param>
+<param name="Видео аксессуары">Камеры видеонаблюдения</param>
+</offer>
 <offer id="ts000079250" available="true">
 <url>https://kmt5.com.ua/massajer-sh687</url>
 <price>1177.0</price>
@@ -202587,6 +202804,52 @@
 <name>Массажер Hammer G4A</name>
 <quantity_in_stock>36</quantity_in_stock>
 <param name="Бренд">Различные</param>
+</offer>
+<offer id="ts000079264" available="true">
+<url>https://kmt5.com.ua/8mp-ip-camera-ptip54f</url>
+<price>10645.0</price>
+<vendorprice>6653.0</vendorprice>
+<vendorpricedoll>148.0</vendorpricedoll>
+<rrcdoll>236.8</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>22825303</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWUvYzkv0KYtMDAwMDc5MjY0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGYvNjcv0KYtMDAwMDc5MjY0XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODUvNGEv0KYtMDAwMDc5MjY0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTEvMDQv0KYtMDAwMDc5MjY0XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODcvNDMv0KYtMDAwMDc5MjY0XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzEvZWMv0KYtMDAwMDc5MjY0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000079264</vendorCode>
+<code>778879</code>
+<name>IP Camera 8MP HD-IP POE AI Smart PTZ - Model: PT-IP54F (IP66)</name>
+<description><![CDATA[Цвет: Белый-8Мп Входящие компоненты: камера Технологии беспроводной связи: ИК Эффективное видеоразрешение: 8 Мп Угол обзора: 360 градусов Материал: Металл Напряжение: 12 Вольт Мощность: 20 ватт Размеры товара Д x Ш x В: 27,9 x 17,8 x 17,8 сантиметров Вес товара: 1,81 килограмм Габариты товара: 27,94 x 17,78 x 17,78 см; 1,81 кг Цвет: Белый-8Мп Тип источника света: Инфракрасный Специальные функции: Технология PTZ Специфическое использование: Наблюдение]]></description>
+<quantity_in_stock>6</quantity_in_stock>
+<param name="Бренд">Различные</param>
+<param name="Видео аксессуары">Камеры видеонаблюдения</param>
+</offer>
+<offer id="ts000079262" available="true">
+<url>https://kmt5.com.ua/4mp-ip-camera-ptip54f</url>
+<price>6617.0</price>
+<vendorprice>4136.0</vendorprice>
+<vendorpricedoll>92.0</vendorpricedoll>
+<rrcdoll>147.2</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>22825303</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGUvYzMv0KYtMDAwMDc5MjYyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTQvZmEv0KYtMDAwMDc5MjYyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjUvNGMv0KYtMDAwMDc5MjYyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmIvMDkv0KYtMDAwMDc5MjYyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTUvNzgv0KYtMDAwMDc5MjYyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzYvZDIv0KYtMDAwMDc5MjYyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000079262</vendorCode>
+<code>778877</code>
+<name>IP Camera 4MP HD-IP POE AI Smart PTZ - Model: PT-IP54F (IP66)</name>
+<description><![CDATA[Цвет: Белый-4Мп Входящие компоненты: камера Технологии беспроводной связи: ИК Эффективное видеоразрешение: 4 Мп Угол обзора: 360 градусов Материал: Металл Напряжение: 12 Вольт Мощность: 20 ватт Размеры товара Д x Ш x В: 27,9 x 17,8 x 17,8 сантиметров Вес товара: 1,81 килограмм Габариты товара: 27,94 x 17,78 x 17,78 см; 1,81 кг Цвет: Белый-8Мп Тип источника света: Инфракрасный Специальные функции: Технология PTZ Специфическое использование: Наблюдение]]></description>
+<quantity_in_stock>3</quantity_in_stock>
+<param name="Бренд">Различные</param>
+<param name="Видео аксессуары">Камеры видеонаблюдения</param>
 </offer>
 <offer id="ts000078798" available="true">
 <url>https://kmt5.com.ua/vesyi-elektronnyie-7011</url>
@@ -203904,55 +204167,6 @@
 <quantity_in_stock>11</quantity_in_stock>
 <param name="Бренд">Различные</param>
 </offer>
-<offer id="ts000080212" available="true">
-<url>https://kmt5.com.ua/elektricheskaya-melnitsa-dlya-spetsiy-electric-grinder-kymq44b</url>
-<price>414.0</price>
-<vendorprice>207.0</vendorprice>
-<vendorpricedoll>4.6</vendorpricedoll>
-<rrcdoll>9.2</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>34592365</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODUvZDMv0KYtMDAwMDgwMjEyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDAvNzMv0KYtMDAwMDgwMjEyXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjAvNjgv0KYtMDAwMDgwMjEyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDgvZDEv0KYtMDAwMDgwMjEyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDIvNDgv0KYtMDAwMDgwMjEyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGMvM2Ev0KYtMDAwMDgwMjEyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGIvYzEv0KYtMDAwMDgwMjEyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTcvNWYv0KYtMDAwMDgwMjEyXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWYvYzEv0KYtMDAwMDgwMjEyXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000080212</vendorCode>
-<code>782378</code>
-<name>Электрическая мельница для специй Electric Grinder KYMQ-44B</name>
-<description><![CDATA[Модный дизайн с декоративной окантовкой Закруглённая кнопка с узором в виде CD, автоматическое измельчение одним нажатием Патентованная световодная система позволяет очистить все части, контактирующие с приправами Оставшееся количество перца/соли видно спереди Светодиод автоматически включается во время работы измельчителя Регулируемая мельница: легко настраивайте степень помола с помощью специального переключателя Керамический механизм обеспечивает отличную консистенцию помола Работает от 4-х щелочных батареек типа AAA (не входят в комплект)]]></description>
-<quantity_in_stock>66</quantity_in_stock>
-<param name="Бренд">Различные</param>
-</offer>
-<offer id="ts000080213" available="true">
-<url>https://kmt5.com.ua/elektricheskaya-melnitsa-dlya-spetsiy-electric-grinder-kymq43b01</url>
-<price>474.0</price>
-<vendorprice>257.0</vendorprice>
-<vendorpricedoll>5.7</vendorpricedoll>
-<rrcdoll>10.54</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>34592365</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjUvMTAv0KYtMDAwMDgwMjEzXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDIvOWMv0KYtMDAwMDgwMjEzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTkvNjQv0KYtMDAwMDgwMjEzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmUvYWQv0KYtMDAwMDgwMjEzXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTYvNWMv0KYtMDAwMDgwMjEzXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzAvY2Iv0KYtMDAwMDgwMjEzXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjUvNzAv0KYtMDAwMDgwMjEzXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGMvNTgv0KYtMDAwMDgwMjEzXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000080213</vendorCode>
-<code>782379</code>
-<name>Электрическая мельница для специй Electric Grinder KYMQ-43B-01 Silver</name>
-<description><![CDATA[Модный дизайн с декоративной окантовкой Закруглённая кнопка с узором в виде CD, автоматическое измельчение одним нажатием Патентованная световодная система позволяет очистить все части, контактирующие с приправами Оставшееся количество перца/соли видно спереди Светодиод автоматически включается во время работы измельчителя Регулируемая мельница: легко настраивайте степень помола с помощью специального переключателя Керамический механизм обеспечивает отличную консистенцию помола Работает от 4-х щелочных батареек типа AAA (не входят в комплект)]]></description>
-<quantity_in_stock>257</quantity_in_stock>
-<param name="Бренд">Различные</param>
-</offer>
 <offer id="ts000080332" available="true">
 <url>https://kmt5.com.ua/tsifrovyie-chasyi-c-proektsiey-ds362</url>
 <price>349.0</price>
@@ -204016,29 +204230,6 @@
 <quantity_in_stock>27</quantity_in_stock>
 <param name="Бренд">Различные</param>
 </offer>
-<offer id="ts000080205" available="true">
-<url>https://kmt5.com.ua/mashinka-dlya-udaleniya-katyishkov-lint-remover-tc010</url>
-<price>391.0</price>
-<vendorprice>212.0</vendorprice>
-<vendorpricedoll>4.7</vendorpricedoll>
-<rrcdoll>8.69</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>34592365</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjMvMWQv0KYtMDAwMDgwMjA1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzcvMWYv0KYtMDAwMDgwMjA1XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2QvZDgv0KYtMDAwMDgwMjA1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2EvMWYv0KYtMDAwMDgwMjA1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDIvZWMv0KYtMDAwMDgwMjA1XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWQvYWEv0KYtMDAwMDgwMjA1XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWQvNDMv0KYtMDAwMDgwMjA1XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000080205</vendorCode>
-<code>782371</code>
-<name>Машинка для удаления катышков Lint remover TC-010</name>
-<description><![CDATA[Модель: TC-010 Вхідна напруга: 5V-1А Потужність: 5W П'ять режимів швидкості LED Дисплей Комплект: тример, щітка для чищення, інструкція з експлуатації, зарядний кабель]]></description>
-<quantity_in_stock>224</quantity_in_stock>
-<param name="Бренд">Различные</param>
-</offer>
 <offer id="ts000080211" available="true">
 <url>https://kmt5.com.ua/termos-umbrella-md099</url>
 <price>1117.0</price>
@@ -204081,31 +204272,6 @@
 <name>Вакуумная упаковочная машина LC-801</name>
 <description><![CDATA[Портативный и удобный дизайн: электрический автоматический мини-вакуумный упаковщик Nono представляет собой портативное устройство, которое можно легко хранить и транспортировать, и оно идеально подходит для таких пользователей, как вы, которые ценят компактные решения. Многофункциональность: эта вакуумная упаковочная машина имеет функцию защиты от перегрева, обеспечивающую безопасную и эффективную работу, подходящую для домашнего использования. Долговечный источник питания: благодаря перезаряжаемой батарее и источнику питания USB вы можете использовать устройство в течение длительного времени, не беспокоясь об отключении электроэнергии. Энергоэффективность: рейтинг энергоэффективности этого продукта соответствует классу А, что указывает на то, что он является экологически чистым выбором для экологически чистых пользователей. Покупка без беспокойства: воспользуйтесь 1-летней гарантией, а также услугой возврата и замены, предоставляемой производителем, что дает вам душевное спокойствие при покупке этого продукта.]]></description>
 <quantity_in_stock>150</quantity_in_stock>
-<param name="Бренд">Различные</param>
-</offer>
-<offer id="ts000080237" available="true">
-<url>https://kmt5.com.ua/portativnyiy-dush-7800-mah-hs01</url>
-<price>1195.0</price>
-<vendorprice>607.0</vendorprice>
-<vendorpricedoll>13.5</vendorpricedoll>
-<rrcdoll>26.58</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>34592365</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTAvYzQv0KYtMDAwMDgwMjM3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2IvMjAv0KYtMDAwMDgwMjM3XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGEvMTcv0KYtMDAwMDgwMjM3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDkvMDQv0KYtMDAwMDgwMjM3XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTQvNTgv0KYtMDAwMDgwMjM3XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDIvMGIv0KYtMDAwMDgwMjM3XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjkvZDIv0KYtMDAwMDgwMjM3XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTIvYWEv0KYtMDAwMDgwMjM3XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2QvM2Qv0KYtMDAwMDgwMjM3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000080237</vendorCode>
-<code>782453</code>
-<name>Портативный душ 7800 mAh HS-01</name>
-<description><![CDATA[Сверхдолгий срок службы батареи: Кемпинговый душ с самой высокой конфигурацией в серии - батарея 7800 мАч. При полной зарядке он может непрерывно заряжаться в течение примерно 120 минут и до 160 минут в отдельных случаях, что примерно в два раза дольше, чем у других подобных устройств на рынке сегодня. Портативный душ с присоской на полу: дно с четырьмя небольшими присосками можно надежно прикрепить к любому контейнеру с водой, эффективно предотвращая опрокидывание или хлопанье и приводя к проблеме невозможности всасывания воды. Кроме того, конструкция нижнего водозаборника может эффективно всасывать воду при низком уровне ниже 1 см. Портативный подогреваемый душ Портативный насос для кемпингового душа оснащен интеллектуальным цифровым дисплеем, который не только наглядно показывает температуру воды в ведре, но и имеет светодиодный цветной индикатор. Регулируемая душевая головка Душ для кемпинга оснащен душевой головкой и душевой насадкой с 3 выбранными режимами. Вы можете легко изменить поток, нажав переключатель на душевой головке. Вы также можете самостоятельно заменить душевую головку/насадку по мере необходимости. Наши продукты имеют период бесплатной замены в один год. ЛЕГКО УСТАНАВЛИВАТЬ И ИСПОЛЬЗОВАТЬ Просто погрузите насос полностью в ведро/ведро и включите мотор, он перекачивает воду из ведра в равномерный и мягкий поток душа, и вы получите мягкий душ. Используйте его для купания в море, игр на пляже или кемпинга.]]></description>
-<quantity_in_stock>360</quantity_in_stock>
 <param name="Бренд">Различные</param>
 </offer>
 <offer id="ts000080356" available="true">
@@ -204957,26 +205123,6 @@
 <quantity_in_stock>3</quantity_in_stock>
 <param name="Бренд">Различные</param>
 </offer>
-<offer id="ts000081459" available="true">
-<url>https://kmt5.com.ua/leopard-pattern-case-iphone-15-pro</url>
-<price>146.0</price>
-<vendorprice>88.0</vendorprice>
-<vendorpricedoll>1.95</vendorpricedoll>
-<rrcdoll>3.23</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>86411438</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDgvNTcv0KYtMDAwMDgxNDU5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000081459</vendorCode>
-<code>787168</code>
-<name>Leopard pattern Case — iPhone 15 Pro</name>
-<quantity_in_stock>26</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 15 Pro</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Пластик &amp; TPU</param>
-</offer>
 <offer id="ts000081674" available="true">
 <url>https://kmt5.com.ua/mashinka-dlya-strijki-volos-372l-akkumulyatornaya</url>
 <price>1167.0</price>
@@ -205363,104 +205509,6 @@
 <name>Швабра самоочищающаяся квадратная</name>
 <quantity_in_stock>4</quantity_in_stock>
 </offer>
-<offer id="ts000083024" available="true">
-<url>https://kmt5.com.ua/shurupovert-akkumulyatornyiy-45-in-1</url>
-<price>929.0</price>
-<vendorprice>472.0</vendorprice>
-<vendorpricedoll>10.5</vendorpricedoll>
-<rrcdoll>20.65</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>95805898</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWQvMjEv0KYtMDAwMDgzMDI0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGIvMjgv0KYtMDAwMDgzMDI0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGUvMDAv0KYtMDAwMDgzMDI0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000083024</vendorCode>
-<code>789764</code>
-<name>Аккумуляторная отвертка  45 in 1</name>
-<quantity_in_stock>18</quantity_in_stock>
-<param name="Бренд">Различные</param>
-</offer>
-<offer id="ts000082884" available="true">
-<url>https://kmt5.com.ua/mtsna-sumka-dlya-nstrumentv-z-klkoma-vddlennyami-ta-regulovanim-plechovim-remnem</url>
-<price>593.0</price>
-<vendorprice>302.0</vendorprice>
-<vendorpricedoll>6.7</vendorpricedoll>
-<rrcdoll>13.19</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>95805898</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmYvMDcv0KYtMDAwMDgyODg0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWMvN2Ev0KYtMDAwMDgyODg0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2EvNDQv0KYtMDAwMDgyODg0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTYvNGEv0KYtMDAwMDgyODg0XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjQvMzUv0KYtMDAwMDgyODg0XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzEvYWYv0KYtMDAwMDgyODg0XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082884</vendorCode>
-<code>789368</code>
-<name>Міцна сумка для інструментів з кількома відділеннями та регульованим плечовим ремінем</name>
-<quantity_in_stock>196</quantity_in_stock>
-<param name="Форм фактор">Сумка</param>
-<param name="Марка">Универсальная</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">PU кожа</param>
-</offer>
-<offer id="ts000083033" available="true">
-<url>https://kmt5.com.ua/sushka-dlya-obuvi-shoe-dryer</url>
-<price>529.0</price>
-<vendorprice>270.0</vendorprice>
-<vendorpricedoll>6.0</vendorpricedoll>
-<rrcdoll>11.75</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>95805898</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWQvM2Iv0KYtMDAwMDgzMDMzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendorCode>Ц-000083033</vendorCode>
-<code>789773</code>
-<name>Сушка для обуви Shoe Dryer</name>
-<quantity_in_stock>45</quantity_in_stock>
-</offer>
-<offer id="ts000082873" available="true">
-<url>https://kmt5.com.ua/-94413</url>
-<price>354.0</price>
-<vendorprice>180.0</vendorprice>
-<vendorpricedoll>4.0</vendorpricedoll>
-<rrcdoll>7.87</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>63716615</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjQvYmQv0KYtMDAwMDgyODczXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2MvMzAv0KYtMDAwMDgyODczXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTEvOWMv0KYtMDAwMDgyODczXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2IvNzAv0KYtMDAwMDgyODczXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTEvNzQv0KYtMDAwMDgyODczXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGIvOTYv0KYtMDAwMDgyODczXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendorCode>Ц-000082873</vendorCode>
-<code>789351</code>
-<name>Трьохрівневий контейнер для зберігання яєць для холодильника</name>
-<quantity_in_stock>148</quantity_in_stock>
-</offer>
-<offer id="ts000083031" available="true">
-<url>https://kmt5.com.ua/kraskopult-paint-zoom</url>
-<price>1636.0</price>
-<vendorprice>832.0</vendorprice>
-<vendorpricedoll>18.5</vendorpricedoll>
-<rrcdoll>36.38</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>95805898</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTcvM2Ev0KYtMDAwMDgzMDMxXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjEvYTIv0KYtMDAwMDgzMDMxXzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzQvNTYv0KYtMDAwMDgzMDMxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGQvMjkv0KYtMDAwMDgzMDMxXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTUvODYv0KYtMDAwMDgzMDMxXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjkvNmIv0KYtMDAwMDgzMDMxXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWIvMWYv0KYtMDAwMDgzMDMxXzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjEvNTIv0KYtMDAwMDgzMDMxXzEyLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWUvNTcv0KYtMDAwMDgzMDMxXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODQvYTYv0KYtMDAwMDgzMDMxXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendorCode>Ц-000083031</vendorCode>
-<code>789771</code>
-<name>Краскопульт Paint Zoom</name>
-<quantity_in_stock>40</quantity_in_stock>
-</offer>
 <offer id="ts000083048" available="true">
 <url>https://kmt5.com.ua/mnogofunktsionalnaya-chistyaschaya-mashina-2</url>
 <price>1561.0</price>
@@ -205483,20 +205531,6 @@
 <name>Многофункциональный ручной пароочиститель для дома</name>
 <quantity_in_stock>2</quantity_in_stock>
 <param name="Бренд">Различные</param>
-</offer>
-<offer id="ts000083028" available="true">
-<url>https://kmt5.com.ua/podstavka-dlya-obuvi</url>
-<price>1649.0</price>
-<vendorprice>832.0</vendorprice>
-<vendorpricedoll>18.5</vendorpricedoll>
-<rrcdoll>36.67</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>91659062</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmUvYTkv0KYtMDAwMDgzMDI4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendorCode>Ц-000083028</vendorCode>
-<code>789768</code>
-<name>Подставка для обуви</name>
-<quantity_in_stock>18</quantity_in_stock>
 </offer>
 <offer id="ts000082480000030452" available="true">
 <url>https://kmt5.com.ua/fen-hoco-hp18-dawn-powder</url>
@@ -205612,45 +205646,6 @@
 <name>Портативна ігрова ретро приставка консоль Hoco Q47 з функцією Power Bank 10000mAh |1500 ігор, 1Type-C, 20W/3A, PD/QC |</name>
 <description><![CDATA[Портативна ігрова ретро приставка консоль Hoco Q47 з функцією power bank 10000mAh - це унікальний багатофункціональний пристрій, який поєднує в собі повноцінну портативну ігрову консоль і потужний зовнішній аккумулятор. Модель створена для тих, хто цінує ностальгію за класичними іграм, мобільність та практичність у повсякденному використанні. Hoco Q47 - це не просто power bank, а справжній кишеньковий ігровий центр. Пристрій оснащений кольоровим дисплеєм, фізичними кнопками управління та класичною хрестовиною, що робить ігровий процес звичним та комфортним, як на легендарних консолях минулого. При цьому девайс залишається компактним, легким та зручним для щоденного носіння. 1500 встановлених класичних ігор дозволяють миттєво поринути у світ ретро-розваг без необхідності встановлення, завантаження чи підключення до інтернету. У пам'яті приставки вже є культові аркади, платформери, логічні та пригодницькі ігри, знайомі багатьом з дитинства. Інтерфейс пристрою підтримує 14 мов, включаючи російську та англійську, що робить консоль максимально зрозумілою та доступною для користувачів з різних країн. Навігація по меню інтуїтивна, а керування здійснюється за допомогою фізичних кнопок ON/OFF, RESET, SELECT, START, а також стандартних ігрових клавіш. Однією з ключових особливостей Hoco Q47 є вбудований цифровий LED-дисплей, який відображає рівень заряду акумулятора у відсотках. Це дозволяє точно контролювати енергію, що залишилася, і планувати зарядку заздалегідь. Ємність акумулятора 10000mAh (38.5Wh) робить пристрій повноцінним зовнішнім акумулятором для смартфонів, планшетів, навушників та інших гаджетів. Номінальна віддача 5500mAh забезпечує стабільну та безпечну зарядку мобільних пристроїв. Підтримка сучасних стандартів швидкого заряджання PD / QC / FCP / AFC з вихідною потужністю до 20W (3A) дозволяє швидко заповнювати заряд смартфонів та інших сумісних пристроїв. При цьому консоль підтримує одночасну гру та зарядку, що робить її особливо зручною в дорозі, подорожах та очікуванні. Корпус виконаний із міцних та надійних матеріалів PC + ABS з вогнестійкими властивостями. Всередині використовується якісний Li-Pol акумулятор, розрахований на тривалий термін служби та безпечну експлуатацію. Завдяки компактним розмірам та невеликій вазі, Hoco Q47 легко поміщається в кишені, рюкзаку чи сумці. У комплекті передбачений окремий кабель на шнурку, що підвищує зручність використання та транспортування. Hoco Q47 стане чудовим вибором для: любителів ретро-ігор та класичних консолей подорожі, подорожі та очікування в дорозі дітей та дорослих щоденного використання як power bank оригінального та корисного подарунка Докладні технічні характеристики: Тип пристрою: портативна ігрова консоль + power bank Модель: Hoco Q47 Ємність акумулятора: 10000mAh / 38.5Wh Номінальна ємність: 5500mAh Тип акумулятора: Li-Pol Вхід: USB Type-C – до 18W Вихід: USB Type-C – до 20W (3A) Підтримка швидкого заряджання: PD / QC / FCP / AFC Індикація заряду: цифровий LED-дисплей Екран: кольоровий дисплей Ігри: 1500 встановлених класичних ігор Мови інтерфейсу: 14 мов (English, Chinese, Russian, German, Denmark, Netherlands, France, Spain, Italy, Portugal, Sweden, Finland, Norway, Poland) Керування: фізичні кнопки, хрестовина, ON/OFF, RESET, SELECT, START Матеріал корпусу: PC + ABS, вогнестійкий Розміри: 117 × 77 × 19.5 мм Вага: 210 г Додаткові переваги: Повноцінна портативна ігрова консоль Можливість одночасно грати та заряджати смартфон Компактний формат для щоденного носіння Фізичні кнопки для максимального комфорту Оригінальне поєднання розваг та практичності Портативна ігрова консоль Hoco Q47 — це ідеальний баланс між ностальгією, сучасними технологіями та повсякденною користю. Один гаджет – тисячі ігор і завжди повний заряд ваших пристроїв.]]></description>
 <quantity_in_stock>7</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-</offer>
-<offer id="ts000082698000030651" available="true">
-<url>https://kmt5.com.ua/taymer-hoco-hx43-blue</url>
-<price>222.0</price>
-<vendorprice>113.0</vendorprice>
-<vendorpricedoll>2.5</vendorpricedoll>
-<rrcdoll>4.92</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>91659062</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGYvODYv0KYtMDAwMDgyNjk4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzgvYTYv0KYtMDAwMDgyNjk4XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmEvNjEv0KYtMDAwMDgyNjk4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjUvZDYv0KYtMDAwMDgyNjk4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000082698</vendorCode>
-<code>789042</code>
-<name>Таймер — Hoco HX43 — Blue</name>
-<description><![CDATA[Цифровий таймер / секундомір HOCO HX43 HOCO HX43 — це зручний і точний цифровий таймер, який стане вашим надійним помічником у приготуванні їжі, заняттях спортом, навчанні чи роботі. Просте управління та продуманий дизайн роблять його універсальним аксесуаром для дому, офісу чи кухні. Особливості: Зручне керування: Кнопки Start, Pause, Reset, а також швидкий вибір часу — 10 хвилин, 1 хвилина, 10 секунд Чіткий цифровий дисплей: Великий РК-екран забезпечує легке зчитування часу навіть з відстані Магнітне кріплення: Вбудований магніт дозволяє легко закріпити таймер на холодильнику чи будь-якій металевій поверхні Висувна підставка: Дає змогу зручно розмістити таймер на столі або робочій поверхні Універсальне застосування: Ідеальний для кухні, тренувань, відпочинку, нарад чи презентацій Компактний і легкий: Легко поміщається в кишеню або сумку, зручно брати із собою Міцний корпус: Виготовлений із якісного пластику ABS, що гарантує довговічність і надійність у використанні Технічні характеристики Бренд: HOCO Модель: HX43 Матеріал: ABS Екран: РК-дисплей Живлення: 1 батарейка Розмір: 62 × 60 × 19 мм Вага: 46 г]]></description>
-<quantity_in_stock>60</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-</offer>
-<offer id="ts000082698000030652" available="true">
-<url>https://kmt5.com.ua/taymer-hoco-hx43-yellow</url>
-<price>222.0</price>
-<vendorprice>113.0</vendorprice>
-<vendorpricedoll>2.5</vendorpricedoll>
-<rrcdoll>4.92</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>91659062</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDEvM2Ev0KYtMDAwMDgyNjk4XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmEvNjEv0KYtMDAwMDgyNjk4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjUvZDYv0KYtMDAwMDgyNjk4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000082698</vendorCode>
-<code>789043</code>
-<name>Таймер — Hoco HX43 — Yellow</name>
-<description><![CDATA[Цифровий таймер / секундомір HOCO HX43 HOCO HX43 — це зручний і точний цифровий таймер, який стане вашим надійним помічником у приготуванні їжі, заняттях спортом, навчанні чи роботі. Просте управління та продуманий дизайн роблять його універсальним аксесуаром для дому, офісу чи кухні. Особливості: Зручне керування: Кнопки Start, Pause, Reset, а також швидкий вибір часу — 10 хвилин, 1 хвилина, 10 секунд Чіткий цифровий дисплей: Великий РК-екран забезпечує легке зчитування часу навіть з відстані Магнітне кріплення: Вбудований магніт дозволяє легко закріпити таймер на холодильнику чи будь-якій металевій поверхні Висувна підставка: Дає змогу зручно розмістити таймер на столі або робочій поверхні Універсальне застосування: Ідеальний для кухні, тренувань, відпочинку, нарад чи презентацій Компактний і легкий: Легко поміщається в кишеню або сумку, зручно брати із собою Міцний корпус: Виготовлений із якісного пластику ABS, що гарантує довговічність і надійність у використанні Технічні характеристики Бренд: HOCO Модель: HX43 Матеріал: ABS Екран: РК-дисплей Живлення: 1 батарейка Розмір: 62 × 60 × 19 мм Вага: 46 г]]></description>
-<quantity_in_stock>53</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 </offer>
 <offer id="ts000082720" available="true">
