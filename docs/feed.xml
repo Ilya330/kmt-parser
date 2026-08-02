@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-02 10:26">
+<yml_catalog date="2026-08-02 15:52">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -89532,27 +89532,6 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 13 Pro Max 6.7&quot;</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Полиуретан</param>
-</offer>
-<offer id="ts000072948000022279" available="true">
-<url>https://kmt5.com.ua/soft-touch-tpu-case-iphone-78se2020-black</url>
-<price>60.0</price>
-<vendorprice>36.0</vendorprice>
-<vendorpricedoll>0.8</vendorpricedoll>
-<rrcdoll>1.33</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>95036006</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTAvMTQv0KYtMDAwMDcyOTQ4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDIvMWEv0KYtMDAwMDcyOTQ4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000072948</vendorCode>
-<code>754079</code>
-<name>Soft Touch TPU Case iPhone 7/8/SE2020 — Black</name>
-<quantity_in_stock>5</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 7, Apple iPhone 8, Apple iPhone SE 2020</param>
 <param name="Бренд">Различные</param>
 <param name="Материал">Полиуретан</param>
 </offer>
