@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-02 15:52">
+<yml_catalog date="2026-08-03 06:03">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -1226,28 +1226,6 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Samsung</param>
 <param name="Модель девайса">Samsung S26 Ultra</param>
-<param name="Бренд">Benks</param>
-<param name="Материал">Карбон &amp; Силикон</param>
-</offer>
-<offer id="ts000084126" available="true">
-<url>https://kmt5.com.ua/benks-armorpro-montage-kevlar-case-iphone-17-pro-max</url>
-<price>2344.0</price>
-<vendorprice>1304.0</vendorprice>
-<vendorpricedoll>29.0</vendorpricedoll>
-<rrcdoll>52.14</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>28366547</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGEvMzYv0KYtMDAwMDg0MTI2XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDgvYjUv0KYtMDAwMDg0MTI2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTEvZWYv0KYtMDAwMDg0MTI2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Benks</vendor>
-<vendorCode>Ц-000084126</vendorCode>
-<code>791876</code>
-<name>Benks ArmorPro Montage kevlar case — iPhone 17 Pro Max</name>
-<quantity_in_stock>6</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro Max</param>
 <param name="Бренд">Benks</param>
 <param name="Материал">Карбон &amp; Силикон</param>
 </offer>
@@ -17220,26 +17198,6 @@
 <param name="Бренд">Различные</param>
 <param name="Аудіо товари">Чехол для Airpods</param>
 </offer>
-<offer id="ts000082732" available="true">
-<url>https://kmt5.com.ua/airpods-pro-3-case-armor-lock</url>
-<price>209.0</price>
-<vendorprice>111.0</vendorprice>
-<vendorpricedoll>2.45</vendorpricedoll>
-<rrcdoll>4.64</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>87591679</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjEvYzAv0KYtMDAwMDgyNzMyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjYvMjgv0KYtMDAwMDgyNzMyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082732</vendorCode>
-<code>789085</code>
-<name>Airpods Pro 3 Case — Armor Lock</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Airpods Pro 3</param>
-<param name="Бренд">Различные</param>
-<param name="Аудіо товари">Чехол для Airpods</param>
-</offer>
 <offer id="ts000082733000030662" available="true">
 <url>https://kmt5.com.ua/airpods-pro-3-case-leather-ring-black</url>
 <price>188.0</price>
@@ -22613,27 +22571,6 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Samsung</param>
 <param name="Модель девайса">Samsung S25</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Полиуретан</param>
-</offer>
-<offer id="ts000080624" available="true">
-<url>https://kmt5.com.ua/black-hybrid-case-with-magsafe-samsung-s25-ultra</url>
-<price>187.0</price>
-<vendorprice>113.0</vendorprice>
-<vendorpricedoll>2.5</vendorpricedoll>
-<rrcdoll>4.16</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>27835483</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzAvODMv0KYtMDAwMDgwNjI0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjgvNzIv0KYtMDAwMDgwNjI0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000080624</vendorCode>
-<code>785227</code>
-<name>Black Hybrid Case With Magsafe — Samsung S25 Ultra</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Samsung</param>
-<param name="Модель девайса">Samsung S25 Ultra</param>
 <param name="Бренд">Различные</param>
 <param name="Материал">Полиуретан</param>
 </offer>
@@ -130352,30 +130289,6 @@
 <param name="Сила тока и Мощность">3.1A</param>
 <param name="Цвет">Black</param>
 </offer>
-<offer id="ts000063034" available="true">
-<url>https://kmt5.com.ua/setevoy-udlinitel-ldnio-sc3331-3-usb-3-ports-31a-black</url>
-<price>664.0</price>
-<vendorprice>383.0</vendorprice>
-<vendorpricedoll>8.5</vendorpricedoll>
-<rrcdoll>14.75</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>36374463</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWUvYTgv0KYtMDAwMDYzMDM0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmMvZDkv0KYtMDAwMDYzMDM0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjYvZDcv0KYtMDAwMDYzMDM0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTcvMzUv0KYtMDAwMDYzMDM0XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Распродажа</vendor>
-<vendorCode>Ц-000063034</vendorCode>
-<code>707052</code>
-<name>Фільтр живлення 3U 3P 3.1A 1.6m Ldnio SC3301</name>
-<description><![CDATA[Бренд: LDNIO Тип: Сетевой фильтр-удлинитель Количество розеток: 3 Тип розеток: евро Длина кабеля, м: 1,5 Входная вилка: евро USB: 3 Выключатель: есть Защита линий телефон/факс/модем: нет Защита линий видеосигнала: нет Максимальная сила тока, А: 10 Защита: защита от короткого замыкания, защита от повышенного напряжения, защита от помех, защита от удара током - закрывающиеся шторки в отверстиях розеток]]></description>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Бренд">Распродажа</param>
-<param name="Колво USB портов">3 U | 3 P</param>
-<param name="Зарядные устройства">Фільтр живлення</param>
-<param name="Сила тока и Мощность">3.1A</param>
-<param name="Цвет">Black &amp; Gray</param>
-</offer>
 <offer id="ts000080343" available="true">
 <url>https://kmt5.com.ua/fltr-jivlennya-3u-6c-earldom-essc24-eu</url>
 <price>911.0</price>
@@ -133608,6 +133521,28 @@
 <param name="Бренд">Hoco</param>
 <param name="Переходники">Type C Hub</param>
 </offer>
+<offer id="ts000080907" available="true">
+<url>https://kmt5.com.ua/hub-usb-c-to-hdtv-rj45-sdtf-pd-typec30-2usb-hoco-hb52</url>
+<price>1208.0</price>
+<vendorprice>652.0</vendorprice>
+<vendorpricedoll>14.5</vendorpricedoll>
+<rrcdoll>26.87</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>34908147</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTgvMDEv0KYtMDAwMDgwOTA3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTQvNDAv0KYtMDAwMDgwOTA3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTMvYmUv0KYtMDAwMDgwOTA3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGIvNmQv0KYtMDAwMDgwOTA3XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjYvZWEv0KYtMDAwMDgwOTA3XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Hoco</vendor>
+<vendorCode>Ц-000080907</vendorCode>
+<code>786166</code>
+<name>HUB USB C To HDTV ; RJ45 ; SD/TF ; PD ; Type-C3.0 2USB — Hoco HB52</name>
+<description><![CDATA[1. Материал: алюминиевый сплав + акрил 2. Размер: 113 * 44 * 15,5 ± 0,5 мм; Вес: 74 г; Длина кабеля: 18 ± 0,5 см 3. Интерфейс: Type-C для HDTV + RJ45 + SD/TF + PD + Type-C3.0 + USB3.0 * 2 4. Функция: HDTV поддерживает разрешение 4K 60 Гц; RJ45：100 Мбит/с; SD/TF: теоретическая скорость 480 Мбит/с, не поддерживает одновременное чтение; Type-C поддерживает вход PD100W и теоретическую скорость 5 Гбит/с; USB 3.0: теоретическая скорость 5 Гбит/с]]></description>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Переходники">Type C Hub</param>
+</offer>
 <offer id="ts000082704" available="true">
 <url>https://kmt5.com.ua/hub-usb-to-3-usb30-rj45-hoco-hb1d</url>
 <price>441.0</price>
@@ -133738,10 +133673,10 @@
 </offer>
 <offer id="ts000075681000024438" available="true">
 <url>https://kmt5.com.ua/kabel-usb-c-to-lightning-27w-12m-veron-cl01-nylon-led-black</url>
-<price>214.0</price>
-<vendorprice>117.0</vendorprice>
-<vendorpricedoll>2.6</vendorpricedoll>
-<rrcdoll>4.76</rrcdoll>
+<price>215.0</price>
+<vendorprice>108.0</vendorprice>
+<vendorpricedoll>2.39</vendorpricedoll>
+<rrcdoll>4.78</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>71294670</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDUvNGUv0KYtMDAwMDc1NjgxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -133760,10 +133695,10 @@
 </offer>
 <offer id="ts000075681000024598" available="true">
 <url>https://kmt5.com.ua/kabel-usb-c-to-lightning-27w-12m-veron-cl01-nylon-led-blue</url>
-<price>214.0</price>
-<vendorprice>117.0</vendorprice>
-<vendorpricedoll>2.6</vendorpricedoll>
-<rrcdoll>4.76</rrcdoll>
+<price>215.0</price>
+<vendorprice>108.0</vendorprice>
+<vendorpricedoll>2.39</vendorpricedoll>
+<rrcdoll>4.78</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>71294670</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWIvZmQv0KYtMDAwMDc1NjgxXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -133938,10 +133873,10 @@
 </offer>
 <offer id="ts000077531" available="true">
 <url>https://kmt5.com.ua/silicone-cable-usb-c-to-c-100w-2m-veron-cc07</url>
-<price>301.0</price>
-<vendorprice>162.0</vendorprice>
-<vendorpricedoll>3.6</vendorpricedoll>
-<rrcdoll>6.69</rrcdoll>
+<price>284.0</price>
+<vendorprice>142.0</vendorprice>
+<vendorpricedoll>3.15</vendorpricedoll>
+<rrcdoll>6.3</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>51161204</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzAvMDcv0KYtMDAwMDc3NTMxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -133981,10 +133916,10 @@
 </offer>
 <offer id="ts000078447" available="true">
 <url>https://kmt5.com.ua/silicone-cable-usb-c-to-c-100w-2m-veron-cc072-yellow</url>
-<price>322.0</price>
-<vendorprice>171.0</vendorprice>
-<vendorpricedoll>3.8</vendorpricedoll>
-<rrcdoll>7.15</rrcdoll>
+<price>320.0</price>
+<vendorprice>160.0</vendorprice>
+<vendorpricedoll>3.55</vendorpricedoll>
+<rrcdoll>7.1</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>51161204</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDgvMTIv0KYtMDAwMDc4NDQ3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -134001,10 +133936,10 @@
 </offer>
 <offer id="ts000080239000028663" available="true">
 <url>https://kmt5.com.ua/kabel-usb-c-to-lightning-27w-pd-1m-veron-x82-silicon-black</url>
-<price>115.0</price>
-<vendorprice>61.0</vendorprice>
-<vendorpricedoll>1.35</vendorpricedoll>
-<rrcdoll>2.55</rrcdoll>
+<price>99.0</price>
+<vendorprice>50.0</vendorprice>
+<vendorpricedoll>1.1</vendorpricedoll>
+<rrcdoll>2.2</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>71294670</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTEvZjYv0KYtMDAwMDgwMjM5XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -134022,10 +133957,10 @@
 </offer>
 <offer id="ts000077530" available="true">
 <url>https://kmt5.com.ua/silicone-cable-usb-c-to-lightning-27w-2m-veron-cl07</url>
-<price>285.0</price>
-<vendorprice>153.0</vendorprice>
-<vendorpricedoll>3.4</vendorpricedoll>
-<rrcdoll>6.32</rrcdoll>
+<price>279.0</price>
+<vendorprice>140.0</vendorprice>
+<vendorpricedoll>3.1</vendorpricedoll>
+<rrcdoll>6.2</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>71294670</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmEvYjIv0KYtMDAwMDc3NTMwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -134044,10 +133979,10 @@
 </offer>
 <offer id="ts000078446" available="true">
 <url>https://kmt5.com.ua/silicone-cable-usb-c-to-lightning-27w-2m-veron-cl072-yellow</url>
-<price>321.0</price>
-<vendorprice>176.0</vendorprice>
-<vendorpricedoll>3.9</vendorpricedoll>
-<rrcdoll>7.13</rrcdoll>
+<price>324.0</price>
+<vendorprice>162.0</vendorprice>
+<vendorpricedoll>3.6</vendorpricedoll>
+<rrcdoll>7.2</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>71294670</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODEvMmQv0KYtMDAwMDc4NDQ2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -134064,10 +133999,10 @@
 </offer>
 <offer id="ts000081068" available="true">
 <url>https://kmt5.com.ua/silicone-cable-usb-c-to-lightning-27w-pd-2m-veron-x2-black</url>
-<price>140.0</price>
-<vendorprice>76.0</vendorprice>
-<vendorpricedoll>1.68</vendorpricedoll>
-<rrcdoll>3.11</rrcdoll>
+<price>131.0</price>
+<vendorprice>66.0</vendorprice>
+<vendorpricedoll>1.45</vendorpricedoll>
+<rrcdoll>2.9</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>71294670</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODYvODcv0KYtMDAwMDgxMDY4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -134156,31 +134091,6 @@
 <param name="Длина кабеля">1.2m</param>
 <param name="Переходники">USB A To To Dual Lightning Cable</param>
 <param name="Цвет">Black</param>
-</offer>
-<offer id="ts000083557" available="true">
-<url>https://kmt5.com.ua/usb-c-ethernet-adapter-100-gigabit-earldom-etnc2</url>
-<price>506.0</price>
-<vendorprice>257.0</vendorprice>
-<vendorpricedoll>5.7</vendorpricedoll>
-<rrcdoll>11.25</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>65747962</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWUvNzEv0KYtMDAwMDgzNTU3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWYvMWUv0KYtMDAwMDgzNTU3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzYvY2Mv0KYtMDAwMDgzNTU3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDYvYWMv0KYtMDAwMDgzNTU3XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzYvYzAv0KYtMDAwMDgzNTU3XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGIvOGMv0KYtMDAwMDgzNTU3XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWEvNmEv0KYtMDAwMDgzNTU3XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzYvNzYv0KYtMDAwMDgzNTU3XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzkvNTMv0KYtMDAwMDgzNTU3XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Earldom</vendor>
-<vendorCode>Ц-000083557</vendorCode>
-<code>790824</code>
-<name>USB C Ethernet Adapter 100 gigabit — Earldom ET-NC2</name>
-<quantity_in_stock>5</quantity_in_stock>
-<param name="Бренд">Earldom</param>
-<param name="Компьютерные аксессуары">Переходники</param>
 </offer>
 <offer id="ts000081352" available="true">
 <url>https://kmt5.com.ua/usb-c-hub-to-4-usb-4-port-hub-30</url>
@@ -138021,10 +137931,10 @@
 </offer>
 <offer id="ts000073196" available="true">
 <url>https://kmt5.com.ua/v9-kabel-veron-c09s-type-c-to-type-c-usb-cable-25-cm-20w</url>
-<price>74.0</price>
-<vendorprice>45.0</vendorprice>
-<vendorpricedoll>0.98</vendorpricedoll>
-<rrcdoll>1.64</rrcdoll>
+<price>71.0</price>
+<vendorprice>36.0</vendorprice>
+<vendorpricedoll>0.78</vendorpricedoll>
+<rrcdoll>1.56</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>20054593</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWUvYTAv0KYtMDAwMDczMTk2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -138043,10 +137953,10 @@
 </offer>
 <offer id="ts000073195" available="true">
 <url>https://kmt5.com.ua/v9-kabel-veron-c09-type-c-to-type-c-usb-cable-1m-20w</url>
-<price>101.0</price>
-<vendorprice>59.0</vendorprice>
-<vendorpricedoll>1.3</vendorpricedoll>
-<rrcdoll>2.23</rrcdoll>
+<price>99.0</price>
+<vendorprice>50.0</vendorprice>
+<vendorpricedoll>1.1</vendorpricedoll>
+<rrcdoll>2.2</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>20054593</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTcvYjcv0KYtMDAwMDczMTk1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -138119,10 +138029,10 @@
 </offer>
 <offer id="ts000075695000024452" available="true">
 <url>https://kmt5.com.ua/kabel-usb-c-to-c-240w-1m-veron-cc14-silicon-black</url>
-<price>238.0</price>
-<vendorprice>129.0</vendorprice>
-<vendorpricedoll>2.85</vendorpricedoll>
-<rrcdoll>5.29</rrcdoll>
+<price>230.0</price>
+<vendorprice>115.0</vendorprice>
+<vendorpricedoll>2.55</vendorpricedoll>
+<rrcdoll>5.1</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>51161204</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzAvOGEv0KYtMDAwMDc1Njk1XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -138141,10 +138051,10 @@
 </offer>
 <offer id="ts000075687000024444" available="true">
 <url>https://kmt5.com.ua/kabel-usb-c-to-c-3a-1m-veron-cc09-nylon-black</url>
-<price>89.0</price>
-<vendorprice>52.0</vendorprice>
-<vendorpricedoll>1.15</vendorpricedoll>
-<rrcdoll>1.96</rrcdoll>
+<price>99.0</price>
+<vendorprice>50.0</vendorprice>
+<vendorpricedoll>1.1</vendorpricedoll>
+<rrcdoll>2.2</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>51161204</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTkvZTUv0KYtMDAwMDc1Njg3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -138426,10 +138336,10 @@
 </offer>
 <offer id="ts000075682000024439" available="true">
 <url>https://kmt5.com.ua/kabel-usb-c-to-c-60w-12m-veron-cc01-nylon-led-black</url>
-<price>176.0</price>
-<vendorprice>95.0</vendorprice>
-<vendorpricedoll>2.1</vendorpricedoll>
-<rrcdoll>3.9</rrcdoll>
+<price>179.0</price>
+<vendorprice>90.0</vendorprice>
+<vendorpricedoll>1.98</vendorpricedoll>
+<rrcdoll>3.96</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>51161204</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTMvN2Mv0KYtMDAwMDc1NjgyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -138448,10 +138358,10 @@
 </offer>
 <offer id="ts000075693000024450" available="true">
 <url>https://kmt5.com.ua/kabel-usb-c-to-c-60w-18m-veron-cc13-silicon-black</url>
-<price>230.0</price>
-<vendorprice>124.0</vendorprice>
-<vendorpricedoll>2.75</vendorpricedoll>
-<rrcdoll>5.11</rrcdoll>
+<price>234.0</price>
+<vendorprice>117.0</vendorprice>
+<vendorpricedoll>2.6</vendorpricedoll>
+<rrcdoll>5.2</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>51161204</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzYvNmMv0KYtMDAwMDc1NjkzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -138469,10 +138379,10 @@
 </offer>
 <offer id="ts000075676000024433" available="true">
 <url>https://kmt5.com.ua/kabel-usb-c-to-c-60w-1m-veron-cc04-nylon-black</url>
-<price>166.0</price>
-<vendorprice>90.0</vendorprice>
-<vendorpricedoll>1.98</vendorpricedoll>
-<rrcdoll>3.68</rrcdoll>
+<price>170.0</price>
+<vendorprice>85.0</vendorprice>
+<vendorpricedoll>1.88</vendorpricedoll>
+<rrcdoll>3.76</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>51161204</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjgvMGUv0KYtMDAwMDc1Njc2XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -138510,10 +138420,10 @@
 </offer>
 <offer id="ts000075679000024436" available="true">
 <url>https://kmt5.com.ua/kabel-usb-c-to-c-60w-2m-veron-cc12-nylon-lcd-black</url>
-<price>339.0</price>
-<vendorprice>175.0</vendorprice>
-<vendorpricedoll>3.88</vendorpricedoll>
-<rrcdoll>7.53</rrcdoll>
+<price>320.0</price>
+<vendorprice>160.0</vendorprice>
+<vendorpricedoll>3.55</vendorpricedoll>
+<rrcdoll>7.1</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>51161204</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDUvODMv0KYtMDAwMDc1Njc5XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -138646,10 +138556,10 @@
 </offer>
 <offer id="ts000073197" available="true">
 <url>https://kmt5.com.ua/v9-kabel-veron-cl09s-type-c-to-lightning-usb-cable-25-cm-20w</url>
-<price>142.0</price>
-<vendorprice>85.0</vendorprice>
-<vendorpricedoll>1.88</vendorpricedoll>
-<rrcdoll>3.14</rrcdoll>
+<price>134.0</price>
+<vendorprice>67.0</vendorprice>
+<vendorpricedoll>1.48</vendorpricedoll>
+<rrcdoll>2.96</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>71294670</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjkvYjQv0KYtMDAwMDczMTk3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -138735,10 +138645,10 @@
 </offer>
 <offer id="ts000075677000024434" available="true">
 <url>https://kmt5.com.ua/kabel-usb-c-to-lightning-27w-12m-veron-cl02-nylon-lcd-black</url>
-<price>276.0</price>
-<vendorprice>149.0</vendorprice>
-<vendorpricedoll>3.3</vendorpricedoll>
-<rrcdoll>6.13</rrcdoll>
+<price>279.0</price>
+<vendorprice>140.0</vendorprice>
+<vendorpricedoll>3.1</vendorpricedoll>
+<rrcdoll>6.2</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>71294670</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTIvOWMv0KYtMDAwMDc1Njc3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -138756,10 +138666,10 @@
 </offer>
 <offer id="ts000075658" available="true">
 <url>https://kmt5.com.ua/kabel-usb-c-to-lightning-27w-12m-veron-cl07-silicon</url>
-<price>245.0</price>
-<vendorprice>134.0</vendorprice>
-<vendorpricedoll>2.98</vendorpricedoll>
-<rrcdoll>5.45</rrcdoll>
+<price>252.0</price>
+<vendorprice>126.0</vendorprice>
+<vendorpricedoll>2.8</vendorpricedoll>
+<rrcdoll>5.6</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>71294670</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjcvNjcv0KYtMDAwMDc1NjU4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -138778,10 +138688,10 @@
 </offer>
 <offer id="ts000075660" available="true">
 <url>https://kmt5.com.ua/kabel-usb-c-to-lightning-27w-12m-veron-cl11-nylon</url>
-<price>228.0</price>
-<vendorprice>134.0</vendorprice>
-<vendorpricedoll>2.98</vendorpricedoll>
-<rrcdoll>5.07</rrcdoll>
+<price>239.0</price>
+<vendorprice>120.0</vendorprice>
+<vendorpricedoll>2.65</vendorpricedoll>
+<rrcdoll>5.3</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>71294670</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGEvNGUv0KYtMDAwMDc1NjYwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -138798,10 +138708,10 @@
 </offer>
 <offer id="ts000075694000024451" available="true">
 <url>https://kmt5.com.ua/kabel-usb-c-to-lightning-27w-18m-veron-cl13-nylon-black</url>
-<price>276.0</price>
-<vendorprice>149.0</vendorprice>
-<vendorpricedoll>3.3</vendorpricedoll>
-<rrcdoll>6.13</rrcdoll>
+<price>279.0</price>
+<vendorprice>140.0</vendorprice>
+<vendorpricedoll>3.1</vendorpricedoll>
+<rrcdoll>6.2</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>71294670</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDMvN2Uv0KYtMDAwMDc1Njk0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -158000,32 +157910,6 @@
 <param name="Интерфейс подключения">Bluetooth</param>
 <param name="Цвет">Black</param>
 </offer>
-<offer id="ts000076161" available="true">
-<url>https://kmt5.com.ua/navushniki-bluetooth-earldom-etbh79</url>
-<price>499.0</price>
-<vendorprice>268.0</vendorprice>
-<vendorpricedoll>5.95</vendorpricedoll>
-<rrcdoll>11.09</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>94103709</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzMvY2Yv0KYtMDAwMDc2MTYxXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2EvNzIv0KYtMDAwMDc2MTYxXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjMvODcv0KYtMDAwMDc2MTYxXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODAvZTUv0KYtMDAwMDc2MTYxXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjYvNDIv0KYtMDAwMDc2MTYxXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDYvMTAv0KYtMDAwMDc2MTYxXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTQvYjYv0KYtMDAwMDc2MTYxXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2IvMmMv0KYtMDAwMDc2MTYxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Earldom</vendor>
-<vendorCode>Ц-000076161</vendorCode>
-<code>771949</code>
-<name>Навушники Bluetooth Earldom ET-BH79</name>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Бренд">Earldom</param>
-<param name="Аудіо товари">Навушники Bluetooth</param>
-<param name="Интерфейс подключения">Bluetooth</param>
-<param name="Цвет">Black</param>
-</offer>
 <offer id="ts000082938" available="true">
 <url>https://kmt5.com.ua/navushniki-bluetooth-hoco-ew204</url>
 <price>788.0</price>
@@ -160653,26 +160537,6 @@
 <param name="Бренд">Различные</param>
 <param name="Аудіо товари">Портативні колонки</param>
 </offer>
-<offer id="ts000078005" available="true">
-<url>https://kmt5.com.ua/portativna-kolonka-veron-s26</url>
-<price>574.0</price>
-<vendorprice>277.0</vendorprice>
-<vendorpricedoll>6.15</vendorpricedoll>
-<rrcdoll>12.75</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>31204796</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWUvM2Mv0KYtMDAwMDc4MDA1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzgvOTUv0KYtMDAwMDc4MDA1XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2QvMWUv0KYtMDAwMDc4MDA1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDgvZjEv0KYtMDAwMDc4MDA1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000078005</vendorCode>
-<code>776801</code>
-<name>Портативна колонка Viva S26</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Различные</param>
-<param name="Аудіо товари">Портативні колонки</param>
-</offer>
 <offer id="ts000082427000030405" available="true">
 <url>https://kmt5.com.ua/portativna-kolonka-wiwu-h5-black</url>
 <price>1514.0</price>
@@ -162138,10 +162002,10 @@
 </offer>
 <offer id="ts000082845" available="true">
 <url>https://kmt5.com.ua/bezdrotova-misha-borofone-bg13</url>
-<price>326.0</price>
-<vendorprice>167.0</vendorprice>
-<vendorpricedoll>3.7</vendorpricedoll>
-<rrcdoll>7.24</rrcdoll>
+<price>292.0</price>
+<vendorprice>146.0</vendorprice>
+<vendorpricedoll>3.24</vendorpricedoll>
+<rrcdoll>6.48</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>84259818</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjUvYzMv0KYtMDAwMDgyODQ1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -187698,26 +187562,6 @@
 <param name="Бренд">Hoco</param>
 <param name="Автоаксессуары">Автотримачі</param>
 </offer>
-<offer id="ts000080891" available="true">
-<url>https://kmt5.com.ua/avtoderjatel-razdvijnoy-na-prisoske-s-besprovodnoy-zaryadkoy-hoco-hw32</url>
-<price>461.0</price>
-<vendorprice>281.0</vendorprice>
-<vendorpricedoll>6.25</vendorpricedoll>
-<rrcdoll>10.25</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>80861603</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGYvNDEv0KYtMDAwMDgwODkxXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTEvZGEv0KYtMDAwMDgwODkxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjkvZjAv0KYtMDAwMDgwODkxXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGQvNWMv0KYtMDAwMDgwODkxXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000080891</vendorCode>
-<code>786138</code>
-<name>Автодержатель раздвижной на присоске с беспроводной зарядкой — Hoco HW32</name>
-<quantity_in_stock>4</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Автоаксессуары">Автотримачі</param>
-</offer>
 <offer id="ts000083212" available="true">
 <url>https://kmt5.com.ua/avtoderjatel-razdvijnoy-na-prisoske-hoco-h100</url>
 <price>354.0</price>
@@ -190002,34 +189846,6 @@
 <description><![CDATA[CH061 Модель: Wi-CH061 Розташуйте свій телефон саме там, де вам потрібно. Кріплення WiWU Gentleman Gooseneck Mount пропонує неперевершену гнучкість для вашої поїздки. Його видатною особливістю є довгий, високоміцний шланг з ТПУ, посилений внутрішнім каркасом зі сталевого дроту. Це дозволяє згинати, скручувати та надавати форму тримачу для досягнення ідеального положення, залишаючись при цьому неймовірно стабільним та стійким до вібрацій, навіть на вибоїстих дорогах. Універсальний кульовий шарнір на 360° на головці дозволяє легко перемикатися між портретним та альбомним режимами. Потужна присоска забезпечує надійне кріплення до приладової панелі або лобового скла, а конструкція з керуванням однією рукою гарантує, що ви можете безпечно встановлювати та знімати телефон. Сумісний з усіма смартфонами з діагоналлю 4-7 дюймів, це найбільш адаптивне рішення для кріплення для будь-якого автомобіля. Характеристики продукту: 1. Універсальне регулювання на 360°, конструкція з кульовим шарніром, підтримує вільне обертання як портретних, так і альбомних екранів, і може зависати під будь-яким кутом. 2. Високоміцний шланг з ТПУ + внутрішній каркас зі сталевого дроту, можна згинати та надавати форму, стійкий до вібрацій. Він також може забезпечити стабільну підтримку телефону навіть на вибоїстій дорозі. 3. Керування однією рукою, сумісний з мобільними телефонами 4-7 дюймів. Технічні характеристики: Матеріал: ABS + силікон + фурнітура Колір: чорний Вага: 168 г]]></description>
 <quantity_in_stock>73</quantity_in_stock>
 <param name="Бренд">Wiwu</param>
-<param name="Автоаксессуары">Автотримачі</param>
-<param name="Способ установки">на присосці</param>
-<param name="Способ крепления">розсувний</param>
-<param name="Цвет">Black</param>
-</offer>
-<offer id="ts000081021" available="true">
-<url>https://kmt5.com.ua/avtotrimach-rozsuvniy-na-prisosts-z-bezdrotovoyu-zaryadkoyu-15w-earldom-etwc53</url>
-<price>489.0</price>
-<vendorprice>313.0</vendorprice>
-<vendorpricedoll>6.95</vendorpricedoll>
-<rrcdoll>10.86</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>29376332</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGIvZDAv0KYtMDAwMDgxMDIxXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWEvNjIv0KYtMDAwMDgxMDIxXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWIvMWYv0KYtMDAwMDgxMDIxXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTAvMTUv0KYtMDAwMDgxMDIxXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTIvNzQv0KYtMDAwMDgxMDIxXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmEvMzIv0KYtMDAwMDgxMDIxXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDUvM2Iv0KYtMDAwMDgxMDIxXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzAvODkv0KYtMDAwMDgxMDIxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Earldom</vendor>
-<vendorCode>Ц-000081021</vendorCode>
-<code>786301</code>
-<name>Автотримач розсувний на присосці з бездротовою зарядкою 15W — Earldom ET-WC53</name>
-<description><![CDATA[1. Материал корпуса: PC+ABS 2. Вес: 89 г 3. Входной ток: 5 В/2 А 9 В/1,67 А 4. Выход: 5 Вт 7,5 Вт 10 Вт 15 Вт]]></description>
-<quantity_in_stock>5</quantity_in_stock>
-<param name="Бренд">Earldom</param>
 <param name="Автоаксессуары">Автотримачі</param>
 <param name="Способ установки">на присосці</param>
 <param name="Способ крепления">розсувний</param>
@@ -202996,28 +202812,6 @@
 <quantity_in_stock>2</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Видео аксессуары">Камеры видеонаблюдения</param>
-</offer>
-<offer id="ts000079112" available="true">
-<url>https://kmt5.com.ua/sredstvo-dlya-udaleniya-kleschey-mdbfc01</url>
-<price>1259.0</price>
-<vendorprice>675.0</vendorprice>
-<vendorpricedoll>15.0</vendorpricedoll>
-<rrcdoll>28.0</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>61823304</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmIvZDkv0KYtMDAwMDc5MTEyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDIvNTgv0KYtMDAwMDc5MTEyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjAvMjEv0KYtMDAwMDc5MTEyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWEvZWUv0KYtMDAwMDc5MTEyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDMvZDIv0KYtMDAwMDc5MTEyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTkvZGMv0KYtMDAwMDc5MTEyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000079112</vendorCode>
-<code>778661</code>
-<name>Ручной пылесос на аккумуляторе MD-bf-c01</name>
-<description><![CDATA[Пылесос для матраса Беспроводной ручной прибор для удаления клещей 2 механизма Машина для очистки клещей Многофункциональная для подушки матраса кровати Особенности: 1.Ultimate прикроватный Элиминатор клещей:Попрощайтесь с постельным клещом с нашим пылесосом для матрасов. Ощутите силу ультрафиолетового света одним нажатием кнопки, который эффективно убивает клещей и бактерии на вашей кровати. Это компактное, но мощное устройство обеспечивает немедленное и эффективное решение для уничтожения клещей, обеспечивая чистую и здоровую среду для сна. 2. Мощное удаление клещей с остаточным эффектом:Наш пылесос с УФ-кроватью оснащен высокой мощностью всасывания, не оставляя следов после удаления клещей. Сочетание UV-C ультрафиолетового света и нескольких систем фильтрации гарантирует высокий уровень чистоты. Воспользуйтесь преимуществами 99% эффективности фильтрации и разделения, гарантируя, что пыль и клещи будут тщательно удалены без риска вторичного загрязнения. 3. ЖК-дисплей для повышенного удобства:Встроенный ЖК-дисплей в нашем портативном устройстве для удаления клещей обеспечивает легко читаемое информацию, что упрощает мониторинг состояния устройства, такого как время автономной работы и режим работы. Эта удобная функция обеспечивает легкую работу и гарантирует, что вы всегда будете в курсе производительности устройства. 4. Универсальная Очистка для каждого угла:Наша машина для очистки клещей не ограничивается только кроватями. Благодаря портативному дизайну и универсальной функциональности его можно использовать в различных условиях и убирать каждый уголок вашего дома. От матрасов и обивки до штор и ковров, это устройство обеспечивает тщательную очистку, обеспечивая свежую и комфортную среду обитания для вас и вашей семьи. 5. Передовая технология борьбы с клещами:Наш УФ-очиститель матрасов использует передовую технологию ультрафиолетового света в сочетании с мощной системой всасывания. Этот инновационный дизайн не только эффективно убивает клещей и бактерии, но и подавляет их рост. Испытайте идеальное решение для борьбы с клещами с помощью нашего устройства, защищающего Ваших близких от аллергии и обеспечивающего более здоровую домашнюю среду. Спецификация: Происхождение: материковый Китай Размер: 24,5*12,5 см/9,64*4,92 дюйма Материал: АБС Мощность: 25 Вт Степень вакуума: 10000 Па Батарея: 1500 мАч Шестерня: 2 Примечание: В связи с различиями мониторов и эффектами освещения реальный цвет товара может немного отличаться от цвета на фотографиях. Спасибо тебе! Возможны отклонения в 1-2 см из-за ручного измерения.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Различные</param>
 </offer>
 <offer id="ts000079115" available="true">
 <url>https://kmt5.com.ua/fen-md023</url>
