@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-04 11:16">
+<yml_catalog date="2026-08-04 16:47">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -63,8 +63,6 @@
 <category id="78395" parentId="18079634">Lightning</category>
 <category id="16127759" parentId="18079634">Type C</category>
 <category id="65714757" parentId="18079634">Геймерські Навушники</category>
-<category id="12293605" parentId="50652989">За брендами</category>
-<category id="38987759" parentId="12293605">Earldom</category>
 <category id="10627703" parentId="50652989">Колонки та акустичні системи</category>
 <category id="35737795" parentId="10627703">Акустичні системи</category>
 <category id="31204796" parentId="10627703">Портативні колонки</category>
@@ -22836,27 +22834,6 @@
 <param name="Бренд">Apple</param>
 <param name="Материал">Полиуретан</param>
 </offer>
-<offer id="ts000080611" available="true">
-<url>https://kmt5.com.ua/black-hybrid-case-with-magsafe-iphone-13</url>
-<price>187.0</price>
-<vendorprice>113.0</vendorprice>
-<vendorpricedoll>2.5</vendorpricedoll>
-<rrcdoll>4.16</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>3890985</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDEvMmMv0KYtMDAwMDgwNjExXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjQvZWMv0KYtMDAwMDgwNjExXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000080611</vendorCode>
-<code>785214</code>
-<name>Black Hybrid Case With MagSafe — iPhone 14/13</name>
-<quantity_in_stock>6</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 13 6.1&quot;</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Полиуретан</param>
-</offer>
 <offer id="ts000080616" available="true">
 <url>https://kmt5.com.ua/black-hybrid-case-with-magsafe-iphone-15</url>
 <price>187.0</price>
@@ -29660,6 +29637,33 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Air</param>
+<param name="Бренд">Dux Ducis</param>
+<param name="Материал">Полиуретан</param>
+</offer>
+<offer id="ts000082402" available="true">
+<url>https://kmt5.com.ua/clin-case-iphone-17-pro</url>
+<price>214.0</price>
+<vendorprice>126.0</vendorprice>
+<vendorpricedoll>2.8</vendorpricedoll>
+<rrcdoll>4.74</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>28366547</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTAvOWUv0KYtMDAwMDgyNDAyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTIvN2Ev0KYtMDAwMDgyNDAyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDAvNzcv0KYtMDAwMDgyNDAyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWMvYjAv0KYtMDAwMDgyNDAyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmYvYTcv0KYtMDAwMDgyNDAyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTQvMTIv0KYtMDAwMDgyNDAyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTUvMzMv0KYtMDAwMDgyNDAyXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODQvNzcv0KYtMDAwMDgyNDAyXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Dux Ducis</vendor>
+<vendorCode>Ц-000082402</vendorCode>
+<code>788486</code>
+<name>Clin Case — iPhone 17 Pro</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 17 Pro</param>
 <param name="Бренд">Dux Ducis</param>
 <param name="Материал">Полиуретан</param>
 </offer>
@@ -68591,24 +68595,24 @@
 <param name="Бренд">Различные</param>
 <param name="Материал">Силикон</param>
 </offer>
-<offer id="ts000082513000030544" available="true">
-<url>https://kmt5.com.ua/original-techwoven-case-iphone-17-pro-max-purple</url>
+<offer id="ts000082513000030540" available="true">
+<url>https://kmt5.com.ua/original-techwoven-case-iphone-17-pro-max-black</url>
 <price>784.0</price>
 <vendorprice>446.0</vendorprice>
 <vendorpricedoll>9.9</vendorpricedoll>
 <rrcdoll>17.44</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>28366547</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmEvZjAv0KYtMDAwMDgyNTEzXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWUvNTQv0KYtMDAwMDgyNTEzXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDUvNjUv0KYtMDAwMDgyNTEzXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTEvMmMv0KYtMDAwMDgyNTEzXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmEvNWIv0KYtMDAwMDgyNTEzXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjUvZmUv0KYtMDAwMDgyNTEzXzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
 <vendor>Apple</vendor>
 <vendorCode>Ц-000082513</vendorCode>
-<code>788751</code>
-<name>Original TechWoven Case iPhone 17 Pro Max — Purple</name>
-<quantity_in_stock>1</quantity_in_stock>
+<code>788747</code>
+<name>Original TechWoven Case iPhone 17 Pro Max — Black</name>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max</param>
@@ -82828,6 +82832,27 @@
 <param name="Бренд">Apple HQ</param>
 <param name="Материал">Силикон</param>
 </offer>
+<offer id="ts000081434000029904" available="true">
+<url>https://kmt5.com.ua/original-silicone-case-hc-with-magsafe-iphone-15-pro-lilac-76</url>
+<price>189.0</price>
+<vendorprice>113.0</vendorprice>
+<vendorpricedoll>2.5</vendorpricedoll>
+<rrcdoll>4.19</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>86411438</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGYvMDMv0KYtMDAwMDgxNDM0XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTAvNjQv0KYtMDAwMDgxNDM0XzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<vendor>Apple HQ</vendor>
+<vendorCode>Ц-000081434</vendorCode>
+<code>787065</code>
+<name>Silicone Case HC with MagSafe — iPhone 15 Pro — Lilac (76)</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 15 Pro</param>
+<param name="Бренд">Apple HQ</param>
+<param name="Материал">Силикон</param>
+</offer>
 <offer id="ts000081434000029905" available="true">
 <url>https://kmt5.com.ua/original-silicone-case-hc-with-magsafe-iphone-15-pro-midnight-blue-8</url>
 <price>189.0</price>
@@ -96231,6 +96256,27 @@
 <param name="Бренд">Apple</param>
 <param name="Материал">Пластик &amp; TPU</param>
 </offer>
+<offer id="ts000083158000031098" available="true">
+<url>https://kmt5.com.ua/swarovski-case-with-magsafe-iphone-17-pro-black</url>
+<price>384.0</price>
+<vendorprice>221.0</vendorprice>
+<vendorpricedoll>4.9</vendorpricedoll>
+<rrcdoll>8.53</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>28366547</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWUvZWMv0KYtMDAwMDgzMTU4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmMvZDIv0KYtMDAwMDgzMTU4XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000083158</vendorCode>
+<code>789937</code>
+<name>Swarovski Case with MagSafe iPhone 17 Pro  — Black</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 17 Pro</param>
+<param name="Бренд">Apple</param>
+<param name="Материал">Пластик &amp; TPU</param>
+</offer>
 <offer id="ts000083158000031099" available="true">
 <url>https://kmt5.com.ua/swarovski-case-with-magsafe-iphone-17-pro-blue</url>
 <price>384.0</price>
@@ -99373,6 +99419,27 @@
 <code>782168</code>
 <name>UAG Adventure Magnetic Case — iPhone 15 Pro — Black</name>
 <quantity_in_stock>1</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 15 Pro</param>
+<param name="Бренд">Различные</param>
+<param name="Материал">Пластик</param>
+</offer>
+<offer id="ts000077306000025339" available="true">
+<url>https://kmt5.com.ua/uag-adventure-magnetic-case-iphone-15-pro-camouflage-black</url>
+<price>351.0</price>
+<vendorprice>198.0</vendorprice>
+<vendorpricedoll>4.4</vendorpricedoll>
+<rrcdoll>7.8</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>86411438</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzAvMDYv0KYtMDAwMDc3MzA2XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzMvZmUv0KYtMDAwMDc3MzA2XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000077306</vendorCode>
+<code>773427</code>
+<name>UAG Adventure Magnetic Case — iPhone 15 Pro — Camouflage Black</name>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro</param>
@@ -113876,25 +113943,6 @@
 <param name="Толщина">0.3 mm</param>
 <param name="Цвет">Black</param>
 </offer>
-<offer id="ts000084078" available="true">
-<url>https://kmt5.com.ua/wiwu-ivista-hd-tempered-glass-gt024-samsung-s26-ultra</url>
-<price>423.0</price>
-<vendorprice>212.0</vendorprice>
-<vendorpricedoll>4.7</vendorpricedoll>
-<rrcdoll>9.39</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>38475038</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTEvYWYv0KYtMDAwMDg0MDc4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Wiwu</vendor>
-<vendorCode>Ц-000084078</vendorCode>
-<code>791800</code>
-<name>WiWU iVista HD Tempered Glass GT-024 — Samsung S26 Ultra</name>
-<quantity_in_stock>11</quantity_in_stock>
-<param name="Марка">Samsung</param>
-<param name="Модель девайса">Samsung S26 Ultra</param>
-<param name="Бренд">Wiwu</param>
-<param name="Виды защиты экрана">Захисне скло</param>
-</offer>
 <offer id="ts000079882" available="true">
 <url>https://kmt5.com.ua/zahisne-sklo-remax-hd-tempered-glass-gl27-iphone-12-61</url>
 <price>187.0</price>
@@ -115941,48 +115989,6 @@
 <param name="Модель девайса">Apple iPad 9.7&quot;, Apple iPad Pro 9.7&quot;</param>
 <param name="Бренд">Wiwu</param>
 <param name="Виды защиты экрана">Захисне скло</param>
-</offer>
-<offer id="ts000081392000029833" available="true">
-<url>https://kmt5.com.ua/wiwu-sw05-smart-watch-black</url>
-<price>1523.0</price>
-<vendorprice>774.0</vendorprice>
-<vendorpricedoll>17.2</vendorpricedoll>
-<rrcdoll>33.86</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>46945254</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDAvZjEv0KYtMDAwMDgxMzkyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODkvOWMv0KYtMDAwMDgxMzkyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTAvOWQv0KYtMDAwMDgxMzkyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzcvNTcv0KYtMDAwMDgxMzkyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWYvNTgv0KYtMDAwMDgxMzkyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Wiwu</vendor>
-<vendorCode>Ц-000081392</vendorCode>
-<code>786953</code>
-<name>Wiwu SW05 Smart watch  — Black</name>
-<quantity_in_stock>93</quantity_in_stock>
-<param name="Бренд">Wiwu</param>
-<param name="Аксессуары Для Смарт Часов">Смарт-годинник</param>
-</offer>
-<offer id="ts000081392000029834" available="true">
-<url>https://kmt5.com.ua/wiwu-sw05-smart-watch-silver</url>
-<price>1523.0</price>
-<vendorprice>774.0</vendorprice>
-<vendorpricedoll>17.2</vendorpricedoll>
-<rrcdoll>33.86</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>46945254</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTEvZWUv0KYtMDAwMDgxMzkyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODkvOWMv0KYtMDAwMDgxMzkyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTAvOWQv0KYtMDAwMDgxMzkyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzcvNTcv0KYtMDAwMDgxMzkyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWYvNTgv0KYtMDAwMDgxMzkyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Wiwu</vendor>
-<vendorCode>Ц-000081392</vendorCode>
-<code>786954</code>
-<name>Wiwu SW05 Smart watch  — Silver</name>
-<quantity_in_stock>6</quantity_in_stock>
-<param name="Бренд">Wiwu</param>
-<param name="Аксессуары Для Смарт Часов">Смарт-годинник</param>
 </offer>
 <offer id="ts000072864" available="true">
 <url>https://kmt5.com.ua/zaschitnoe-steklo-wiwu-macbook-13-pro-retina-a1425a1502</url>
@@ -118575,29 +118581,6 @@
 <quantity_in_stock>25</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro</param>
-<param name="Бренд">Remax</param>
-<param name="Виды защиты экрана">Захисне скло</param>
-<param name="Вид покрытия">Прозрачное стекло</param>
-<param name="Толщина">0.3 mm</param>
-<param name="Цвет">Remax Privacy GL-27</param>
-</offer>
-<offer id="ts000082129" available="true">
-<url>https://kmt5.com.ua/zahisne-sklo-remax-privacy-tempered-glass-gl27-iphone-17-pro-max-69</url>
-<price>220.0</price>
-<vendorprice>117.0</vendorprice>
-<vendorpricedoll>2.6</vendorpricedoll>
-<rrcdoll>4.89</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>55381849</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzgvNWQv0KYtMDAwMDgyMTI5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWYvNWYv0KYtMDAwMDgyMTI5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Remax</vendor>
-<vendorCode>Ц-000082129</vendorCode>
-<code>788035</code>
-<name>Захисне скло Remax Privacy Tempered Glass GL-27 iPhone 17 Pro Max 6.9&quot;</name>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro Max</param>
 <param name="Бренд">Remax</param>
 <param name="Виды защиты экрана">Захисне скло</param>
 <param name="Вид покрытия">Прозрачное стекло</param>
@@ -125895,28 +125878,6 @@
 <param name="Сила тока и Мощность">35W</param>
 <param name="Цвет">White</param>
 </offer>
-<offer id="ts000078266" available="true">
-<url>https://kmt5.com.ua/home-charger-35w-2c-original-apple-new</url>
-<price>533.0</price>
-<vendorprice>284.0</vendorprice>
-<vendorpricedoll>6.3</vendorpricedoll>
-<rrcdoll>11.85</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>56676196</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmUvNDgv0KYtMDAwMDc4MjY2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2YvNmQv0KYtMDAwMDc4MjY2XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzQvNjIv0KYtMDAwMDc4MjY2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzYvYjIv0KYtMDAwMDc4MjY2XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000078266</vendorCode>
-<code>777375</code>
-<name>Home Charger 35W 2C MNWP3CH/A Apple</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Apple</param>
-<param name="Колво USB портов">2 Type - C</param>
-<param name="Зарядные устройства">Home Chargers</param>
-<param name="Сила тока и Мощность">35W</param>
-</offer>
 <offer id="ts000074021" available="true">
 <url>https://kmt5.com.ua/home-charger-35w-2c-original-apple-mhje3zma-35w</url>
 <price>539.0</price>
@@ -128748,26 +128709,6 @@
 <param name="Бренд">Earldom</param>
 <param name="Автоаксессуары">Инверторы напряжения</param>
 </offer>
-<offer id="ts000026193" available="true">
-<url>https://kmt5.com.ua/szu-dlya-kitayskih-planshetov-5v-2000mah</url>
-<price>112.0</price>
-<vendorprice>61.0</vendorprice>
-<vendorpricedoll>1.35</vendorpricedoll>
-<rrcdoll>2.48</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>15184097</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTIvN2Iv0KYtMDAwMDI2MTkzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjMvNjQv0KYtMDAwMDI2MTkzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Распродажа</vendor>
-<vendorCode>Ц-000026193</vendorCode>
-<code>705067</code>
-<name>Tablet Charger 5V2A Chinese Tablets C260 Connector</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Распродажа</param>
-<param name="Зарядные устройства">Зарядные устройства для планшетов</param>
-<param name="Сила тока и Мощность">2A</param>
-<param name="Цвет">Black</param>
-</offer>
 <offer id="ts000083643" available="true">
 <url>https://kmt5.com.ua/ups-dlya-routera-modema-dc-ups-10400mah-istochnik-bespereboynogo-pitaniya</url>
 <price>1516.0</price>
@@ -130403,6 +130344,30 @@
 <param name="Зарядные устройства">Фільтр живлення</param>
 <param name="Сила тока и Мощность">3.1A</param>
 <param name="Цвет">Black</param>
+</offer>
+<offer id="ts000063034" available="true">
+<url>https://kmt5.com.ua/setevoy-udlinitel-ldnio-sc3331-3-usb-3-ports-31a-black</url>
+<price>664.0</price>
+<vendorprice>383.0</vendorprice>
+<vendorpricedoll>8.5</vendorpricedoll>
+<rrcdoll>14.75</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>36374463</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWUvYTgv0KYtMDAwMDYzMDM0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmMvZDkv0KYtMDAwMDYzMDM0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjYvZDcv0KYtMDAwMDYzMDM0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTcvMzUv0KYtMDAwMDYzMDM0XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Распродажа</vendor>
+<vendorCode>Ц-000063034</vendorCode>
+<code>707052</code>
+<name>Фільтр живлення 3U 3P 3.1A 1.6m Ldnio SC3301</name>
+<description><![CDATA[Бренд: LDNIO Тип: Сетевой фильтр-удлинитель Количество розеток: 3 Тип розеток: евро Длина кабеля, м: 1,5 Входная вилка: евро USB: 3 Выключатель: есть Защита линий телефон/факс/модем: нет Защита линий видеосигнала: нет Максимальная сила тока, А: 10 Защита: защита от короткого замыкания, защита от повышенного напряжения, защита от помех, защита от удара током - закрывающиеся шторки в отверстиях розеток]]></description>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Распродажа</param>
+<param name="Колво USB портов">3 U | 3 P</param>
+<param name="Зарядные устройства">Фільтр живлення</param>
+<param name="Сила тока и Мощность">3.1A</param>
+<param name="Цвет">Black &amp; Gray</param>
 </offer>
 <offer id="ts000080343" available="true">
 <url>https://kmt5.com.ua/fltr-jivlennya-3u-6c-earldom-essc24-eu</url>
@@ -132259,26 +132224,6 @@
 <quantity_in_stock>115</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Переходники">Adapter USB C To DP</param>
-</offer>
-<offer id="ts000071997" available="true">
-<url>https://kmt5.com.ua/adapter-usb-c-to-micro-earldom-etot62-20</url>
-<price>88.0</price>
-<vendorprice>50.0</vendorprice>
-<vendorpricedoll>1.1</vendorpricedoll>
-<rrcdoll>1.95</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>27045932</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTQvMTEv0KYtMDAwMDcxOTk3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDIvMWUv0KYtMDAwMDcxOTk3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDYvYWYv0KYtMDAwMDcxOTk3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Earldom</vendor>
-<vendorCode>Ц-000071997</vendorCode>
-<code>751760</code>
-<name>Adapter USB C To Micro Earldom ET-OT62 2.0</name>
-<description><![CDATA[Тип: кабель USB тип-c, переходник с микро на тип-c Использование: MP3 / MP4 плеер, видеоплеер, камера, мобильный телефон, компьютер, мультимедиа, принтер, сканер штрих-кода, сканер, автомобиль, планшет, банк питания, многофункциональное устройство, умные часы, наушники, другое Тип USB: Микро к Type-c Материал: TPE, алюминиевый сплав Разъем: микро, Type-C Оболочка: TPE Функция: 2.1A быстрая зарядка Защита: Защита от короткого замыкания, OLP, ocp, ovp]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Earldom</param>
-<param name="Переходники">Adapter USB C To Micro</param>
 </offer>
 <offer id="ts000077339" available="true">
 <url>https://kmt5.com.ua/adapter-usb-c-to-micro-earldom-ettc13</url>
@@ -137918,25 +137863,6 @@
 <param name="Разъем подключения">Cable USB to C</param>
 <param name="Длина кабеля">2m</param>
 </offer>
-<offer id="ts000080583" available="true">
-<url>https://kmt5.com.ua/kabel-usb-c-5a-12m-hoco-u119</url>
-<price>157.0</price>
-<vendorprice>86.0</vendorprice>
-<vendorpricedoll>1.9</vendorpricedoll>
-<rrcdoll>3.49</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>96483753</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDAvMTcv0KYtMDAwMDgwNTgzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzYvMTUv0KYtMDAwMDgwNTgzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000080583</vendorCode>
-<code>785173</code>
-<name>Кабель USB C 5A (1.2m) — Hoco U119</name>
-<quantity_in_stock>5</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Разъем подключения">Cable USB to C</param>
-<param name="Длина кабеля">1.2m</param>
-</offer>
 <offer id="ts000069701000016915" available="true">
 <url>https://kmt5.com.ua/kabel-usb-c-5a-12m-hoco-u53-black</url>
 <price>213.0</price>
@@ -140547,31 +140473,6 @@
 <name>Аккумуляторный LED налобный фонарик с сенсорным управлением W689-1</name>
 <description><![CDATA[Фонарик на голову с сенсорным управелнием]]></description>
 <quantity_in_stock>5</quantity_in_stock>
-<param name="Бренд">Различные</param>
-</offer>
-<offer id="ts000078088" available="true">
-<url>https://kmt5.com.ua/lhtarik-w5130</url>
-<price>189.0</price>
-<vendorprice>102.0</vendorprice>
-<vendorpricedoll>2.25</vendorpricedoll>
-<rrcdoll>4.19</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>70008598</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDAvNDcv0KYtMDAwMDc4MDg4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODIvMzUv0KYtMDAwMDc4MDg4XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzgvMDgv0KYtMDAwMDc4MDg4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODEvM2Uv0KYtMDAwMDc4MDg4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmQvZjYv0KYtMDAwMDc4MDg4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDQvMzMv0KYtMDAwMDc4MDg4XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGYvOGMv0KYtMDAwMDc4MDg4XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTcvOTYv0KYtMDAwMDc4MDg4XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGQvNDYv0KYtMDAwMDc4MDg4XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000078088</vendorCode>
-<code>777026</code>
-<name>Аккумуляторный LED фонарик W5130 с Type-C (7 режимов, карабин, магнит)</name>
-<description><![CDATA[Аккумуляторный LED фонарик W5130 – многофункциональный ручной светодиодный фонарик. Основные характеристики: - белые, желтые и красные COB-светодиоды создают ровный свет; - яркость: 500 лм; - 7 режимов работы; - емкость аккумулятора: 500 мАч; - время автономной работы: 1.5–4 часа (в зависимости от яркости); - разъем для зарядки: Type-C; - оснащен карабином; - встроенный магнит; - LED-индикатор статуса зарядки; - оснащен подставкой с регулировкой наклона 180°; - есть резьба для фиксации на штативах; - функция открывалки для бутылок; - водонепроницаемость: IPX4; - зарядный кабель в комплекте; - материал: пластик + алюминиевый сплав. Портативный свет Миниатюрный светодиодный фонарик выручит в любой ситуации: во время вечерней прогулки и отдыха на природе, в случае внезапных проблем с электроснабжением или если срочно нужно отремонтировать машину. 7 режима работы В зависимости от цели пользователя, LED-фонарик W5130 будет работать в 7 режимах: - обычный белый свет; - приглушенный белый свет; - обычный желтый свет; - приглушенный желтый свет; - красный свет; - предупредительное красное мигание; - яркий свет 800 лм. Универсальная фиксация Фонарик оснащен карабином, встроенным магнитом, подставкой с регулировкой наклона 180° и резьбой для штатива, что в итоге дает множество возможных сценариев использования: - закрепить на металлической поверхности (на холодильнике или автомобиле); - прицепить к рюкзаку, поясу, ошейнику животного, палатке; - поставить на стол; - установить на триподах для фиксированного света. Кроме того, аксессуар удобно держать в руке, ведь светодиоды не нагреваются. Практичный и надежный LED-фонарик W5130 имеет водонепроницаемость IPX4, поэтому не пострадает от брызг воды, если вы находитесь на улице в дождливую погоду. Встроенный аккумулятор емкостью 500 мАч обеспечивает до 4 часов работы без подзарядки. А специальный крючок послужит открывалкой для бутылки.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
 <param name="Бренд">Различные</param>
 </offer>
 <offer id="ts000083581" available="true">
@@ -144670,30 +144571,6 @@
 <param name="Студийное оборудование">Монопод Трипод</param>
 <param name="Максимальная высота">1.12m</param>
 </offer>
-<offer id="ts000079225" available="true">
-<url>https://kmt5.com.ua/monopod-tripod-vmt11-1120mm-button-bluetooth-</url>
-<price>1303.0</price>
-<vendorprice>715.0</vendorprice>
-<vendorpricedoll>15.9</vendorpricedoll>
-<rrcdoll>28.97</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>67670974</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmIvNDIv0KYtMDAwMDc5MjI1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTgvNmYv0KYtMDAwMDc5MjI1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWIvYTEv0KYtMDAwMDc5MjI1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmUvOTkv0KYtMDAwMDc5MjI1XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzQvZTUv0KYtMDAwMDc5MjI1XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDUvM2Qv0KYtMDAwMDc5MjI1XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>VERON</vendor>
-<vendorCode>Ц-000079225</vendorCode>
-<code>778823</code>
-<name>Monopod Tripod (1.12m) — Veron VMT-11</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">VERON</param>
-<param name="Особенности">С пультом</param>
-<param name="Студийное оборудование">Монопод Трипод</param>
-<param name="Максимальная высота">1.12m</param>
-</offer>
 <offer id="ts000075436" available="true">
 <url>https://kmt5.com.ua/tripodmonopod-veron-tm168hc-holdercase</url>
 <price>1057.0</price>
@@ -145053,10 +144930,10 @@
 </offer>
 <offer id="ts000079222" available="true">
 <url>https://kmt5.com.ua/monopod-tripod-fsv22</url>
-<price>401.0</price>
+<price>690.0</price>
 <vendorprice>428.0</vendorprice>
 <vendorpricedoll>9.5</vendorpricedoll>
-<rrcdoll>8.9</rrcdoll>
+<rrcdoll>15.35</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>67670974</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWQvOGYv0KYtMDAwMDc5MjIyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -145482,26 +145359,6 @@
 <param name="Бренд">Различные</param>
 <param name="Студийное оборудование">Триподы</param>
 <param name="Цвет">Black</param>
-</offer>
-<offer id="ts000075873" available="true">
-<url>https://kmt5.com.ua/tripodshtativ-tm16w-dlya-led-lampyikameryifotoapparatagopro</url>
-<price>128.0</price>
-<vendorprice>86.0</vendorprice>
-<vendorpricedoll>1.9</vendorpricedoll>
-<rrcdoll>2.83</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>81717433</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzEvNWUv0KYtMDAwMDc1ODczXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGUvZDgv0KYtMDAwMDc1ODczXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTkvMWYv0KYtMDAwMDc1ODczXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000075873</vendorCode>
-<code>771375</code>
-<name>Tripod Multifunctional .m TM-16W</name>
-<quantity_in_stock>3</quantity_in_stock>
-<param name="Бренд">Различные</param>
-<param name="Студийное оборудование">Триподы</param>
-<param name="Цвет">White</param>
 </offer>
 <offer id="ts000083485" available="true">
 <url>https://kmt5.com.ua/tripod-multifunctional-052m-jmary-kt25h30</url>
@@ -153809,24 +153666,6 @@
 <param name="Аудіо товари">Навушники з мікрофоном 3.5mm</param>
 <param name="Интерфейс подключения">3.5mm</param>
 </offer>
-<offer id="ts000079622" available="true">
-<url>https://kmt5.com.ua/3d-wireless-music-eye-masc-earldom-etem01</url>
-<price>528.0</price>
-<vendorprice>279.0</vendorprice>
-<vendorpricedoll>6.2</vendorpricedoll>
-<rrcdoll>11.74</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>38987759</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTUvYTEv0KYtMDAwMDc5NjIyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTQvNzIv0KYtMDAwMDc5NjIyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2EvNTIv0KYtMDAwMDc5NjIyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Earldom</vendor>
-<vendorCode>Ц-000079622</vendorCode>
-<code>779700</code>
-<name>3D Wireless Music eye masc — Earldom ET-EM01</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Earldom</param>
-</offer>
 <offer id="ts000077389000025542" available="true">
 <url>https://kmt5.com.ua/bluetooth-earphones-hoco-es51-black</url>
 <price>402.0</price>
@@ -157981,6 +157820,32 @@
 <code>771950</code>
 <name>Навушники Bluetooth Earldom ET-BH77</name>
 <quantity_in_stock>39</quantity_in_stock>
+<param name="Бренд">Earldom</param>
+<param name="Аудіо товари">Навушники Bluetooth</param>
+<param name="Интерфейс подключения">Bluetooth</param>
+<param name="Цвет">Black</param>
+</offer>
+<offer id="ts000076161" available="true">
+<url>https://kmt5.com.ua/navushniki-bluetooth-earldom-etbh79</url>
+<price>499.0</price>
+<vendorprice>268.0</vendorprice>
+<vendorpricedoll>5.95</vendorpricedoll>
+<rrcdoll>11.09</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>94103709</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzMvY2Yv0KYtMDAwMDc2MTYxXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2EvNzIv0KYtMDAwMDc2MTYxXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjMvODcv0KYtMDAwMDc2MTYxXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODAvZTUv0KYtMDAwMDc2MTYxXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjYvNDIv0KYtMDAwMDc2MTYxXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDYvMTAv0KYtMDAwMDc2MTYxXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTQvYjYv0KYtMDAwMDc2MTYxXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2IvMmMv0KYtMDAwMDc2MTYxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Earldom</vendor>
+<vendorCode>Ц-000076161</vendorCode>
+<code>771949</code>
+<name>Навушники Bluetooth Earldom ET-BH79</name>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Бренд">Earldom</param>
 <param name="Аудіо товари">Навушники Bluetooth</param>
 <param name="Интерфейс подключения">Bluetooth</param>
@@ -170816,6 +170681,27 @@
 <param name="Материал">Силикон</param>
 <param name="Аксессуары Для Смарт Часов">Браслеты</param>
 </offer>
+<offer id="ts000037062000016089" available="true">
+<url>https://kmt5.com.ua/remnets-sport-band-apple-watch-42-mm-44-mm-45-mm-49-mm-gray-blue-26</url>
+<price>60.0</price>
+<vendorprice>31.0</vendorprice>
+<vendorpricedoll>0.67</vendorpricedoll>
+<rrcdoll>1.32</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>96847083</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDcvMDIv0KYtMDAwMDM3MDYyXzYxLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWMvZTMv0KYtMDAwMDM3MDYyXzU3LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000037062</vendorCode>
+<code>737101</code>
+<name>Ремінець Sport Band Apple Watch 42 mm 44 mm 45 mm 49 mm — Gray Blue (26)</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Watch Series 3 42 mm, Apple Watch Series 4 44 mm, Apple Watch Series 7 45 mm, Apple Watch Series 8 49 mm</param>
+<param name="Бренд">Различные</param>
+<param name="Материал">Силикон</param>
+<param name="Аксессуары Для Смарт Часов">Браслеты</param>
+</offer>
 <offer id="ts000037062000013002" available="true">
 <url>https://kmt5.com.ua/original-design-bracelet-apple-watch-42-mm-44-mm-forest-green</url>
 <price>60.0</price>
@@ -174543,6 +174429,48 @@
 <name>Wiwu SW01 Smart watch  — Black</name>
 <description><![CDATA[Підвищте свій стиль та відстежуйте своє життя за допомогою WiWU SW01 S10. Цей чудово розроблений смарт-годинник оснащений приголомшливим 2,02-дюймовим екраном високої чіткості, який відображає кожну деталь з яскравою чіткістю. Завдяки високопродуктивному смарт-чіпу та Bluetooth 5.4 він забезпечує плавний та безперебійний користувацький досвід. Легко навігуйте за допомогою інтуїтивно зрозумілої поворотної кнопки та швидко отримуйте доступ до улюблених функцій завдяки функції інтелектуального розділення екрана. Відстежуйте свої тренування з точністю, використовуючи один із 15 професійних спортивних режимів, що підтримуються GPS та подвійним супутниковим позиціонуванням BeiDou. SW01 S10 постачається з двома окремими ремінцями, що дозволяє вам змінювати свій стиль за лічені секунди. Завдяки водонепроникності IP67 та безлічі багатофункціональних смарт-функцій, цей годинник розроблений, щоб йти в ногу з вашим динамічним способом життя. Характеристики продукту: 1. Моніторинг спорту та здоров'я 2. Помічник з екраном-кулею 3. Навігація Baidu в режимі реального часу на зап'ясті 4. Синхронізована фотографія 5. Новий режим 3D-стереоскопічного меню 6. Висока частота оновлення 60 Гц для чіткішого зображення Технічні характеристики: Колір: чорний та сріблястий Ступінь водонепроникності: IPX67 Версія бездротового з'єднання: V5.4 Розміри упаковки (см): 92*170*32 см Вага виробу (кг): 0,176 Розмір екрана дисплея: 2,02 дюйма Чіпсет: AB5691F Ємність акумулятора: 260 мАг]]></description>
 <quantity_in_stock>16</quantity_in_stock>
+<param name="Бренд">Wiwu</param>
+<param name="Аксессуары Для Смарт Часов">Смарт-годинник</param>
+</offer>
+<offer id="ts000081392000029833" available="true">
+<url>https://kmt5.com.ua/wiwu-sw05-smart-watch-black</url>
+<price>1523.0</price>
+<vendorprice>774.0</vendorprice>
+<vendorpricedoll>17.2</vendorpricedoll>
+<rrcdoll>33.86</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>46945254</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDAvZjEv0KYtMDAwMDgxMzkyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODkvOWMv0KYtMDAwMDgxMzkyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTAvOWQv0KYtMDAwMDgxMzkyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzcvNTcv0KYtMDAwMDgxMzkyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWYvNTgv0KYtMDAwMDgxMzkyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Wiwu</vendor>
+<vendorCode>Ц-000081392</vendorCode>
+<code>786953</code>
+<name>Wiwu SW05 Smart watch  — Black</name>
+<quantity_in_stock>93</quantity_in_stock>
+<param name="Бренд">Wiwu</param>
+<param name="Аксессуары Для Смарт Часов">Смарт-годинник</param>
+</offer>
+<offer id="ts000081392000029834" available="true">
+<url>https://kmt5.com.ua/wiwu-sw05-smart-watch-silver</url>
+<price>1523.0</price>
+<vendorprice>774.0</vendorprice>
+<vendorpricedoll>17.2</vendorpricedoll>
+<rrcdoll>33.86</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>46945254</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTEvZWUv0KYtMDAwMDgxMzkyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODkvOWMv0KYtMDAwMDgxMzkyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTAvOWQv0KYtMDAwMDgxMzkyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzcvNTcv0KYtMDAwMDgxMzkyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWYvNTgv0KYtMDAwMDgxMzkyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Wiwu</vendor>
+<vendorCode>Ц-000081392</vendorCode>
+<code>786954</code>
+<name>Wiwu SW05 Smart watch  — Silver</name>
+<quantity_in_stock>6</quantity_in_stock>
 <param name="Бренд">Wiwu</param>
 <param name="Аксессуары Для Смарт Часов">Смарт-годинник</param>
 </offer>
@@ -191981,27 +191909,6 @@
 <param name="Накопители информации">USB-флеш-накопитель</param>
 <param name="Объем Памяти">32GB</param>
 </offer>
-<offer id="ts000078864" available="true">
-<url>https://kmt5.com.ua/usb-flash-drive-8gb-veron-usb-metal-seies-105</url>
-<price>333.0</price>
-<vendorprice>167.0</vendorprice>
-<vendorpricedoll>3.7</vendorpricedoll>
-<rrcdoll>7.39</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>57114865</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmQvZjQv0KYtMDAwMDc4ODY0XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWEvYzcv0KYtMDAwMDc4ODY0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzIvYTEv0KYtMDAwMDc4ODY0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmMvYWUv0KYtMDAwMDc4ODY0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>VERON</vendor>
-<vendorCode>Ц-000078864</vendorCode>
-<code>778367</code>
-<name>USB Flash Drive 8GB Veron USB Metal seies 105</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">VERON</param>
-<param name="Накопители информации">USB-флеш-накопитель</param>
-<param name="Объем Памяти">8GB</param>
-</offer>
 <offer id="ts000079770" available="true">
 <url>https://kmt5.com.ua/usb-flash-drive-4gb-veron-usb-metal-seies-105</url>
 <price>323.0</price>
@@ -194479,26 +194386,6 @@
 <name>TV Holder  AD-AM25 (14-42) with gradienter</name>
 <quantity_in_stock>1</quantity_in_stock>
 <param name="Бренд">Различные</param>
-</offer>
-<offer id="ts000079771" available="true">
-<url>https://kmt5.com.ua/usb-flash-drive-16gb-veron-usb-vega-seies-121</url>
-<price>421.0</price>
-<vendorprice>214.0</vendorprice>
-<vendorpricedoll>4.75</vendorpricedoll>
-<rrcdoll>9.35</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>57114865</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWUvZGIv0KYtMDAwMDc5NzcxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmMvMjEv0KYtMDAwMDc5NzcxXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTUvMGEv0KYtMDAwMDc5NzcxXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>VERON</vendor>
-<vendorCode>Ц-000079771</vendorCode>
-<code>780057</code>
-<name>USB Flash Drive 16GB Veron USB Vega seies 121</name>
-<quantity_in_stock>23</quantity_in_stock>
-<param name="Бренд">VERON</param>
-<param name="Накопители информации">USB-флеш-накопитель</param>
-<param name="Объем Памяти">16GB</param>
 </offer>
 <offer id="ts000078924" available="true">
 <url>https://kmt5.com.ua/usb-flash-drive-32gb-veron-usb-metal-seies-105</url>
@@ -197784,6 +197671,32 @@
 <param name="Бренд">Различные</param>
 <param name="Украшения для Телефонов">Шнурки</param>
 </offer>
+<offer id="ts000082629000031244" available="true">
+<url>https://kmt5.com.ua/shnurok-na-sheyu-knitting-marsala</url>
+<price>145.0</price>
+<vendorprice>77.0</vendorprice>
+<vendorpricedoll>1.7</vendorpricedoll>
+<rrcdoll>3.21</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>16846687</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjAvN2Yv0KYtMDAwMDgyNjI5XzI4LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2EvYmYv0KYtMDAwMDgyNjI5XzE3LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTMvMTkv0KYtMDAwMDgyNjI5XzE4LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmUvZTAv0KYtMDAwMDgyNjI5XzI1LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODcvZTQv0KYtMDAwMDgyNjI5XzMyLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWYvMTEv0KYtMDAwMDgyNjI5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGQvZDQv0KYtMDAwMDgyNjI5XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTQvZWYv0KYtMDAwMDgyNjI5XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjkvMmIv0KYtMDAwMDgyNjI5XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmQvZjQv0KYtMDAwMDgyNjI5XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000082629</vendorCode>
+<code>790171</code>
+<name>Шнурок на шею «Knitting» — Marsala</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Различные</param>
+<param name="Украшения для Телефонов">Шнурки</param>
+</offer>
 <offer id="ts000082629000031241" available="true">
 <url>https://kmt5.com.ua/shnurok-na-sheyu-knitting-neon-pink</url>
 <price>145.0</price>
@@ -200978,6 +200891,25 @@
 <quantity_in_stock>7</quantity_in_stock>
 <param name="Бренд">Различные</param>
 </offer>
+<offer id="ts000084078" available="true">
+<url>https://kmt5.com.ua/wiwu-ivista-hd-tempered-glass-gt024-samsung-s26-ultra</url>
+<price>423.0</price>
+<vendorprice>212.0</vendorprice>
+<vendorpricedoll>4.7</vendorpricedoll>
+<rrcdoll>9.39</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>38475038</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTEvYWYv0KYtMDAwMDg0MDc4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Wiwu</vendor>
+<vendorCode>Ц-000084078</vendorCode>
+<code>791800</code>
+<name>WiWU iVista HD Tempered Glass GT-024 — Samsung S26 Ultra</name>
+<quantity_in_stock>11</quantity_in_stock>
+<param name="Марка">Samsung</param>
+<param name="Модель девайса">Samsung S26 Ultra</param>
+<param name="Бренд">Wiwu</param>
+<param name="Виды защиты экрана">Захисне скло</param>
+</offer>
 <offer id="ts000083743" available="true">
 <url>https://kmt5.com.ua/igrushka-smart-dog-1508d</url>
 <price>2375.0</price>
@@ -201564,6 +201496,20 @@
 <code>789771</code>
 <name>Краскопульт Paint Zoom</name>
 <quantity_in_stock>40</quantity_in_stock>
+</offer>
+<offer id="ts000083032" available="true">
+<url>https://kmt5.com.ua/kraskopult-spray-gun</url>
+<price>1376.0</price>
+<vendorprice>688.0</vendorprice>
+<vendorpricedoll>15.3</vendorpricedoll>
+<rrcdoll>30.6</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>95805898</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDEvZDYv0KYtMDAwMDgzMDMyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendorCode>Ц-000083032</vendorCode>
+<code>789772</code>
+<name>Краскопульт Spray Gun</name>
+<quantity_in_stock>10</quantity_in_stock>
 </offer>
 <offer id="ts000081298000029802" available="true">
 <url>https://kmt5.com.ua/portativnyiy-mini-ventilyator-wtt30-white</url>
