@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-05 06:12">
+<yml_catalog date="2026-08-05 11:13">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -1145,6 +1145,29 @@
 <param name="Бренд">Wiwu</param>
 <param name="Материал">Полиуретан</param>
 </offer>
+<offer id="ts000082456000030432" available="true">
+<url>https://kmt5.com.ua/armor-pro-case-with-magsafe-fgg012-iphone-16-pro-pink</url>
+<price>434.0</price>
+<vendorprice>257.0</vendorprice>
+<vendorpricedoll>5.7</vendorpricedoll>
+<rrcdoll>9.64</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>89640525</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDcvNGUv0KYtMDAwMDgyNDU2XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGEvNWMv0KYtMDAwMDgyNDU2XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWMvN2Mv0KYtMDAwMDgyNDU2XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmMvNTQv0KYtMDAwMDgyNDU2XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Wiwu</vendor>
+<vendorCode>Ц-000082456</vendorCode>
+<code>788583</code>
+<name>Armor Pro Case With MagSafe FGG-012 — iPhone 16 Pro  — Pink</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 16 Pro</param>
+<param name="Бренд">Wiwu</param>
+<param name="Материал">Полиуретан</param>
+</offer>
 <offer id="ts000082456000030433" available="true">
 <url>https://kmt5.com.ua/armor-pro-case-with-magsafe-fgg012-iphone-16-pro-white</url>
 <price>434.0</price>
@@ -1823,6 +1846,28 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Samsung</param>
 <param name="Модель девайса">Samsung S26 Ultra</param>
+<param name="Бренд">Benks</param>
+<param name="Материал">Карбон &amp; Силикон</param>
+</offer>
+<offer id="ts000084126" available="true">
+<url>https://kmt5.com.ua/benks-armorpro-montage-kevlar-case-iphone-17-pro-max</url>
+<price>2344.0</price>
+<vendorprice>1304.0</vendorprice>
+<vendorpricedoll>29.0</vendorpricedoll>
+<rrcdoll>52.14</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>28366547</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGEvMzYv0KYtMDAwMDg0MTI2XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDgvYjUv0KYtMDAwMDg0MTI2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTEvZWYv0KYtMDAwMDg0MTI2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Benks</vendor>
+<vendorCode>Ц-000084126</vendorCode>
+<code>791876</code>
+<name>Benks ArmorPro Montage kevlar case — iPhone 17 Pro Max</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 17 Pro Max</param>
 <param name="Бренд">Benks</param>
 <param name="Материал">Карбон &amp; Силикон</param>
 </offer>
@@ -6426,27 +6471,6 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 11</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Полиуретан</param>
-</offer>
-<offer id="ts000079983000028101" available="true">
-<url>https://kmt5.com.ua/colorful-case-with-magsafe-iphone-12-12-pro-grey</url>
-<price>235.0</price>
-<vendorprice>131.0</vendorprice>
-<vendorpricedoll>2.9</vendorpricedoll>
-<rrcdoll>5.22</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>5726391</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmUvM2Iv0KYtMDAwMDc5OTgzXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWYvOTUv0KYtMDAwMDc5OTgzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000079983</vendorCode>
-<code>781527</code>
-<name>Colorful Case With Magsafe — iPhone 12 ; 12 Pro — Grey</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 12 Pro 6.1&quot;, Apple iPhone 12 6.1&quot;</param>
 <param name="Бренд">Apple</param>
 <param name="Материал">Полиуретан</param>
 </offer>
@@ -18597,26 +18621,6 @@
 <param name="Бренд">Различные</param>
 <param name="Аудіо товари">Чехол для Airpods</param>
 </offer>
-<offer id="ts000075716000024468" available="true">
-<url>https://kmt5.com.ua/airpods-pro-case-microfiber-black-1</url>
-<price>76.0</price>
-<vendorprice>41.0</vendorprice>
-<vendorpricedoll>0.9</vendorpricedoll>
-<rrcdoll>1.68</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>90559290</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODUvMGIv0KYtMDAwMDc1NzE2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzQvODYv0KYtMDAwMDc1NzE2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000075716</vendorCode>
-<code>771038</code>
-<name>Airpods Pro Case Microfiber — Black (1)</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Airpods Pro</param>
-<param name="Бренд">Различные</param>
-<param name="Аудіо товари">Чехол для Airpods</param>
-</offer>
 <offer id="ts000075716000026281" available="true">
 <url>https://kmt5.com.ua/airpods-pro-case-microfiber-dark-red</url>
 <price>76.0</price>
@@ -29637,60 +29641,6 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Air</param>
-<param name="Бренд">Dux Ducis</param>
-<param name="Материал">Полиуретан</param>
-</offer>
-<offer id="ts000082402" available="true">
-<url>https://kmt5.com.ua/clin-case-iphone-17-pro</url>
-<price>214.0</price>
-<vendorprice>126.0</vendorprice>
-<vendorpricedoll>2.8</vendorpricedoll>
-<rrcdoll>4.74</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>28366547</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTAvOWUv0KYtMDAwMDgyNDAyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTIvN2Ev0KYtMDAwMDgyNDAyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDAvNzcv0KYtMDAwMDgyNDAyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWMvYjAv0KYtMDAwMDgyNDAyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmYvYTcv0KYtMDAwMDgyNDAyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTQvMTIv0KYtMDAwMDgyNDAyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTUvMzMv0KYtMDAwMDgyNDAyXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODQvNzcv0KYtMDAwMDgyNDAyXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Dux Ducis</vendor>
-<vendorCode>Ц-000082402</vendorCode>
-<code>788486</code>
-<name>Clin Case — iPhone 17 Pro</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro</param>
-<param name="Бренд">Dux Ducis</param>
-<param name="Материал">Полиуретан</param>
-</offer>
-<offer id="ts000082403" available="true">
-<url>https://kmt5.com.ua/clin-case-iphone-17-pro-max</url>
-<price>214.0</price>
-<vendorprice>126.0</vendorprice>
-<vendorpricedoll>2.8</vendorpricedoll>
-<rrcdoll>4.74</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>28366547</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjIvMzMv0KYtMDAwMDgyNDAzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjIvMDAv0KYtMDAwMDgyNDAzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTYvMzAv0KYtMDAwMDgyNDAzXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTQvOTQv0KYtMDAwMDgyNDAzXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDkvNTgv0KYtMDAwMDgyNDAzXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTgvOTAv0KYtMDAwMDgyNDAzXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjUvNTQv0KYtMDAwMDgyNDAzXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjYvNzYv0KYtMDAwMDgyNDAzXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Dux Ducis</vendor>
-<vendorCode>Ц-000082403</vendorCode>
-<code>788487</code>
-<name>Clin Case — iPhone 17 Pro Max</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro Max</param>
 <param name="Бренд">Dux Ducis</param>
 <param name="Материал">Полиуретан</param>
 </offer>
@@ -49104,6 +49054,28 @@
 <param name="Модель девайса">Apple iPhone Xr</param>
 <param name="Бренд">Apple</param>
 <param name="Материал">Кожа</param>
+</offer>
+<offer id="ts000069968000017557" available="true">
+<url>https://kmt5.com.ua/leather-case-with-magsafe-iphone-12-12-pro-black</url>
+<price>658.0</price>
+<vendorprice>374.0</vendorprice>
+<vendorpricedoll>8.3</vendorpricedoll>
+<rrcdoll>14.62</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>5726391</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzIvZGQv0KYtMDAwMDY5OTY4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDkvOWQv0KYtMDAwMDY5OTY4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000069968</vendorCode>
+<code>742362</code>
+<name>Leather Case with MagSafe iPhone 12 ; 12 Pro — Black</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 12 Pro 6.1&quot;, Apple iPhone 12 6.1&quot;</param>
+<param name="Бренд">Apple</param>
+<param name="Материал">Силикон</param>
+<param name="Цвет">Mix Color</param>
 </offer>
 <offer id="ts000069967000017554" available="true">
 <url>https://kmt5.com.ua/original-silicone-case-magsafe-iphone-12-mini-brown</url>
@@ -112483,29 +112455,6 @@
 <param name="Материал">Ткань</param>
 <param name="Цвет">Multi Color</param>
 </offer>
-<offer id="ts000080862000029502" available="true">
-<url>https://kmt5.com.ua/sumka-16-hoco-gt7-space-grey</url>
-<price>738.0</price>
-<vendorprice>441.0</vendorprice>
-<vendorpricedoll>9.8</vendorpricedoll>
-<rrcdoll>16.4</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>71284098</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDkvMTgv0KYtMDAwMDgwODYyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDEvZmEv0KYtMDAwMDgwODYyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjgvZTYv0KYtMDAwMDgwODYyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzcvNDQv0KYtMDAwMDgwODYyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWEvNTgv0KYtMDAwMDgwODYyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000080862</vendorCode>
-<code>786095</code>
-<name>Сумка 16'' Hoco GT7 — Space Grey</name>
-<description><![CDATA[1. Матеріал: п'ятишарова жаккардова тканина + мікрофібра 2. Процес пошиття: пошиття 3. Модель: 16 дюймів 4. Розмір: 383 * 275 * 40 мм; Вага: 347,7 г 5. Виготовлено з високощільного кришталевого флісу, оточене смужками подушки безпеки від падіння, оснащено помаранчевою м'якою ручкою, індивідуальною табличкою з іменем обладнання, передньою кишенею для зберігання.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Сумка</param>
-<param name="Бренд">Hoco</param>
-<param name="Материал">Ткань</param>
-</offer>
 <offer id="ts000081385000029827" available="true">
 <url>https://kmt5.com.ua/sumka-16-wiwu-cozy-classic-case-black</url>
 <price>1144.0</price>
@@ -123936,32 +123885,6 @@
 <param name="Зарядные устройства">Автомобильные</param>
 <param name="Сила тока и Мощность">120W</param>
 </offer>
-<offer id="ts000056771000013991" available="true">
-<url>https://kmt5.com.ua/hoco-uc204-car-charger-2-usb24a-black-black</url>
-<price>150.0</price>
-<vendorprice>86.0</vendorprice>
-<vendorpricedoll>1.9</vendorpricedoll>
-<rrcdoll>3.33</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>88941842</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzcvNmIv0KYtMDAwMDU2NzcxXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmEvZDIv0KYtMDAwMDU2NzcxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjAvNWQv0KYtMDAwMDU2NzcxXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTEvMDkv0KYtMDAwMDU2NzcxXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTQvMmUv0KYtMDAwMDU2NzcxXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWIvM2Qv0KYtMDAwMDU2NzcxXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000056771</vendorCode>
-<code>722451</code>
-<name>Car Charger | 12W | 2 USB — Hoco UC204 — Black</name>
-<description><![CDATA[Зарядное устройство Hoco — предназначенное для большого ассортимента устройств, смартфонов, планшетов, плееров, электронных книг и многих других девайсов, совместимых по характеристикам и параметрам. Стильный дизайн Качественные материалы Компактный размер С помощью данного зарядного вы сможете заряжать в машине: смартфон, планшет, электронную книгу, MP3 плеер, повербанк и другие устройства. Данное устройство имеет 2 USB порта. Зарядное устройство HOCO прошло сертификацию FCC&CE, RoHS и на 100% соответствует указанным параметрам. Используя его, Вы можете быть абсолютно уверены в его качестве и безопасности Ваших устройств. Максимальный выходной ток до 2.4А]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Колво USB портов">2 U</param>
-<param name="Зарядные устройства">Автомобильные</param>
-<param name="Сила тока и Мощность">2.4A</param>
-<param name="Цвет">Black</param>
-</offer>
 <offer id="ts000056729" available="true">
 <url>https://kmt5.com.ua/azu-hoco-z23-grand-style-2-usb-24a-white</url>
 <price>138.0</price>
@@ -128242,25 +128165,6 @@
 <quantity_in_stock>16</quantity_in_stock>
 <param name="Бренд">Wiwu</param>
 <param name="Виды аккумуляторов">Power Bank</param>
-</offer>
-<offer id="ts000083637000031622" available="true">
-<url>https://kmt5.com.ua/power-bank-20000-mah%C2%A0-225wpd20w%C2%A0-hoco-j146a-black</url>
-<price>917.0</price>
-<vendorprice>583.0</vendorprice>
-<vendorpricedoll>12.95</vendorpricedoll>
-<rrcdoll>20.4</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>50081230</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmEvMjYv0KYtMDAwMDgzNjM3XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2QvMWQv0KYtMDAwMDgzNjM3XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000083637</vendorCode>
-<code>790925</code>
-<name>Power Bank 20000 mAh | Hoco J146A with four cables — Black</name>
-<quantity_in_stock>14</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Виды аккумуляторов">Power Bank</param>
-<param name="Емкость аккумулятора">От 20000 mAh</param>
 </offer>
 <offer id="ts000083636000031621" available="true">
 <url>https://kmt5.com.ua/power-bank-20000-mah%C2%A0-225wpd20w%C2%A0-hoco-j72a-black</url>
@@ -139621,26 +139525,6 @@
 <code>790729</code>
 <name>LED Lamp E27 155 мм</name>
 <quantity_in_stock>4</quantity_in_stock>
-<param name="Бренд">Различные</param>
-</offer>
-<offer id="ts000033465" available="true">
-<url>https://kmt5.com.ua/lxs-001-usb-led-lamp</url>
-<price>38.0</price>
-<vendorprice>23.0</vendorprice>
-<vendorpricedoll>0.5</vendorpricedoll>
-<rrcdoll>0.83</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>76986779</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmIvMjQv0KYtMDAwMDMzNDY1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzQvMmYv0KYtMDAwMDMzNDY1XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTcvZWMv0KYtMDAwMDMzNDY1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWMvYTEv0KYtMDAwMDMzNDY1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000033465</vendorCode>
-<code>702460</code>
-<name>LED Lamp USB LXS-001</name>
-<description><![CDATA[Светодиодная USB подсветка LXS-001 Led лампа с изменяемым положением наконечника со встроенным светодиодом, за счет гибкой конструкции корпуса. Этот аксессуар сделает гораздо более комфортной вашу работу с ноутбуком в темное время суток, обеспечивая яркую подсветку клавиатуры портативного компьютера. Светодиодную USB подсветку можно использовать в качестве ночника или простого небольшого светильника. Работает практически от любого USB разъема, будь то зарядное устройство для телефона. power bank или USB разъем компьютера или ноутбука. За расход энергии Вы можете и не беспокоиться, Светодиодная USB подсветка LXS-001 имеет низкое энергопотребление. Тип фонарика: подсветка Светодиодный (LED) Материал корпуса: Прорезиненный пластик Источник питания: USB 5V Питание: DC 5V Мощность лампы: 1.2W LED диоды: 6 шт Размеры: 169*18*9мм]]></description>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Бренд">Различные</param>
 </offer>
 <offer id="ts000083154" available="true">
@@ -155424,28 +155308,6 @@
 <param name="Бренд">Hoco</param>
 <param name="Аудіо товари">Bluetooth гарнітура TWS</param>
 </offer>
-<offer id="ts000081134" available="true">
-<url>https://kmt5.com.ua/bluetooth-garntura-tws-hoco-ew85</url>
-<price>719.0</price>
-<vendorprice>387.0</vendorprice>
-<vendorpricedoll>8.6</vendorpricedoll>
-<rrcdoll>15.98</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54581499</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmUvYWMv0KYtMDAwMDgxMTM0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjcvMTgv0KYtMDAwMDgxMTM0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmIvMTIv0KYtMDAwMDgxMTM0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDMvODcv0KYtMDAwMDgxMTM0XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmMvMmMv0KYtMDAwMDgxMTM0XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000081134</vendorCode>
-<code>786426</code>
-<name>Bluetooth гарнітура TWS Hoco EW85</name>
-<description><![CDATA[1. Bluetooth 5.4; Чип: JL AC7003 2. Емкость аккумулятора: зарядный чехол 300 мАч, гарнитура 30 мАч 3. Время использования: 4 часа 4. Материал: ABS; Размер: 50 * 46 * 21,2 мм; Общий вес: 42 г 5. Поддержка функций шумоподавления и прозрачности, переключения ведущий-ведомый, переключения песен вверх и вниз, вызова Siri и других функций]]></description>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Аудіо товари">Bluetooth гарнітура TWS</param>
-</offer>
 <offer id="ts000075758000024545" available="true">
 <url>https://kmt5.com.ua/bluetooth-garntura-tws-pro-xs-white</url>
 <price>371.0</price>
@@ -157873,10 +157735,10 @@
 </offer>
 <offer id="ts000071079000019737" available="true">
 <url>https://kmt5.com.ua/navushniki-bluetooth-hoco-w23-brilliant-sound-black</url>
-<price>741.0</price>
-<vendorprice>392.0</vendorprice>
-<vendorpricedoll>8.7</vendorpricedoll>
-<rrcdoll>16.47</rrcdoll>
+<price>361.0</price>
+<vendorprice>347.0</vendorprice>
+<vendorpricedoll>7.7</vendorpricedoll>
+<rrcdoll>8.01</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>22933428</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTMvNDQv0KYtMDAwMDcxMDc5XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -157898,10 +157760,10 @@
 </offer>
 <offer id="ts000071079000019738" available="true">
 <url>https://kmt5.com.ua/w23-brilliant-sound-wireless-headphones-white</url>
-<price>741.0</price>
-<vendorprice>392.0</vendorprice>
-<vendorpricedoll>8.7</vendorpricedoll>
-<rrcdoll>16.47</rrcdoll>
+<price>361.0</price>
+<vendorprice>347.0</vendorprice>
+<vendorpricedoll>7.7</vendorpricedoll>
+<rrcdoll>8.01</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>22933428</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWMvYjQv0KYtMDAwMDcxMDc5XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
