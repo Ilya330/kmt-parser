@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-06 06:21">
+<yml_catalog date="2026-08-06 11:13">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -132718,6 +132718,28 @@
 <param name="Разъем подключения">Cable Aux</param>
 <param name="Длина кабеля">1m</param>
 </offer>
+<offer id="ts000081137000029567" available="true">
+<url>https://kmt5.com.ua/cable-aux-to-typec-1m-hoco-upa32b-typec-black</url>
+<price>134.0</price>
+<vendorprice>72.0</vendorprice>
+<vendorpricedoll>1.6</vendorpricedoll>
+<rrcdoll>2.98</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>72278466</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDMvOWQv0KYtMDAwMDgxMTM3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzUvMDUv0KYtMDAwMDgxMTM3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWUvMWYv0KYtMDAwMDgxMTM3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjUvNWQv0KYtMDAwMDgxMTM3XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Hoco</vendor>
+<vendorCode>Ц-000081137</vendorCode>
+<code>786432</code>
+<name>Cable Aux to Type-C (1m) — Hoco UPA32B Type-C  — Black</name>
+<description><![CDATA[1. Довжина: 1 м; Вага: 21,5 г 2. Матеріал: алюмінієвий сплав + нейлонове обплетення 3. Жила: 10/0,10BC OD3.8 4. Роз'єм: Type-C (тато) - 3,5 мм (тато) 5. Підтримує більшість моделей Huawei, Xiaomi, OnePlus та інших брендів, деякі моделі телефонів Samsung та iPad з інтерфейсом Type-C]]></description>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Разъем подключения">Cable Aux</param>
+<param name="Длина кабеля">1m</param>
+</offer>
 <offer id="ts000082124" available="true">
 <url>https://kmt5.com.ua/cable-aux-to-typec-1m-hoco-upa33b-typec</url>
 <price>166.0</price>
@@ -153231,25 +153253,6 @@
 <quantity_in_stock>42</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Аудіо товари">Bluetooth гарнітура TWS</param>
-</offer>
-<offer id="ts000083096000031064" available="true">
-<url>https://kmt5.com.ua/35mm-earphones-with-mic-hoco-m117-black</url>
-<price>106.0</price>
-<vendorprice>54.0</vendorprice>
-<vendorpricedoll>1.2</vendorpricedoll>
-<rrcdoll>2.35</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>72062147</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDYvMjAv0KYtMDAwMDgzMDk2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDQvMTcv0KYtMDAwMDgzMDk2XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000083096</vendorCode>
-<code>789842</code>
-<name>3.5mm Earphones With Mic — Hoco M117 — Black</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Аудіо товари">Навушники з мікрофоном 3.5mm</param>
-<param name="Интерфейс подключения">3.5mm</param>
 </offer>
 <offer id="ts000083096000031065" available="true">
 <url>https://kmt5.com.ua/35mm-earphones-with-mic-hoco-m117-white</url>
@@ -197201,25 +197204,6 @@
 <param name="Бренд">Различные</param>
 <param name="Украшения для Телефонов">Шнурки</param>
 </offer>
-<offer id="ts000082632000031257" available="true">
-<url>https://kmt5.com.ua/shnurok-na-sheyu-multicore-lavander</url>
-<price>213.0</price>
-<vendorprice>113.0</vendorprice>
-<vendorpricedoll>2.5</vendorpricedoll>
-<rrcdoll>4.72</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>16846687</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTAvNjUv0KYtMDAwMDgyNjMyXzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2QvNGEv0KYtMDAwMDgyNjMyXzE1LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTQvZmYv0KYtMDAwMDgyNjMyXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082632</vendorCode>
-<code>790184</code>
-<name>Шнурок на шею «Multicore» — Lavander</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Различные</param>
-<param name="Украшения для Телефонов">Шнурки</param>
-</offer>
 <offer id="ts000082632000031259" available="true">
 <url>https://kmt5.com.ua/shnurok-na-sheyu-multicore-light-green</url>
 <price>213.0</price>
@@ -206260,31 +206244,6 @@
 <vendorCode>Ц-000083742</vendorCode>
 <code>791071</code>
 <name>Игрушка Smart Dog XI  — Grey</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Различные</param>
-</offer>
-<offer id="ts000083742000031669" available="true">
-<url>https://kmt5.com.ua/igrushka-smart-dog-xi-pink</url>
-<price>2662.0</price>
-<vendorprice>1327.0</vendorprice>
-<vendorpricedoll>29.5</vendorpricedoll>
-<rrcdoll>59.2</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>75087609</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjYvYmIv0KYtMDAwMDgzNzQyXzEyLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2YvZjEv0KYtMDAwMDgzNzQyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2IvMTgv0KYtMDAwMDgzNzQyXzE4LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWUvZDcv0KYtMDAwMDgzNzQyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjcvNTYv0KYtMDAwMDgzNzQyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTAvZDkv0KYtMDAwMDgzNzQyXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGEvNWUv0KYtMDAwMDgzNzQyXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjkvZTYv0KYtMDAwMDgzNzQyXzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWUvYTgv0KYtMDAwMDgzNzQyXzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWUvMWUv0KYtMDAwMDgzNzQyXzEzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000083742</vendorCode>
-<code>791072</code>
-<name>Игрушка Smart Dog XI  — Pink</name>
 <quantity_in_stock>1</quantity_in_stock>
 <param name="Бренд">Различные</param>
 </offer>
