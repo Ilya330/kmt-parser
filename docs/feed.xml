@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-07 05:47">
+<yml_catalog date="2026-08-07 09:49">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -26822,27 +26822,6 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 13 Pro 6.1&quot;</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Полиуретан</param>
-</offer>
-<offer id="ts000074008000023924" available="true">
-<url>https://kmt5.com.ua/casetify-crocodile-tpu-case-iphone-13-black</url>
-<price>60.0</price>
-<vendorprice>36.0</vendorprice>
-<vendorpricedoll>0.8</vendorpricedoll>
-<rrcdoll>1.33</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>3890985</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGYvODAv0KYtMDAwMDc0MDA4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjYvNDkv0KYtMDAwMDc0MDA4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000074008</vendorCode>
-<code>768793</code>
-<name>Casetify Crocodile TPU Case iPhone 13 — Black</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 13 6.1&quot;</param>
 <param name="Бренд">Различные</param>
 <param name="Материал">Полиуретан</param>
 </offer>
@@ -61616,27 +61595,6 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Полиуретан</param>
-</offer>
-<offer id="ts000082214000030302" available="true">
-<url>https://kmt5.com.ua/original-silicone-case-full-size-iphone-17-khaki-48</url>
-<price>155.0</price>
-<vendorprice>88.0</vendorprice>
-<vendorpricedoll>1.95</vendorpricedoll>
-<rrcdoll>3.44</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>28366547</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjkvNDMv0KYtMDAwMDgyMjE0XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTAvNDYv0KYtMDAwMDgyMjE0XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000082214</vendorCode>
-<code>788217</code>
-<name>Original Silicone Case Full Size iPhone 17 — Khaki (48)</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17</param>
 <param name="Бренд">Apple</param>
 <param name="Материал">Полиуретан</param>
 </offer>
@@ -133857,25 +133815,6 @@
 <param name="Разъем подключения">Cable USB to Lightning</param>
 <param name="Длина кабеля">1m</param>
 </offer>
-<offer id="ts000080708000029372" available="true">
-<url>https://kmt5.com.ua/kabel-lightning-24a-1m-hoco-x113-gray</url>
-<price>107.0</price>
-<vendorprice>54.0</vendorprice>
-<vendorpricedoll>1.2</vendorpricedoll>
-<rrcdoll>2.37</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>82989936</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmIvMDEv0KYtMDAwMDgwNzA4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmIvY2Qv0KYtMDAwMDgwNzA4XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000080708</vendorCode>
-<code>785819</code>
-<name>Кабель Lightning 2.4A (1m) Hoco X113 — Gray</name>
-<quantity_in_stock>3</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Разъем подключения">Cable USB to Lightning</param>
-<param name="Длина кабеля">1m</param>
-</offer>
 <offer id="ts000081775" available="true">
 <url>https://kmt5.com.ua/kabel-lightning-24a-1m-hoco-x118</url>
 <price>141.0</price>
@@ -134027,25 +133966,6 @@
 <code>785189</code>
 <name>Кабель Lightning 2.4A (1m) Hoco X88 — White</name>
 <quantity_in_stock>981</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Разъем подключения">Cable USB to Lightning</param>
-<param name="Длина кабеля">1m</param>
-</offer>
-<offer id="ts000080589000029223" available="true">
-<url>https://kmt5.com.ua/kabel-lightning-24a-1m-hoco-x96-black</url>
-<price>54.0</price>
-<vendorprice>27.0</vendorprice>
-<vendorpricedoll>0.6</vendorpricedoll>
-<rrcdoll>1.2</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>82989936</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2UvNmMv0KYtMDAwMDgwNTg5XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDgvYjkv0KYtMDAwMDgwNTg5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000080589</vendorCode>
-<code>785182</code>
-<name>Кабель Lightning 2.4A (1m) Hoco X96 — Black</name>
-<quantity_in_stock>9</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Разъем подключения">Cable USB to Lightning</param>
 <param name="Длина кабеля">1m</param>
@@ -155111,30 +155031,6 @@
 <vendorCode>Ц-000071050</vendorCode>
 <code>749411</code>
 <name>Караоке - микрофон Hoco BK5 Cantando __ — Blue</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Аудіо товари">Bluetooth микрофон</param>
-</offer>
-<offer id="ts000071050000019690" available="true">
-<url>https://kmt5.com.ua/karaoke-mikrofon-hoco-bk5-cantando-white</url>
-<price>1070.0</price>
-<vendorprice>543.0</vendorprice>
-<vendorpricedoll>12.1</vendorpricedoll>
-<rrcdoll>23.85</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>89410283</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODIvMTIv0KYtMDAwMDcxMDUwXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTAvODgv0KYtMDAwMDcxMDUwXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjkvZmIv0KYtMDAwMDcxMDUwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzIvYjAv0KYtMDAwMDcxMDUwXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDcvZTIv0KYtMDAwMDcxMDUwXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTgvMTAv0KYtMDAwMDcxMDUwXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjMvZWQv0KYtMDAwMDcxMDUwXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmEvYjQv0KYtMDAwMDcxMDUwXzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000071050</vendorCode>
-<code>749410</code>
-<name>Караоке - микрофон Hoco BK5 Cantando __ — White</name>
 <quantity_in_stock>1</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Аудіо товари">Bluetooth микрофон</param>
@@ -195280,32 +195176,6 @@
 <param name="Материал">Пластик</param>
 <param name="Украшения для Телефонов">Защита Кабеля</param>
 <param name="Цвет">Mix Color</param>
-</offer>
-<offer id="ts000082630000031202" available="true">
-<url>https://kmt5.com.ua/shnurok-na-sheyu-color-cord-blue</url>
-<price>204.0</price>
-<vendorprice>108.0</vendorprice>
-<vendorpricedoll>2.4</vendorpricedoll>
-<rrcdoll>4.54</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>16846687</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGQvZGEv0KYtMDAwMDgyNjMwXzE2LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmQvMzYv0KYtMDAwMDgyNjMwXzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTIvMWEv0KYtMDAwMDgyNjMwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjMvMjQv0KYtMDAwMDgyNjMwXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDgvMDUv0KYtMDAwMDgyNjMwXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDEvYzcv0KYtMDAwMDgyNjMwXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGUvMGYv0KYtMDAwMDgyNjMwXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmIvZmQv0KYtMDAwMDgyNjMwXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjMvNDEv0KYtMDAwMDgyNjMwXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWIvZDUv0KYtMDAwMDgyNjMwXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082630</vendorCode>
-<code>790129</code>
-<name>Шнурок на шею «Color Cord» — Blue</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Различные</param>
-<param name="Украшения для Телефонов">Шнурки</param>
 </offer>
 <offer id="ts000082630000031204" available="true">
 <url>https://kmt5.com.ua/shnurok-na-sheyu-color-cord-neon-yellow</url>
