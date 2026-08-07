@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-07 09:49">
+<yml_catalog date="2026-08-07 15:43">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -276,8 +276,6 @@
 <category id="99089166" parentId="25309902">Підставка для телефона та планшета</category>
 <category id="50431447" parentId="25309902">Тримачі для планшетів</category>
 <category id="49527981">Смарт-годинники та аксесуари</category>
-<category id="50820270" parentId="49527981">Браслети (бренд)</category>
-<category id="41276343" parentId="50820270">Wiwu</category>
 <category id="6043889" parentId="49527981">Браслети (годинник)</category>
 <category id="56448677" parentId="6043889">Apple watch 38 mm / 40 mm / 41 mm</category>
 <category id="96847083" parentId="6043889">Apple watch 42 mm / 44 mm / 45 mm</category>
@@ -291,7 +289,6 @@
 <category id="66478009" parentId="6043889">Ремінець універсальний 20 mm</category>
 <category id="19143218" parentId="6043889">Ремінець універсальний 22 mm</category>
 <category id="16958437" parentId="49527981">Браслети (стиль)</category>
-<category id="27423202" parentId="16958437">Nylon Series</category>
 <category id="39592350" parentId="16958437">Silicone Sport Series</category>
 <category id="26810334" parentId="16958437">Steel Series</category>
 <category id="96903966" parentId="49527981">Зарядні пристрої</category>
@@ -12994,26 +12991,6 @@
 <param name="Бренд">Различные</param>
 <param name="Аудіо товари">Чехол для Airpods</param>
 </offer>
-<offer id="ts000075717000024490" available="true">
-<url>https://kmt5.com.ua/airpods-3-case-microfiber-gray-12</url>
-<price>76.0</price>
-<vendorprice>41.0</vendorprice>
-<vendorpricedoll>0.9</vendorpricedoll>
-<rrcdoll>1.68</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>72832441</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2UvMjQv0KYtMDAwMDc1NzE3XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2YvOGYv0KYtMDAwMDc1NzE3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000075717</vendorCode>
-<code>771061</code>
-<name>Airpods 3 Case Microfiber — Lavender Gray (12)</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Airpods 2</param>
-<param name="Бренд">Различные</param>
-<param name="Аудіо товари">Чехол для Airpods</param>
-</offer>
 <offer id="ts000075717000026285" available="true">
 <url>https://kmt5.com.ua/airpods-3-case-microfiber-light-green</url>
 <price>76.0</price>
@@ -13209,26 +13186,6 @@
 <code>771057</code>
 <name>Airpods 3 Case Microfiber — Purple (6)</name>
 <quantity_in_stock>6</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Airpods 2</param>
-<param name="Бренд">Различные</param>
-<param name="Аудіо товари">Чехол для Airpods</param>
-</offer>
-<offer id="ts000075717000026273" available="true">
-<url>https://kmt5.com.ua/airpods-3-case-microfiber-red</url>
-<price>76.0</price>
-<vendorprice>41.0</vendorprice>
-<vendorpricedoll>0.9</vendorpricedoll>
-<rrcdoll>1.68</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>72832441</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDkvZjQv0KYtMDAwMDc1NzE3XzIxLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2YvOGYv0KYtMDAwMDc1NzE3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000075717</vendorCode>
-<code>776846</code>
-<name>Airpods 3 Case Microfiber — Red</name>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Airpods 2</param>
 <param name="Бренд">Различные</param>
@@ -17979,31 +17936,6 @@
 <name>Airpods Pro Case Emoji Series — Avocado Girl</name>
 <description><![CDATA[Милые силиконовые чехлы для ваших AirPods Pro защитят ваши наушники и будут радовать вас каждый день. Подойдут как парням,девушкам так и детям.]]></description>
 <quantity_in_stock>5</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Airpods Pro</param>
-<param name="Бренд">Различные</param>
-<param name="Аудіо товари">Чехол для Airpods</param>
-</offer>
-<offer id="ts000072285000027502" available="true">
-<url>https://kmt5.com.ua/airpods-pro-case-emoji-series-baby-yoda</url>
-<price>83.0</price>
-<vendorprice>44.0</vendorprice>
-<vendorpricedoll>0.98</vendorpricedoll>
-<rrcdoll>1.83</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>90559290</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWIvZWIv0KYtMDAwMDcyMjg1XzMzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzIvOTUv0KYtMDAwMDcyMjg1XzIwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmUvMDUv0KYtMDAwMDcyMjg1XzIxLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjkvODMv0KYtMDAwMDcyMjg1XzIyLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTAvNzAv0KYtMDAwMDcyMjg1XzIzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDMvOTQv0KYtMDAwMDcyMjg1XzI0LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000072285</vendorCode>
-<code>779654</code>
-<name>Airpods Pro Case Emoji Series — Baby Yoda</name>
-<description><![CDATA[Милые силиконовые чехлы для ваших AirPods Pro защитят ваши наушники и будут радовать вас каждый день. Подойдут как парням,девушкам так и детям.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Airpods Pro</param>
 <param name="Бренд">Различные</param>
@@ -48978,28 +48910,6 @@
 <param name="Материал">PU кожа</param>
 <param name="Цвет">Mix Color</param>
 </offer>
-<offer id="ts000077677000026875" available="true">
-<url>https://kmt5.com.ua/leather-case-with-magsafe-iphone-15-pro-pacific-blue</url>
-<price>658.0</price>
-<vendorprice>373.0</vendorprice>
-<vendorpricedoll>8.3</vendorpricedoll>
-<rrcdoll>14.66</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>86411438</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTIvYTQv0KYtMDAwMDc3Njc3XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWYvZjUv0KYtMDAwMDc3Njc3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000077677</vendorCode>
-<code>778102</code>
-<name>Leather Case With Magsafe iPhone 15 Pro — Pacific Blue</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 15 Pro</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">PU кожа</param>
-<param name="Цвет">Mix Color</param>
-</offer>
 <offer id="ts000077677000026884" available="true">
 <url>https://kmt5.com.ua/leather-case-with-magsafe-iphone-15-pro-taupe</url>
 <price>658.0</price>
@@ -68062,30 +67972,6 @@
 <param name="Бренд">Различные</param>
 <param name="Материал">Силикон</param>
 </offer>
-<offer id="ts000082513000030540" available="true">
-<url>https://kmt5.com.ua/original-techwoven-case-iphone-17-pro-max-black</url>
-<price>784.0</price>
-<vendorprice>445.0</vendorprice>
-<vendorpricedoll>9.9</vendorpricedoll>
-<rrcdoll>17.48</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>28366547</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWUvNTQv0KYtMDAwMDgyNTEzXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDUvNjUv0KYtMDAwMDgyNTEzXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTEvMmMv0KYtMDAwMDgyNTEzXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmEvNWIv0KYtMDAwMDgyNTEzXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjUvZmUv0KYtMDAwMDgyNTEzXzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000082513</vendorCode>
-<code>788747</code>
-<name>Original TechWoven Case iPhone 17 Pro Max — Black</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro Max</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Полиуретан</param>
-</offer>
 <offer id="ts000082512000030535" available="true">
 <url>https://kmt5.com.ua/original-techwoven-case-iphone-17-pro-black</url>
 <price>784.0</price>
@@ -68176,30 +68062,6 @@
 <code>788729</code>
 <name>Original TechWoven Case iPhone 17 — Black</name>
 <quantity_in_stock>7</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Полиуретан</param>
-</offer>
-<offer id="ts000082510000030527" available="true">
-<url>https://kmt5.com.ua/original-techwoven-case-iphone-17-blue</url>
-<price>784.0</price>
-<vendorprice>445.0</vendorprice>
-<vendorpricedoll>9.9</vendorpricedoll>
-<rrcdoll>17.48</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>28366547</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWEvYzYv0KYtMDAwMDgyNTEwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTcvZWYv0KYtMDAwMDgyNTEwXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2QvODQv0KYtMDAwMDgyNTEwXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjUvZDQv0KYtMDAwMDgyNTEwXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODEvZGIv0KYtMDAwMDgyNTEwXzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000082510</vendorCode>
-<code>788731</code>
-<name>Original TechWoven Case iPhone 17 — Blue</name>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17</param>
@@ -82798,28 +82660,6 @@
 <param name="Бренд">Apple</param>
 <param name="Материал">Силикон</param>
 </offer>
-<offer id="ts000073705000023564" available="true">
-<url>https://kmt5.com.ua/silicone-case-with-magsafe-iphone-14-pro-elderberry</url>
-<price>456.0</price>
-<vendorprice>274.0</vendorprice>
-<vendorpricedoll>6.1</vendorpricedoll>
-<rrcdoll>10.15</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>99363376</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTUvYjEv0KYtMDAwMDczNzA1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2UvN2Yv0KYtMDAwMDczNzA1XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000073705</vendorCode>
-<code>756232</code>
-<name>Silicone Case with MagSafe iPhone 14 Pro — Elderberry</name>
-<description><![CDATA[Чехол Apple Silicone Case это лучший формат защиты вашего нового iPhone. Он идеально обойдет его формы и кнопки, и не придаст габаритности устройству, а также защитит его от царапин и падений. Внутренняя часть чехла имеет отделку из микрофибры, которая эффективно защищает корпус iPhone от царапин, а внешняя часть покрыта силиконовым материалом, который очень приятный на ощупь и не скользит в руке, что позволяет уверенно держать телефон в руке во время использования.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 14 Pro 6.1&quot;</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Силикон</param>
-</offer>
 <offer id="ts000073705000023560" available="true">
 <url>https://kmt5.com.ua/silicone-case-with-magsafe-iphone-14-pro-succulent</url>
 <price>456.0</price>
@@ -83895,28 +83735,6 @@
 <name>Silicone Case with MagSafe — iPhone 14 Pro Max — Red</name>
 <description><![CDATA[Чехол Apple Silicone Case это лучший формат защиты вашего нового iPhone. Он идеально обойдет его формы и кнопки, и не придаст габаритности устройству, а также защитит его от царапин и падений. Внутренняя часть чехла имеет отделку из микрофибры, которая эффективно защищает корпус iPhone от царапин, а внешняя часть покрыта силиконовым материалом, который очень приятный на ощупь и не скользит в руке, что позволяет уверенно держать телефон в руке во время использования.]]></description>
 <quantity_in_stock>2</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 14 Pro Max 6.7&quot;</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Силикон</param>
-</offer>
-<offer id="ts000073706000023569" available="true">
-<url>https://kmt5.com.ua/silicone-case-with-magsafe-iphone-14-pro-max-storm-blue</url>
-<price>456.0</price>
-<vendorprice>274.0</vendorprice>
-<vendorpricedoll>6.1</vendorpricedoll>
-<rrcdoll>10.15</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>99363376</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjQvZjUv0KYtMDAwMDczNzA2XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjgvZmEv0KYtMDAwMDczNzA2XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000073706</vendorCode>
-<code>756238</code>
-<name>Silicone Case with MagSafe — iPhone 14 Pro Max — Storm Blue</name>
-<description><![CDATA[Чехол Apple Silicone Case это лучший формат защиты вашего нового iPhone. Он идеально обойдет его формы и кнопки, и не придаст габаритности устройству, а также защитит его от царапин и падений. Внутренняя часть чехла имеет отделку из микрофибры, которая эффективно защищает корпус iPhone от царапин, а внешняя часть покрыта силиконовым материалом, который очень приятный на ощупь и не скользит в руке, что позволяет уверенно держать телефон в руке во время использования.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 Pro Max 6.7&quot;</param>
@@ -111214,26 +111032,6 @@
 <param name="Материал">Ткань</param>
 <param name="Цвет">Multi Color</param>
 </offer>
-<offer id="ts000073621000023492" available="true">
-<url>https://kmt5.com.ua/sumka-14-wiwu-vivi-laptop-handbag-gray</url>
-<price>632.0</price>
-<vendorprice>382.0</vendorprice>
-<vendorpricedoll>8.5</vendorpricedoll>
-<rrcdoll>14.09</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>71284098</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDkvOTIv0KYtMDAwMDczNjIxXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGEvZWIv0KYtMDAwMDczNjIxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Wiwu</vendor>
-<vendorCode>Ц-000073621</vendorCode>
-<code>756077</code>
-<name>Сумка 14'' WiWU Vivi Laptop Handbag — Gray</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Сумка</param>
-<param name="Бренд">Wiwu</param>
-<param name="Материал">Ткань</param>
-<param name="Цвет">Multi Color</param>
-</offer>
 <offer id="ts000082524000030549" available="true">
 <url>https://kmt5.com.ua/sumka-14-wiwu-skin-zero-sleeve-black</url>
 <price>551.0</price>
@@ -117584,29 +117382,6 @@
 <quantity_in_stock>1</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro Max</param>
-<param name="Бренд">Remax</param>
-<param name="Виды защиты экрана">Захисне скло</param>
-<param name="Вид покрытия">Прозрачное стекло</param>
-<param name="Толщина">0.3 mm</param>
-<param name="Цвет">Remax Privacy GL-27</param>
-</offer>
-<offer id="ts000079926" available="true">
-<url>https://kmt5.com.ua/zahisne-sklo-remax-privacy-tempered-glass-gl27-iphone-16-plus-67</url>
-<price>220.0</price>
-<vendorprice>117.0</vendorprice>
-<vendorpricedoll>2.6</vendorpricedoll>
-<rrcdoll>4.9</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>58197289</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmQvMGYv0KYtMDAwMDc5OTI2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTMvNGUv0KYtMDAwMDc5OTI2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Remax</vendor>
-<vendorCode>Ц-000079926</vendorCode>
-<code>781378</code>
-<name>Захисне скло Remax Privacy Tempered Glass GL-27 iPhone 16 Plus 6.7&quot;</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 16 Plus</param>
 <param name="Бренд">Remax</param>
 <param name="Виды защиты экрана">Захисне скло</param>
 <param name="Вид покрытия">Прозрачное стекло</param>
@@ -124522,30 +124297,6 @@
 <name>Home Charger 65W 2PD 1U Borofone BN32</name>
 <quantity_in_stock>194</quantity_in_stock>
 <param name="Бренд">Borofone</param>
-<param name="Колво USB портов">1 USB | 2 Type - C</param>
-<param name="Зарядные устройства">Home Chargers</param>
-<param name="Сила тока и Мощность">65W</param>
-</offer>
-<offer id="ts000082689" available="true">
-<url>https://kmt5.com.ua/home-charger-65w-gan-2pd-qc-30-hoco-n75</url>
-<price>737.0</price>
-<vendorprice>382.0</vendorprice>
-<vendorpricedoll>8.5</vendorpricedoll>
-<rrcdoll>16.43</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>56676196</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTIvYjMv0KYtMDAwMDgyNjg5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjcvYTcv0KYtMDAwMDgyNjg5XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWIvM2Ev0KYtMDAwMDgyNjg5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWMvMjQv0KYtMDAwMDgyNjg5XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjMvMDMv0KYtMDAwMDgyNjg5XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000082689</vendorCode>
-<code>789027</code>
-<name>Home Charger 65W GaN 2PD QC 3.0 Hoco N75</name>
-<description><![CDATA["1. Матеріал: вогнестійкий ПК¶2. Вихід: USB-C1: 65 Вт (PD/QC/FCC/AFC); USB-C2: 20 Вт (PD/QC/FCP/AFC); USB-A: 18 Вт (QC/FCP/AFC);¶USB-C1+USB-C2: 65 Вт; USB-C1+USB-A: 63 Вт;¶USB-C2+USB-A: 5 В/3 А; USB-C1+(USB-C2+USB-A): 45 Вт+15 Вт¶3. Вилка ЄС¶4. Розмір: 86 * 47 * 30,6 мм; Вага: 116 г"]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Hoco</param>
 <param name="Колво USB портов">1 USB | 2 Type - C</param>
 <param name="Зарядные устройства">Home Chargers</param>
 <param name="Сила тока и Мощность">65W</param>
@@ -133910,28 +133661,6 @@
 <param name="Разъем подключения">Cable USB to Lightning</param>
 <param name="Длина кабеля">1m</param>
 </offer>
-<offer id="ts000080571000029211" available="true">
-<url>https://kmt5.com.ua/kabel-lightning-24a-1m-hoco-x86-black</url>
-<price>112.0</price>
-<vendorprice>61.0</vendorprice>
-<vendorpricedoll>1.35</vendorpricedoll>
-<rrcdoll>2.49</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>82989936</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTQvYmMv0KYtMDAwMDgwNTcxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTYvZjMv0KYtMDAwMDgwNTcxXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWEvMzQv0KYtMDAwMDgwNTcxXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmMvM2Yv0KYtMDAwMDgwNTcxXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000080571</vendorCode>
-<code>785152</code>
-<name>Кабель Lightning 2.4A (1m) Hoco X86 — Black</name>
-<description><![CDATA[Підходить до всіх пристроїв, мобільним телефонам, сматрфонам і планшетів, Power Bank які використовують для з'єднання порт USB. Кабель володіє непоганими показниками швидкості передачі даних і має хороший ресурс роботи. Кабель володіє хорошими показниками швидкості передачі даних і має хороший ресурс роботи. Характеристики: Максимальна сила струму: 2,4 A; Довжина кабелю: 1 метр; Кольори: Білий; Підходить для синхронізації і зарядки; Порт підключення: прямий; Порти: USB - iPhone (Lightning).]]></description>
-<quantity_in_stock>12</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Разъем подключения">Cable USB to Lightning</param>
-<param name="Длина кабеля">1m</param>
-</offer>
 <offer id="ts000080591000029227" available="true">
 <url>https://kmt5.com.ua/kabel-lightning-24a-1m-hoco-x88-black</url>
 <price>47.0</price>
@@ -137543,66 +137272,6 @@
 <quantity_in_stock>256</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 </offer>
-<offer id="ts000083207" available="true">
-<url>https://kmt5.com.ua/battery-15v-hoco-ja2b-aaa-4pcs</url>
-<price>55.0</price>
-<vendorprice>35.0</vendorprice>
-<vendorpricedoll>0.78</vendorpricedoll>
-<rrcdoll>1.22</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>35220530</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2YvYTkv0KYtMDAwMDgzMjA3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDMvNjAv0KYtMDAwMDgzMjA3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTkvMDQv0KYtMDAwMDgzMjA3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWMvY2Mv0KYtMDAwMDgzMjA3XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjgvNmMv0KYtMDAwMDgzMjA3XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000083207</vendorCode>
-<code>790039</code>
-<name>Battery 1.5V — Hoco JA2B AAA (4PCS)</name>
-<quantity_in_stock>24</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-</offer>
-<offer id="ts000083205" available="true">
-<url>https://kmt5.com.ua/battery-15v-hoco-ja5-2pcs</url>
-<price>197.0</price>
-<vendorprice>126.0</vendorprice>
-<vendorpricedoll>2.8</vendorpricedoll>
-<rrcdoll>4.38</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>35220530</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGQvZTgv0KYtMDAwMDgzMjA1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzkvZTcv0KYtMDAwMDgzMjA1XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjYvMDgv0KYtMDAwMDgzMjA1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzkvNTQv0KYtMDAwMDgzMjA1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000083205</vendorCode>
-<code>790037</code>
-<name>Battery 1.5V — Hoco JA5 (2PCS)</name>
-<description><![CDATA["1. Вихідна напруга: 1,5 В 2. Розмір: 34,2 * 61,5 мм (діаметр * висота); Вага: 140 г 3. Спосіб упаковки: картон + вакуумне формування 4. Використання: газова плита, водонагрівач, електронна клавіатура, ліхтарик, радіо та інше обладнання"]]></description>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-</offer>
-<offer id="ts000082546" available="true">
-<url>https://kmt5.com.ua/battery-1200mah-hoco-ja4-2pcs</url>
-<price>215.0</price>
-<vendorprice>140.0</vendorprice>
-<vendorpricedoll>3.1</vendorpricedoll>
-<rrcdoll>4.78</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>50081230</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzYvM2Ev0KYtMDAwMDgyNTQ2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDMvNjYv0KYtMDAwMDgyNTQ2XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzkvZDkv0KYtMDAwMDgyNTQ2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzYvNmUv0KYtMDAwMDgyNTQ2XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000082546</vendorCode>
-<code>788800</code>
-<name>Battery 1200mAh — Hoco JA4 (2PCS)</name>
-<description><![CDATA[Набір акумуляторів HOCO JA4 (2 шт. типу AAА) HOCO JA4 — це сучасні перезаряджувані літій-іонні акумулятори формату AAА, створені для стабільного та довговічного живлення ваших пристроїв. Завдяки вбудованому роз’єму Type-C, їх можна заряджати без додаткових зарядних пристроїв — просто підключіть кабель напряму до батареї. Переваги: Зручне заряджання через Type-Cбез потреби в спеціальному зарядному пристрої Екологічне рішення — багаторазове використання Висока енергоефективність і стабільна робота при постійних навантаженнях Компактні та легкі — ідеальні для портативних гаджетів Характеристики: Бренд: HOCO Модель: JA4 Ємність: 320 mAh / 3,7 V / 1200 mWh Заряджання: Type-C (5 V / 250 mA) Час заряджання: приблизно 40 хв Тривалість розряджання: до 60 хвилин безперервної роботи Комплектація: 2 батареї в упаковці + зарядні дроти Розмір: 10.1 × 44.5 мм (діаметр × висота) Вага: 8 г]]></description>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-</offer>
 <offer id="ts000083203" available="true">
 <url>https://kmt5.com.ua/battery-3v-cr2025-hoco-ja7-5pcs</url>
 <price>48.0</price>
@@ -138621,6 +138290,53 @@
 <code>787223</code>
 <name>Аккумуляторные батарейки с Type-C разьемом Lithium-ion 3400mAh   AA-5 (2шт)</name>
 <quantity_in_stock>20</quantity_in_stock>
+<param name="Бренд">Различные</param>
+</offer>
+<offer id="ts000081508" available="true">
+<url>https://kmt5.com.ua/akkumulyatornyie-batareyki-s-typec-razemom-lithiumion-800mah-aaa7-2sht</url>
+<price>205.0</price>
+<vendorprice>138.0</vendorprice>
+<vendorpricedoll>3.07</vendorpricedoll>
+<rrcdoll>4.56</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>35220530</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTcvNDUv0KYtMDAwMDgxNTA4XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjEvNzQv0KYtMDAwMDgxNTA4XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTEvZmEv0KYtMDAwMDgxNTA4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTAvMzAv0KYtMDAwMDgxNTA4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDQvM2Ev0KYtMDAwMDgxNTA4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjgvM2Uv0KYtMDAwMDgxNTA4XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2IvZjYv0KYtMDAwMDgxNTA4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000081508</vendorCode>
+<code>787222</code>
+<name>Аккумуляторные батарейки с Type-C разьемом Lithium-ion 800mAh   AAA-7 (2шт)</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Различные</param>
+</offer>
+<offer id="ts000073494" available="true">
+<url>https://kmt5.com.ua/fonarik-101</url>
+<price>126.0</price>
+<vendorprice>68.0</vendorprice>
+<vendorpricedoll>1.5</vendorpricedoll>
+<rrcdoll>2.8</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>70008598</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODMvNmYv0KYtMDAwMDczNDk0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTEvM2Mv0KYtMDAwMDczNDk0XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzkvNzkv0KYtMDAwMDczNDk0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzAvNjEv0KYtMDAwMDczNDk0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDMvNTEv0KYtMDAwMDczNDk0XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTgvZWMv0KYtMDAwMDczNDk0XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWYvZTcv0KYtMDAwMDczNDk0XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzUvMzkv0KYtMDAwMDczNDk0XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTMvN2Qv0KYtMDAwMDczNDk0XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000073494</vendorCode>
+<code>755762</code>
+<name>Аккумуляторный LED налобный фонарик High Power Headlamp</name>
+<description><![CDATA[Функции: Тип фонаря: налобный Производитель: CATA Модель: CT-9120 Количество диодов: 2 Тип светодиода: T6/Cob Количество режимов: 2 (100%/Сob 100%) Яркость: 200 люмен Спецрежимы: sensor освещенности/движения Мощность: 3W Дальность: 50 м Время работы от батареи: 8-10 часа Время зарядки: 4-6 часов Диаметр головы мм: 40 x 35 пластик Герметичность: IP44 Тип аккумулятора: Li-ion встроен Емкость аккумулятора мА-ч: 14500 / 3.7V Метод зарядки: USB micro кабель Материал корпуса: пластик + пластиковая оптическая линза Цвет корпуса: черный Вес: 71 г Комплектация: фонарь, USB micro кабель.]]></description>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Бренд">Различные</param>
 </offer>
 <offer id="ts000073497" available="true">
@@ -140302,45 +140018,6 @@
 <code>786194</code>
 <name>Фонарик аккумуляторный 2 в 1 ручной + налобный с USB — SY-2209</name>
 <quantity_in_stock>3</quantity_in_stock>
-<param name="Бренд">Различные</param>
-</offer>
-<offer id="ts000073489" available="true">
-<url>https://kmt5.com.ua/lhtarik-f04-cob-rechargeable-keychain-light-micro-usb</url>
-<price>105.0</price>
-<vendorprice>61.0</vendorprice>
-<vendorpricedoll>1.35</vendorpricedoll>
-<rrcdoll>2.32</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>70008598</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTYvZWEv0KYtMDAwMDczNDg5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjIvMTAv0KYtMDAwMDczNDg5XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzkvOGUv0KYtMDAwMDczNDg5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTcvNGUv0KYtMDAwMDczNDg5XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000073489</vendorCode>
-<code>755757</code>
-<name>Фонарик- брелок — F04 COB rechargeable keychain Light Micro USB</name>
-<quantity_in_stock>3</quantity_in_stock>
-<param name="Бренд">Различные</param>
-</offer>
-<offer id="ts000078429" available="true">
-<url>https://kmt5.com.ua/lhtarik-multifunctional-waterproof-lamp</url>
-<price>183.0</price>
-<vendorprice>99.0</vendorprice>
-<vendorpricedoll>2.2</vendorpricedoll>
-<rrcdoll>4.08</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>70008598</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzgvNzAv0KYtMDAwMDc4NDI5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWIvNmIv0KYtMDAwMDc4NDI5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTEvYWYv0KYtMDAwMDc4NDI5XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2IvYTEv0KYtMDAwMDc4NDI5XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000078429</vendorCode>
-<code>777634</code>
-<name>Фонарик-зажигалка — в водонепроницаемом корпусе 3 режима света 100% 50% быстрое мерцание</name>
-<description><![CDATA[Характерное отличие именно этой модели зажигалки в том, что, пока зажимается кнопка пока и идёт разряд. Отжали кнопку - прекратился разряд. Это даёт больше экономить заряд аккумулятора. Электронной зажигалке абсолютно не страшен ни ветер, ни мороз! Электронная зажигалка не требует заправки газом и замены кремня или пьезо! Всё что нужно поставить на зарядку. LED фонарик с зажигалкой имеет водонепроницаемость IPX64 и не пострадает от брызг воды, если вы находитесь на улице в дождливую погоду На лицевой части зажигалки расположен фонарик мощностью 3 Вт Включение фонаря происходит отдельной кнопкой расположенной на торцевой части зажигалки. Режимы: 100%, 50%, быстрое мерцание Характеристики: Тип зажигалки: электронная с пружиной накаливания Мощьность фонарика: 3 Вт Режими роботы фонарика: 100%, 50%, быстрое мерцание Источник питания: аккумулятор Время зарчдки аккумулятора: 4 часа Время работы фонарика от аккумулятора: 4-12 часов Способ зарядки: Type C – USB Водонепроницаемость: IPX64 Размеры: 75х49х17 Вес: 56 г]]></description>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Бренд">Различные</param>
 </offer>
 <offer id="ts000080918" available="true">
@@ -142340,10 +142017,10 @@
 </offer>
 <offer id="ts000083482" available="true">
 <url>https://kmt5.com.ua/monopod-tripod-173m-jmary-kp2209</url>
-<price>902.0</price>
-<vendorprice>570.0</vendorprice>
-<vendorpricedoll>12.7</vendorpricedoll>
-<rrcdoll>20.09</rrcdoll>
+<price>998.0</price>
+<vendorprice>624.0</vendorprice>
+<vendorpricedoll>13.9</vendorpricedoll>
+<rrcdoll>22.24</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>67670974</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDQvZTgv0KYtMDAwMDgzNDgyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -143040,10 +142717,10 @@
 </offer>
 <offer id="ts000079222" available="true">
 <url>https://kmt5.com.ua/monopod-tripod-fsv22</url>
-<price>691.0</price>
-<vendorprice>427.0</vendorprice>
-<vendorpricedoll>9.5</vendorpricedoll>
-<rrcdoll>15.39</rrcdoll>
+<price>826.0</price>
+<vendorprice>516.0</vendorprice>
+<vendorpricedoll>11.5</vendorpricedoll>
+<rrcdoll>18.4</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>67670974</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWQvOGYv0KYtMDAwMDc5MjIyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -164404,27 +164081,6 @@
 <param name="Аксессуары Для Смарт Часов">Браслеты</param>
 <param name="Цвет">S10 Gray</param>
 </offer>
-<offer id="ts000075980000024759" available="true">
-<url>https://kmt5.com.ua/remnets-milanese-loop-xiaomi-mi-band-8-black</url>
-<price>173.0</price>
-<vendorprice>88.0</vendorprice>
-<vendorpricedoll>1.95</vendorpricedoll>
-<rrcdoll>3.84</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>62730365</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzQvZDIv0KYtMDAwMDc1OTgwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2YvMjYv0KYtMDAwMDc1OTgwXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000075980</vendorCode>
-<code>771574</code>
-<name>Ремінець Milanese Loop Xiaomi Mi Band 8 ; 9 — Black</name>
-<quantity_in_stock>30</quantity_in_stock>
-<param name="Марка">Xiaomi</param>
-<param name="Модель девайса">Xiaomi Mi Band 8, Xiaomi Mi Band 9</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Металл</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
 <offer id="ts000075980000024760" available="true">
 <url>https://kmt5.com.ua/remnets-milanese-loop-xiaomi-mi-band-8-colorfull</url>
 <price>173.0</price>
@@ -164440,6 +164096,27 @@
 <code>771575</code>
 <name>Ремінець Milanese Loop Xiaomi Mi Band 8 ; 9 — Colorfull</name>
 <quantity_in_stock>16</quantity_in_stock>
+<param name="Марка">Xiaomi</param>
+<param name="Модель девайса">Xiaomi Mi Band 8, Xiaomi Mi Band 9</param>
+<param name="Бренд">Различные</param>
+<param name="Материал">Металл</param>
+<param name="Аксессуары Для Смарт Часов">Браслеты</param>
+</offer>
+<offer id="ts000075980000024758" available="true">
+<url>https://kmt5.com.ua/remnets-milanese-loop-xiaomi-mi-band-8-silver</url>
+<price>173.0</price>
+<vendorprice>88.0</vendorprice>
+<vendorpricedoll>1.95</vendorpricedoll>
+<rrcdoll>3.84</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>62730365</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2QvNGIv0KYtMDAwMDc1OTgwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2YvMjYv0KYtMDAwMDc1OTgwXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000075980</vendorCode>
+<code>771573</code>
+<name>Ремінець Milanese Loop Xiaomi Mi Band 8 ; 9 — Silver</name>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Марка">Xiaomi</param>
 <param name="Модель девайса">Xiaomi Mi Band 8, Xiaomi Mi Band 9</param>
 <param name="Бренд">Различные</param>
@@ -169425,28 +169102,6 @@
 <code>735055</code>
 <name>Ремінець Sport Nike Xiaomi Mi Band 3 ; 4 — Black &amp; Blue</name>
 <quantity_in_stock>49</quantity_in_stock>
-<param name="Марка">Xiaomi</param>
-<param name="Модель девайса">Xiaomi Mi Band 3, Xiaomi Mi Band 4</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Силикон</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
-<offer id="ts000061084000013153" available="true">
-<url>https://kmt5.com.ua/remnets-sport-nike-xiaomi-mi-band-3-4-black-gray</url>
-<price>70.0</price>
-<vendorprice>35.0</vendorprice>
-<vendorpricedoll>0.78</vendorpricedoll>
-<rrcdoll>1.54</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>40143738</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmQvZTQv0KYtMDAwMDYxMDg0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmMvMTgv0KYtMDAwMDYxMDg0XzIxLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzcvYWEv0KYtMDAwMDYxMDg0XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000061084</vendorCode>
-<code>735093</code>
-<name>Ремінець Sport Nike Xiaomi Mi Band 3 ; 4 — Black &amp; Gray</name>
-<quantity_in_stock>29</quantity_in_stock>
 <param name="Марка">Xiaomi</param>
 <param name="Модель девайса">Xiaomi Mi Band 3, Xiaomi Mi Band 4</param>
 <param name="Бренд">Различные</param>
@@ -176376,414 +176031,6 @@
 <param name="Аксессуары Для Смарт Часов">Браслеты</param>
 <param name="Цвет">Black</param>
 </offer>
-<offer id="ts000082979000030893" available="true">
-<url>https://kmt5.com.ua/remnets-magic-silicon-unversalniy-18-mm-antique-whitemist-blue</url>
-<price>284.0</price>
-<vendorprice>144.0</vendorprice>
-<vendorpricedoll>3.2</vendorpricedoll>
-<rrcdoll>6.31</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>39592350</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGMvNzcv0KYtMDAwMDgyOTc5XzEzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODQvMjIv0KYtMDAwMDgyOTc5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082979</vendorCode>
-<code>789560</code>
-<name>Ремінець Magic Silicon — Універсальний 18 mm — Antique White&amp;Mist Blue</name>
-<quantity_in_stock>44</quantity_in_stock>
-<param name="Марка">Universal</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Кожа</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
-<offer id="ts000082979000030885" available="true">
-<url>https://kmt5.com.ua/remnets-magic-silicon-unversalniy-18-mm-black</url>
-<price>284.0</price>
-<vendorprice>144.0</vendorprice>
-<vendorpricedoll>3.2</vendorpricedoll>
-<rrcdoll>6.31</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>39592350</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTMvYzEv0KYtMDAwMDgyOTc5XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODQvMjIv0KYtMDAwMDgyOTc5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082979</vendorCode>
-<code>789552</code>
-<name>Ремінець Magic Silicon — Універсальний 18 mm — Black</name>
-<quantity_in_stock>92</quantity_in_stock>
-<param name="Марка">Universal</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Кожа</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
-<offer id="ts000082979000030899" available="true">
-<url>https://kmt5.com.ua/remnets-magic-silicon-unversalniy-18-mm-blackorange</url>
-<price>284.0</price>
-<vendorprice>144.0</vendorprice>
-<vendorpricedoll>3.2</vendorpricedoll>
-<rrcdoll>6.31</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>39592350</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzQvNTcv0KYtMDAwMDgyOTc5XzE5LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODQvMjIv0KYtMDAwMDgyOTc5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082979</vendorCode>
-<code>789566</code>
-<name>Ремінець Magic Silicon — Універсальний 18 mm — Black&amp;Orange</name>
-<quantity_in_stock>47</quantity_in_stock>
-<param name="Марка">Universal</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Кожа</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
-<offer id="ts000082979000030898" available="true">
-<url>https://kmt5.com.ua/remnets-magic-silicon-unversalniy-18-mm-blackred</url>
-<price>284.0</price>
-<vendorprice>144.0</vendorprice>
-<vendorpricedoll>3.2</vendorpricedoll>
-<rrcdoll>6.31</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>39592350</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzMvNDgv0KYtMDAwMDgyOTc5XzE2LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODQvMjIv0KYtMDAwMDgyOTc5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082979</vendorCode>
-<code>789565</code>
-<name>Ремінець Magic Silicon — Універсальний 18 mm — Black&amp;Red</name>
-<quantity_in_stock>44</quantity_in_stock>
-<param name="Марка">Universal</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Кожа</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
-<offer id="ts000082979000030897" available="true">
-<url>https://kmt5.com.ua/remnets-magic-silicon-unversalniy-18-mm-dark-greenblack</url>
-<price>284.0</price>
-<vendorprice>144.0</vendorprice>
-<vendorpricedoll>3.2</vendorpricedoll>
-<rrcdoll>6.31</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>39592350</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjUvZTQv0KYtMDAwMDgyOTc5XzE3LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODQvMjIv0KYtMDAwMDgyOTc5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082979</vendorCode>
-<code>789564</code>
-<name>Ремінець Magic Silicon — Універсальний 18 mm — Dark Green&amp;Black</name>
-<quantity_in_stock>46</quantity_in_stock>
-<param name="Марка">Universal</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Кожа</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
-<offer id="ts000082979000030890" available="true">
-<url>https://kmt5.com.ua/remnets-magic-silicon-unversalniy-18-mm-fluorescent-green</url>
-<price>284.0</price>
-<vendorprice>144.0</vendorprice>
-<vendorpricedoll>3.2</vendorpricedoll>
-<rrcdoll>6.31</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>39592350</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjQvMjgv0KYtMDAwMDgyOTc5XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODQvMjIv0KYtMDAwMDgyOTc5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082979</vendorCode>
-<code>789557</code>
-<name>Ремінець Magic Silicon — Універсальний 18 mm — Fluorescent Green</name>
-<quantity_in_stock>47</quantity_in_stock>
-<param name="Марка">Universal</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Кожа</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
-<offer id="ts000082979000030901" available="true">
-<url>https://kmt5.com.ua/remnets-magic-silicon-unversalniy-18-mm-grayorange</url>
-<price>284.0</price>
-<vendorprice>144.0</vendorprice>
-<vendorpricedoll>3.2</vendorpricedoll>
-<rrcdoll>6.31</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>39592350</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTgvMWUv0KYtMDAwMDgyOTc5XzE4LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODQvMjIv0KYtMDAwMDgyOTc5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082979</vendorCode>
-<code>789568</code>
-<name>Ремінець Magic Silicon — Універсальний 18 mm — Gray&amp;Orange</name>
-<quantity_in_stock>47</quantity_in_stock>
-<param name="Марка">Universal</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Кожа</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
-<offer id="ts000082979000030886" available="true">
-<url>https://kmt5.com.ua/remnets-magic-silicon-unversalniy-18-mm-lucerne</url>
-<price>284.0</price>
-<vendorprice>144.0</vendorprice>
-<vendorpricedoll>3.2</vendorpricedoll>
-<rrcdoll>6.31</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>39592350</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTMvZmYv0KYtMDAwMDgyOTc5XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODQvMjIv0KYtMDAwMDgyOTc5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082979</vendorCode>
-<code>789553</code>
-<name>Ремінець Magic Silicon — Універсальний 18 mm — Lucerne</name>
-<quantity_in_stock>46</quantity_in_stock>
-<param name="Марка">Universal</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Кожа</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
-<offer id="ts000082979000030889" available="true">
-<url>https://kmt5.com.ua/remnets-magic-silicon-unversalniy-18-mm-midnight-blue</url>
-<price>284.0</price>
-<vendorprice>144.0</vendorprice>
-<vendorpricedoll>3.2</vendorpricedoll>
-<rrcdoll>6.31</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>39592350</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTMvZGUv0KYtMDAwMDgyOTc5XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODQvMjIv0KYtMDAwMDgyOTc5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082979</vendorCode>
-<code>789556</code>
-<name>Ремінець Magic Silicon — Універсальний 18 mm — Midnight Blue</name>
-<quantity_in_stock>47</quantity_in_stock>
-<param name="Марка">Universal</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Кожа</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
-<offer id="ts000082979000030894" available="true">
-<url>https://kmt5.com.ua/remnets-magic-silicon-unversalniy-18-mm-midnight-bluegray</url>
-<price>284.0</price>
-<vendorprice>144.0</vendorprice>
-<vendorpricedoll>3.2</vendorpricedoll>
-<rrcdoll>6.31</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>39592350</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTcvYjIv0KYtMDAwMDgyOTc5XzEyLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODQvMjIv0KYtMDAwMDgyOTc5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082979</vendorCode>
-<code>789561</code>
-<name>Ремінець Magic Silicon — Універсальний 18 mm — Midnight Blue&amp;Gray</name>
-<quantity_in_stock>49</quantity_in_stock>
-<param name="Марка">Universal</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Кожа</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
-<offer id="ts000082979000030900" available="true">
-<url>https://kmt5.com.ua/remnets-magic-silicon-unversalniy-18-mm-milk-tearock-white</url>
-<price>284.0</price>
-<vendorprice>144.0</vendorprice>
-<vendorpricedoll>3.2</vendorpricedoll>
-<rrcdoll>6.31</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>39592350</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzcvYzIv0KYtMDAwMDgyOTc5XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODQvMjIv0KYtMDAwMDgyOTc5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDYvMTAv0KYtMDAwMDgyOTc5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTMvYzEv0KYtMDAwMDgyOTc5XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTMvZmYv0KYtMDAwMDgyOTc5XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTMvZGUv0KYtMDAwMDgyOTc5XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzIvNzgv0KYtMDAwMDgyOTc5XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjQvMjgv0KYtMDAwMDgyOTc5XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWYvMTUv0KYtMDAwMDgyOTc5XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDgvNjEv0KYtMDAwMDgyOTc5XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082979</vendorCode>
-<code>789567</code>
-<name>Ремінець Magic Silicon — Універсальний 18 mm — Milk Tea&amp;Rock White</name>
-<quantity_in_stock>46</quantity_in_stock>
-<param name="Марка">Universal</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Кожа</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
-<offer id="ts000082979000030891" available="true">
-<url>https://kmt5.com.ua/remnets-magic-silicon-unversalniy-18-mm-new-plums</url>
-<price>284.0</price>
-<vendorprice>144.0</vendorprice>
-<vendorpricedoll>3.2</vendorpricedoll>
-<rrcdoll>6.31</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>39592350</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTQvMWYv0KYtMDAwMDgyOTc5XzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODQvMjIv0KYtMDAwMDgyOTc5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082979</vendorCode>
-<code>789558</code>
-<name>Ремінець Magic Silicon — Універсальний 18 mm — New plums</name>
-<quantity_in_stock>47</quantity_in_stock>
-<param name="Марка">Universal</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Кожа</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
-<offer id="ts000082979000030888" available="true">
-<url>https://kmt5.com.ua/remnets-magic-silicon-unversalniy-18-mm-orange</url>
-<price>284.0</price>
-<vendorprice>144.0</vendorprice>
-<vendorpricedoll>3.2</vendorpricedoll>
-<rrcdoll>6.31</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>39592350</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWYvMTUv0KYtMDAwMDgyOTc5XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODQvMjIv0KYtMDAwMDgyOTc5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082979</vendorCode>
-<code>789555</code>
-<name>Ремінець Magic Silicon — Універсальний 18 mm — Orange</name>
-<quantity_in_stock>48</quantity_in_stock>
-<param name="Марка">Universal</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Кожа</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
-<offer id="ts000082979000030892" available="true">
-<url>https://kmt5.com.ua/remnets-magic-silicon-unversalniy-18-mm-orangeblack</url>
-<price>284.0</price>
-<vendorprice>144.0</vendorprice>
-<vendorpricedoll>3.2</vendorpricedoll>
-<rrcdoll>6.31</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>39592350</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDgvNjEv0KYtMDAwMDgyOTc5XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODQvMjIv0KYtMDAwMDgyOTc5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082979</vendorCode>
-<code>789559</code>
-<name>Ремінець Magic Silicon — Універсальний 18 mm — Orange&amp;Black</name>
-<quantity_in_stock>46</quantity_in_stock>
-<param name="Марка">Universal</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Кожа</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
-<offer id="ts000082979000030895" available="true">
-<url>https://kmt5.com.ua/remnets-magic-silicon-unversalniy-18-mm-oxford-pinkstarlight</url>
-<price>284.0</price>
-<vendorprice>144.0</vendorprice>
-<vendorpricedoll>3.2</vendorpricedoll>
-<rrcdoll>6.31</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>39592350</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTYvNDcv0KYtMDAwMDgyOTc5XzE1LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODQvMjIv0KYtMDAwMDgyOTc5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082979</vendorCode>
-<code>789562</code>
-<name>Ремінець Magic Silicon — Універсальний 18 mm — Oxford Pink&amp;Starlight</name>
-<quantity_in_stock>42</quantity_in_stock>
-<param name="Марка">Universal</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Кожа</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
-<offer id="ts000082979000030884" available="true">
-<url>https://kmt5.com.ua/remnets-magic-silicon-unversalniy-18-mm-starlight</url>
-<price>284.0</price>
-<vendorprice>144.0</vendorprice>
-<vendorpricedoll>3.2</vendorpricedoll>
-<rrcdoll>6.31</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>39592350</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDYvMTAv0KYtMDAwMDgyOTc5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODQvMjIv0KYtMDAwMDgyOTc5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082979</vendorCode>
-<code>789551</code>
-<name>Ремінець Magic Silicon — Універсальний 18 mm — Starlight</name>
-<quantity_in_stock>47</quantity_in_stock>
-<param name="Марка">Universal</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Кожа</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
-<offer id="ts000082979000030896" available="true">
-<url>https://kmt5.com.ua/remnets-magic-silicon-unversalniy-18-mm-starlightorange</url>
-<price>284.0</price>
-<vendorprice>144.0</vendorprice>
-<vendorpricedoll>3.2</vendorpricedoll>
-<rrcdoll>6.31</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>39592350</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzcvYTEv0KYtMDAwMDgyOTc5XzE0LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODQvMjIv0KYtMDAwMDgyOTc5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082979</vendorCode>
-<code>789563</code>
-<name>Ремінець Magic Silicon — Універсальний 18 mm — Starlight&amp;Orange</name>
-<quantity_in_stock>49</quantity_in_stock>
-<param name="Марка">Universal</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Кожа</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
-<offer id="ts000082979000030902" available="true">
-<url>https://kmt5.com.ua/remnets-magic-silicon-unversalniy-18-mm-starry-lime</url>
-<price>284.0</price>
-<vendorprice>144.0</vendorprice>
-<vendorpricedoll>3.2</vendorpricedoll>
-<rrcdoll>6.31</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>39592350</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTAvOWMv0KYtMDAwMDgyOTc5XzIwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODQvMjIv0KYtMDAwMDgyOTc5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082979</vendorCode>
-<code>789569</code>
-<name>Ремінець Magic Silicon — Універсальний 18 mm — Starry Lime</name>
-<quantity_in_stock>46</quantity_in_stock>
-<param name="Марка">Universal</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Кожа</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
-<offer id="ts000082979000030887" available="true">
-<url>https://kmt5.com.ua/remnets-magic-silicon-unversalniy-18-mm-stone</url>
-<price>284.0</price>
-<vendorprice>144.0</vendorprice>
-<vendorpricedoll>3.2</vendorpricedoll>
-<rrcdoll>6.31</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>39592350</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzcvYzIv0KYtMDAwMDgyOTc5XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODQvMjIv0KYtMDAwMDgyOTc5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082979</vendorCode>
-<code>789554</code>
-<name>Ремінець Magic Silicon — Універсальний 18 mm — Stone</name>
-<quantity_in_stock>44</quantity_in_stock>
-<param name="Марка">Universal</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Кожа</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
-<offer id="ts000082979000030883" available="true">
-<url>https://kmt5.com.ua/remnets-magic-silicon-unversalniy-18-mm-white</url>
-<price>284.0</price>
-<vendorprice>144.0</vendorprice>
-<vendorpricedoll>3.2</vendorpricedoll>
-<rrcdoll>6.31</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>39592350</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzIvNzgv0KYtMDAwMDgyOTc5XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODQvMjIv0KYtMDAwMDgyOTc5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082979</vendorCode>
-<code>789550</code>
-<name>Ремінець Magic Silicon — Універсальний 18 mm — White</name>
-<quantity_in_stock>45</quantity_in_stock>
-<param name="Марка">Universal</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Кожа</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
 <offer id="ts000079374" available="true">
 <url>https://kmt5.com.ua/remnets-magic-steel-apple-watch-38-40-41-mm-black</url>
 <price>1057.0</price>
@@ -178068,226 +177315,6 @@
 <param name="Материал">Силикон</param>
 <param name="Аксессуары Для Смарт Часов">Браслеты</param>
 <param name="Цвет">Milanese Loop Silver</param>
-</offer>
-<offer id="ts000082982000030907" available="true">
-<url>https://kmt5.com.ua/remnets-mounting-nylon-strap-unversalniy-18-mm-azure-blue</url>
-<price>160.0</price>
-<vendorprice>81.0</vendorprice>
-<vendorpricedoll>1.8</vendorpricedoll>
-<rrcdoll>3.55</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>27423202</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjQvNjgv0KYtMDAwMDgyOTgyXzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDAvZTYv0KYtMDAwMDgyOTgyXzE0LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTYvYzkv0KYtMDAwMDgyOTgyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmQvZTgv0KYtMDAwMDgyOTgyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082982</vendorCode>
-<code>789576</code>
-<name>Ремінець Mounting Nylon Strap — Універсальний 18 mm — Azure Blue</name>
-<quantity_in_stock>46</quantity_in_stock>
-<param name="Марка">Universal</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Кожа</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
-<offer id="ts000082982000030906" available="true">
-<url>https://kmt5.com.ua/remnets-mounting-nylon-strap-unversalniy-18-mm-black</url>
-<price>160.0</price>
-<vendorprice>81.0</vendorprice>
-<vendorpricedoll>1.8</vendorpricedoll>
-<rrcdoll>3.55</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>27423202</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmYvN2Ev0KYtMDAwMDgyOTgyXzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDAvZTYv0KYtMDAwMDgyOTgyXzE0LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTYvYzkv0KYtMDAwMDgyOTgyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmQvZTgv0KYtMDAwMDgyOTgyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082982</vendorCode>
-<code>789575</code>
-<name>Ремінець Mounting Nylon Strap — Універсальний 18 mm — Black</name>
-<quantity_in_stock>34</quantity_in_stock>
-<param name="Марка">Universal</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Кожа</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
-<offer id="ts000082982000030908" available="true">
-<url>https://kmt5.com.ua/remnets-mounting-nylon-strap-unversalniy-18-mm-green</url>
-<price>160.0</price>
-<vendorprice>81.0</vendorprice>
-<vendorpricedoll>1.8</vendorpricedoll>
-<rrcdoll>3.55</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>27423202</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWQvNTYv0KYtMDAwMDgyOTgyXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDAvZTYv0KYtMDAwMDgyOTgyXzE0LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTYvYzkv0KYtMDAwMDgyOTgyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmQvZTgv0KYtMDAwMDgyOTgyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082982</vendorCode>
-<code>789577</code>
-<name>Ремінець Mounting Nylon Strap — Універсальний 18 mm — Green</name>
-<quantity_in_stock>39</quantity_in_stock>
-<param name="Марка">Universal</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Кожа</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
-<offer id="ts000082982000030915" available="true">
-<url>https://kmt5.com.ua/remnets-mounting-nylon-strap-unversalniy-18-mm-highgrade-grey</url>
-<price>160.0</price>
-<vendorprice>81.0</vendorprice>
-<vendorpricedoll>1.8</vendorpricedoll>
-<rrcdoll>3.55</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>27423202</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWQvMzIv0KYtMDAwMDgyOTgyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDAvZTYv0KYtMDAwMDgyOTgyXzE0LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTYvYzkv0KYtMDAwMDgyOTgyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmQvZTgv0KYtMDAwMDgyOTgyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082982</vendorCode>
-<code>789584</code>
-<name>Ремінець Mounting Nylon Strap — Універсальний 18 mm — High-grade Grey</name>
-<quantity_in_stock>46</quantity_in_stock>
-<param name="Марка">Universal</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Кожа</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
-<offer id="ts000082982000030914" available="true">
-<url>https://kmt5.com.ua/remnets-mounting-nylon-strap-unversalniy-18-mm-water-red</url>
-<price>160.0</price>
-<vendorprice>81.0</vendorprice>
-<vendorpricedoll>1.8</vendorpricedoll>
-<rrcdoll>3.55</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>27423202</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjYvOWIv0KYtMDAwMDgyOTgyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDAvZTYv0KYtMDAwMDgyOTgyXzE0LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTYvYzkv0KYtMDAwMDgyOTgyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmQvZTgv0KYtMDAwMDgyOTgyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082982</vendorCode>
-<code>789583</code>
-<name>Ремінець Mounting Nylon Strap — Універсальний 18 mm — Lavander</name>
-<quantity_in_stock>19</quantity_in_stock>
-<param name="Марка">Universal</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Кожа</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
-<offer id="ts000082982000030913" available="true">
-<url>https://kmt5.com.ua/remnets-mounting-nylon-strap-unversalniy-18-mm-feng-xing</url>
-<price>160.0</price>
-<vendorprice>81.0</vendorprice>
-<vendorpricedoll>1.8</vendorpricedoll>
-<rrcdoll>3.55</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>27423202</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjMvM2Iv0KYtMDAwMDgyOTgyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDAvZTYv0KYtMDAwMDgyOTgyXzE0LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTYvYzkv0KYtMDAwMDgyOTgyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmQvZTgv0KYtMDAwMDgyOTgyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082982</vendorCode>
-<code>789582</code>
-<name>Ремінець Mounting Nylon Strap — Універсальний 18 mm — Light Pink</name>
-<quantity_in_stock>6</quantity_in_stock>
-<param name="Марка">Universal</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Кожа</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
-<offer id="ts000082982000030909" available="true">
-<url>https://kmt5.com.ua/remnets-mounting-nylon-strap-unversalniy-18-mm-orange</url>
-<price>160.0</price>
-<vendorprice>81.0</vendorprice>
-<vendorpricedoll>1.8</vendorpricedoll>
-<rrcdoll>3.55</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>27423202</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTgvY2Mv0KYtMDAwMDgyOTgyXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDAvZTYv0KYtMDAwMDgyOTgyXzE0LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTYvYzkv0KYtMDAwMDgyOTgyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmQvZTgv0KYtMDAwMDgyOTgyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082982</vendorCode>
-<code>789578</code>
-<name>Ремінець Mounting Nylon Strap — Універсальний 18 mm — Orange</name>
-<quantity_in_stock>8</quantity_in_stock>
-<param name="Марка">Universal</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Кожа</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
-<offer id="ts000082982000030912" available="true">
-<url>https://kmt5.com.ua/remnets-mounting-nylon-strap-unversalniy-18-mm-pink</url>
-<price>160.0</price>
-<vendorprice>81.0</vendorprice>
-<vendorpricedoll>1.8</vendorpricedoll>
-<rrcdoll>3.55</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>27423202</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTgvZWQv0KYtMDAwMDgyOTgyXzEzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDAvZTYv0KYtMDAwMDgyOTgyXzE0LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTYvYzkv0KYtMDAwMDgyOTgyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmQvZTgv0KYtMDAwMDgyOTgyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082982</vendorCode>
-<code>789581</code>
-<name>Ремінець Mounting Nylon Strap — Універсальний 18 mm — Pink</name>
-<quantity_in_stock>28</quantity_in_stock>
-<param name="Марка">Universal</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Кожа</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
-<offer id="ts000082982000030910" available="true">
-<url>https://kmt5.com.ua/remnets-mounting-nylon-strap-unversalniy-18-mm-plum</url>
-<price>160.0</price>
-<vendorprice>81.0</vendorprice>
-<vendorpricedoll>1.8</vendorpricedoll>
-<rrcdoll>3.55</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>27423202</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODcvZGQv0KYtMDAwMDgyOTgyXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDAvZTYv0KYtMDAwMDgyOTgyXzE0LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTYvYzkv0KYtMDAwMDgyOTgyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmQvZTgv0KYtMDAwMDgyOTgyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082982</vendorCode>
-<code>789579</code>
-<name>Ремінець Mounting Nylon Strap — Універсальний 18 mm — Plum</name>
-<quantity_in_stock>25</quantity_in_stock>
-<param name="Марка">Universal</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Кожа</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
-<offer id="ts000082982000030911" available="true">
-<url>https://kmt5.com.ua/remnets-mounting-nylon-strap-unversalniy-18-mm-starlight</url>
-<price>160.0</price>
-<vendorprice>81.0</vendorprice>
-<vendorpricedoll>1.8</vendorpricedoll>
-<rrcdoll>3.55</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>27423202</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDcvMWIv0KYtMDAwMDgyOTgyXzEyLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDAvZTYv0KYtMDAwMDgyOTgyXzE0LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTYvYzkv0KYtMDAwMDgyOTgyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmQvZTgv0KYtMDAwMDgyOTgyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082982</vendorCode>
-<code>789580</code>
-<name>Ремінець Mounting Nylon Strap — Універсальний 18 mm — Starlight</name>
-<quantity_in_stock>9</quantity_in_stock>
-<param name="Марка">Universal</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Кожа</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
 </offer>
 <offer id="ts000071759000020768" available="true">
 <url>https://kmt5.com.ua/remnets-nylon-loop-apple-watch-38-mm-40-mm-41-mm-black</url>
@@ -183329,64 +182356,6 @@
 <code>778428</code>
 <name>Ремінець Wiwu Wi-WB010 Apple Watch 42 44 45 49 mm — Green &amp; Grey</name>
 <quantity_in_stock>2</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Watch Series 3 42 mm, Apple Watch Series 4 44 mm, Apple Watch Series 7 45 mm, Apple Watch Series 8 49 mm</param>
-<param name="Бренд">Wiwu</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
-<offer id="ts000083687000031650" available="true">
-<url>https://kmt5.com.ua/remnets-wiwu-wiwb201-apple-watch-42-44-45-49-mm-black</url>
-<price>1416.0</price>
-<vendorprice>718.0</vendorprice>
-<vendorpricedoll>16.0</vendorpricedoll>
-<rrcdoll>31.57</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>41276343</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzgvMDEv0KYtMDAwMDgzNjg3XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Wiwu</vendor>
-<vendorCode>Ц-000083687</vendorCode>
-<code>791003</code>
-<name>Ремінець Wiwu Wi-WB201 Apple Watch 42 44 45 49 mm — Black</name>
-<quantity_in_stock>25</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Watch Series 3 42 mm, Apple Watch Series 4 44 mm, Apple Watch Series 7 45 mm, Apple Watch Series 8 49 mm</param>
-<param name="Бренд">Wiwu</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
-<offer id="ts000083687000031649" available="true">
-<url>https://kmt5.com.ua/remnets-wiwu-wiwb201-apple-watch-42-44-45-49-mm-orange</url>
-<price>1416.0</price>
-<vendorprice>718.0</vendorprice>
-<vendorpricedoll>16.0</vendorpricedoll>
-<rrcdoll>31.57</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>41276343</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTAvNGIv0KYtMDAwMDgzNjg3XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Wiwu</vendor>
-<vendorCode>Ц-000083687</vendorCode>
-<code>791002</code>
-<name>Ремінець Wiwu Wi-WB201 Apple Watch 42 44 45 49 mm — Orange</name>
-<quantity_in_stock>17</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Watch Series 3 42 mm, Apple Watch Series 4 44 mm, Apple Watch Series 7 45 mm, Apple Watch Series 8 49 mm</param>
-<param name="Бренд">Wiwu</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
-<offer id="ts000083688000031651" available="true">
-<url>https://kmt5.com.ua/remnets-wiwu-wiwb301-apple-watch-42-44-45-49-mm-blackorange</url>
-<price>1195.0</price>
-<vendorprice>606.0</vendorprice>
-<vendorpricedoll>13.5</vendorpricedoll>
-<rrcdoll>26.64</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>41276343</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWYvMTQv0KYtMDAwMDgzNjg4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDcvZDYv0KYtMDAwMDgzNjg4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Wiwu</vendor>
-<vendorCode>Ц-000083688</vendorCode>
-<code>791005</code>
-<name>Ремінець Wiwu Wi-WB301 Apple Watch 42 44 45 49 mm — Black&amp;Orange</name>
-<quantity_in_stock>25</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Watch Series 3 42 mm, Apple Watch Series 4 44 mm, Apple Watch Series 7 45 mm, Apple Watch Series 8 49 mm</param>
 <param name="Бренд">Wiwu</param>
@@ -196581,24 +195550,6 @@
 <param name="Бренд">Различные</param>
 <param name="Украшения для Телефонов">Шнурки</param>
 </offer>
-<offer id="ts000082627000031266" available="true">
-<url>https://kmt5.com.ua/shnurok-na-sheyu-wicker-pink</url>
-<price>128.0</price>
-<vendorprice>68.0</vendorprice>
-<vendorpricedoll>1.5</vendorpricedoll>
-<rrcdoll>2.84</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>16846687</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjAvZWMv0KYtMDAwMDgyNjI3XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWYvODgv0KYtMDAwMDgyNjI3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082627</vendorCode>
-<code>790193</code>
-<name>Шнурок на шею «Wicker» — Pink</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Различные</param>
-<param name="Украшения для Телефонов">Шнурки</param>
-</offer>
 <offer id="ts000082627000031267" available="true">
 <url>https://kmt5.com.ua/shnurok-na-sheyu-wicker-yellow</url>
 <price>128.0</price>
@@ -203173,28 +202124,6 @@
 <name>Портативный мини вентилятор WT-L19 - 1200 mAh — White</name>
 <description><![CDATA[Цей портативний міні вентилятор WT-K38 стане незамінним рішенням для всіх, хто цінує комфорт у будь-який момент. Він ідеально підходить для студентів, які проводять багато часу в задушливих аудиторіях, офісних працівників, яким потрібен ковток свіжого повітря під час робочих годин, а також мандрівників та любителів відпочинку на природі. Незалежно від того, де ви знаходитесь — на роботі, вдома чи в дорозі — цей вентилятор забезпечить приємну прохолоду навіть у найспекотніший день. Серед переваг цього пристрою варто виділити його компактність та стильний дизайн, що роблять його ідеальним для носіння з собою. Потужний двигун гарантує ефективну циркуляцію повітря без зайвого шуму, забезпечуючи спокій і тишу навколо. Завдяки безступінчастому регулюванню швидкості ви можете налаштувати потік повітря саме так, як вам потрібно. Довговічний акумулятор дозволяє використовувати вентилятор протягом тривалого часу без необхідності частого заряджання. Розумний світлодіодний дисплей допомагає легко контролювати рівень заряду батареї та обрану швидкість роботи. Не відкладайте можливість покращити своє життя вже сьогодні! Замовляючи портативний вентилятор WT-K38 прямо зараз, ви отримуєте гарантований комфорт у будь-яких умовах. Запас товару обмежений, тому не втрачайте шанс бути серед перших власників цього чудового пристрою. Поспішайте скористатися вигідною пропозицією та насолоджуйтесь прохолодою кожного дня! Тонкий настільний вентилятор L19 зі складною ручкою, 4 швидкості, регульований портативний підвісний вентилятор для спальні та офісу - Універсальний дизайн Складна ручка дозволяє використовувати на робочому столі та вішати, що робить його ідеальним для гуртожитків, спалень та офісів. - Компактний і портативний Тонкий профіль і легка конструкція всього 242 г для зручності перенесення та зберігання. - Регульована швидкість вентилятора Чотири налаштування швидкості вентилятора, включаючи режим природного вітру, для індивідуального комфорту. - Довговічна батарея Ємність батареї 1200 мАг забезпечує 1,5-4 години безперервного використання на одному заряді. - Якісна конструкція Виготовлена з міцного ABS-пластику та силікону для довговічності та безпечного використання. Технічні характеристики: - Матеріал: ABS/силікон/електронні компоненти - Розмір виробу: 140*165*30,5 мм - Вага нетто: 242 г - Час використання: від 1,5 до 4 годин - Ємність акумулятора: 1200 мАг 3,7 В]]></description>
 <quantity_in_stock>70</quantity_in_stock>
-<param name="Бренд">Различные</param>
-</offer>
-<offer id="ts000081273000029777" available="true">
-<url>https://kmt5.com.ua/portativnyiy-mini-ventilyator-wtf87-white</url>
-<price>1223.0</price>
-<vendorprice>655.0</vendorprice>
-<vendorpricedoll>14.6</vendorpricedoll>
-<rrcdoll>27.25</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>58682601</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzkvNjIv0KYtMDAwMDgxMjczXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmIvMTUv0KYtMDAwMDgxMjczXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzEvZWUv0KYtMDAwMDgxMjczXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2UvZDgv0KYtMDAwMDgxMjczXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGEvNzMv0KYtMDAwMDgxMjczXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWEvOTQv0KYtMDAwMDgxMjczXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000081273</vendorCode>
-<code>786778</code>
-<name>Портативный мини вентилятор WT-F87 - 5000 mAh — White</name>
-<description><![CDATA[Цей портативний міні вентилятор WT-F84 стане незамінним для тих, хто цінує комфорт і прохолоду в будь-якому місці. Він особливо корисний для людей, які часто перебувають у русі, працюють в офісі або вдома в умовах спеки. Легкий та компактний дизайн робить його ідеальним рішенням для студентів, офісних працівників, а також всіх, хто проводить багато часу на свіжому повітрі. Серед ключових переваг цього вентилятора можна виділити: елегантний дизайн та стильне виконання, яке підходить до будь-якого інтер'єру; потужний двигун, який забезпечує ефективну циркуляцію повітря; довговічність акумулятора на 4000 мАг, що гарантує тривале використання без частого заряджання; можливість налаштування швидкості потоку повітря до 100 рівнів для максимальної зручності користування; низький рівень шуму завдяки спеціальному двигуну глушника. Не втрачайте можливості придбати цей дивовижний пристрій саме зараз! Лише уявіть собі літні дні без надокучливої спеки — WT-F84 подарує вам бажану прохолоду і комфорт. Замовте сьогодні, щоб вже завтра насолоджуватися приємною свіжістю де б ви не знаходилися. Не відкладайте на потім — запас товару обмежений! 100-швидкісний цифровий настільний вентилятор із підставкою USB, високошвидкісний, високошвидкісний Turbo - Безступінчасте регулювання на 100 швидкостей На відміну від традиційних вентиляторів з обмеженими параметрами швидкості, цей портативний вентилятор має систему безступінчатого регулювання швидкості зі 100 рівнями регулювання. - Розумний світлодіодний дисплей Вбудований світлодіодний дисплей чітко показує рівень заряду батареї та швидкість вітру, дозволяючи контролювати використання в реальному часі. - Удосконалена система посилення повітряного потоку Натхненний аеродинамікою літака, цей вентилятор оснащено керованою системою нагнітання повітряного потоку, яка посилює потужність вітру, зберігаючи при цьому м’який, рівномірний бриз. - Регульоване обертання на 220° Гнучка конструкція повороту на 220° забезпечує потік повітря під різними кутами, дозволяючи вам спрямовувати охолодження саме туди, куди вам це потрібно, незалежно від того, працюєте ви, тренуєтеся чи відпочиваєте. - Надтихий безщітковий двигун Оснащений високопродуктивним безщітковим двигуном постійного струму, цей вентилятор працює з мінімальним шумом, забезпечуючи тихе, але потужне охолодження під час роботи, сну чи подорожей. Технічні характеристики: - Вхідний струм: 1,8 А - Вхідна напруга: 5V DC - Робоча потужність: 1,36 Вт-5,14 Вт - Тривалість використання: 3,4 год-12 год - Ємність акумулятора: 5000 mAh 3.7 V (18.5 Wh) - Час зарядки: 4,5 години]]></description>
-<quantity_in_stock>2</quantity_in_stock>
 <param name="Бренд">Различные</param>
 </offer>
 <offer id="ts000081300" available="true">
