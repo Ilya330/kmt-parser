@@ -116,15 +116,15 @@ class Client:
         return True
 
     def ensure_login(self):
-        """Проверить сессию по видимости цен, при необходимости перелогиниться."""
-        h = self.get(BASE + "/chehly/?limit=24")
-        if "Ваша цена" in h:
+        """Проверить сессию по главной, при необходимости перелогиниться.
+        Маркер анонима — приглашение «Войдите в кабинет» в шапке
+        (не завязываемся на конкретную категорию: их слаги меняются)."""
+        if "Войдите в кабинет" not in self.get(BASE + "/"):
             return
         print("Сессия истекла, логинюсь заново...")
         self.login()
-        h = self.get(BASE + "/chehly/?limit=24")
-        if "Ваша цена" not in h:
-            raise RuntimeError("После логина цены всё равно не видны")
+        if "Войдите в кабинет" in self.get(BASE + "/"):
+            raise RuntimeError("После логина шапка всё ещё анонимная")
 
 
 def load_json(path, default):

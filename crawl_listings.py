@@ -20,23 +20,18 @@ from kmt import BASE, Client, save_json
 THEIR_FEED_URL = os.environ.get(
     "THEIR_FEED_URL", BASE + "/feed/ahr3v3xs1uplbkssusncsrcxqsntzhpt")
 
-# порядок важен: реальные категории раньше, акции/новинки в конце (дедуп по sku)
-CATEGORIES = [
-    ("chehly", "Чехлы"),
-    ("zashchitnye-stekla-i-plenki", "Защитные стекла и пленки"),
-    ("zaryadnye-ustroystva", "Зарядные устройства"),
-    ("kabeli-i-perehodniki-1", "Кабели и переходники"),
-    ("power-bank", "Power Bank"),
-    ("akkumulyatory-1", "Аккумуляторы"),
-    ("audio-video-foto", "Аудио-Видео-Фото"),
-    ("kompyuternaya-periferiya", "Компьютерная периферия"),
-    ("smart-chasy-i-aksessuary", "Смарт-часы и аксессуары"),
-    ("avtoaksessuary", "Автоаксессуары"),
-    ("gadzhety", "Гаджеты"),
-    ("ukrasheniya-dlya-telefonov", "Украшения для телефонов"),
-    ("novoe-postuplenie", "Новое поступление"),
-    ("akcii", "Акции"),
-]
+# Категории обнаруживаются динамически из меню главной: сайт переименовывает
+# слаги и переносит разделы (в авг.2026 «Чехлы»/chehly исчезли, разъехавшись
+# на «Чохли для телефонів/планшетів/навушників» доступные только по path).
+# Служебные ссылки, которые не являются категориями:
+NON_CATEGORY = {
+    "my-account", "shopping-cart", "commercial-proposal", "login", "logout",
+    "create-account", "forgot-password", "wishlist", "brands", "contact-us",
+    "about-us", "garantija", "search", "blog", "news", "feed", "price_list",
+    "access-denied", "checkout", "compare-products", "specials", "sitemap",
+}
+# в конец очереди — сборные разделы (дедуп по product_id оставит первый источник)
+LAST = ("akcii", "novoe-postuplenie")
 
 RE_ITEM = re.compile(r'<div class="list-catalog_item">(.*?)</li>', re.S)
 RE_HREF = re.compile(r'<a href="(https://kmt5\.com\.ua/[^"]+)" class="list-catalog_thumb')
@@ -74,6 +69,12 @@ def parse_prices(block):
                    r'(?:box-price__name|$)', block, re.S)
     if my:
         out[0], out[1] = price_pair(my.group(1))
+    else:
+        # у товаров без РРЦ подписи нет — блок цены одиночный
+        mp = re.search(r'<div class="box-price[^"]*">(.*?)'
+                       r'(?:all-quantity-buy|collapse-card|</li>|$)', block, re.S)
+        if mp:
+            out[0], out[1] = price_pair(mp.group(1))
     mr = re.search(r'box-price__name">РРЦ</span>(.*?)'
                    r'(?:box-price__name|all-quantity-buy|collapse-card|$)', block, re.S)
     if mr:
@@ -117,18 +118,45 @@ def parse_page(html, category):
     return items
 
 
-def crawl_category(cli, slug, title, limit=100, delay=0.15):
-    url1 = "%s/%s/?limit=%d" % (BASE, slug, limit)
-    html = cli.get(url1)
+RE_H1 = re.compile(r'<h1>(.*?)</h1>', re.S)
+RE_CAT_LINK = re.compile(
+    r'href="(https://kmt5\.com\.ua/(?:[a-z0-9\-]+/|index\.php\?route=product/category&amp;path=\d+))"')
+
+
+def discover_categories(cli):
+    """Корневые категории из меню главной: [(url, ключ)].
+    Слаги и path-категории вперемешку — сайт использует оба вида."""
+    home = cli.get(BASE + "/")
+    urls = []
+    for m in RE_CAT_LINK.finditer(home):
+        u = m.group(1).replace("&amp;", "&")
+        tail = u.rstrip("/").rsplit("/", 1)[-1]
+        if "path=" not in u and tail in NON_CATEGORY:
+            continue
+        if u not in urls:
+            urls.append(u)
+    urls.sort(key=lambda u: 1 if any(s in u for s in LAST) else 0)
+    return urls
+
+
+def page_url(cat_url, limit, page=1):
+    sep = "&" if "?" in cat_url else "?"
+    u = "%s%slimit=%d" % (cat_url, sep, limit)
+    return u if page == 1 else u + "&page=%d" % page
+
+
+def crawl_category(cli, cat_url, limit=100):
+    html = cli.get(page_url(cat_url, limit))
     mt = RE_TOTAL.search(html)
     total = int(mt.group(1)) if mt else 0
+    mh = RE_H1.search(html)
+    title = ihtml.unescape(re.sub(r'<[^>]+>', '', mh.group(1))).strip() if mh else cat_url
     pages = max(1, -(-total // limit))
     items = parse_page(html, title)
 
     def fetch(p):
         for attempt in range(3):
-            h = cli.get("%s/%s/?limit=%d&page=%d" % (BASE, slug, limit, p))
-            got = parse_page(h, title)
+            got = parse_page(cli.get(page_url(cat_url, limit, p)), title)
             if got:
                 return got
             time.sleep(1 + attempt)
@@ -138,7 +166,10 @@ def crawl_category(cli, slug, title, limit=100, delay=0.15):
         with ThreadPoolExecutor(max_workers=6) as ex:
             for got in ex.map(fetch, range(2, pages + 1)):
                 items.extend(got)
-    print("  %s: total=%d, собрано=%d" % (slug, total, len(items)))
+    print("  %s [%s]: total=%d, собрано=%d"
+          % (title, cat_url.rsplit("/", 1)[-1][:28], total, len(items)))
+    if total and len(items) < total * 0.9:
+        print("    ВНИМАНИЕ: собрано меньше 90%% от заявленного")
     return items
 
 
@@ -196,9 +227,19 @@ def main():
     cli.ensure_login()
     # дедуп по product_id: один Ц-код покрывает цветовые варианты,
     # у каждого варианта свой product_id/URL/имя
+    cat_urls = discover_categories(cli)
+    print("Категорий в меню: %d" % len(cat_urls))
+    if len(cat_urls) < 8:
+        print("Меню отдало подозрительно мало категорий", file=sys.stderr)
+        sys.exit(1)
     seen = {}
-    for slug, title in CATEGORIES:
-        for it in crawl_category(cli, slug, title):
+    for cat_url in cat_urls:
+        try:
+            found = crawl_category(cli, cat_url)
+        except Exception as e:
+            print("  ERR категория %s: %s" % (cat_url, e))
+            continue
+        for it in found:
             key = it.get("product_id") or it["url"]
             if key not in seen:
                 seen[key] = it
