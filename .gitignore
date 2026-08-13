@@ -4,3 +4,4 @@ __pycache__/
 listings.json
 *.tmp
 .DS_Store
+*.log
