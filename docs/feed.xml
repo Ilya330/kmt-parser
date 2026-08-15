@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-15 04:11">
+<yml_catalog date="2026-08-15 09:15">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -125956,25 +125956,6 @@
 <param name="Виды аккумуляторов">Power Bank</param>
 <param name="Емкость аккумулятора">От 50000 mAh</param>
 </offer>
-<offer id="ts000083653000031629" available="true">
-<url>https://kmt5.com.ua/power-bank-60000-mah%C2%A0-100w%C2%A0-ansty-ap097-black</url>
-<price>3384.0</price>
-<vendorprice>2114.0</vendorprice>
-<vendorpricedoll>47.0</vendorpricedoll>
-<rrcdoll>75.25</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>55243488</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzgvYzAv0KYtMDAwMDgzNjUzXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDQvNDQv0KYtMDAwMDgzNjUzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Ansty</vendor>
-<vendorCode>Ц-000083653</vendorCode>
-<code>790948</code>
-<name>Power Bank 60000 mAh | 100W+22.5W PD — Ansty AP-097  — Black</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Ansty</param>
-<param name="Виды аккумуляторов">Power Bank</param>
-<param name="Емкость аккумулятора">От 60000 mAh</param>
-</offer>
 <offer id="ts000083653000031630" available="true">
 <url>https://kmt5.com.ua/power-bank-60000-mah%C2%A0-100w%C2%A0-ansty-ap097-white</url>
 <price>3384.0</price>
@@ -142816,28 +142797,6 @@
 <vendorCode>Ц-000078722</vendorCode>
 <code>778211</code>
 <name>Бездротова миша — Hoco GM28 — White</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Компьютерные аксессуары">Компьютерные мыши</param>
-</offer>
-<offer id="ts000080114000028378" available="true">
-<url>https://kmt5.com.ua/bezdrotova-misha-hoco-gm34-black</url>
-<price>392.0</price>
-<vendorprice>207.0</vendorprice>
-<vendorpricedoll>4.6</vendorpricedoll>
-<rrcdoll>8.71</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>84259818</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWYvMjUv0KYtMDAwMDgwMTE0XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGIvZTQv0KYtMDAwMDgwMTE0XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWUvZDQv0KYtMDAwMDgwMTE0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2YvODkv0KYtMDAwMDgwMTE0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGYvYjkv0KYtMDAwMDgwMTE0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000080114</vendorCode>
-<code>781917</code>
-<name>Бездротова миша — Hoco GM34 — Black</name>
-<description><![CDATA[Материал: ABS Размер: 100х65х38 мм; вес: 54 г Схема: Han Tianxia; чип: MX8650A Подключение: 2.4G/Bluetooth (3.0+5.2) Значение DPI: 800-1200-1600 (значение CPI: 800-1200-1600) Тип клавиш: кнопка 4D]]></description>
 <quantity_in_stock>1</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Компьютерные аксессуары">Компьютерные мыши</param>
@@ -159777,24 +159736,6 @@
 <param name="Бренд">Различные</param>
 <param name="Аудіо товари">Портативні колонки</param>
 </offer>
-<offer id="ts000081822000030098" available="true">
-<url>https://kmt5.com.ua/portativna-kolonka-hopestar-party-500-blackyellow</url>
-<price>7795.0</price>
-<vendorprice>4043.0</vendorprice>
-<vendorpricedoll>89.9</vendorpricedoll>
-<rrcdoll>173.32</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>31204796</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjYvNWYv0KYtMDAwMDgxODIyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWIvMjQv0KYtMDAwMDgxODIyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000081822</vendorCode>
-<code>787636</code>
-<name>§Портативна колонка — Hopestar Party 500 100W — Black&amp;Yellow</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Различные</param>
-<param name="Аудіо товари">Портативні колонки</param>
-</offer>
 <offer id="ts000081820000030091" available="true">
 <url>https://kmt5.com.ua/portativna-kolonka-hopestar-party-box-black</url>
 <price>9971.0</price>
@@ -165605,28 +165546,6 @@
 <code>734942</code>
 <name>Ремінець Sport Band Apple Watch 42 mm 44 mm 45 mm 49 mm — Gray Green (58)</name>
 <quantity_in_stock>17</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Watch Series 3 42 mm, Apple Watch Series 4 44 mm, Apple Watch Series 7 45 mm, Apple Watch Series 8 49 mm</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Силикон</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
-<offer id="ts000037062000013003" available="true">
-<url>https://kmt5.com.ua/original-design-bracelet-apple-watch-42-mm-44-mm-green-52503</url>
-<price>60.0</price>
-<vendorprice>31.0</vendorprice>
-<vendorpricedoll>0.67</vendorpricedoll>
-<rrcdoll>1.32</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>96847083</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjcvMWYv0KYtMDAwMDM3MDYyXzIzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTIvZWYv0KYtMDAwMDM3MDYyXzI0LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWMvZTMv0KYtMDAwMDM3MDYyXzU3LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000037062</vendorCode>
-<code>734943</code>
-<name>Ремінець Sport Band Apple Watch 42 mm 44 mm 45 mm 49 mm — Green (31)</name>
-<quantity_in_stock>4</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Watch Series 3 42 mm, Apple Watch Series 4 44 mm, Apple Watch Series 7 45 mm, Apple Watch Series 8 49 mm</param>
 <param name="Бренд">Различные</param>
@@ -173564,27 +173483,6 @@
 <param name="Бренд">Различные</param>
 <param name="Аксессуары Для Смарт Часов">Браслеты</param>
 </offer>
-<offer id="ts000070318000018468" available="true">
-<url>https://kmt5.com.ua/remnets-braided-solo-loop-m-apple-watch-38-mm-40-mm-41-mm-atlantic-blue</url>
-<price>300.0</price>
-<vendorprice>180.0</vendorprice>
-<vendorpricedoll>4.0</vendorpricedoll>
-<rrcdoll>6.67</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>56448677</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjkvYTMv0KYtMDAwMDcwMzE4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzIvYjEv0KYtMDAwMDcwMzE4XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000070318</vendorCode>
-<code>747329</code>
-<name>Ремінець Braided Solo Loop (M) — Apple Watch 38 mm | 40 mm | 41 mm — Atlantic Blue</name>
-<description><![CDATA[Монобраслет Solo Loop — это эластичный, удобный и надежный аксессуар для ношения Apple Watch. Ремешок выполнен в виде цельного браслета без каких-либо дополнительных застежек или креплений. Аксессуар очень удобен в ежедневном ношении и во время занятий спортом: он хорошо сидит на запястье, обеспечивая надежную фиксацию часов на руке.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Watch Series 7 41 mm, Apple Watch Series 3 38 mm, Apple Watch Series 4 40 mm</param>
-<param name="Бренд">Различные</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
 <offer id="ts000072951000022288" available="true">
 <url>https://kmt5.com.ua/remeshok-braided-xiaomi-mi-band-5-6-7-yellow-green</url>
 <price>146.0</price>
@@ -178204,26 +178102,6 @@
 <param name="Материал">Металл</param>
 <param name="Аксессуары Для Смарт Часов">Браслеты</param>
 </offer>
-<offer id="ts000072952000022294" available="true">
-<url>https://kmt5.com.ua/remeshok-apple-watch-nylon-with-protective-case-384041mm-black</url>
-<price>115.0</price>
-<vendorprice>68.0</vendorprice>
-<vendorpricedoll>1.5</vendorpricedoll>
-<rrcdoll>2.55</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>56448677</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWYvYzAv0KYtMDAwMDcyOTUyXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzQvODQv0KYtMDAwMDcyOTUyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000072952</vendorCode>
-<code>754098</code>
-<name>Ремінець Nylon with protective case Apple Watch 40 mm — Black</name>
-<quantity_in_stock>17</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Watch Series 7 41 mm, Apple Watch Series 3 38 mm, Apple Watch Series 4 40 mm</param>
-<param name="Бренд">Различные</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
 <offer id="ts000072952000022441" available="true">
 <url>https://kmt5.com.ua/remnets-nylon-with-protective-case-apple-watch-40-mm-black</url>
 <price>115.0</price>
@@ -178239,6 +178117,26 @@
 <code>754287</code>
 <name>Ремінець Nylon with protective case Apple Watch 40 mm — Black</name>
 <quantity_in_stock>1</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Watch Series 7 41 mm, Apple Watch Series 3 38 mm, Apple Watch Series 4 40 mm</param>
+<param name="Бренд">Различные</param>
+<param name="Аксессуары Для Смарт Часов">Браслеты</param>
+</offer>
+<offer id="ts000072952000022294" available="true">
+<url>https://kmt5.com.ua/remeshok-apple-watch-nylon-with-protective-case-384041mm-black</url>
+<price>115.0</price>
+<vendorprice>68.0</vendorprice>
+<vendorpricedoll>1.5</vendorpricedoll>
+<rrcdoll>2.55</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>56448677</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWYvYzAv0KYtMDAwMDcyOTUyXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzQvODQv0KYtMDAwMDcyOTUyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000072952</vendorCode>
+<code>754098</code>
+<name>Ремінець Nylon with protective case Apple Watch 40 mm — Black</name>
+<quantity_in_stock>17</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Watch Series 7 41 mm, Apple Watch Series 3 38 mm, Apple Watch Series 4 40 mm</param>
 <param name="Бренд">Различные</param>
