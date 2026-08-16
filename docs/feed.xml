@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-16 04:18">
+<yml_catalog date="2026-08-16 09:16">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -125218,24 +125218,6 @@
 <param name="Бренд">Wiwu</param>
 <param name="Виды аккумуляторов">Power Bank</param>
 </offer>
-<offer id="ts000083636000031621" available="true">
-<url>https://kmt5.com.ua/power-bank-20000-mah%C2%A0-225wpd20w%C2%A0-hoco-j72a-black</url>
-<price>881.0</price>
-<vendorprice>563.0</vendorprice>
-<vendorpricedoll>12.5</vendorpricedoll>
-<rrcdoll>19.57</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>96232187</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzkvZDEv0KYtMDAwMDgzNjM2XzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000083636</vendorCode>
-<code>790923</code>
-<name>Power Bank 20000 mAh | — Hoco J72A  — Black</name>
-<quantity_in_stock>7</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Виды аккумуляторов">Power Bank</param>
-<param name="Емкость аккумулятора">От 20000 mAh</param>
-</offer>
 <offer id="ts000083657000031640" available="true">
 <url>https://kmt5.com.ua/power-bank-27000-mah-pd20w-imoshion-pink</url>
 <price>1592.0</price>
@@ -161381,31 +161363,6 @@
 <param name="Аудіо товари">Навушники з мікрофоном 3.5mm</param>
 <param name="Интерфейс подключения">3.5mm</param>
 </offer>
-<offer id="ts000072769000022638" available="true">
-<url>https://kmt5.com.ua/naushniki-s-mikrofonom-borofone-bm39-refined-white</url>
-<price>88.0</price>
-<vendorprice>48.0</vendorprice>
-<vendorpricedoll>1.05</vendorpricedoll>
-<rrcdoll>1.95</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>72062147</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzAvMzQv0KYtMDAwMDcyNzY5XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWMvYjcv0KYtMDAwMDcyNzY5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjIvYTIv0KYtMDAwMDcyNzY5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjEvMTIv0KYtMDAwMDcyNzY5XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzAvYTgv0KYtMDAwMDcyNzY5XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTkvYjYv0KYtMDAwMDcyNzY5XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTUvYmIv0KYtMDAwMDcyNzY5XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Borofone</vendor>
-<vendorCode>Ц-000072769</vendorCode>
-<code>754543</code>
-<name>Навушники з мікрофоном 3.5mm  Borofone BM39 Refined — White</name>
-<description><![CDATA[BOROFONE BM39 Refined chant - это наушники подходящие, ко всем современным смартфонам и планшетам. Корпус наушников приятный на ощупь, а современный дизайн сочетает в себе удобство и функциональность. С данной моделью наушников вы будете наслаждаться, хорошим акустическим звуком, а удобная форма не даст уставать ушам при длительном прослушивании любимых треков. Спикер: 10мм Аудио разъем: Ø3.5мм Кабель наушников: TPE Длина кабеля: 1.2м Вес: 10 г Микрофон: пульт с микрофоном Проводное управление: управление одной кнопкой]]></description>
-<quantity_in_stock>10</quantity_in_stock>
-<param name="Бренд">Borofone</param>
-<param name="Аудіо товари">Навушники з мікрофоном 3.5mm</param>
-<param name="Интерфейс подключения">3.5mm</param>
-</offer>
 <offer id="ts000073886000023775" available="true">
 <url>https://kmt5.com.ua/navushniki-z-mkrofonom-35mm-borofone-bm82-art-music-black</url>
 <price>103.0</price>
@@ -187430,10 +187387,10 @@
 </offer>
 <offer id="ts000083216" available="true">
 <url>https://kmt5.com.ua/game-console-hoco-ga40</url>
-<price>1104.0</price>
-<vendorprice>567.0</vendorprice>
-<vendorpricedoll>12.6</vendorpricedoll>
-<rrcdoll>24.54</rrcdoll>
+<price>873.0</price>
+<vendorprice>437.0</vendorprice>
+<vendorpricedoll>9.7</vendorpricedoll>
+<rrcdoll>19.4</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>31030467</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDYvOTUv0KYtMDAwMDgzMjE2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -193443,22 +193400,6 @@
 <code>791420</code>
 <name>Брелок Braid Flower  — Blue&amp;Red</name>
 <quantity_in_stock>4</quantity_in_stock>
-<param name="Бренд">Различные</param>
-</offer>
-<offer id="ts000083984000031779" available="true">
-<url>https://kmt5.com.ua/brelok-braid-flower-yellowwhite</url>
-<price>86.0</price>
-<vendorprice>43.0</vendorprice>
-<vendorpricedoll>0.95</vendorpricedoll>
-<rrcdoll>1.9</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>16846687</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTMvZjAv0KYtMDAwMDgzOTg0XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000083984</vendorCode>
-<code>791419</code>
-<name>Брелок Braid Flower  — Yellow&amp;Pink</name>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Бренд">Различные</param>
 </offer>
 <offer id="ts000082788000030753" available="true">
