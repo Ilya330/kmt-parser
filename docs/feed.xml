@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-16 09:16">
+<yml_catalog date="2026-08-16 15:10">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -200,7 +200,6 @@
 <category id="16954560" parentId="73186307">Lightning To Hdmi</category>
 <category id="88764317" parentId="73186307">USB C To DC</category>
 <category id="81345347" parentId="73186307">USB C To DP</category>
-<category id="68265371" parentId="73186307">USB C To HDMI</category>
 <category id="991862" parentId="73186307">USB C To HDTV</category>
 <category id="97528101" parentId="73186307">USB C To Lan</category>
 <category id="15799504" parentId="73186307">USB C To Magsafe</category>
@@ -45519,28 +45518,6 @@
 <param name="Материал">PU кожа</param>
 <param name="Цвет">Mix Color</param>
 </offer>
-<offer id="ts000077675000026871" available="true">
-<url>https://kmt5.com.ua/leather-case-with-magsafe-iphone-15-mulberry</url>
-<price>595.0</price>
-<vendorprice>356.0</vendorprice>
-<vendorpricedoll>7.9</vendorpricedoll>
-<rrcdoll>13.23</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>16203878</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDMvMGUv0KYtMDAwMDc3Njc1XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODIvMzIv0KYtMDAwMDc3Njc1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000077675</vendorCode>
-<code>778098</code>
-<name>Leather Case With Magsafe iPhone 15 — Mulberry</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 15</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">PU кожа</param>
-<param name="Цвет">Mix Color</param>
-</offer>
 <offer id="ts000077675000026870" available="true">
 <url>https://kmt5.com.ua/leather-case-with-magsafe-iphone-15-pacific-blue</url>
 <price>595.0</price>
@@ -70097,28 +70074,6 @@
 <param name="Модель девайса">Apple iPhone 16 Plus</param>
 <param name="Бренд">Apple</param>
 <param name="Материал">Полиуретан</param>
-</offer>
-<offer id="ts000073051000025778" available="true">
-<url>https://kmt5.com.ua/protective-camera-case-with-magsafe-iphone-13-white</url>
-<price>239.0</price>
-<vendorprice>144.0</vendorprice>
-<vendorpricedoll>3.2</vendorpricedoll>
-<rrcdoll>5.3</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>70706401</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmIvNzIv0KYtMDAwMDczMDUxXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzQvNjQv0KYtMDAwMDczMDUxXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000073051</vendorCode>
-<code>775768</code>
-<name>Protective camera Case with MagSafe iPhone 13 — White</name>
-<description><![CDATA[Чехол Apple Protective camera Case with MagSafe это лучший формат защиты вашего нового iPhone. Он идеально обойдет его формы и кнопки, и не придаст габаритности устройству, а также защитит его от царапин и падений. Внутренняя часть чехла имеет отделку из микрофибры, которая эффективно защищает корпус iPhone от царапин, а внешняя часть покрыта силиконовым материалом, который очень приятный на ощупь и не скользит в руке, что позволяет уверенно держать телефон в руке во время использования.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 13 6.1&quot;</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Силикон</param>
 </offer>
 <offer id="ts000073055000022619" available="true">
 <url>https://kmt5.com.ua/protective-camera-case-with-magsafe-iphone-14-plus-cangling-green</url>
@@ -139505,29 +139460,6 @@
 <param name="Бренд">Различные</param>
 <param name="Переходники">Adapter USB C To DP</param>
 </offer>
-<offer id="ts000078145000026426" available="true">
-<url>https://kmt5.com.ua/adapter-usb-c-to-hdtv-hoco-ua19-metal-gray</url>
-<price>375.0</price>
-<vendorprice>203.0</vendorprice>
-<vendorpricedoll>4.5</vendorpricedoll>
-<rrcdoll>8.33</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>68265371</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODUvYmQv0KYtMDAwMDc4MTQ1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmIvYzgv0KYtMDAwMDc4MTQ1XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTYvZjMv0KYtMDAwMDc4MTQ1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDgvM2Yv0KYtMDAwMDc4MTQ1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTIvODMv0KYtMDAwMDc4MTQ1XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWMvZmYv0KYtMDAwMDc4MTQ1XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000078145</vendorCode>
-<code>777112</code>
-<name>Adapter USB C To HDTV Hoco UA19 — Metal Gray</name>
-<description><![CDATA[Материал: Сплав цинка. Размер: 4222.58.5 мм; Вес: 20 г. Интерфейс: Type-C мужской - HDMI женский. Разрешение: 4K 30 Гц (3840*2160P). Поддержка мобильных телефонов, планшетов и ноутбуков с Type-C и функцией Display Port (DP) (поддерживает некоторые ноутбуки, очень немногие мобильные телефоны/планшеты).]]></description>
-<quantity_in_stock>5</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Переходники">Adapter USB C To HDTV</param>
-</offer>
 <offer id="ts000078143000026424" available="true">
 <url>https://kmt5.com.ua/adapter-usb-c-to-hdtv-hoco-ua20-metal-gray</url>
 <price>452.0</price>
@@ -142269,27 +142201,6 @@
 <name>Бездротова миша — WiWU WM104 — Silver</name>
 <description><![CDATA[Плавная навигация с меньшим шумом щелчка мыши. Тонкий эргономичный дизайн и гладкая матовая поверхность обеспечивают невероятный пользовательский опыт. Более тихий и легкий щелчок позволит вам сосредоточиться на своей работе, не мешая другим людям рядом с вами. Стабильное соединение и энергоэффективность - беспроводная мышь обеспечивает мощное, надежное соединение, эффективное. Беспроводная мышь: 2.4G и Bluetooth Оптическое разрешение: 800/1200/1600dp Версия беспроводного соединения: 5.0 Размер устройства: 110*56*30 мм Вес нетто: 58,1 г±5 г Клавиши：4]]></description>
 <quantity_in_stock>5</quantity_in_stock>
-<param name="Бренд">Wiwu</param>
-<param name="Компьютерные аксессуары">Компьютерные мыши</param>
-</offer>
-<offer id="ts000075777000024579" available="true">
-<url>https://kmt5.com.ua/bezdrotova-misha-wiwu-wm105-gray</url>
-<price>757.0</price>
-<vendorprice>401.0</vendorprice>
-<vendorpricedoll>8.9</vendorpricedoll>
-<rrcdoll>16.82</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>84259818</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDYvZTUv0KYtMDAwMDc1Nzc3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTkvYzgv0KYtMDAwMDc1Nzc3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDAvOTQv0KYtMDAwMDc1Nzc3XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTAvY2Uv0KYtMDAwMDc1Nzc3XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Wiwu</vendor>
-<vendorCode>Ц-000075777</vendorCode>
-<code>771194</code>
-<name>Бездротова миша — WiWU WM105 — Gray</name>
-<description><![CDATA[Беспроводная мышка WIWU Magic Mouse (WM103) — обязательный аксессуар для всех, кто часто пользуется ноутбуками и планшетами от Apple и хочет делать это с максимальным комфортом. Этот гаджет выполнен в классическом дизайне без излишеств, благодаря чему им удобно пользоваться. Мышка подключается напрямую к устройству по протоколу Bluetooth и способна проработать до месяца без необходимости в подзарядке. Совместима с MacBook и iPad Изготовлена из высококачественных материалов Выполнена в классическом дизайне Apple Подключается с помощью Bluetooth Имеет запас автономности до 1 месяца Оснащена улучшенными ножками для плавного скольжения по столу]]></description>
-<quantity_in_stock>4</quantity_in_stock>
 <param name="Бренд">Wiwu</param>
 <param name="Компьютерные аксессуары">Компьютерные мыши</param>
 </offer>
@@ -145746,29 +145657,6 @@
 <name>Портативна колонка Earldom ET-A49</name>
 <quantity_in_stock>15</quantity_in_stock>
 <param name="Бренд">Earldom</param>
-<param name="Аудіо товари">Портативні колонки</param>
-</offer>
-<offer id="ts000070923000019477" available="true">
-<url>https://kmt5.com.ua/portativna-kolonka-hoco-hc1-trendy-sound-sports-black</url>
-<price>622.0</price>
-<vendorprice>333.0</vendorprice>
-<vendorpricedoll>7.4</vendorpricedoll>
-<rrcdoll>13.81</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>31204796</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWUvYjgv0KYtMDAwMDcwOTIzXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzgvZWIv0KYtMDAwMDcwOTIzXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDMvM2Mv0KYtMDAwMDcwOTIzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjkvOTEv0KYtMDAwMDcwOTIzXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWYvY2Qv0KYtMDAwMDcwOTIzXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWUvNzcv0KYtMDAwMDcwOTIzXzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000070923</vendorCode>
-<code>749020</code>
-<name>Портативна колонка Hoco HC1 Trendy sound sports__ — Black</name>
-<description><![CDATA[Hoco HC1 - это компактное и мощное аудио-устройство, которое позволяет наслаждаться качественным звуком в любом месте. Она легкая и удобная в использовании, что делает ее идеальным спутником для поездок, прогулок и вечеринок. Эта колонка поддерживает беспроводную связь через Bluetooth, что позволяет быстро и легко соединить ее со смартфоном или планшетом и наслаждаться любимой музыкой без проводов. Колонка оснащена мощным аккумулятором, обеспечивающим длительное время работы, а ее стильный дизайн подойдет для любого интерьера. Размер: 142*85*85мм Вес: 380г BT: 5.0 Чип: JL Емкость батареи: 1200mAh Время зарядки: около 2 часов В режиме звонков / музыки: 4 часа Спикер: 52мм Мощность: 5W Поддержка BT, TWS, TF card, USB, AUX, FM и других режимов воспроизведения]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Hoco</param>
 <param name="Аудіо товари">Портативні колонки</param>
 </offer>
 <offer id="ts000077716000030109" available="true">
@@ -163174,26 +163062,6 @@
 <param name="Материал">Ткань</param>
 <param name="Аксессуары Для Смарт Часов">Браслеты</param>
 </offer>
-<offer id="ts000082984000030934" available="true">
-<url>https://kmt5.com.ua/remnets-mounting-nylon-strap-unversalniy-22-mm-water-red</url>
-<price>160.0</price>
-<vendorprice>81.0</vendorprice>
-<vendorpricedoll>1.8</vendorpricedoll>
-<rrcdoll>3.54</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>66318281</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODUvN2Uv0KYtMDAwMDgyOTg0XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTkvMDQv0KYtMDAwMDgyOTg0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082984</vendorCode>
-<code>789605</code>
-<name>Ремінець Mounting Nylon Strap Універсальний 22 mm — Lavander</name>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Марка">Universal</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Ткань</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
 <offer id="ts000082984000030933" available="true">
 <url>https://kmt5.com.ua/remnets-mounting-nylon-strap-unversalniy-22-mm-feng-xing</url>
 <price>160.0</price>
@@ -167264,27 +167132,6 @@
 <code>789620</code>
 <name>Ремінець Pebbled Magnetic Strap — Універсальний 22 mm — Midnight Blue</name>
 <quantity_in_stock>16</quantity_in_stock>
-<param name="Марка">Universal</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Силикон</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
-<offer id="ts000082986000030948" available="true">
-<url>https://kmt5.com.ua/remnets-pebbled-magnetic-strap-unversalniy-22-mm-oxford-pinkstarlight</url>
-<price>283.0</price>
-<vendorprice>144.0</vendorprice>
-<vendorpricedoll>3.2</vendorpricedoll>
-<rrcdoll>6.29</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>66318281</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmEvOTkv0KYtMDAwMDgyOTg2XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGEvZmYv0KYtMDAwMDgyOTg2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGUvMGIv0KYtMDAwMDgyOTg2XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082986</vendorCode>
-<code>789621</code>
-<name>Ремінець Pebbled Magnetic Strap — Універсальний 22 mm — Oxford Pink&amp;Starlight</name>
-<quantity_in_stock>2</quantity_in_stock>
 <param name="Марка">Universal</param>
 <param name="Бренд">Различные</param>
 <param name="Материал">Силикон</param>
