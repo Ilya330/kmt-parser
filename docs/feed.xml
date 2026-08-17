@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-17 04:30">
+<yml_catalog date="2026-08-17 09:28">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -259,6 +259,8 @@
 <category id="4863332" parentId="29159238">Xiaomi Mi Band 9</category>
 <category id="78104130" parentId="29159238">Ремінець універсальний 20 mm</category>
 <category id="66318281" parentId="29159238">Ремінець універсальний 22 mm</category>
+<category id="6043889" parentId="49527981">Браслети (годинник)</category>
+<category id="96847083" parentId="6043889">Apple watch 42 mm / 44 mm / 45 mm</category>
 <category id="96903966" parentId="49527981">Зарядні пристрої</category>
 <category id="14409882" parentId="96903966">MIX</category>
 <category id="40243847" parentId="96903966">Xiaomi Mi Band</category>
@@ -299,6 +301,10 @@
 <category id="4979007" parentId="3222">Штатив консольний</category>
 <category id="29251914" parentId="3222">Штативи</category>
 <category id="72282945" parentId="3222">Штативи триподи</category>
+<category id="2113882">Чохли</category>
+<category id="37750228" parentId="2113882">Apple</category>
+<category id="8738120" parentId="37750228">Macbook</category>
+<category id="5726391" parentId="37750228">iPhone 12 Series</category>
 <category id="18921163">Чохли для навушників</category>
 <category id="25114232" parentId="18921163">Airpods 1/2</category>
 <category id="39278904" parentId="18921163">Airpods 3</category>
@@ -55445,6 +55451,31 @@
 <param name="Бренд">Apple</param>
 <param name="Материал">Полиуретан</param>
 </offer>
+<offer id="ts000069683000020618" available="true">
+<url>https://kmt5.com.ua/original-silicone-case-full-size-iphone-12-12-pro-61-pink-sand-19</url>
+<price>136.0</price>
+<vendorprice>81.0</vendorprice>
+<vendorpricedoll>1.8</vendorpricedoll>
+<rrcdoll>3.01</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>5726391</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjYvNDkv0KYtMDAwMDY5NjgzXzE5LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGMvZmEv0KYtMDAwMDY5NjgzXzE1LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODgvMGYv0KYtMDAwMDY5NjgzXzI3LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzYvM2Mv0KYtMDAwMDY5NjgzXzI4LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjAvOGUv0KYtMDAwMDY5NjgzXzI5LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjQvZGUv0KYtMDAwMDY5NjgzXzMwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000069683</vendorCode>
+<code>750872</code>
+<name>Original Silicone Case Full Size iPhone 12 ; 12 Pro 6.1&quot; — Pink Sand (19)</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 12 6.1&quot;, Apple iPhone 12 Pro 6.1&quot;</param>
+<param name="Бренд">Apple</param>
+<param name="Материал">Полиуретан</param>
+</offer>
 <offer id="ts000069683000021648" available="true">
 <url>https://kmt5.com.ua/original-silicone-case-full-size-iphone-12-12-pro-61-red</url>
 <price>136.0</price>
@@ -61025,6 +61056,27 @@
 <code>746798</code>
 <name>Original Silicone Case Samsung S20 FE — Gray Green</name>
 <quantity_in_stock>3</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Samsung</param>
+<param name="Модель девайса">Samsung S20 FE</param>
+<param name="Бренд">Различные</param>
+<param name="Материал">Силикон</param>
+</offer>
+<offer id="ts000070147000017954" available="true">
+<url>https://kmt5.com.ua/original-silicone-case-samsung-s20-fe-green</url>
+<price>168.0</price>
+<vendorprice>95.0</vendorprice>
+<vendorpricedoll>2.1</vendorpricedoll>
+<rrcdoll>3.72</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>99944678</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzcvOGIv0KYtMDAwMDcwMTQ3XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGQvNDUv0KYtMDAwMDcwMTQ3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000070147</vendorCode>
+<code>746379</code>
+<name>Original Silicone Case Samsung S20 FE — Green</name>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Samsung</param>
 <param name="Модель девайса">Samsung S20 FE</param>
@@ -84906,6 +84958,28 @@
 <param name="Бренд">Apple</param>
 <param name="Материал">Силикон</param>
 </offer>
+<offer id="ts000083289000031535" available="true">
+<url>https://kmt5.com.ua/smoky-case-with-magsafe-samsung-s25-fe-black</url>
+<price>233.0</price>
+<vendorprice>135.0</vendorprice>
+<vendorpricedoll>2.98</vendorpricedoll>
+<rrcdoll>5.17</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>43902800</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2IvMTcv0KYtMDAwMDgzMjg5XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTQvYzEv0KYtMDAwMDgzMjg5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmQvYTYv0KYtMDAwMDgzMjg5XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000083289</vendorCode>
+<code>790503</code>
+<name>Smoky Case with MagSafe — Samsung S25 FE — Black</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Samsung</param>
+<param name="Модель девайса">Samsung S25 FE</param>
+<param name="Бренд">Различные</param>
+<param name="Материал">Силикон</param>
+</offer>
 <offer id="ts000083288000031534" available="true">
 <url>https://kmt5.com.ua/smoky-case-with-magsafe-samsung-s25-ultra-black</url>
 <price>233.0</price>
@@ -104868,6 +104942,27 @@
 <param name="Бренд">Apple</param>
 <param name="Материал">Силикон</param>
 </offer>
+<offer id="ts000073694000023533" available="true">
+<url>https://kmt5.com.ua/crystal-case-macbook-air-133-a1932a2179a2337-black</url>
+<price>398.0</price>
+<vendorprice>225.0</vendorprice>
+<vendorpricedoll>5.0</vendorpricedoll>
+<rrcdoll>8.85</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>61259600</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjAvMjcv0KYtMDAwMDczNjk0XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODQvYzQv0KYtMDAwMDczNjk0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000073694</vendorCode>
+<code>756190</code>
+<name>Crystal Case MacBook Air 13.3&quot; A1932 ; A2179 ; A2337 — Black</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Macbook Air 13.3 A1932/A2179/A2337</param>
+<param name="Бренд">Apple</param>
+<param name="Материал">Силикон</param>
+</offer>
 <offer id="ts000073694000023532" available="true">
 <url>https://kmt5.com.ua/crystal-case-macbook-air-133-a1932a2179a2337-clear</url>
 <price>398.0</price>
@@ -104930,6 +105025,27 @@
 <param name="Бренд">Apple</param>
 <param name="Материал">Силикон</param>
 </offer>
+<offer id="ts000083754000031675" available="true">
+<url>https://kmt5.com.ua/crystal-case-macbook-neo-13-a3404-clear</url>
+<price>421.0</price>
+<vendorprice>234.0</vendorprice>
+<vendorpricedoll>5.2</vendorpricedoll>
+<rrcdoll>9.35</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>8738120</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2EvOTcv0KYtMDAwMDgzNzU0XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDIvNzIv0KYtMDAwMDgzNzU0XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000083754</vendorCode>
+<code>791089</code>
+<name>Crystal Case MacBook Neo 13'' A3404 — Clear</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Macbook Neo 13 A3404</param>
+<param name="Бренд">Apple</param>
+<param name="Материал">Силикон</param>
+</offer>
 <offer id="ts000073695000023535" available="true">
 <url>https://kmt5.com.ua/crystal-case-macbook-pro-133-a1706-a1708-a1989-a2159-a2289-a2251-a2338-m2-a2338-clear</url>
 <price>399.0</price>
@@ -104947,6 +105063,26 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Macbook Pro 13.3</param>
+<param name="Бренд">Apple</param>
+<param name="Материал">Силикон</param>
+</offer>
+<offer id="ts000080248000028683" available="true">
+<url>https://kmt5.com.ua/crystal-case-macbook-pro-142-a2442-clear</url>
+<price>399.0</price>
+<vendorprice>234.0</vendorprice>
+<vendorpricedoll>5.2</vendorpricedoll>
+<rrcdoll>8.86</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>61259600</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWUvZDIv0KYtMDAwMDgwMjQ4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000080248</vendorCode>
+<code>782487</code>
+<name>Crystal Case MacBook Pro 14.2&quot; A2442  — Clear</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Macbook Pro 14.2</param>
 <param name="Бренд">Apple</param>
 <param name="Материал">Силикон</param>
 </offer>
@@ -105245,6 +105381,27 @@
 <param name="Форм фактор">Чехол для ключей</param>
 <param name="Бренд">Различные</param>
 </offer>
+<offer id="ts000072493000021943" available="true">
+<url>https://kmt5.com.ua/protective-case-macbook-air-13-a1932-a2179-a2337-black</url>
+<price>456.0</price>
+<vendorprice>266.0</vendorprice>
+<vendorpricedoll>5.9</vendorpricedoll>
+<rrcdoll>10.12</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>61259600</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTQvZTQv0KYtMDAwMDcyNDkzXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmMvNWEv0KYtMDAwMDcyNDkzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000072493</vendorCode>
+<code>753292</code>
+<name>Protective Case MacBook Air 13'' A1932 ; A2179 ; A2337 — Black</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Macbook Air 13.3 A1932/A2179/A2337</param>
+<param name="Бренд">Apple</param>
+<param name="Материал">Силикон</param>
+</offer>
 <offer id="ts000072493000025723" available="true">
 <url>https://kmt5.com.ua/protective-case-macbook-air-13-a1932-a2179-a2337-deep-blue</url>
 <price>456.0</price>
@@ -105281,6 +105438,27 @@
 <code>775112</code>
 <name>Protective Case MacBook Air 13'' A1932 ; A2179 ; A2337 — New Pink</name>
 <quantity_in_stock>2</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Macbook Air 13.3 A1932/A2179/A2337</param>
+<param name="Бренд">Apple</param>
+<param name="Материал">Силикон</param>
+</offer>
+<offer id="ts000072493000021944" available="true">
+<url>https://kmt5.com.ua/protective-case-macbook-air-13-a1932-a2179-a2337-white</url>
+<price>456.0</price>
+<vendorprice>266.0</vendorprice>
+<vendorpricedoll>5.9</vendorpricedoll>
+<rrcdoll>10.12</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>8738120</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2UvOGEv0KYtMDAwMDcyNDkzXzE2LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmMvNWEv0KYtMDAwMDcyNDkzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000072493</vendorCode>
+<code>753293</code>
+<name>Protective Case MacBook Air 13'' A1932 ; A2179 ; A2337 — White</name>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Macbook Air 13.3 A1932/A2179/A2337</param>
@@ -105514,6 +105692,88 @@
 <param name="Бренд">Apple</param>
 <param name="Материал">Силикон</param>
 </offer>
+<offer id="ts000073700000023550" available="true">
+<url>https://kmt5.com.ua/pu-sleeve-case-macbook-13-black</url>
+<price>605.0</price>
+<vendorprice>338.0</vendorprice>
+<vendorpricedoll>7.5</vendorpricedoll>
+<rrcdoll>13.45</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>8738120</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2YvZTcv0KYtMDAwMDczNzAwXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTMvNjIv0KYtMDAwMDczNzAwXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWUvNDIv0KYtMDAwMDczNzAwXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjIvZWMv0KYtMDAwMDczNzAwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTQvMjUv0KYtMDAwMDczNzAwXzE1LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDIvN2Uv0KYtMDAwMDczNzAwXzE2LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2EvZjMv0KYtMDAwMDczNzAwXzE3LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODEvYzgv0KYtMDAwMDczNzAwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTIvMmUv0KYtMDAwMDczNzAwXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000073700</vendorCode>
+<code>756213</code>
+<name>PU Sleeve Case MacBook 13'' — Black</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Macbook Air 13</param>
+<param name="Бренд">Apple</param>
+<param name="Материал">Силикон</param>
+</offer>
+<offer id="ts000073700000030623" available="true">
+<url>https://kmt5.com.ua/pu-sleeve-case-macbook-13-blue</url>
+<price>605.0</price>
+<vendorprice>338.0</vendorprice>
+<vendorpricedoll>7.5</vendorpricedoll>
+<rrcdoll>13.45</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>61259600</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGUvYTYv0KYtMDAwMDczNzAwXzE4LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWUvNDIv0KYtMDAwMDczNzAwXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjIvZWMv0KYtMDAwMDczNzAwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTQvMjUv0KYtMDAwMDczNzAwXzE1LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDIvN2Uv0KYtMDAwMDczNzAwXzE2LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2EvZjMv0KYtMDAwMDczNzAwXzE3LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODEvYzgv0KYtMDAwMDczNzAwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTIvMmUv0KYtMDAwMDczNzAwXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000073700</vendorCode>
+<code>788953</code>
+<name>PU Sleeve Case MacBook 13'' — Blue</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Macbook Air 13</param>
+<param name="Бренд">Apple</param>
+<param name="Материал">Силикон</param>
+</offer>
+<offer id="ts000073700000030621" available="true">
+<url>https://kmt5.com.ua/pu-sleeve-case-macbook-13-brown</url>
+<price>605.0</price>
+<vendorprice>338.0</vendorprice>
+<vendorpricedoll>7.5</vendorpricedoll>
+<rrcdoll>13.45</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>61259600</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2IvMjcv0KYtMDAwMDczNzAwXzE5LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWUvNDIv0KYtMDAwMDczNzAwXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjIvZWMv0KYtMDAwMDczNzAwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTQvMjUv0KYtMDAwMDczNzAwXzE1LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDIvN2Uv0KYtMDAwMDczNzAwXzE2LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2EvZjMv0KYtMDAwMDczNzAwXzE3LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODEvYzgv0KYtMDAwMDczNzAwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTIvMmUv0KYtMDAwMDczNzAwXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000073700</vendorCode>
+<code>788951</code>
+<name>PU Sleeve Case MacBook 13'' — Brown</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Macbook Air 13</param>
+<param name="Бренд">Apple</param>
+<param name="Материал">Силикон</param>
+</offer>
 <offer id="ts000073700000030622" available="true">
 <url>https://kmt5.com.ua/pu-sleeve-case-macbook-13-gray</url>
 <price>605.0</price>
@@ -105596,6 +105856,33 @@
 <param name="Бренд">Apple</param>
 <param name="Материал">Силикон</param>
 </offer>
+<offer id="ts000073700000023552" available="true">
+<url>https://kmt5.com.ua/pu-sleeve-case-macbook-13-pink</url>
+<price>605.0</price>
+<vendorprice>338.0</vendorprice>
+<vendorpricedoll>7.5</vendorpricedoll>
+<rrcdoll>13.45</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>61259600</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGIvNjQv0KYtMDAwMDczNzAwXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWUvNDIv0KYtMDAwMDczNzAwXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjIvZWMv0KYtMDAwMDczNzAwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTQvMjUv0KYtMDAwMDczNzAwXzE1LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDIvN2Uv0KYtMDAwMDczNzAwXzE2LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2EvZjMv0KYtMDAwMDczNzAwXzE3LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODEvYzgv0KYtMDAwMDczNzAwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTIvMmUv0KYtMDAwMDczNzAwXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000073700</vendorCode>
+<code>756215</code>
+<name>PU Sleeve Case MacBook 13'' — Pink</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Macbook Air 13</param>
+<param name="Бренд">Apple</param>
+<param name="Материал">Силикон</param>
+</offer>
 <offer id="ts000073700000025850" available="true">
 <url>https://kmt5.com.ua/pu-sleeve-case-macbook-13-red</url>
 <price>605.0</price>
@@ -105648,6 +105935,31 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Macbook Air 13</param>
+<param name="Бренд">Apple</param>
+<param name="Материал">Силикон</param>
+</offer>
+<offer id="ts000077637000030628" available="true">
+<url>https://kmt5.com.ua/pu-sleeve-case-macbook-15-blue</url>
+<price>609.0</price>
+<vendorprice>338.0</vendorprice>
+<vendorpricedoll>7.5</vendorpricedoll>
+<rrcdoll>13.54</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>61259600</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTMvYjYv0KYtMDAwMDc3NjM3XzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzUvYTcv0KYtMDAwMDc3NjM3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzcvMTEv0KYtMDAwMDc3NjM3XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDYvYTQv0KYtMDAwMDc3NjM3XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODgvNWIv0KYtMDAwMDc3NjM3XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjgvOTcv0KYtMDAwMDc3NjM3XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000077637</vendorCode>
+<code>788958</code>
+<name>PU Sleeve Case MacBook 15'' — Blue</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Macbook Air 15 A2941</param>
 <param name="Бренд">Apple</param>
 <param name="Материал">Силикон</param>
 </offer>
@@ -105824,6 +106136,31 @@
 <param name="Бренд">Различные</param>
 <param name="Материал">Силикон</param>
 </offer>
+<offer id="ts000082574000030568" available="true">
+<url>https://kmt5.com.ua/tpupc-hardshell-case-macbook-air-136-a2681-gray</url>
+<price>746.0</price>
+<vendorprice>441.0</vendorprice>
+<vendorpricedoll>9.8</vendorpricedoll>
+<rrcdoll>16.57</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>61259600</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDEvYWQv0KYtMDAwMDgyNTc0XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDIvMmYv0KYtMDAwMDgyNTc0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjgvYWIv0KYtMDAwMDgyNTc0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWUvMTUv0KYtMDAwMDgyNTc0XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmMvNmQv0KYtMDAwMDgyNTc0XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2YvYjAv0KYtMDAwMDgyNTc0XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000082574</vendorCode>
+<code>788835</code>
+<name>TPU+PC HardShell Case MacBook Air 13.6&quot; A2681 — Gray</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Macbook Air 13.6 A2681</param>
+<param name="Бренд">Apple</param>
+<param name="Материал">Силикон</param>
+</offer>
 <offer id="ts000082576000030573" available="true">
 <url>https://kmt5.com.ua/tpupc-hardshell-case-macbook-air-15-a2941-black</url>
 <price>746.0</price>
@@ -105923,6 +106260,27 @@
 <code>788839</code>
 <name>TPU+PC HardShell Case MacBook Pro 14.2&quot; A2442 — Black</name>
 <quantity_in_stock>12</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Macbook Pro 14.2 A2442</param>
+<param name="Бренд">Apple</param>
+<param name="Материал">Силикон</param>
+</offer>
+<offer id="ts000082575000030570" available="true">
+<url>https://kmt5.com.ua/tpupc-hardshell-case-macbook-pro-142-a2442-gray</url>
+<price>746.0</price>
+<vendorprice>441.0</vendorprice>
+<vendorpricedoll>9.8</vendorpricedoll>
+<rrcdoll>16.57</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>8738120</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzUvYzQv0KYtMDAwMDgyNTc1XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2EvOTQv0KYtMDAwMDgyNTc1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000082575</vendorCode>
+<code>788838</code>
+<name>TPU+PC HardShell Case MacBook Pro 14.2&quot; A2442 — Gray</name>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Macbook Pro 14.2 A2442</param>
@@ -127025,6 +127383,31 @@
 <param name="Зарядные устройства">Автомобильные</param>
 <param name="Сила тока и Мощность">3A</param>
 <param name="Цвет">Chrome</param>
+</offer>
+<offer id="ts000072684000022183" available="true">
+<url>https://kmt5.com.ua/azu-hoco-z46a-blue-whale-pd20wqc30-metal-gray</url>
+<price>246.0</price>
+<vendorprice>126.0</vendorprice>
+<vendorpricedoll>2.8</vendorpricedoll>
+<rrcdoll>5.45</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>88941842</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjMvZjAv0KYtMDAwMDcyNjg0XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjEvNmIv0KYtMDAwMDcyNjg0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDkvOWIv0KYtMDAwMDcyNjg0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTUvNzcv0KYtMDAwMDcyNjg0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDQvMWQv0KYtMDAwMDcyNjg0XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTcvOGQv0KYtMDAwMDcyNjg0XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Hoco</vendor>
+<vendorCode>Ц-000072684</vendorCode>
+<code>753716</code>
+<name>Car Charger | 20W | PD | USB QC3.0 | USB-C | — Hoco Z46A — Metal Gray</name>
+<description><![CDATA[Hoco Z46a – мощное автомобильное зарядное устройство. Имеет встроенные 2 порта – USB и Type-C с поддержкой технологий быстрого заряда QC3.0A и PD 20W соответственно. Корпус сделан из алюминия и предусмотрена многоуровневая система защиты. В комплекте идет кабель Type-C to Lightning. Размер : 54*25mm. Вес : 20г. Тип : Автомобильные. Питание : От прикуривателя. Совместимость : Универсальный. Количество портов : 1USB, 1 Type-C. Вид : Универсальные блоки питания. Выходной ток : 3A. Особенности ЗУ : Функция быстрой зарядки. Цвет : Серый. Слоты зарядки : 1, 2. Сила тока : 3.0А.]]></description>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Колво USB портов">1 U | 1 C</param>
+<param name="Зарядные устройства">Автомобильные</param>
+<param name="Сила тока и Мощность">20W</param>
 </offer>
 <offer id="ts000080416" available="true">
 <url>https://kmt5.com.ua/car-charger-20w-q-30-usbc-veron-t07-metal-wp</url>
@@ -164520,6 +164903,28 @@
 <param name="Материал">Силикон</param>
 <param name="Аксессуары Для Смарт Часов">Браслеты</param>
 </offer>
+<offer id="ts000037062000013003" available="true">
+<url>https://kmt5.com.ua/original-design-bracelet-apple-watch-42-mm-44-mm-green-52503</url>
+<price>60.0</price>
+<vendorprice>31.0</vendorprice>
+<vendorpricedoll>0.67</vendorpricedoll>
+<rrcdoll>1.32</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>96847083</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjcvMWYv0KYtMDAwMDM3MDYyXzIzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTIvZWYv0KYtMDAwMDM3MDYyXzI0LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWMvZTMv0KYtMDAwMDM3MDYyXzU3LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000037062</vendorCode>
+<code>734943</code>
+<name>Ремінець Sport Band Apple Watch 42 mm 44 mm 45 mm 49 mm — Green (31)</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Watch Series 3 42 mm, Apple Watch Series 4 44 mm, Apple Watch Series 7 45 mm, Apple Watch Series 8 49 mm</param>
+<param name="Бренд">Различные</param>
+<param name="Материал">Силикон</param>
+<param name="Аксессуары Для Смарт Часов">Браслеты</param>
+</offer>
 <offer id="ts000037062000016280" available="true">
 <url>https://kmt5.com.ua/original-design-bracelet-apple-watch-42-mm-44-mm-ice-blue-21</url>
 <price>60.0</price>
@@ -166911,6 +167316,27 @@
 <code>789620</code>
 <name>Ремінець Pebbled Magnetic Strap — Універсальний 22 mm — Midnight Blue</name>
 <quantity_in_stock>16</quantity_in_stock>
+<param name="Марка">Universal</param>
+<param name="Бренд">Различные</param>
+<param name="Материал">Силикон</param>
+<param name="Аксессуары Для Смарт Часов">Браслеты</param>
+</offer>
+<offer id="ts000082986000030948" available="true">
+<url>https://kmt5.com.ua/remnets-pebbled-magnetic-strap-unversalniy-22-mm-oxford-pinkstarlight</url>
+<price>283.0</price>
+<vendorprice>144.0</vendorprice>
+<vendorpricedoll>3.2</vendorpricedoll>
+<rrcdoll>6.29</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>66318281</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmEvOTkv0KYtMDAwMDgyOTg2XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGEvZmYv0KYtMDAwMDgyOTg2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGUvMGIv0KYtMDAwMDgyOTg2XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000082986</vendorCode>
+<code>789621</code>
+<name>Ремінець Pebbled Magnetic Strap — Універсальний 22 mm — Oxford Pink&amp;Starlight</name>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Марка">Universal</param>
 <param name="Бренд">Различные</param>
 <param name="Материал">Силикон</param>
@@ -185208,6 +185634,28 @@
 <param name="Способ установки">на підголовник сидіння</param>
 <param name="Способ крепления">розсувний</param>
 <param name="Цвет">Multi Color</param>
+</offer>
+<offer id="ts000072739000022626" available="true">
+<url>https://kmt5.com.ua/avtotrimach-rozsuvniy-na-povtroprovd-borofone-bh69-black</url>
+<price>204.0</price>
+<vendorprice>135.0</vendorprice>
+<vendorpricedoll>3.0</vendorpricedoll>
+<rrcdoll>4.53</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>29376332</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWEvMWIv0KYtMDAwMDcyNzM5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmEvMzkv0KYtMDAwMDcyNzM5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTIvNTAv0KYtMDAwMDcyNzM5XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Borofone</vendor>
+<vendorCode>Ц-000072739</vendorCode>
+<code>754531</code>
+<name>Автотримач розсувний на повітропровід Borofone BH69 — Black</name>
+<description><![CDATA[Не отвлекаться в процессе езды, не искать место при использовании мобильного и других устройств автолюбителям поможет качественный держатель. Бренд Borofone предлагает функциональную модель BH69 Air Outlet Car Holder для телефона. Материал: ABS + силикон Технология поверхности: узор солнце Размер: 106*107*106 мм Вес: 97г Подходит для мобильного телефона 4,5-7 дюймов Диапазон патрона: 64-95 мм Применимая сцена: воздушное отверстие автомобиля]]></description>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Borofone</param>
+<param name="Автоаксессуары">Автотримачі</param>
+<param name="Способ установки">на повітропровід</param>
+<param name="Способ крепления">розсувний</param>
 </offer>
 <offer id="ts000077757" available="true">
 <url>https://kmt5.com.ua/avtotrimach-rozsuvniy-na-povtroprovd-d21a</url>
