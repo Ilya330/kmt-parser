@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-19 09:21">
+<yml_catalog date="2026-08-19 15:20">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -60,6 +60,8 @@
 <category id="31204796" parentId="10627703">Портативні колонки</category>
 <category id="89410283" parentId="50652989">Мікрофони</category>
 <category id="22933428" parentId="50652989">Накладні навушники</category>
+<category id="80796576" parentId="50652989">Чохли для AirPods</category>
+<category id="52376858" parentId="80796576">Airpods 4</category>
 <category id="58682601">Вентилятори</category>
 <category id="34592365">Все для дому</category>
 <category id="95805898" parentId="34592365">Інструменти</category>
@@ -170,6 +172,8 @@
 <category id="49469979" parentId="59033180">iPhone 17 Air</category>
 <category id="41373215" parentId="59033180">iPhone 17 Pro</category>
 <category id="71044671" parentId="59033180">iPhone 17 Pro Max</category>
+<category id="31771335" parentId="22594817">Захисне скло для камери</category>
+<category id="60705902" parentId="31771335">iPhone 12 Pro Max</category>
 <category id="3470392" parentId="22594817">Скло для смарт-годинників</category>
 <category id="60997769" parentId="3470392">44</category>
 <category id="91501704">Кабелі та Перехідники</category>
@@ -311,6 +315,10 @@
 <category id="37750228" parentId="2113882">Apple</category>
 <category id="8738120" parentId="37750228">Macbook</category>
 <category id="5726391" parentId="37750228">iPhone 12 Series</category>
+<category id="3890985" parentId="37750228">iPhone 13 Series</category>
+<category id="99363376" parentId="37750228">iPhone 14 Series</category>
+<category id="52500900" parentId="2113882">Samsung</category>
+<category id="88964695" parentId="52500900">A Series.</category>
 <category id="18921163">Чохли для навушників</category>
 <category id="25114232" parentId="18921163">Airpods 1/2</category>
 <category id="39278904" parentId="18921163">Airpods 3</category>
@@ -25490,6 +25498,27 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Samsung</param>
 <param name="Модель девайса">Samsung A35 5G</param>
+<param name="Бренд">Различные</param>
+<param name="Материал">Силикон</param>
+</offer>
+<offer id="ts000079766000027736" available="true">
+<url>https://kmt5.com.ua/be-happy-silicon-case-case-samsung-a55-5g-dog</url>
+<price>43.0</price>
+<vendorprice>25.0</vendorprice>
+<vendorpricedoll>0.55</vendorpricedoll>
+<rrcdoll>0.95</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>88964695</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTgvNGIv0KYtMDAwMDc5NzY2XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDkvZDMv0KYtMDAwMDc5NzY2XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000079766</vendorCode>
+<code>780041</code>
+<name>Be happy silicon Case Case — Samsung A55 5G — Dog</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Samsung</param>
+<param name="Модель девайса">Samsung A55 5G</param>
 <param name="Бренд">Различные</param>
 <param name="Материал">Силикон</param>
 </offer>
@@ -59771,27 +59800,6 @@
 <param name="Бренд">Apple</param>
 <param name="Материал">Силикон</param>
 </offer>
-<offer id="ts000079339000027172" available="true">
-<url>https://kmt5.com.ua/oc-matte-case-with-magsafe-iphone-15-pro-black</url>
-<price>180.0</price>
-<vendorprice>108.0</vendorprice>
-<vendorpricedoll>2.38</vendorpricedoll>
-<rrcdoll>4.0</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>16203878</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2UvYmYv0KYtMDAwMDc5MzM5XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGMvMDkv0KYtMDAwMDc5MzM5XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000079339</vendorCode>
-<code>779061</code>
-<name>OC Matte Case With MagSafe iPhone 15 Pro — Black</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 15 Pro</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Силикон</param>
-</offer>
 <offer id="ts000079339000027173" available="true">
 <url>https://kmt5.com.ua/oc-matte-case-with-magsafe-iphone-15-pro-pink</url>
 <price>180.0</price>
@@ -76655,6 +76663,28 @@
 <param name="Бренд">Apple</param>
 <param name="Материал">Силикон</param>
 </offer>
+<offer id="ts000075408000024135" available="true">
+<url>https://kmt5.com.ua/protective-camera-clear-case-with-magsafe-iphone-14-pro-pink</url>
+<price>246.0</price>
+<vendorprice>149.0</vendorprice>
+<vendorpricedoll>3.3</vendorpricedoll>
+<rrcdoll>5.46</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>99363376</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjEvMmUv0KYtMDAwMDc1NDA4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjEvOGUv0KYtMDAwMDc1NDA4XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000075408</vendorCode>
+<code>770401</code>
+<name>Protective camera Clear Case with MagSafe iPhone 14 Pro — Pink</name>
+<description><![CDATA[Чехол Apple Protective camera Case with MagSafe это лучший формат защиты вашего нового iPhone. Он идеально обойдет его формы и кнопки, и не придаст габаритности устройству, а также защитит его от царапин и падений. Внутренняя часть чехла имеет отделку из микрофибры, которая эффективно защищает корпус iPhone от царапин, а внешняя часть покрыта силиконовым материалом, который очень приятный на ощупь и не скользит в руке, что позволяет уверенно держать телефон в руке во время использования.]]></description>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 14 Pro 6.1&quot;</param>
+<param name="Бренд">Apple</param>
+<param name="Материал">Силикон</param>
+</offer>
 <offer id="ts000075408000024136" available="true">
 <url>https://kmt5.com.ua/protective-camera-clear-case-with-magsafe-iphone-14-pro-sierra-blue</url>
 <price>246.0</price>
@@ -77370,6 +77400,28 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 13 Pro Max 6.7&quot;</param>
+<param name="Бренд">Apple</param>
+<param name="Материал">Силикон</param>
+</offer>
+<offer id="ts000077315000025472" available="true">
+<url>https://kmt5.com.ua/protective-camera-matte-clear-case-with-magsafe-iphone-13-pro-</url>
+<price>216.0</price>
+<vendorprice>131.0</vendorprice>
+<vendorpricedoll>2.9</vendorpricedoll>
+<rrcdoll>4.8</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>3890985</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzQvNjIv0KYtMDAwMDc3MzE1XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2UvN2Uv0KYtMDAwMDc3MzE1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000077315</vendorCode>
+<code>773588</code>
+<name>Protective Camera Matte Clear Case With MagSafe iPhone 13 Pro — Pink</name>
+<description><![CDATA[Чехол Apple Protective camera Matte Case with MagSafe это лучший формат защиты вашего нового iPhone. Он идеально обойдет его формы и кнопки, и не придаст габаритности устройству, а также защитит его от царапин и падений. Внутренняя часть чехла имеет отделку из микрофибры, которая эффективно защищает корпус iPhone от царапин, а внешняя часть покрыта силиконовым материалом, который очень приятный на ощупь и не скользит в руке, что позволяет уверенно держать телефон в руке во время использования.]]></description>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 13 Pro 6.1&quot;</param>
 <param name="Бренд">Apple</param>
 <param name="Материал">Силикон</param>
 </offer>
@@ -80030,6 +80082,28 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Samsung</param>
 <param name="Модель девайса">Samsung A13</param>
+<param name="Бренд">Различные</param>
+<param name="Материал">Полиуретан</param>
+</offer>
+<offer id="ts000082769000030713" available="true">
+<url>https://kmt5.com.ua/ring-full-protect-case-samsung-a17-black</url>
+<price>165.0</price>
+<vendorprice>95.0</vendorprice>
+<vendorpricedoll>2.1</vendorpricedoll>
+<rrcdoll>3.66</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>88964695</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGMvZWYv0KYtMDAwMDgyNzY5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjkvZjAv0KYtMDAwMDgyNzY5XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000082769</vendorCode>
+<code>789174</code>
+<name>Ring Full Protect Case Samsung A17 — Black</name>
+<description><![CDATA[Это надёжная защита Вашего девайса от каких-либо повреждений и грязи. Аксессуар плотно охватывает гаджет, а бронированный корпус защищает даже при сильных ударах об асфальт. Несмотря на прочность, материал, из которого состоит чехол, довольно тонкий и легкий. Отличительной особенностью является наличие кольца для держания – удобное и практичное дополнение к основному назначению чехла. Более того, кольцо практически не выступает, а, следовательно, не занимает много места.]]></description>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Samsung</param>
+<param name="Модель девайса">Samsung A17</param>
 <param name="Бренд">Различные</param>
 <param name="Материал">Полиуретан</param>
 </offer>
@@ -111362,33 +111436,6 @@
 <param name="Бренд">Apple</param>
 <param name="Материал">Силикон</param>
 </offer>
-<offer id="ts000073700000030621" available="true">
-<url>https://kmt5.com.ua/pu-sleeve-case-macbook-13-brown</url>
-<price>605.0</price>
-<vendorprice>338.0</vendorprice>
-<vendorpricedoll>7.5</vendorpricedoll>
-<rrcdoll>13.45</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>61259600</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2IvMjcv0KYtMDAwMDczNzAwXzE5LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWUvNDIv0KYtMDAwMDczNzAwXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjIvZWMv0KYtMDAwMDczNzAwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTQvMjUv0KYtMDAwMDczNzAwXzE1LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDIvN2Uv0KYtMDAwMDczNzAwXzE2LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2EvZjMv0KYtMDAwMDczNzAwXzE3LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODEvYzgv0KYtMDAwMDczNzAwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTIvMmUv0KYtMDAwMDczNzAwXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000073700</vendorCode>
-<code>788951</code>
-<name>PU Sleeve Case MacBook 13'' — Brown</name>
-<quantity_in_stock>15</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Macbook Air 13</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Силикон</param>
-</offer>
 <offer id="ts000073700000030622" available="true">
 <url>https://kmt5.com.ua/pu-sleeve-case-macbook-13-gray</url>
 <price>605.0</price>
@@ -117639,6 +117686,26 @@
 <code>785343</code>
 <name>Airpods 4 Case — Plastic Lock  — Green</name>
 <quantity_in_stock>21</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Airpods 4</param>
+<param name="Бренд">Различные</param>
+<param name="Аудіо товари">Чехол для Airpods</param>
+</offer>
+<offer id="ts000080662000029315" available="true">
+<url>https://kmt5.com.ua/airpods-4-case-plastic-lock-pink</url>
+<price>210.0</price>
+<vendorprice>113.0</vendorprice>
+<vendorpricedoll>2.5</vendorpricedoll>
+<rrcdoll>4.65</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>52376858</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGYvNTcv0KYtMDAwMDgwNjYyXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTEvZTMv0KYtMDAwMDgwNjYyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000080662</vendorCode>
+<code>785345</code>
+<name>Airpods 4 Case — Plastic Lock  — Pink</name>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Airpods 4</param>
 <param name="Бренд">Различные</param>
@@ -125679,6 +125746,27 @@
 <code>781389</code>
 <name>Захисне скло Camera Glass Steel iPhone 12 Pro Max — Blue</name>
 <quantity_in_stock>14</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 12 Pro Max 6.7&quot;</param>
+<param name="Бренд">Различные</param>
+<param name="Виды защиты экрана">Захисне скло</param>
+<param name="Вид покрытия">Camera Glass</param>
+</offer>
+<offer id="ts000073517000023433" available="true">
+<url>https://kmt5.com.ua/zaschitnoe-steklo-dlya-linzyi-steel-iphone-12-pro-max-silver</url>
+<price>79.0</price>
+<vendorprice>43.0</vendorprice>
+<vendorpricedoll>0.94</vendorpricedoll>
+<rrcdoll>1.74</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>60705902</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjgvNTYv0KYtMDAwMDczNTE3XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjgvZmIv0KYtMDAwMDczNTE3XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000073517</vendorCode>
+<code>755802</code>
+<name>Захисне скло Camera Glass Steel iPhone 12 Pro Max — Silver</name>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 12 Pro Max 6.7&quot;</param>
 <param name="Бренд">Различные</param>
@@ -148861,6 +148949,24 @@
 <param name="Бренд">Hoco</param>
 <param name="Компьютерные аксессуары">Компьютерные мыши</param>
 </offer>
+<offer id="ts000080557000029193" available="true">
+<url>https://kmt5.com.ua/bezdrotova-misha-hoco-gm29-white</url>
+<price>412.0</price>
+<vendorprice>221.0</vendorprice>
+<vendorpricedoll>4.9</vendorpricedoll>
+<rrcdoll>9.15</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>84259818</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2EvMmEv0KYtMDAwMDgwNTU3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzgvZDIv0KYtMDAwMDgwNTU3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Hoco</vendor>
+<vendorCode>Ц-000080557</vendorCode>
+<code>785120</code>
+<name>Бездротова миша — Hoco GM29  __ — White</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Компьютерные аксессуары">Компьютерные мыши</param>
+</offer>
 <offer id="ts000080707000029369" available="true">
 <url>https://kmt5.com.ua/bezdrotova-misha-hoco-gm35-romantic-purple</url>
 <price>493.0</price>
@@ -148879,27 +148985,6 @@
 <name>Бездротова миша — Hoco GM35__ — Romantic Purple</name>
 <description><![CDATA[1. Материал: ABS+PC 2. размер: 108 * 60 * 29mm; 3. План: 100Mbps; 4. Link method: 2.4G+Bluetooth dual-mode 5. Battery capacity: 300mAh lithium battery; 6. DPI value: 800-1200-1600 (CPI value: 800-1200-1600) 7. Номер кнопок: 5]]></description>
 <quantity_in_stock>18</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Компьютерные аксессуары">Компьютерные мыши</param>
-</offer>
-<offer id="ts000080707000029367" available="true">
-<url>https://kmt5.com.ua/bezdrotova-misha-hoco-gm35-white</url>
-<price>493.0</price>
-<vendorprice>266.0</vendorprice>
-<vendorpricedoll>5.9</vendorpricedoll>
-<rrcdoll>10.96</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>71358407</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmEvNTUv0KYtMDAwMDgwNzA3XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTgvODgv0KYtMDAwMDgwNzA3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWEvNDgv0KYtMDAwMDgwNzA3XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjAvMWQv0KYtMDAwMDgwNzA3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000080707</vendorCode>
-<code>785813</code>
-<name>Бездротова миша — Hoco GM35__ — White</name>
-<description><![CDATA[1. Материал: ABS+PC 2. размер: 108 * 60 * 29mm; 3. План: 100Mbps; 4. Link method: 2.4G+Bluetooth dual-mode 5. Battery capacity: 300mAh lithium battery; 6. DPI value: 800-1200-1600 (CPI value: 800-1200-1600) 7. Номер кнопок: 5]]></description>
-<quantity_in_stock>2</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Компьютерные аксессуары">Компьютерные мыши</param>
 </offer>
