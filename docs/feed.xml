@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-21 09:25">
+<yml_catalog date="2026-08-21 15:22">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -172,7 +172,6 @@
 <category id="50675836" parentId="59033180">iPhone 16 Pro Max</category>
 <category id="34459822" parentId="59033180">iPhone 17</category>
 <category id="49469979" parentId="59033180">iPhone 17 Air</category>
-<category id="41373215" parentId="59033180">iPhone 17 Pro</category>
 <category id="71044671" parentId="59033180">iPhone 17 Pro Max</category>
 <category id="54931751" parentId="22594817">Захисне скло iPhone</category>
 <category id="32331452" parentId="54931751">iPhone 16</category>
@@ -15207,27 +15206,6 @@
 <param name="Бренд">Benks</param>
 <param name="Материал">Карбон &amp; Силикон</param>
 </offer>
-<offer id="ts000084135000032110" available="true">
-<url>https://kmt5.com.ua/benks-lucid-armor-magnetic-case-iphone-17-pro-black</url>
-<price>752.0</price>
-<vendorprice>419.0</vendorprice>
-<vendorpricedoll>9.3</vendorpricedoll>
-<rrcdoll>16.71</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54622491</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjAvMWMv0KYtMDAwMDg0MTM1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDMvYzgv0KYtMDAwMDg0MTM1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Benks</vendor>
-<vendorCode>Ц-000084135</vendorCode>
-<code>791895</code>
-<name>Benks Lucid Armor Magnetic case — iPhone 17 Pro  — Black</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro</param>
-<param name="Бренд">Benks</param>
-<param name="Материал">Карбон &amp; Силикон</param>
-</offer>
 <offer id="ts000084134000032109" available="true">
 <url>https://kmt5.com.ua/benks-lucid-armor-magnetic-case-iphone-17-pro-max-blue</url>
 <price>752.0</price>
@@ -20712,27 +20690,6 @@
 <code>791511</code>
 <name>Full camera armor Case With MagSafe — iPhone 17 Pro  — Black</name>
 <quantity_in_stock>7</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Силикон</param>
-</offer>
-<offer id="ts000084011000031845" available="true">
-<url>https://kmt5.com.ua/full-camera-armor-case-with-magsafe-iphone-17-pro-brown</url>
-<price>242.0</price>
-<vendorprice>135.0</vendorprice>
-<vendorpricedoll>2.98</vendorpricedoll>
-<rrcdoll>5.36</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54622491</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzMvNDUv0KYtMDAwMDg0MDExXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDIvYzQv0KYtMDAwMDg0MDExXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000084011</vendorCode>
-<code>791513</code>
-<name>Full camera armor Case With MagSafe — iPhone 17 Pro  — Brown</name>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro</param>
@@ -55989,27 +55946,6 @@
 <param name="Бренд">Различные</param>
 <param name="Материал">Пластик &amp; TPU</param>
 </offer>
-<offer id="ts000079562000027437" available="true">
-<url>https://kmt5.com.ua/matte-tpu-plastic-case-xiaomi-redmi-note-12-4g-black</url>
-<price>59.0</price>
-<vendorprice>36.0</vendorprice>
-<vendorpricedoll>0.79</vendorpricedoll>
-<rrcdoll>1.31</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>71957840</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTAvMDcv0KYtMDAwMDc5NTYyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTEvOGYv0KYtMDAwMDc5NTYyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000079562</vendorCode>
-<code>779539</code>
-<name>Matte TPU Plastic Case  Xiaomi Redmi Note 12 4G — Black</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Xiaomi</param>
-<param name="Модель девайса">Xiaomi Redmi Note 12 4G</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Пластик &amp; TPU</param>
-</offer>
 <offer id="ts000079565000027440" available="true">
 <url>https://kmt5.com.ua/matte-tpu-plastic-case-xiaomi-redmi-note-12-pro-plus-black</url>
 <price>59.0</price>
@@ -73977,27 +73913,6 @@
 <vendorCode>Ц-000080058</vendorCode>
 <code>781679</code>
 <name>Polo Knight Leather Case iPhone 16 Pro Max — Black</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 16 Pro Max</param>
-<param name="Бренд">Polo</param>
-<param name="Материал">PU кожа</param>
-</offer>
-<offer id="ts000080058000028195" available="true">
-<url>https://kmt5.com.ua/polo-knight-leather-case-iphone-16-pro-max-titanium-grey</url>
-<price>722.0</price>
-<vendorprice>437.0</vendorprice>
-<vendorpricedoll>9.7</vendorpricedoll>
-<rrcdoll>16.05</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>60652165</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmEvZGYv0KYtMDAwMDgwMDU4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmMvYjAv0KYtMDAwMDgwMDU4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Polo</vendor>
-<vendorCode>Ц-000080058</vendorCode>
-<code>781680</code>
-<name>Polo Knight Leather Case iPhone 16 Pro Max — Titanium Grey</name>
 <quantity_in_stock>1</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
@@ -123856,26 +123771,6 @@
 <param name="Виды защиты экрана">Захисне скло</param>
 <param name="Вид покрытия">Camera Glass</param>
 </offer>
-<offer id="ts000083914000031768" available="true">
-<url>https://kmt5.com.ua/camera-glass-metal-color-iphone-17-pro-orange</url>
-<price>162.0</price>
-<vendorprice>81.0</vendorprice>
-<vendorpricedoll>1.8</vendorpricedoll>
-<rrcdoll>3.59</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>41373215</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2QvZDAv0KYtMDAwMDgzOTE0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000083914</vendorCode>
-<code>791339</code>
-<name>Camera Glass Metal Color — iPhone 17 Pro   — Orange</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro</param>
-<param name="Бренд">Различные</param>
-<param name="Виды защиты экрана">Захисне скло</param>
-<param name="Вид покрытия">Camera Glass</param>
-</offer>
 <offer id="ts000083913000031763" available="true">
 <url>https://kmt5.com.ua/camera-glass-metal-color-iphone-17-pro-max-blue</url>
 <price>162.0</price>
@@ -164001,28 +163896,6 @@
 <param name="Бренд">Hoco</param>
 <param name="Аудіо товари">Bluetooth гарнітура TWS</param>
 </offer>
-<offer id="ts000080901000029521" available="true">
-<url>https://kmt5.com.ua/bluetooth-garntura-tws-hoco-eq22-midnight-black</url>
-<price>877.0</price>
-<vendorprice>473.0</vendorprice>
-<vendorpricedoll>10.5</vendorpricedoll>
-<rrcdoll>19.5</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54581499</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDgvMGEv0KYtMDAwMDgwOTAxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjAvOTYv0KYtMDAwMDgwOTAxXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2MvODMv0KYtMDAwMDgwOTAxXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjAvNzEv0KYtMDAwMDgwOTAxXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmUvOWUv0KYtMDAwMDgwOTAxXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000080901</vendorCode>
-<code>786153</code>
-<name>Bluetooth гарнітура TWS Hoco EQ22 — Midnight Black</name>
-<description><![CDATA[1. Bluetooth 5.4; Чип: JL AC7003 2. Емкость аккумулятора: зарядный чехол 400 мАч; гарнитура 40 мАч 3. Время использования: 7 часов (ANC 6 часов) 4. Материал: ABS; Размер: 59,5 * 46,5 * 28 мм; Общий вес: 46,5 г 5. Поддерживает функцию шумоподавления ANC+ENC, поддерживает один на два, переключение ведущий-ведомый, вызов Siri и другие функции]]></description>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Аудіо товари">Bluetooth гарнітура TWS</param>
-</offer>
 <offer id="ts000080898000029517" available="true">
 <url>https://kmt5.com.ua/bluetooth-garntura-tws-hoco-eq24-midnight-black</url>
 <price>599.0</price>
@@ -190664,26 +190537,6 @@
 <code>790044</code>
 <name>Автодержатель раздвижной на присоске — Hoco H100</name>
 <quantity_in_stock>232</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Автоаксессуары">Автотримачі</param>
-</offer>
-<offer id="ts000080872" available="true">
-<url>https://kmt5.com.ua/avtoderjatel-razdvijnoy-na-prisoske-hoco-h81</url>
-<price>210.0</price>
-<vendorprice>126.0</vendorprice>
-<vendorpricedoll>2.8</vendorpricedoll>
-<rrcdoll>4.66</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>80861603</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzkvY2Uv0KYtMDAwMDgwODcyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjkvM2Yv0KYtMDAwMDgwODcyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTQvM2Uv0KYtMDAwMDgwODcyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWUvNTYv0KYtMDAwMDgwODcyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000080872</vendorCode>
-<code>786111</code>
-<name>Автодержатель раздвижной на присоске — Hoco H81</name>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Автоаксессуары">Автотримачі</param>
 </offer>
