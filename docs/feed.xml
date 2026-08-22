@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-22 04:29">
+<yml_catalog date="2026-08-22 09:16">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -20398,27 +20398,6 @@
 <param name="Бренд">Apple</param>
 <param name="Материал">Силикон</param>
 </offer>
-<offer id="ts000084007000031826" available="true">
-<url>https://kmt5.com.ua/full-camera-armor-case-with-magsafe-iphone-15-pro-max-black</url>
-<price>242.0</price>
-<vendorprice>135.0</vendorprice>
-<vendorpricedoll>2.98</vendorpricedoll>
-<rrcdoll>5.36</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>16203878</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjYvYTAv0KYtMDAwMDg0MDA3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzAvOTYv0KYtMDAwMDg0MDA3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000084007</vendorCode>
-<code>791490</code>
-<name>Full camera armor Case With MagSafe — iPhone 15 Pro Max — Black</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 15 Pro Max</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Силикон</param>
-</offer>
 <offer id="ts000084007000031828" available="true">
 <url>https://kmt5.com.ua/full-camera-armor-case-with-magsafe-iphone-15-pro-max-brown</url>
 <price>242.0</price>
@@ -20459,27 +20438,6 @@
 <code>791493</code>
 <name>Full camera armor Case With MagSafe — iPhone 15 Pro Max — Dark Blue</name>
 <quantity_in_stock>6</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 15 Pro Max</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Силикон</param>
-</offer>
-<offer id="ts000084007000031827" available="true">
-<url>https://kmt5.com.ua/full-camera-armor-case-with-magsafe-iphone-15-pro-max-orange</url>
-<price>242.0</price>
-<vendorprice>135.0</vendorprice>
-<vendorpricedoll>2.98</vendorpricedoll>
-<rrcdoll>5.36</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>16203878</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGIvNWEv0KYtMDAwMDg0MDA3XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzAvOTYv0KYtMDAwMDg0MDA3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000084007</vendorCode>
-<code>791491</code>
-<name>Full camera armor Case With MagSafe — iPhone 15 Pro Max — Orange</name>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro Max</param>
@@ -111170,6 +111128,33 @@
 <param name="Бренд">Apple</param>
 <param name="Материал">Силикон</param>
 </offer>
+<offer id="ts000073700000030621" available="true">
+<url>https://kmt5.com.ua/pu-sleeve-case-macbook-13-brown</url>
+<price>605.0</price>
+<vendorprice>338.0</vendorprice>
+<vendorpricedoll>7.5</vendorpricedoll>
+<rrcdoll>13.45</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>61259600</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2IvMjcv0KYtMDAwMDczNzAwXzE5LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWUvNDIv0KYtMDAwMDczNzAwXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjIvZWMv0KYtMDAwMDczNzAwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTQvMjUv0KYtMDAwMDczNzAwXzE1LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDIvN2Uv0KYtMDAwMDczNzAwXzE2LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2EvZjMv0KYtMDAwMDczNzAwXzE3LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODEvYzgv0KYtMDAwMDczNzAwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTIvMmUv0KYtMDAwMDczNzAwXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000073700</vendorCode>
+<code>788951</code>
+<name>PU Sleeve Case MacBook 13'' — Brown</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Macbook Air 13</param>
+<param name="Бренд">Apple</param>
+<param name="Материал">Силикон</param>
+</offer>
 <offer id="ts000073700000030622" available="true">
 <url>https://kmt5.com.ua/pu-sleeve-case-macbook-13-gray</url>
 <price>605.0</price>
@@ -165487,30 +165472,6 @@
 <param name="Бренд">Wiwu</param>
 <param name="Студийное оборудование">Микрофоны для телефона</param>
 </offer>
-<offer id="ts000071050000019691" available="true">
-<url>https://kmt5.com.ua/karaoke-mikrofon-hoco-bk5-cantando-blue</url>
-<price>1070.0</price>
-<vendorprice>545.0</vendorprice>
-<vendorpricedoll>12.1</vendorpricedoll>
-<rrcdoll>23.79</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>89410283</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTIvOWUv0KYtMDAwMDcxMDUwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTAvODgv0KYtMDAwMDcxMDUwXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjkvZmIv0KYtMDAwMDcxMDUwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzIvYjAv0KYtMDAwMDcxMDUwXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDcvZTIv0KYtMDAwMDcxMDUwXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTgvMTAv0KYtMDAwMDcxMDUwXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjMvZWQv0KYtMDAwMDcxMDUwXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmEvYjQv0KYtMDAwMDcxMDUwXzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000071050</vendorCode>
-<code>749411</code>
-<name>Караоке - микрофон Hoco BK5 Cantando __ — Blue</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Аудіо товари">Bluetooth микрофон</param>
-</offer>
 <offer id="ts000083193000031150" available="true">
 <url>https://kmt5.com.ua/karaoke-mikrofon-hoco-l24-blue</url>
 <price>827.0</price>
@@ -183682,26 +183643,6 @@
 <param name="Материал">Металл</param>
 <param name="Аксессуары Для Смарт Часов">Браслеты</param>
 </offer>
-<offer id="ts000072952000022441" available="true">
-<url>https://kmt5.com.ua/remnets-nylon-with-protective-case-apple-watch-40-mm-black</url>
-<price>81.0</price>
-<vendorprice>41.0</vendorprice>
-<vendorpricedoll>0.9</vendorpricedoll>
-<rrcdoll>1.8</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>48417745</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjEvYTcv0KYtMDAwMDcyOTUyXzE2LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzQvODQv0KYtMDAwMDcyOTUyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000072952</vendorCode>
-<code>754287</code>
-<name>Ремінець Nylon with protective case Apple Watch 40 mm — Black</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Watch Series 7 41 mm, Apple Watch Series 3 38 mm, Apple Watch Series 4 40 mm</param>
-<param name="Бренд">Различные</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
 <offer id="ts000072952000022294" available="true">
 <url>https://kmt5.com.ua/remeshok-apple-watch-nylon-with-protective-case-384041mm-black</url>
 <price>81.0</price>
@@ -183717,6 +183658,26 @@
 <code>754098</code>
 <name>Ремінець Nylon with protective case Apple Watch 40 mm — Black</name>
 <quantity_in_stock>16</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Watch Series 7 41 mm, Apple Watch Series 3 38 mm, Apple Watch Series 4 40 mm</param>
+<param name="Бренд">Различные</param>
+<param name="Аксессуары Для Смарт Часов">Браслеты</param>
+</offer>
+<offer id="ts000072952000022441" available="true">
+<url>https://kmt5.com.ua/remnets-nylon-with-protective-case-apple-watch-40-mm-black</url>
+<price>81.0</price>
+<vendorprice>41.0</vendorprice>
+<vendorpricedoll>0.9</vendorpricedoll>
+<rrcdoll>1.8</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>48417745</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjEvYTcv0KYtMDAwMDcyOTUyXzE2LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzQvODQv0KYtMDAwMDcyOTUyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000072952</vendorCode>
+<code>754287</code>
+<name>Ремінець Nylon with protective case Apple Watch 40 mm — Black</name>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Watch Series 7 41 mm, Apple Watch Series 3 38 mm, Apple Watch Series 4 40 mm</param>
 <param name="Бренд">Различные</param>
