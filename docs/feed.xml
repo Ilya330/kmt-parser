@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-22 09:16">
+<yml_catalog date="2026-08-22 15:10">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -15315,27 +15315,6 @@
 <param name="Бренд">Benks</param>
 <param name="Материал">Карбон &amp; Силикон</param>
 </offer>
-<offer id="ts000084132000032106" available="true">
-<url>https://kmt5.com.ua/benks-mist-magnetic-case-iphone-17-pro-blue</url>
-<price>1011.0</price>
-<vendorprice>563.0</vendorprice>
-<vendorpricedoll>12.5</vendorpricedoll>
-<rrcdoll>22.47</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54622491</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDAvOTYv0KYtMDAwMDg0MTMyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTQvMjMv0KYtMDAwMDg0MTMyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Benks</vendor>
-<vendorCode>Ц-000084132</vendorCode>
-<code>791888</code>
-<name>Benks Mist Magnetic case — iPhone 17 Pro — Blue</name>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro</param>
-<param name="Бренд">Benks</param>
-<param name="Материал">Карбон &amp; Силикон</param>
-</offer>
 <offer id="ts000084151" available="true">
 <url>https://kmt5.com.ua/benks-prestige%C2%A0armorpro-magnetic-case-iphone-16-pro</url>
 <price>1011.0</price>
@@ -16531,27 +16510,6 @@
 <code>787072</code>
 <name>Silicone Case HC with MagSafe — iPhone 15 Pro Max — Black (18)</name>
 <quantity_in_stock>7</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 15 Pro Max</param>
-<param name="Бренд">Apple HQ</param>
-<param name="Материал">Силикон</param>
-</offer>
-<offer id="ts000081435000029913" available="true">
-<url>https://kmt5.com.ua/original-silicone-case-hc-with-magsafe-iphone-15-pro-max-lilac-76</url>
-<price>189.0</price>
-<vendorprice>113.0</vendorprice>
-<vendorpricedoll>2.5</vendorpricedoll>
-<rrcdoll>4.19</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>16203878</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2MvNDMv0KYtMDAwMDgxNDM1XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTcvMWYv0KYtMDAwMDgxNDM1XzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Apple HQ</vendor>
-<vendorCode>Ц-000081435</vendorCode>
-<code>787075</code>
-<name>Silicone Case HC with MagSafe — iPhone 15 Pro Max — Lilac (76)</name>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro Max</param>
@@ -19915,27 +19873,6 @@
 <param name="Бренд">Apple</param>
 <param name="Материал">Силикон</param>
 </offer>
-<offer id="ts000084000000031804" available="true">
-<url>https://kmt5.com.ua/full-camera-armor-case-with-magsafe-iphone-11-brown</url>
-<price>242.0</price>
-<vendorprice>135.0</vendorprice>
-<vendorpricedoll>2.98</vendorpricedoll>
-<rrcdoll>5.36</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>32288668</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTAvMTkv0KYtMDAwMDg0MDAwXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWIvZWUv0KYtMDAwMDg0MDAwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000084000</vendorCode>
-<code>791461</code>
-<name>Full camera armor Case With MagSafe — iPhone 11 — Brown</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 11</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Силикон</param>
-</offer>
 <offer id="ts000084001000031805" available="true">
 <url>https://kmt5.com.ua/full-camera-armor-case-with-magsafe-iphone-1212-pro-black</url>
 <price>242.0</price>
@@ -20711,27 +20648,6 @@
 <code>791517</code>
 <name>Full camera armor Case With MagSafe — iPhone 17 Pro Max — Black</name>
 <quantity_in_stock>2</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro Max</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Силикон</param>
-</offer>
-<offer id="ts000084012000031850" available="true">
-<url>https://kmt5.com.ua/full-camera-armor-case-with-magsafe-iphone-17-pro-max-brown</url>
-<price>242.0</price>
-<vendorprice>135.0</vendorprice>
-<vendorpricedoll>2.98</vendorpricedoll>
-<rrcdoll>5.36</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54622491</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjkvMjgv0KYtMDAwMDg0MDEyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGQvNmUv0KYtMDAwMDg0MDEyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000084012</vendorCode>
-<code>791519</code>
-<name>Full camera armor Case With MagSafe — iPhone 17 Pro Max — Brown</name>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max</param>
@@ -22280,27 +22196,6 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Полиуретан</param>
-</offer>
-<offer id="ts000082588000030598" available="true">
-<url>https://kmt5.com.ua/ag-glass-case-with-magsafe-iphone-16-pro-max-blue</url>
-<price>215.0</price>
-<vendorprice>120.0</vendorprice>
-<vendorpricedoll>2.65</vendorpricedoll>
-<rrcdoll>4.77</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>60652165</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDAvOWIv0KYtMDAwMDgyNTg4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmUvNzUv0KYtMDAwMDgyNTg4XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000082588</vendorCode>
-<code>788878</code>
-<name>AG Glass Case With MagSafe — iPhone 16 Pro Max — Blue</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 16 Pro Max</param>
 <param name="Бренд">Apple</param>
 <param name="Материал">Полиуретан</param>
 </offer>
@@ -34544,27 +34439,6 @@
 <code>781573</code>
 <name>Colorful Case With Magsafe — iPhone 16 Plus — Mint</name>
 <quantity_in_stock>14</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 16 Plus</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Полиуретан</param>
-</offer>
-<offer id="ts000079994000028146" available="true">
-<url>https://kmt5.com.ua/colorful-case-with-magsafe-iphone-16-plus-pink</url>
-<price>235.0</price>
-<vendorprice>131.0</vendorprice>
-<vendorpricedoll>2.9</vendorpricedoll>
-<rrcdoll>5.22</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>60652165</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTQvMDgv0KYtMDAwMDc5OTk0XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2IvYmUv0KYtMDAwMDc5OTk0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000079994</vendorCode>
-<code>781572</code>
-<name>Colorful Case With Magsafe — iPhone 16 Plus — Pink</name>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16 Plus</param>
@@ -61237,33 +61111,6 @@
 <param name="Бренд">Apple</param>
 <param name="Материал">Полиуретан</param>
 </offer>
-<offer id="ts000068663000015848" available="true">
-<url>https://kmt5.com.ua/original-silicone-case-full-size-iphone-11-pink-sand-19</url>
-<price>155.0</price>
-<vendorprice>88.0</vendorprice>
-<vendorpricedoll>1.95</vendorpricedoll>
-<rrcdoll>3.43</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>32288668</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDQvYzAv0KYtMDAwMDY4NjYzXzQxLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzcvZDcv0KYtMDAwMDY4NjYzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2MvMDIv0KYtMDAwMDY4NjYzXzUzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDAvZmYv0KYtMDAwMDY4NjYzXzU0LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjkvOWIv0KYtMDAwMDY4NjYzXzU1LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTAvNTkv0KYtMDAwMDY4NjYzXzU2LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDIvYTUv0KYtMDAwMDY4NjYzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2UvMDQv0KYtMDAwMDY4NjYzXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000068663</vendorCode>
-<code>736860</code>
-<name>Original Silicone Case Full Size iPhone 11 — Pink Sand (19)</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 11</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Полиуретан</param>
-</offer>
 <offer id="ts000069683000028901" available="true">
 <url>https://kmt5.com.ua/original-silicone-case-full-size-iphone-12-12-pro-61-cactus-61</url>
 <price>136.0</price>
@@ -63517,29 +63364,6 @@
 <param name="Бренд">Apple</param>
 <param name="Материал">Полиуретан</param>
 </offer>
-<offer id="ts000080321000028837" available="true">
-<url>https://kmt5.com.ua/original-silicone-case-full-size-iphone-16-pro-max-lilac-5</url>
-<price>155.0</price>
-<vendorprice>88.0</vendorprice>
-<vendorpricedoll>1.95</vendorpricedoll>
-<rrcdoll>3.43</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>60652165</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjgvODkv0KYtMDAwMDgwMzIxXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDUvMGEv0KYtMDAwMDgwMzIxXzEzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTQvMjkv0KYtMDAwMDgwMzIxXzE0LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjMvMWIv0KYtMDAwMDgwMzIxXzIwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000080321</vendorCode>
-<code>782813</code>
-<name>Original Silicone Case Full Size iPhone 16 Pro Max — Lilac (5)</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 16 Pro Max</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Полиуретан</param>
-</offer>
 <offer id="ts000080321000028834" available="true">
 <url>https://kmt5.com.ua/original-silicone-case-full-size-iphone-16-pro-max-midnight-blue-8</url>
 <price>155.0</price>
@@ -63557,29 +63381,6 @@
 <code>782810</code>
 <name>Original Silicone Case Full Size iPhone 16 Pro Max — Midnight blue (8)</name>
 <quantity_in_stock>14</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 16 Pro Max</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Полиуретан</param>
-</offer>
-<offer id="ts000080321000031287" available="true">
-<url>https://kmt5.com.ua/original-silicone-case-full-size-iphone-16-pro-max-new-brown-80</url>
-<price>155.0</price>
-<vendorprice>88.0</vendorprice>
-<vendorpricedoll>1.95</vendorpricedoll>
-<rrcdoll>3.43</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>60652165</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGQvMWYv0KYtMDAwMDgwMzIxXzIxLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDUvMGEv0KYtMDAwMDgwMzIxXzEzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTQvMjkv0KYtMDAwMDgwMzIxXzE0LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjMvMWIv0KYtMDAwMDgwMzIxXzIwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000080321</vendorCode>
-<code>790217</code>
-<name>Original Silicone Case Full Size iPhone 16 Pro Max — New Brown (80)</name>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16 Pro Max</param>
@@ -64533,35 +64334,6 @@
 <param name="Бренд">Apple</param>
 <param name="Материал">Полиуретан</param>
 </offer>
-<offer id="ts000082274000030330" available="true">
-<url>https://kmt5.com.ua/original-silicone-case-full-size-iphone-17-pro-plum-67</url>
-<price>155.0</price>
-<vendorprice>88.0</vendorprice>
-<vendorpricedoll>1.95</vendorpricedoll>
-<rrcdoll>3.43</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54622491</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDkvMTkv0KYtMDAwMDgyMjc0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDEvMDIv0KYtMDAwMDgyMjc0XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjIvMjEv0KYtMDAwMDgyMjc0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmUvNjcv0KYtMDAwMDgyMjc0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDgvM2Mv0KYtMDAwMDgyMjc0XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzYvNDIv0KYtMDAwMDgyMjc0XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzEvNmQv0KYtMDAwMDgyMjc0XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTIvZTMv0KYtMDAwMDgyMjc0XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWIvOTcv0KYtMDAwMDgyMjc0XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTMvMjEv0KYtMDAwMDgyMjc0XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000082274</vendorCode>
-<code>788304</code>
-<name>Original Silicone Case Full Size iPhone 17 Pro — Plum (67)</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Полиуретан</param>
-</offer>
 <offer id="ts000082214000030301" available="true">
 <url>https://kmt5.com.ua/original-silicone-case-full-size-iphone-17-neon-pink-47</url>
 <price>155.0</price>
@@ -64667,31 +64439,6 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 7, Apple iPhone 8, Apple iPhone SE 2020</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Полиуретан</param>
-</offer>
-<offer id="ts000068667000012875" available="true">
-<url>https://kmt5.com.ua/original-silicone-case-full-size-iphone-x-xs-khaki-48</url>
-<price>136.0</price>
-<vendorprice>81.0</vendorprice>
-<vendorpricedoll>1.8</vendorpricedoll>
-<rrcdoll>3.01</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>7649743</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzYvOTYv0KYtMDAwMDY4NjY3XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjUvNjUv0KYtMDAwMDY4NjY3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzQvYWEv0KYtMDAwMDY4NjY3XzQ3LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjYvOTYv0KYtMDAwMDY4NjY3XzQ4LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmEvYzcv0KYtMDAwMDY4NjY3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDcvOWEv0KYtMDAwMDY4NjY3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000068667</vendorCode>
-<code>734815</code>
-<name>Original Silicone Case Full Size iPhone X ; XS — Khaki (48)</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone X, Apple iPhone Xs</param>
 <param name="Бренд">Apple</param>
 <param name="Материал">Полиуретан</param>
 </offer>
@@ -67322,27 +67069,6 @@
 <param name="Бренд">Различные</param>
 <param name="Материал">Полиуретан</param>
 </offer>
-<offer id="ts000075997000024819" available="true">
-<url>https://kmt5.com.ua/original-silicone-case-with-protective-camera-iphone-11-light-purple-41</url>
-<price>136.0</price>
-<vendorprice>81.0</vendorprice>
-<vendorpricedoll>1.8</vendorpricedoll>
-<rrcdoll>3.01</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>32288668</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDEvOTIv0KYtMDAwMDc1OTk3XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTEvNTgv0KYtMDAwMDc1OTk3XzEzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000075997</vendorCode>
-<code>771658</code>
-<name>Original Silicone Case with protective camera iPhone 11 — Light purple (41)</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 11</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Полиуретан</param>
-</offer>
 <offer id="ts000075997000024822" available="true">
 <url>https://kmt5.com.ua/original-silicone-case-with-protective-camera-iphone-11-lilac-5</url>
 <price>136.0</price>
@@ -68352,27 +68078,6 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16 Plus</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Полиуретан</param>
-</offer>
-<offer id="ts000078258000026897" available="true">
-<url>https://kmt5.com.ua/original-silicone-case-with-protective-camera-iphone-15-pro-lavender-violet-7</url>
-<price>136.0</price>
-<vendorprice>81.0</vendorprice>
-<vendorpricedoll>1.8</vendorpricedoll>
-<rrcdoll>3.01</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>16203878</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDYvZmUv0KYtMDAwMDc4MjU4XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDIvMTgv0KYtMDAwMDc4MjU4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000078258</vendorCode>
-<code>778124</code>
-<name>Original Silicone Case with protective camera — iPhone 15 Pro — Lavender Violet (7)</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 15 Pro</param>
 <param name="Бренд">Различные</param>
 <param name="Материал">Полиуретан</param>
 </offer>
@@ -72214,27 +71919,6 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 12 6.1&quot;</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Полиуретан</param>
-</offer>
-<offer id="ts000078071000026353" available="true">
-<url>https://kmt5.com.ua/pc-matte-case-with-magsafe-iphone-13-pro-max-lavender</url>
-<price>90.0</price>
-<vendorprice>54.0</vendorprice>
-<vendorpricedoll>1.2</vendorpricedoll>
-<rrcdoll>1.99</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>70706401</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGYvNjMv0KYtMDAwMDc4MDcxXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjcvOTUv0KYtMDAwMDc4MDcxXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000078071</vendorCode>
-<code>776965</code>
-<name>PC Matte Case With Magsafe iPhone 13 Pro Max — Lavender</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 13 Pro Max 6.7&quot;</param>
 <param name="Бренд">Apple</param>
 <param name="Материал">Полиуретан</param>
 </offer>
@@ -111826,26 +111510,6 @@
 <param name="Бренд">Apple</param>
 <param name="Материал">Силикон</param>
 </offer>
-<offer id="ts000080249000028685" available="true">
-<url>https://kmt5.com.ua/crystal-case-macbook-pro-162-a2485-clear</url>
-<price>336.0</price>
-<vendorprice>203.0</vendorprice>
-<vendorpricedoll>4.5</vendorpricedoll>
-<rrcdoll>7.45</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>61259600</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWEvN2Uv0KYtMDAwMDgwMjQ5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000080249</vendorCode>
-<code>782490</code>
-<name>Crystal Case MacBook Pro 16.2&quot; A2485 — Clear</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Macbook Pro 16.2</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Силикон</param>
-</offer>
 <offer id="ts000081325000029805" available="true">
 <url>https://kmt5.com.ua/glitter-protective-case-macbook-air-133-a1932-a2179-a2337-clear</url>
 <price>482.0</price>
@@ -141629,27 +141293,6 @@
 <param name="Разъем подключения">Cable USB to Lightning</param>
 <param name="Длина кабеля">1m</param>
 </offer>
-<offer id="ts000067161000006983" available="true">
-<url>https://kmt5.com.ua/veron-lv08-lightning-1m-white</url>
-<price>79.0</price>
-<vendorprice>43.0</vendorprice>
-<vendorpricedoll>0.95</vendorpricedoll>
-<rrcdoll>1.74</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>23161731</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzMvOWIv0KYtMDAwMDY3MTYxXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODIvZDcv0KYtMDAwMDY3MTYxXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTgvMWMv0KYtMDAwMDY3MTYxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>VERON</vendor>
-<vendorCode>Ц-000067161</vendorCode>
-<code>726954</code>
-<name>Кабель Lightning 2.4A (1m) Veron SL08 Silicon — White</name>
-<description><![CDATA[Версия USB: 2.0 Длина: 1 м Материал: Силикон Сила тока: 2.4 А Тип: Зарядка и передача данных Тип зарядки: Стандартная Тип коннекторов: Apple Lightning на USB Мощность: 10 Вт Назначение: Для iPhone, iPad, AirPods Цвет: Черный]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">VERON</param>
-<param name="Разъем подключения">Cable USB to Lightning</param>
-<param name="Длина кабеля">1m</param>
-</offer>
 <offer id="ts000081706" available="true">
 <url>https://kmt5.com.ua/kabel-lightning-24a-1m-wiwu-titanlink-wic055-al</url>
 <price>138.0</price>
@@ -148583,24 +148226,6 @@
 <vendorCode>Ц-000078722</vendorCode>
 <code>778211</code>
 <name>Бездротова миша — Hoco GM28 — White</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Компьютерные аксессуары">Компьютерные мыши</param>
-</offer>
-<offer id="ts000080557000029193" available="true">
-<url>https://kmt5.com.ua/bezdrotova-misha-hoco-gm29-white</url>
-<price>412.0</price>
-<vendorprice>221.0</vendorprice>
-<vendorpricedoll>4.9</vendorpricedoll>
-<rrcdoll>9.15</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>84259818</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2EvMmEv0KYtMDAwMDgwNTU3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzgvZDIv0KYtMDAwMDgwNTU3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000080557</vendorCode>
-<code>785120</code>
-<name>Бездротова миша — Hoco GM29  __ — White</name>
 <quantity_in_stock>1</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Компьютерные аксессуары">Компьютерные мыши</param>
@@ -183643,26 +183268,6 @@
 <param name="Материал">Металл</param>
 <param name="Аксессуары Для Смарт Часов">Браслеты</param>
 </offer>
-<offer id="ts000072952000022294" available="true">
-<url>https://kmt5.com.ua/remeshok-apple-watch-nylon-with-protective-case-384041mm-black</url>
-<price>81.0</price>
-<vendorprice>41.0</vendorprice>
-<vendorpricedoll>0.9</vendorpricedoll>
-<rrcdoll>1.8</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>48417745</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWYvYzAv0KYtMDAwMDcyOTUyXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzQvODQv0KYtMDAwMDcyOTUyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000072952</vendorCode>
-<code>754098</code>
-<name>Ремінець Nylon with protective case Apple Watch 40 mm — Black</name>
-<quantity_in_stock>16</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Watch Series 7 41 mm, Apple Watch Series 3 38 mm, Apple Watch Series 4 40 mm</param>
-<param name="Бренд">Различные</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
 <offer id="ts000072952000022441" available="true">
 <url>https://kmt5.com.ua/remnets-nylon-with-protective-case-apple-watch-40-mm-black</url>
 <price>81.0</price>
@@ -183678,6 +183283,26 @@
 <code>754287</code>
 <name>Ремінець Nylon with protective case Apple Watch 40 mm — Black</name>
 <quantity_in_stock>1</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Watch Series 7 41 mm, Apple Watch Series 3 38 mm, Apple Watch Series 4 40 mm</param>
+<param name="Бренд">Различные</param>
+<param name="Аксессуары Для Смарт Часов">Браслеты</param>
+</offer>
+<offer id="ts000072952000022294" available="true">
+<url>https://kmt5.com.ua/remeshok-apple-watch-nylon-with-protective-case-384041mm-black</url>
+<price>81.0</price>
+<vendorprice>41.0</vendorprice>
+<vendorpricedoll>0.9</vendorpricedoll>
+<rrcdoll>1.8</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>48417745</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWYvYzAv0KYtMDAwMDcyOTUyXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzQvODQv0KYtMDAwMDcyOTUyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000072952</vendorCode>
+<code>754098</code>
+<name>Ремінець Nylon with protective case Apple Watch 40 mm — Black</name>
+<quantity_in_stock>16</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Watch Series 7 41 mm, Apple Watch Series 3 38 mm, Apple Watch Series 4 40 mm</param>
 <param name="Бренд">Различные</param>
