@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-23 09:16">
+<yml_catalog date="2026-08-23 15:11">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -8787,32 +8787,6 @@
 <param name="Бренд">Различные</param>
 <param name="Украшения для Телефонов">Шнурки</param>
 </offer>
-<offer id="ts000082629000031245" available="true">
-<url>https://kmt5.com.ua/shnurok-na-sheyu-knitting-lavander</url>
-<price>145.0</price>
-<vendorprice>77.0</vendorprice>
-<vendorpricedoll>1.7</vendorpricedoll>
-<rrcdoll>3.21</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>26128749</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDYvODAv0KYtMDAwMDgyNjI5XzI2LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2EvYmYv0KYtMDAwMDgyNjI5XzE3LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTMvMTkv0KYtMDAwMDgyNjI5XzE4LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmUvZTAv0KYtMDAwMDgyNjI5XzI1LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODcvZTQv0KYtMDAwMDgyNjI5XzMyLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWYvMTEv0KYtMDAwMDgyNjI5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGQvZDQv0KYtMDAwMDgyNjI5XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTQvZWYv0KYtMDAwMDgyNjI5XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjkvMmIv0KYtMDAwMDgyNjI5XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmQvZjQv0KYtMDAwMDgyNjI5XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082629</vendorCode>
-<code>790172</code>
-<name>Шнурок на шею «Knitting» — Lavander</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Различные</param>
-<param name="Украшения для Телефонов">Шнурки</param>
-</offer>
 <offer id="ts000082629000031237" available="true">
 <url>https://kmt5.com.ua/shnurok-na-sheyu-knitting-light-green</url>
 <price>145.0</price>
@@ -9471,25 +9445,6 @@
 <code>779115</code>
 <name>Шнурок на шею «Round Clip» — Silver</name>
 <quantity_in_stock>3</quantity_in_stock>
-<param name="Бренд">Различные</param>
-<param name="Украшения для Телефонов">Шнурки</param>
-</offer>
-<offer id="ts000079358000031021" available="true">
-<url>https://kmt5.com.ua/shnurok-na-sheyu-round-clip-violet</url>
-<price>80.0</price>
-<vendorprice>43.0</vendorprice>
-<vendorpricedoll>0.95</vendorpricedoll>
-<rrcdoll>1.76</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>26128749</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjEvMGQv0KYtMDAwMDc5MzU4XzE1LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGUvNTEv0KYtMDAwMDc5MzU4XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDgvNTgv0KYtMDAwMDc5MzU4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000079358</vendorCode>
-<code>789716</code>
-<name>Шнурок на шею «Round Clip» — Violet</name>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Украшения для Телефонов">Шнурки</param>
 </offer>
@@ -60516,27 +60471,6 @@
 <param name="Бренд">Различные</param>
 <param name="Материал">Силикон</param>
 </offer>
-<offer id="ts000083848000031711" available="true">
-<url>https://kmt5.com.ua/oc-matte-case-with-magsafe-samsung-s23-ultra-black</url>
-<price>194.0</price>
-<vendorprice>108.0</vendorprice>
-<vendorpricedoll>2.38</vendorpricedoll>
-<rrcdoll>4.3</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>43902800</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzYvODYv0KYtMDAwMDgzODQ4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTEvNzMv0KYtMDAwMDgzODQ4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000083848</vendorCode>
-<code>791218</code>
-<name>OC Matte Case With MagSafe — Samsung S23 Ultra  — Black</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Samsung</param>
-<param name="Модель девайса">Samsung S23 Ultra</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Силикон</param>
-</offer>
 <offer id="ts000083849000031712" available="true">
 <url>https://kmt5.com.ua/oc-matte-case-with-magsafe-samsung-s24-ultra-black</url>
 <price>194.0</price>
@@ -79444,28 +79378,6 @@
 <param name="Бренд">Различные</param>
 <param name="Материал">Полиуретан</param>
 </offer>
-<offer id="ts000082769000030713" available="true">
-<url>https://kmt5.com.ua/ring-full-protect-case-samsung-a17-black</url>
-<price>165.0</price>
-<vendorprice>95.0</vendorprice>
-<vendorpricedoll>2.1</vendorpricedoll>
-<rrcdoll>3.66</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>90750134</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGMvZWYv0KYtMDAwMDgyNzY5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjkvZjAv0KYtMDAwMDgyNzY5XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082769</vendorCode>
-<code>789174</code>
-<name>Ring Full Protect Case Samsung A17 — Black</name>
-<description><![CDATA[Это надёжная защита Вашего девайса от каких-либо повреждений и грязи. Аксессуар плотно охватывает гаджет, а бронированный корпус защищает даже при сильных ударах об асфальт. Несмотря на прочность, материал, из которого состоит чехол, довольно тонкий и легкий. Отличительной особенностью является наличие кольца для держания – удобное и практичное дополнение к основному назначению чехла. Более того, кольцо практически не выступает, а, следовательно, не занимает много места.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Samsung</param>
-<param name="Модель девайса">Samsung A17</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Полиуретан</param>
-</offer>
 <offer id="ts000082769000030714" available="true">
 <url>https://kmt5.com.ua/ring-full-protect-case-samsung-a17-blue</url>
 <price>165.0</price>
@@ -81980,27 +81892,6 @@
 <code>783227</code>
 <name>Rock Matte Series TPU Case with Magsafe — iPhone 16 Pro  — Golden</name>
 <quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 16 Pro</param>
-<param name="Бренд">Rock</param>
-<param name="Материал">Пластик &amp; TPU</param>
-</offer>
-<offer id="ts000080446000029126" available="true">
-<url>https://kmt5.com.ua/rock-matte-series-tpu-case-with-magsafe-iphone-16-pro-graphite-black</url>
-<price>507.0</price>
-<vendorprice>306.0</vendorprice>
-<vendorpricedoll>6.8</vendorpricedoll>
-<rrcdoll>11.26</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>60652165</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzQvNjcv0KYtMDAwMDgwNDQ2XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmQvNTEv0KYtMDAwMDgwNDQ2XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Rock</vendor>
-<vendorCode>Ц-000080446</vendorCode>
-<code>783222</code>
-<name>Rock Matte Series TPU Case with Magsafe — iPhone 16 Pro  — Graphite Black</name>
-<quantity_in_stock>2</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16 Pro</param>
@@ -90090,27 +89981,6 @@
 <code>790496</code>
 <name>Smoky Case with MagSafe — iPhone 17 Pro Max — Dark Blue</name>
 <quantity_in_stock>20</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro Max</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Силикон</param>
-</offer>
-<offer id="ts000083287000031531" available="true">
-<url>https://kmt5.com.ua/smoky-case-with-magsafe-iphone-17-pro-max-gray</url>
-<price>233.0</price>
-<vendorprice>135.0</vendorprice>
-<vendorpricedoll>2.98</vendorpricedoll>
-<rrcdoll>5.17</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54622491</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGIvOTMv0KYtMDAwMDgzMjg3XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWQvYTEv0KYtMDAwMDgzMjg3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000083287</vendorCode>
-<code>790497</code>
-<name>Smoky Case with MagSafe — iPhone 17 Pro Max — Gray</name>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max</param>
@@ -108752,35 +108622,6 @@
 <code>788556</code>
 <name>Wiwu Aramid Air Case With MagSafe DCC-206 — iPhone 16 Pro Max — Black</name>
 <quantity_in_stock>52</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 16 Pro Max</param>
-<param name="Бренд">Wiwu</param>
-<param name="Материал">Полиуретан</param>
-</offer>
-<offer id="ts000082457000030435" available="true">
-<url>https://kmt5.com.ua/armor-pro-case-with-magsafe-fgg012-iphone-16-pro-max-grey</url>
-<price>434.0</price>
-<vendorprice>257.0</vendorprice>
-<vendorpricedoll>5.7</vendorpricedoll>
-<rrcdoll>9.64</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>60652165</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjUvNzIv0KYtMDAwMDgyNDU3XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjcvYzMv0KYtMDAwMDgyNDU3XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODkvYmUv0KYtMDAwMDgyNDU3XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjAvZTAv0KYtMDAwMDgyNDU3XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTIvMzAv0KYtMDAwMDgyNDU3XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjQvOWUv0KYtMDAwMDgyNDU3XzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjQvYmIv0KYtMDAwMDgyNDU3XzEyLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2IvNjAv0KYtMDAwMDgyNDU3XzEzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWYvMjAv0KYtMDAwMDgyNDU3XzE0LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWQvNGIv0KYtMDAwMDgyNDU3XzE1LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Wiwu</vendor>
-<vendorCode>Ц-000082457</vendorCode>
-<code>788587</code>
-<name>Wiwu Armor Pro Case With MagSafe FGG-012 — iPhone 16 Pro Max — Grey</name>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16 Pro Max</param>
@@ -183206,26 +183047,6 @@
 <param name="Материал">Металл</param>
 <param name="Аксессуары Для Смарт Часов">Браслеты</param>
 </offer>
-<offer id="ts000072952000022294" available="true">
-<url>https://kmt5.com.ua/remeshok-apple-watch-nylon-with-protective-case-384041mm-black</url>
-<price>81.0</price>
-<vendorprice>41.0</vendorprice>
-<vendorpricedoll>0.9</vendorpricedoll>
-<rrcdoll>1.8</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>48417745</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWYvYzAv0KYtMDAwMDcyOTUyXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzQvODQv0KYtMDAwMDcyOTUyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000072952</vendorCode>
-<code>754098</code>
-<name>Ремінець Nylon with protective case Apple Watch 40 mm — Black</name>
-<quantity_in_stock>16</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Watch Series 7 41 mm, Apple Watch Series 3 38 mm, Apple Watch Series 4 40 mm</param>
-<param name="Бренд">Различные</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
 <offer id="ts000072952000022441" available="true">
 <url>https://kmt5.com.ua/remnets-nylon-with-protective-case-apple-watch-40-mm-black</url>
 <price>81.0</price>
@@ -183241,6 +183062,26 @@
 <code>754287</code>
 <name>Ремінець Nylon with protective case Apple Watch 40 mm — Black</name>
 <quantity_in_stock>1</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Watch Series 7 41 mm, Apple Watch Series 3 38 mm, Apple Watch Series 4 40 mm</param>
+<param name="Бренд">Различные</param>
+<param name="Аксессуары Для Смарт Часов">Браслеты</param>
+</offer>
+<offer id="ts000072952000022294" available="true">
+<url>https://kmt5.com.ua/remeshok-apple-watch-nylon-with-protective-case-384041mm-black</url>
+<price>81.0</price>
+<vendorprice>41.0</vendorprice>
+<vendorpricedoll>0.9</vendorpricedoll>
+<rrcdoll>1.8</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>48417745</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWYvYzAv0KYtMDAwMDcyOTUyXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzQvODQv0KYtMDAwMDcyOTUyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000072952</vendorCode>
+<code>754098</code>
+<name>Ремінець Nylon with protective case Apple Watch 40 mm — Black</name>
+<quantity_in_stock>16</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Watch Series 7 41 mm, Apple Watch Series 3 38 mm, Apple Watch Series 4 40 mm</param>
 <param name="Бренд">Различные</param>
