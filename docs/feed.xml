@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-24 04:22">
+<yml_catalog date="2026-08-24 09:35">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -192,6 +192,9 @@
 <category id="77077931" parentId="36225134">Роутери, точки доступу та WI-FI адаптери</category>
 <category id="8698087" parentId="36225134">Стілуси</category>
 <category id="44564650" parentId="36225134">Хаби</category>
+<category id="381280">Компьютерна переферія</category>
+<category id="83525374" parentId="381280">Комплектуючі для ПК та ноутбуків</category>
+<category id="84259818" parentId="83525374">Комп'ютерні миші</category>
 <category id="40002390">Краса та здоров'я</category>
 <category id="61823304" parentId="40002390">Hygiene appliances</category>
 <category id="1140505" parentId="40002390">Зубні щітки</category>
@@ -81401,27 +81404,6 @@
 <param name="Бренд">Rock</param>
 <param name="Материал">Пластик &amp; TPU</param>
 </offer>
-<offer id="ts000079918000028028" available="true">
-<url>https://kmt5.com.ua/rock-guard-antidrop-series-tpu-case-with-magsafe-iphone-16-pro-max-titanium-gray</url>
-<price>537.0</price>
-<vendorprice>324.0</vendorprice>
-<vendorpricedoll>7.2</vendorpricedoll>
-<rrcdoll>11.92</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>60652165</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTgvYTAv0KYtMDAwMDc5OTE4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGEvZDMv0KYtMDAwMDc5OTE4XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Rock</vendor>
-<vendorCode>Ц-000079918</vendorCode>
-<code>781367</code>
-<name>Rock Guard Anti-drop Series TPU Case with Magsafe iPhone 16 Pro Max — Titanium Gray</name>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 16 Pro Max</param>
-<param name="Бренд">Rock</param>
-<param name="Материал">Пластик &amp; TPU</param>
-</offer>
 <offer id="ts000078218000026505" available="true">
 <url>https://kmt5.com.ua/rock-guard-foldable-series-tpu-case-with-magsafe-iphone-15-pro-max-titanium-grey</url>
 <price>614.0</price>
@@ -145816,30 +145798,6 @@
 <param name="Бренд">Hoco</param>
 <param name="Компьютерные аксессуары">Наушники для компьютера</param>
 </offer>
-<offer id="ts000078238000026908" available="true">
-<url>https://kmt5.com.ua/gaming-headset-hoco-w109-white</url>
-<price>1085.0</price>
-<vendorprice>594.0</vendorprice>
-<vendorpricedoll>13.2</vendorpricedoll>
-<rrcdoll>24.12</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>65714757</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWIvMzEv0KYtMDAwMDc4MjM4XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTgvNjMv0KYtMDAwMDc4MjM4XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTgvZmYv0KYtMDAwMDc4MjM4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2UvMzMv0KYtMDAwMDc4MjM4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjEvYmUv0KYtMDAwMDc4MjM4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGEvYmQv0KYtMDAwMDc4MjM4XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTYvYTAv0KYtMDAwMDc4MjM4XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000078238</vendorCode>
-<code>778173</code>
-<name>Gaming Headset — Hoco W109  — White</name>
-<description><![CDATA[Динамик: 50 мм. Интерфейс: USB+разъем 3.5 мм. Микрофон: омнидирекционный микрофон, размер: Φ4.0*1.5 мм. Длина кабеля наушников: 2 м; Вес: 315 г. Динамический светодиодный эффект в наушниках и на оголовье, создающий игровой стиль. В комплекте идет адаптер один к двум аудио, можно использовать на стационарном компьютере или ноутбуке с двумя аудиовыходами.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Компьютерные аксессуары">Наушники для компьютера</param>
-</offer>
 <offer id="ts000082113" available="true">
 <url>https://kmt5.com.ua/gaming-headset-hoco-w113</url>
 <price>1048.0</price>
@@ -147993,6 +147951,24 @@
 <code>778211</code>
 <name>Бездротова миша — Hoco GM28 — White</name>
 <quantity_in_stock>1</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Компьютерные аксессуары">Компьютерные мыши</param>
+</offer>
+<offer id="ts000080557000029193" available="true">
+<url>https://kmt5.com.ua/bezdrotova-misha-hoco-gm29-white</url>
+<price>412.0</price>
+<vendorprice>221.0</vendorprice>
+<vendorpricedoll>4.9</vendorpricedoll>
+<rrcdoll>9.15</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>84259818</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2EvMmEv0KYtMDAwMDgwNTU3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzgvZDIv0KYtMDAwMDgwNTU3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Hoco</vendor>
+<vendorCode>Ц-000080557</vendorCode>
+<code>785120</code>
+<name>Бездротова миша — Hoco GM29  __ — White</name>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Компьютерные аксессуары">Компьютерные мыши</param>
 </offer>
