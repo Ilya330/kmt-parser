@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-25 04:13">
+<yml_catalog date="2026-08-25 09:24">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -9027,25 +9027,6 @@
 <param name="Бренд">Различные</param>
 <param name="Украшения для Телефонов">Шнурки</param>
 </offer>
-<offer id="ts000082632000031250" available="true">
-<url>https://kmt5.com.ua/shnurok-na-sheyu-multicore-white</url>
-<price>213.0</price>
-<vendorprice>113.0</vendorprice>
-<vendorpricedoll>2.5</vendorpricedoll>
-<rrcdoll>4.72</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>26128749</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWQvMTUv0KYtMDAwMDgyNjMyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2QvNGEv0KYtMDAwMDgyNjMyXzE1LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTQvZmYv0KYtMDAwMDgyNjMyXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082632</vendorCode>
-<code>790177</code>
-<name>Шнурок на шею «Multicore» — White</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Различные</param>
-<param name="Украшения для Телефонов">Шнурки</param>
-</offer>
 <offer id="ts000082628000031217" available="true">
 <url>https://kmt5.com.ua/shnurok-na-sheyu-node-blue-purple</url>
 <price>145.0</price>
@@ -9061,24 +9042,6 @@
 <code>790144</code>
 <name>Шнурок на шею «Node» — Blue &amp; Purple</name>
 <quantity_in_stock>5</quantity_in_stock>
-<param name="Бренд">Различные</param>
-<param name="Украшения для Телефонов">Шнурки</param>
-</offer>
-<offer id="ts000082628000031222" available="true">
-<url>https://kmt5.com.ua/shnurok-na-sheyu-node-green-orange</url>
-<price>145.0</price>
-<vendorprice>77.0</vendorprice>
-<vendorpricedoll>1.7</vendorpricedoll>
-<rrcdoll>3.21</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>26128749</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmYvMGYv0KYtMDAwMDgyNjI4XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDUvMGEv0KYtMDAwMDgyNjI4XzEzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082628</vendorCode>
-<code>790149</code>
-<name>Шнурок на шею «Node» — Green &amp; Orange</name>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Украшения для Телефонов">Шнурки</param>
 </offer>
@@ -9453,25 +9416,6 @@
 <code>779118</code>
 <name>Шнурок на шею «Round Clip» — Pink</name>
 <quantity_in_stock>37</quantity_in_stock>
-<param name="Бренд">Различные</param>
-<param name="Украшения для Телефонов">Шнурки</param>
-</offer>
-<offer id="ts000079358000027210" available="true">
-<url>https://kmt5.com.ua/shnurok-na-sheyu-round-clip-silver</url>
-<price>80.0</price>
-<vendorprice>43.0</vendorprice>
-<vendorpricedoll>0.95</vendorpricedoll>
-<rrcdoll>1.76</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>26128749</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDkvMGMv0KYtMDAwMDc5MzU4XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGUvNTEv0KYtMDAwMDc5MzU4XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDgvNTgv0KYtMDAwMDc5MzU4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000079358</vendorCode>
-<code>779115</code>
-<name>Шнурок на шею «Round Clip» — Silver</name>
-<quantity_in_stock>3</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Украшения для Телефонов">Шнурки</param>
 </offer>
@@ -33732,27 +33676,6 @@
 <param name="Бренд">Apple</param>
 <param name="Материал">Полиуретан</param>
 </offer>
-<offer id="ts000079987000028117" available="true">
-<url>https://kmt5.com.ua/colorful-case-with-magsafe-iphone-13-pro-max-grey</url>
-<price>235.0</price>
-<vendorprice>131.0</vendorprice>
-<vendorpricedoll>2.9</vendorpricedoll>
-<rrcdoll>5.22</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>70706401</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2EvOTQv0KYtMDAwMDc5OTg3XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTAvYmEv0KYtMDAwMDc5OTg3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000079987</vendorCode>
-<code>781543</code>
-<name>Colorful Case with MagSafe iPhone 13 Pro Max — Grey</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 13 Pro Max 6.7&quot;</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Полиуретан</param>
-</offer>
 <offer id="ts000079987000028119" available="true">
 <url>https://kmt5.com.ua/colorful-case-with-magsafe-iphone-13-pro-max-mint</url>
 <price>235.0</price>
@@ -33936,27 +33859,6 @@
 <code>781553</code>
 <name>Colorful Case with MagSafe iPhone 14 Pro Max — Mint</name>
 <quantity_in_stock>8</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 14 Pro Max 6.7&quot;</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Полиуретан</param>
-</offer>
-<offer id="ts000079989000028126" available="true">
-<url>https://kmt5.com.ua/colorful-case-with-magsafe-iphone-14-pro-max-pink</url>
-<price>235.0</price>
-<vendorprice>131.0</vendorprice>
-<vendorpricedoll>2.9</vendorpricedoll>
-<rrcdoll>5.22</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>65522936</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTcvMjcv0KYtMDAwMDc5OTg5XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDkvN2Iv0KYtMDAwMDc5OTg5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000079989</vendorCode>
-<code>781552</code>
-<name>Colorful Case with MagSafe iPhone 14 Pro Max — Pink</name>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 Pro Max 6.7&quot;</param>
@@ -62770,27 +62672,6 @@
 <param name="Бренд">Различные</param>
 <param name="Материал">Полиуретан</param>
 </offer>
-<offer id="ts000069682000016828" available="true">
-<url>https://kmt5.com.ua/original-silicone-case-full-size-iphone-12-54-lilac-5</url>
-<price>136.0</price>
-<vendorprice>81.0</vendorprice>
-<vendorpricedoll>1.8</vendorpricedoll>
-<rrcdoll>3.01</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>36174719</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDQvOGYv0KYtMDAwMDY5NjgyXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDQvNGUv0KYtMDAwMDY5NjgyXzE1LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000069682</vendorCode>
-<code>741199</code>
-<name>Original Silicone Case Full Size iPhone 12 Mini 5.4&quot; — Lilac (5)</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 12 Mini 5.4&quot;</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Полиуретан</param>
-</offer>
 <offer id="ts000069682000016831" available="true">
 <url>https://kmt5.com.ua/original-silicone-case-full-size-iphone-12-54-mint-1</url>
 <price>136.0</price>
@@ -62806,27 +62687,6 @@
 <code>741202</code>
 <name>Original Silicone Case Full Size iPhone 12 Mini 5.4&quot; — Mint (1)</name>
 <quantity_in_stock>5</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 12 Mini 5.4&quot;</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Полиуретан</param>
-</offer>
-<offer id="ts000069682000016826" available="true">
-<url>https://kmt5.com.ua/original-silicone-case-full-size-iphone-12-54-neon-pink-47</url>
-<price>136.0</price>
-<vendorprice>81.0</vendorprice>
-<vendorpricedoll>1.8</vendorpricedoll>
-<rrcdoll>3.01</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>36174719</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzMvZTYv0KYtMDAwMDY5NjgyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDQvNGUv0KYtMDAwMDY5NjgyXzE1LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000069682</vendorCode>
-<code>741197</code>
-<name>Original Silicone Case Full Size iPhone 12 Mini 5.4&quot; — Neon Pink (47)</name>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 12 Mini 5.4&quot;</param>
@@ -64036,31 +63896,6 @@
 <param name="Бренд">Apple</param>
 <param name="Материал">Полиуретан</param>
 </offer>
-<offer id="ts000076191000025091" available="true">
-<url>https://kmt5.com.ua/original-silicone-case-full-size-iphone-15-pro-max-lavender-gray</url>
-<price>155.0</price>
-<vendorprice>88.0</vendorprice>
-<vendorpricedoll>1.95</vendorpricedoll>
-<rrcdoll>3.43</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>16203878</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWMvNWMv0KYtMDAwMDc2MTkxXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDkvNmQv0KYtMDAwMDc2MTkxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2UvNzcv0KYtMDAwMDc2MTkxXzIwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWEvODMv0KYtMDAwMDc2MTkxXzIxLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWMvMDIv0KYtMDAwMDc2MTkxXzIyLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzMvYTkv0KYtMDAwMDc2MTkxXzI1LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000076191</vendorCode>
-<code>772098</code>
-<name>Original Silicone Case Full Size iPhone 15 Pro Max — Lavender Gray</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 15 Pro Max</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Полиуретан</param>
-</offer>
 <offer id="ts000076191000025095" available="true">
 <url>https://kmt5.com.ua/original-silicone-case-full-size-iphone-15-pro-max-neon-pink-47</url>
 <price>155.0</price>
@@ -64080,31 +63915,6 @@
 <code>772102</code>
 <name>Original Silicone Case Full Size iPhone 15 Pro Max — Neon pink (47)</name>
 <quantity_in_stock>5</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 15 Pro Max</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Полиуретан</param>
-</offer>
-<offer id="ts000076191000031281" available="true">
-<url>https://kmt5.com.ua/original-silicone-case-full-size-iphone-15-pro-max-new-brown-80</url>
-<price>155.0</price>
-<vendorprice>88.0</vendorprice>
-<vendorpricedoll>1.95</vendorpricedoll>
-<rrcdoll>3.43</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>16203878</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTAvOWUv0KYtMDAwMDc2MTkxXzI2LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDkvNmQv0KYtMDAwMDc2MTkxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2UvNzcv0KYtMDAwMDc2MTkxXzIwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWEvODMv0KYtMDAwMDc2MTkxXzIxLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWMvMDIv0KYtMDAwMDc2MTkxXzIyLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzMvYTkv0KYtMDAwMDc2MTkxXzI1LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000076191</vendorCode>
-<code>790211</code>
-<name>Original Silicone Case Full Size iPhone 15 Pro Max — New Brown (80)</name>
-<quantity_in_stock>2</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro Max</param>
@@ -120879,26 +120689,6 @@
 <vendorCode>Ц-000073687</vendorCode>
 <code>768842</code>
 <name>Airpods Pro 2 Case Shine Print With keychain — Smile</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Airpods Pro 2</param>
-<param name="Бренд">Различные</param>
-<param name="Аудіо товари">Чехол для Airpods</param>
-</offer>
-<offer id="ts000079585000027741" available="true">
-<url>https://kmt5.com.ua/airpods-pro-2-case-shine-with-ring-lavander</url>
-<price>143.0</price>
-<vendorprice>77.0</vendorprice>
-<vendorpricedoll>1.7</vendorpricedoll>
-<rrcdoll>3.16</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>2209499</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzMvNTAv0KYtMDAwMDc5NTg1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjMvMjUv0KYtMDAwMDc5NTg1XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000079585</vendorCode>
-<code>780047</code>
-<name>Airpods Pro 2 Case Shine With Ring — Lavander</name>
 <quantity_in_stock>1</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Airpods Pro 2</param>
