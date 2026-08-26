@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-26 09:29">
+<yml_catalog date="2026-08-26 16:09">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -14865,30 +14865,6 @@
 <param name="Бренд">Различные</param>
 <param name="Материал">Силикон</param>
 </offer>
-<offer id="ts000082391000030380" available="true">
-<url>https://kmt5.com.ua/yind-case-with-magsafe-iphone-17-pro-max-black</url>
-<price>306.0</price>
-<vendorprice>185.0</vendorprice>
-<vendorpricedoll>4.1</vendorpricedoll>
-<rrcdoll>6.79</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54622491</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmUvODEv0KYtMDAwMDgyMzkxXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjMvMDgv0KYtMDAwMDgyMzkxXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTcvNjkv0KYtMDAwMDgyMzkxXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmEvOWIv0KYtMDAwMDgyMzkxXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjkvYTIv0KYtMDAwMDgyMzkxXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Dux Ducis</vendor>
-<vendorCode>Ц-000082391</vendorCode>
-<code>788469</code>
-<name>Yind Case With Magsafe — iPhone 17 Pro Max — Black</name>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro Max</param>
-<param name="Бренд">Dux Ducis</param>
-<param name="Материал">Полиуретан</param>
-</offer>
 <offer id="ts000082391000030381" available="true">
 <url>https://kmt5.com.ua/yind-case-with-magsafe-iphone-17-pro-max-grey</url>
 <price>306.0</price>
@@ -15643,30 +15619,6 @@
 <code>788458</code>
 <name>Yind Case With Magsafe — iPhone 17 — Black</name>
 <quantity_in_stock>8</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17</param>
-<param name="Бренд">Dux Ducis</param>
-<param name="Материал">Полиуретан</param>
-</offer>
-<offer id="ts000082388000030373" available="true">
-<url>https://kmt5.com.ua/yind-case-with-magsafe-iphone-17-grey</url>
-<price>239.0</price>
-<vendorprice>135.0</vendorprice>
-<vendorpricedoll>3.0</vendorpricedoll>
-<rrcdoll>5.31</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54622491</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjIvMTQv0KYtMDAwMDgyMzg4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTUvMTYv0KYtMDAwMDgyMzg4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTAvMjcv0KYtMDAwMDgyMzg4XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTYvMzIv0KYtMDAwMDgyMzg4XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjkvMzUv0KYtMDAwMDgyMzg4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Dux Ducis</vendor>
-<vendorCode>Ц-000082388</vendorCode>
-<code>788459</code>
-<name>Yind Case With Magsafe — iPhone 17 — Grey</name>
-<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17</param>
@@ -20053,28 +20005,6 @@
 <code>791623</code>
 <name>Wave Case with MagSafe iPhone 17 Pro Max — Orange</name>
 <quantity_in_stock>7</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro Max</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Силикон</param>
-</offer>
-<offer id="ts000084036000031937" available="true">
-<url>https://kmt5.com.ua/wave-case-with-magsafe-iphone-17-pro-max-pink</url>
-<price>283.0</price>
-<vendorprice>158.0</vendorprice>
-<vendorpricedoll>3.5</vendorpricedoll>
-<rrcdoll>6.29</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54622491</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGQvMTgv0KYtMDAwMDg0MDM2XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDYvYjEv0KYtMDAwMDg0MDM2XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzkvMDUv0KYtMDAwMDg0MDM2XzEzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000084036</vendorCode>
-<code>791627</code>
-<name>Wave Case with MagSafe iPhone 17 Pro Max — Pink</name>
-<quantity_in_stock>2</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max</param>
@@ -75101,26 +75031,6 @@
 <param name="Бренд">Polo</param>
 <param name="Материал">PU кожа</param>
 </offer>
-<offer id="ts000079633000027555" available="true">
-<url>https://kmt5.com.ua/polo-new-york-never-sleeps-tpu-case-iphone-15-pro-max-queens-spark</url>
-<price>756.0</price>
-<vendorprice>428.0</vendorprice>
-<vendorpricedoll>9.5</vendorpricedoll>
-<rrcdoll>16.81</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>16203878</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTcvNzIv0KYtMDAwMDc5NjMzXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Polo</vendor>
-<vendorCode>Ц-000079633</vendorCode>
-<code>779732</code>
-<name>Polo New York Never Sleeps TPU Case iPhone 15 Pro Max — Queens Spark</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 15 Pro Max</param>
-<param name="Бренд">Polo</param>
-<param name="Материал">Пластик &amp; TPU</param>
-</offer>
 <offer id="ts000079632000027548" available="true">
 <url>https://kmt5.com.ua/polo-new-york-never-sleeps-tpu-case-iphone-15-pro-bronx-energy</url>
 <price>756.0</price>
@@ -79843,28 +79753,6 @@
 <param name="Бренд">Различные</param>
 <param name="Материал">Металл</param>
 </offer>
-<offer id="ts000084037000031944" available="true">
-<url>https://kmt5.com.ua/rimova-metal-case-iphone-1314-orange</url>
-<price>311.0</price>
-<vendorprice>174.0</vendorprice>
-<vendorpricedoll>3.85</vendorpricedoll>
-<rrcdoll>6.9</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>65522936</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2MvMzUv0KYtMDAwMDg0MDM3XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzMvYmIv0KYtMDAwMDg0MDM3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjkvNWIv0KYtMDAwMDg0MDM3XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000084037</vendorCode>
-<code>791635</code>
-<name>Rimova Metal Case iPhone 13/14 — Orange</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 13 6.1&quot;, Apple iPhone 14 6.1&quot;</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Металл</param>
-</offer>
 <offer id="ts000084037000031943" available="true">
 <url>https://kmt5.com.ua/rimova-metal-case-iphone-1314-silver</url>
 <price>311.0</price>
@@ -82861,6 +82749,27 @@
 <code>781366</code>
 <name>Rock Guard Anti-drop Series TPU Case with Magsafe iPhone 16 Pro Max — Titanium Blue</name>
 <quantity_in_stock>7</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 16 Pro Max</param>
+<param name="Бренд">Rock</param>
+<param name="Материал">Пластик &amp; TPU</param>
+</offer>
+<offer id="ts000079918000028028" available="true">
+<url>https://kmt5.com.ua/rock-guard-antidrop-series-tpu-case-with-magsafe-iphone-16-pro-max-titanium-gray</url>
+<price>537.0</price>
+<vendorprice>324.0</vendorprice>
+<vendorpricedoll>7.2</vendorpricedoll>
+<rrcdoll>11.92</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>60652165</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTgvYTAv0KYtMDAwMDc5OTE4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGEvZDMv0KYtMDAwMDc5OTE4XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Rock</vendor>
+<vendorCode>Ц-000079918</vendorCode>
+<code>781367</code>
+<name>Rock Guard Anti-drop Series TPU Case with Magsafe iPhone 16 Pro Max — Titanium Gray</name>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16 Pro Max</param>
@@ -131735,29 +131644,6 @@
 <param name="Виды аккумуляторов">Power Bank</param>
 <param name="Емкость аккумулятора">От 10000 mAh</param>
 </offer>
-<offer id="ts000082101000030176" available="true">
-<url>https://kmt5.com.ua/power-bank-10000-mah%C2%A0-225wpd20w%C2%A0-borofone-bj83-white</url>
-<price>830.0</price>
-<vendorprice>488.0</vendorprice>
-<vendorpricedoll>10.85</vendorpricedoll>
-<rrcdoll>18.44</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>81016638</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmIvNGMv0KYtMDAwMDgyMTAxXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGUvZGMv0KYtMDAwMDgyMTAxXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODYvYTAv0KYtMDAwMDgyMTAxXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzkvYmYv0KYtMDAwMDgyMTAxXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTcvZGEv0KYtMDAwMDgyMTAxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000082101</vendorCode>
-<code>787981</code>
-<name>Power Bank 10000 mAh | 22.5W+PD20W — Borofone BJ83 — White</name>
-<description><![CDATA["1. Ємність: 10000 мАг 38,5 Вт·год Номінальна ємність: 5500 мАг 2. Вхід: USB-C: 18 Вт 3. Вихід: USB-C: 20 Вт (PD/QC/FCC/AFC); USB-A: 22,5 Вт (QC/FCP/SCP/AFC). Бездротовий вихід: 5 Вт/7,5 Вт/10 Вт/15 Вт (MagSafe 7,5 Вт); Загальна вихідна потужність: 5 В/2 А 4. Дисплей: Світлодіодний цифровий дисплей рівня заряду батареї 5. Матеріал: ABS + вогнестійка оболонка з ПК + літій-полімер 6. Розмір: 109 * 70 * 23 мм; Вага: 200 г"]]></description>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Виды аккумуляторов">Power Bank</param>
-<param name="Емкость аккумулятора">От 10000 mAh</param>
-</offer>
 <offer id="ts000080333000028924" available="true">
 <url>https://kmt5.com.ua/power-bank-10000-mah%C2%A0-225w%C2%A0-wiwu-wip018-black</url>
 <price>1329.0</price>
@@ -135417,32 +135303,6 @@
 <param name="Сила тока и Мощность">2.4A</param>
 <param name="Цвет">Silver</param>
 </offer>
-<offer id="ts000068642000012153" available="true">
-<url>https://kmt5.com.ua/szu-i-kabel-type-c-hoco-c73a-eu-2-usb-white</url>
-<price>184.0</price>
-<vendorprice>95.0</vendorprice>
-<vendorpricedoll>2.1</vendorpricedoll>
-<rrcdoll>4.07</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>1099827</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTEvMzgv0KYtMDAwMDY4NjQyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTkvYTkv0KYtMDAwMDY4NjQyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWUvNmMv0KYtMDAwMDY4NjQyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmYvYzEv0KYtMDAwMDY4NjQyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODMvZWIv0KYtMDAwMDY4NjQyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzgvZmIv0KYtMDAwMDY4NjQyXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjAvZjcv0KYtMDAwMDY4NjQyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000068642</vendorCode>
-<code>734108</code>
-<name>Home Charger 2.4A 2U USB C Cable (1m) Hoco C73A — White</name>
-<description><![CDATA[Hoco C73A - блок питания с 2 USB входами Максимальная сила выходного тока: 2,4А Защита от перенапряжения, перегрева и перезаряда Сила выходного тока (Output): AC 100-240V 50/60Hz, 0,4A Материал: поликарбонат Количество портов: 2 Вид: сетевой Тип разъема: USB Выходной ток: 2,4A Длина шнура: 1м Вид: Зарядное устройство Тип зарядного устройства: Сетевое Тип разъема: USB Сила тока: 2.4A]]></description>
-<quantity_in_stock>5</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Колво USB портов">2 U</param>
-<param name="Зарядные устройства">СЗУ &amp; Кабель Type C</param>
-<param name="Сила тока и Мощность">2.4A</param>
-</offer>
 <offer id="ts000071407000020454" available="true">
 <url>https://kmt5.com.ua/n8-briar-dual-port-charger-settypeceu-white</url>
 <price>264.0</price>
@@ -135607,6 +135467,27 @@
 <param name="Бренд">Borofone</param>
 <param name="Колво USB портов">1 Type - C</param>
 <param name="Зарядные устройства">СЗУ &amp; Кабель Lightning</param>
+<param name="Сила тока и Мощность">20W</param>
+</offer>
+<offer id="ts000069747000016980" available="true">
+<url>https://kmt5.com.ua/hoco-c80a-rapido-pdqc30-charger-settypec-to-typeceu-white</url>
+<price>294.0</price>
+<vendorprice>176.0</vendorprice>
+<vendorpricedoll>3.9</vendorpricedoll>
+<rrcdoll>6.52</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>1099827</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzEvYzUv0KYtMDAwMDY5NzQ3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmEvYzAv0KYtMDAwMDY5NzQ3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Hoco</vendor>
+<vendorCode>Ц-000069747</vendorCode>
+<code>741427</code>
+<name>Home Charger 20W PD QC3.0 C to C Cable (1m) Hoco C80A — White</name>
+<description><![CDATA[Сетевое зарядное устройство Hoco C80A PD + Quick Charge 3.0 Type-C to Type-C 1USB / 3.1A – White – предназначен для быстрого и безопасного подзарядки ваших гаджетов. Имеет разъем Type-C to Type-C. Если ваш девайс поддерживает функцию быстрой зарядки QC 3.0 и PD, то он будет заряжаться в 2 раза быстрее. Выдает ток до 3.1A, мощность составляет до 18W. В комплекте, кроме самого блока питания, входит также кабель Type-C to Type-C. Это очень удобно, поскольку не каждый провод дома может иметь необходимую для блока питания пропускную способность.]]></description>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Колво USB портов">1 U | 1 C</param>
+<param name="Зарядные устройства">СЗУ &amp; Кабель Type C</param>
 <param name="Сила тока и Мощность">20W</param>
 </offer>
 <offer id="ts000073657000023531" available="true">
@@ -136952,27 +136833,6 @@
 <quantity_in_stock>39</quantity_in_stock>
 <param name="Бренд">Borofone</param>
 <param name="Колво USB портов">1 USB-C</param>
-<param name="Зарядные устройства">СЗУ &amp; Кабель Lightning</param>
-</offer>
-<offer id="ts000069746000016979" available="true">
-<url>https://kmt5.com.ua/home-charger-20w-pd-qc30-c-to-lightning-cable-1m-hoco-c80a-white</url>
-<price>324.0</price>
-<vendorprice>176.0</vendorprice>
-<vendorpricedoll>3.9</vendorpricedoll>
-<rrcdoll>7.19</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>36418036</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWYvODEv0KYtMDAwMDY5NzQ2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjAvNTkv0KYtMDAwMDY5NzQ2XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2EvMzIv0KYtMDAwMDY5NzQ2XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000069746</vendorCode>
-<code>741425</code>
-<name>Home Charger | 20W | PD | QC3.0 | C to Lightning Cable (1m) — Hoco C80A — White</name>
-<description><![CDATA[Сетевое зарядное устройство Hoco C80A PD + Quick Charge 3.0 Type-C + Lightning 1USB / 3.1A – White – предназначен для быстрого и безопасного подзарядки ваших гаджетов. Если ваш девайс поддерживает функцию быстрой зарядки QC 3.0 и PD, то он будет заряжаться в 2 раза быстрее. Выдает ток до 3.1A, мощность составляет до 18W. В комплекте, кроме самого блока питания, входит также кабель Type-C + Lightning. Это очень удобно, поскольку не каждый провод дома может иметь необходимую для блока питания пропускную способность. Выход USB: DC3.6V-6.5V / 3.0A, 6.6V-9V / 2.0A, 9.1V-12V / 1.5A, 18W Type-C: 5V / 3A (PD), 9V / 2A (PD), 12V / 1.5A (PD), 18W Общий выход: 5V / 3.1A макс EU штекер Огнестойкий материал PC Поддержка для PD3.0, QC3.0 / QC2.0, для быстрой зарядки Huawei FCP, для быстрой зарядки Samsung AFC и других решений для быстрой зарядки Набор с кабелем Type-C на Lightning PD, 1m Размеры: 85 * 46 * 25мм Вес зарядного устройства: 46г, набора с кабелем: 72г]]></description>
-<quantity_in_stock>8</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Колво USB портов">1 USB +1 USB-C</param>
 <param name="Зарядные устройства">СЗУ &amp; Кабель Lightning</param>
 </offer>
 <offer id="ts000081791000030064" available="true">
@@ -140831,6 +140691,25 @@
 <param name="Переходники">RCA Cable</param>
 <param name="Компьютерные аксессуары">Переходники</param>
 <param name="Цвет">Metal Gray</param>
+</offer>
+<offer id="ts000080573000029216" available="true">
+<url>https://kmt5.com.ua/cable-lightning-24a-12m-hoco-u136-white</url>
+<price>210.0</price>
+<vendorprice>113.0</vendorprice>
+<vendorpricedoll>2.5</vendorpricedoll>
+<rrcdoll>4.65</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>23161731</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDkvOWUv0KYtMDAwMDgwNTczXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODUvMGYv0KYtMDAwMDgwNTczXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Hoco</vendor>
+<vendorCode>Ц-000080573</vendorCode>
+<code>785159</code>
+<name>Cable Lightning 2.4A (1.2m) — Hoco U136 — White</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Разъем подключения">Cable USB to Lightning</param>
+<param name="Длина кабеля">1.2m</param>
 </offer>
 <offer id="ts000080986000029552" available="true">
 <url>https://kmt5.com.ua/cable-usb-c-24a-1m-earldom-ec154c-red</url>
@@ -147529,6 +147408,30 @@
 <name>Gaming Headset — Hoco W109  — Black</name>
 <description><![CDATA[Динамик: 50 мм. Интерфейс: USB+разъем 3.5 мм. Микрофон: омнидирекционный микрофон, размер: Φ4.0*1.5 мм. Длина кабеля наушников: 2 м; Вес: 315 г. Динамический светодиодный эффект в наушниках и на оголовье, создающий игровой стиль. В комплекте идет адаптер один к двум аудио, можно использовать на стационарном компьютере или ноутбуке с двумя аудиовыходами.]]></description>
 <quantity_in_stock>3</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Компьютерные аксессуары">Наушники для компьютера</param>
+</offer>
+<offer id="ts000078238000026908" available="true">
+<url>https://kmt5.com.ua/gaming-headset-hoco-w109-white</url>
+<price>1085.0</price>
+<vendorprice>594.0</vendorprice>
+<vendorpricedoll>13.2</vendorpricedoll>
+<rrcdoll>24.12</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>65714757</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWIvMzEv0KYtMDAwMDc4MjM4XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTgvNjMv0KYtMDAwMDc4MjM4XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTgvZmYv0KYtMDAwMDc4MjM4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2UvMzMv0KYtMDAwMDc4MjM4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjEvYmUv0KYtMDAwMDc4MjM4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGEvYmQv0KYtMDAwMDc4MjM4XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTYvYTAv0KYtMDAwMDc4MjM4XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Hoco</vendor>
+<vendorCode>Ц-000078238</vendorCode>
+<code>778173</code>
+<name>Gaming Headset — Hoco W109  — White</name>
+<description><![CDATA[Динамик: 50 мм. Интерфейс: USB+разъем 3.5 мм. Микрофон: омнидирекционный микрофон, размер: Φ4.0*1.5 мм. Длина кабеля наушников: 2 м; Вес: 315 г. Динамический светодиодный эффект в наушниках и на оголовье, создающий игровой стиль. В комплекте идет адаптер один к двум аудио, можно использовать на стационарном компьютере или ноутбуке с двумя аудиовыходами.]]></description>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Компьютерные аксессуары">Наушники для компьютера</param>
 </offer>
@@ -163784,6 +163687,25 @@
 <param name="Бренд">Различные</param>
 <param name="Видео аксессуары">Экшн-камеры</param>
 </offer>
+<offer id="ts000083096000031064" available="true">
+<url>https://kmt5.com.ua/35mm-earphones-with-mic-hoco-m117-black</url>
+<price>106.0</price>
+<vendorprice>54.0</vendorprice>
+<vendorpricedoll>1.2</vendorpricedoll>
+<rrcdoll>2.35</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>72062147</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDYvMjAv0KYtMDAwMDgzMDk2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDQvMTcv0KYtMDAwMDgzMDk2XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Hoco</vendor>
+<vendorCode>Ц-000083096</vendorCode>
+<code>789842</code>
+<name>3.5mm Earphones With Mic — Hoco M117 — Black</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Аудіо товари">Навушники з мікрофоном 3.5mm</param>
+<param name="Интерфейс подключения">3.5mm</param>
+</offer>
 <offer id="ts000083096000031065" available="true">
 <url>https://kmt5.com.ua/35mm-earphones-with-mic-hoco-m117-white</url>
 <price>106.0</price>
@@ -168509,6 +168431,31 @@
 <param name="Аудіо товари">Навушники з мікрофоном 3.5mm</param>
 <param name="Интерфейс подключения">3.5mm</param>
 </offer>
+<offer id="ts000072769000022638" available="true">
+<url>https://kmt5.com.ua/naushniki-s-mikrofonom-borofone-bm39-refined-white</url>
+<price>88.0</price>
+<vendorprice>48.0</vendorprice>
+<vendorpricedoll>1.05</vendorpricedoll>
+<rrcdoll>1.95</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>72062147</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzAvMzQv0KYtMDAwMDcyNzY5XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWMvYjcv0KYtMDAwMDcyNzY5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjIvYTIv0KYtMDAwMDcyNzY5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjEvMTIv0KYtMDAwMDcyNzY5XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzAvYTgv0KYtMDAwMDcyNzY5XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTkvYjYv0KYtMDAwMDcyNzY5XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTUvYmIv0KYtMDAwMDcyNzY5XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Borofone</vendor>
+<vendorCode>Ц-000072769</vendorCode>
+<code>754543</code>
+<name>Навушники з мікрофоном 3.5mm  Borofone BM39 Refined — White</name>
+<description><![CDATA[BOROFONE BM39 Refined chant - это наушники подходящие, ко всем современным смартфонам и планшетам. Корпус наушников приятный на ощупь, а современный дизайн сочетает в себе удобство и функциональность. С данной моделью наушников вы будете наслаждаться, хорошим акустическим звуком, а удобная форма не даст уставать ушам при длительном прослушивании любимых треков. Спикер: 10мм Аудио разъем: Ø3.5мм Кабель наушников: TPE Длина кабеля: 1.2м Вес: 10 г Микрофон: пульт с микрофоном Проводное управление: управление одной кнопкой]]></description>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Borofone</param>
+<param name="Аудіо товари">Навушники з мікрофоном 3.5mm</param>
+<param name="Интерфейс подключения">3.5mm</param>
+</offer>
 <offer id="ts000073886000023775" available="true">
 <url>https://kmt5.com.ua/navushniki-z-mkrofonom-35mm-borofone-bm82-art-music-black</url>
 <price>103.0</price>
@@ -170438,27 +170385,6 @@
 <param name="Марка">Universal</param>
 <param name="Бренд">Различные</param>
 <param name="Материал">Ткань</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
-<offer id="ts000072950000022285" available="true">
-<url>https://kmt5.com.ua/remnets-nylon-xiaomi-mi-band-5-6-7-black</url>
-<price>89.0</price>
-<vendorprice>45.0</vendorprice>
-<vendorpricedoll>1.0</vendorpricedoll>
-<rrcdoll>1.97</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>22922428</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzAvOTgv0KYtMDAwMDcyOTUwXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDkvNWYv0KYtMDAwMDcyOTUwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000072950</vendorCode>
-<code>754087</code>
-<name>Ремінець Nylon Xiaomi Mi Band 5 6 7 — Black</name>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Марка">Xiaomi</param>
-<param name="Модель девайса">Xiaomi Mi Band 5, Xiaomi Mi Band 6, Xiaomi Mi Band 7</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Металл</param>
 <param name="Аксессуары Для Смарт Часов">Браслеты</param>
 </offer>
 <offer id="ts000072950000022283" available="true">
@@ -183568,29 +183494,6 @@
 <name>Ремінець Milanese Loop Універсальний 20 mm — Black</name>
 <description><![CDATA[Модельный ряд Universal Bracelet 20mm: AmazFit BIP / AmazFit GTS / AmazFit GTR (42 mm) / Huawei GT2 (42 mm) / Samsung Gear S4 (42 mm) / Samsung Galaxy Active 2 (40 mm) / Samsung Galaxy Watch (42 mm)]]></description>
 <quantity_in_stock>226</quantity_in_stock>
-<param name="Марка">Universal</param>
-<param name="Модель девайса">20 mm</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Силикон</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-<param name="Цвет">Milanese Loop</param>
-</offer>
-<offer id="ts000067231000021185" available="true">
-<url>https://kmt5.com.ua/remeshok-universalnyiy-milanese-loop-20mm-gold</url>
-<price>121.0</price>
-<vendorprice>62.0</vendorprice>
-<vendorpricedoll>1.37</vendorpricedoll>
-<rrcdoll>2.69</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>78104130</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjIvMDgv0KYtMDAwMDY3MjMxXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWQvNDIv0KYtMDAwMDY3MjMxXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000067231</vendorCode>
-<code>751997</code>
-<name>Ремінець Milanese Loop Універсальний 20 mm — Gold</name>
-<description><![CDATA[Модельный ряд Universal Bracelet 20mm: AmazFit BIP / AmazFit GTS / AmazFit GTR (42 mm) / Huawei GT2 (42 mm) / Samsung Gear S4 (42 mm) / Samsung Galaxy Active 2 (40 mm) / Samsung Galaxy Watch (42 mm)]]></description>
-<quantity_in_stock>2</quantity_in_stock>
 <param name="Марка">Universal</param>
 <param name="Модель девайса">20 mm</param>
 <param name="Бренд">Различные</param>
