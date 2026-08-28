@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-28 00:52">
+<yml_catalog date="2026-08-28 14:40">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -16267,35 +16267,6 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro</param>
-<param name="Бренд">Wiwu</param>
-<param name="Материал">Полиуретан</param>
-</offer>
-<offer id="ts000082487000030465" available="true">
-<url>https://kmt5.com.ua/armor-pro-case-with-magsafe-fgg012-iphone-17-pro-max-black</url>
-<price>434.0</price>
-<vendorprice>257.0</vendorprice>
-<vendorpricedoll>5.7</vendorpricedoll>
-<rrcdoll>9.64</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54622491</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzIvMzgv0KYtMDAwMDgyNDg3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDgvMGIv0KYtMDAwMDgyNDg3XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmEvZTEv0KYtMDAwMDgyNDg3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzYvOTEv0KYtMDAwMDgyNDg3XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDUvODgv0KYtMDAwMDgyNDg3XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTQvOGMv0KYtMDAwMDgyNDg3XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmQvNjYv0KYtMDAwMDgyNDg3XzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2QvNzcv0KYtMDAwMDgyNDg3XzEyLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDIvYmMv0KYtMDAwMDgyNDg3XzEzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTIvOGQv0KYtMDAwMDgyNDg3XzE0LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Wiwu</vendor>
-<vendorCode>Ц-000082487</vendorCode>
-<code>788647</code>
-<name>Armor Pro Case With MagSafe FGG-012 — iPhone 17 Pro Max — Black</name>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro Max</param>
 <param name="Бренд">Wiwu</param>
 <param name="Материал">Полиуретан</param>
 </offer>
@@ -34157,27 +34128,6 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Полиуретан</param>
-</offer>
-<offer id="ts000079996000028152" available="true">
-<url>https://kmt5.com.ua/colorful-case-with-magsafe-iphone-16-pro-max-black</url>
-<price>235.0</price>
-<vendorprice>131.0</vendorprice>
-<vendorpricedoll>2.9</vendorpricedoll>
-<rrcdoll>5.22</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>60652165</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGEvOGEv0KYtMDAwMDc5OTk2XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmMvODEv0KYtMDAwMDc5OTk2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000079996</vendorCode>
-<code>781578</code>
-<name>Colorful Case with MagSafe iPhone 16 Pro Max — Black</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 16 Pro Max</param>
 <param name="Бренд">Apple</param>
 <param name="Материал">Полиуретан</param>
 </offer>
@@ -60374,28 +60324,6 @@
 <param name="Бренд">Apple</param>
 <param name="Материал">Силикон</param>
 </offer>
-<offer id="ts000079247000027136" available="true">
-<url>https://kmt5.com.ua/oc-matte-case-with-magsafe-iphone-1212-pro-61-black</url>
-<price>180.0</price>
-<vendorprice>108.0</vendorprice>
-<vendorpricedoll>2.38</vendorpricedoll>
-<rrcdoll>4.0</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>36174719</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWUvNTgv0KYtMDAwMDc5MjQ3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2UvNDEv0KYtMDAwMDc5MjQ3XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWEvMmQv0KYtMDAwMDc5MjQ3XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000079247</vendorCode>
-<code>779016</code>
-<name>OC Matte Case with MagSafe iPhone 12/12 Pro 6.1&quot; — Black</name>
-<quantity_in_stock>3</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 12 Pro 6.1&quot;, Apple iPhone 12 6.1&quot;</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Силикон</param>
-</offer>
 <offer id="ts000079247000027134" available="true">
 <url>https://kmt5.com.ua/oc-matte-case-with-magsafe-iphone-1212-pro-61-dark-blue</url>
 <price>180.0</price>
@@ -60536,50 +60464,6 @@
 <code>779031</code>
 <name>OC Matte Case With MagSafe iPhone 13 Pro — Black</name>
 <quantity_in_stock>4</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 13 Pro 6.1&quot;</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Силикон</param>
-</offer>
-<offer id="ts000079333000027146" available="true">
-<url>https://kmt5.com.ua/oc-matte-case-with-magsafe-iphone-13-pro-dark-blue</url>
-<price>180.0</price>
-<vendorprice>108.0</vendorprice>
-<vendorpricedoll>2.38</vendorpricedoll>
-<rrcdoll>4.0</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>70706401</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjEvNmYv0KYtMDAwMDc5MzMzXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDEvOGYv0KYtMDAwMDc5MzMzXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWEvMWYv0KYtMDAwMDc5MzMzXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000079333</vendorCode>
-<code>779029</code>
-<name>OC Matte Case With MagSafe iPhone 13 Pro — Dark Blue</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 13 Pro 6.1&quot;</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Силикон</param>
-</offer>
-<offer id="ts000079333000027147" available="true">
-<url>https://kmt5.com.ua/oc-matte-case-with-magsafe-iphone-13-pro-grey</url>
-<price>180.0</price>
-<vendorprice>108.0</vendorprice>
-<vendorpricedoll>2.38</vendorpricedoll>
-<rrcdoll>4.0</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>70706401</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDUvYmIv0KYtMDAwMDc5MzMzXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTcvMzYv0KYtMDAwMDc5MzMzXzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDEvOGYv0KYtMDAwMDc5MzMzXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000079333</vendorCode>
-<code>779030</code>
-<name>OC Matte Case With MagSafe iPhone 13 Pro — Grey</name>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 13 Pro 6.1&quot;</param>
@@ -61319,27 +61203,6 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16 Pro Max</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Силикон</param>
-</offer>
-<offer id="ts000079810000027773" available="true">
-<url>https://kmt5.com.ua/oc-matte-case-with-magsafe-iphone-16-pro-black</url>
-<price>180.0</price>
-<vendorprice>108.0</vendorprice>
-<vendorpricedoll>2.38</vendorpricedoll>
-<rrcdoll>4.0</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>60652165</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODMvYjMv0KYtMDAwMDc5ODEwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGYvMzcv0KYtMDAwMDc5ODEwXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000079810</vendorCode>
-<code>780115</code>
-<name>OC Matte Case With MagSafe — iPhone 16 Pro — Black</name>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 16 Pro</param>
 <param name="Бренд">Apple</param>
 <param name="Материал">Силикон</param>
 </offer>
@@ -79912,50 +79775,6 @@
 <param name="Бренд">Различные</param>
 <param name="Материал">Металл</param>
 </offer>
-<offer id="ts000084037000031942" available="true">
-<url>https://kmt5.com.ua/rimova-metal-case-iphone-1314-blue</url>
-<price>311.0</price>
-<vendorprice>174.0</vendorprice>
-<vendorpricedoll>3.85</vendorpricedoll>
-<rrcdoll>6.9</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>65522936</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODQvYzEv0KYtMDAwMDg0MDM3XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzMvYmIv0KYtMDAwMDg0MDM3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjgvY2Qv0KYtMDAwMDg0MDM3XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000084037</vendorCode>
-<code>791633</code>
-<name>Rimova Metal Case iPhone 13/14 — Blue</name>
-<quantity_in_stock>4</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 13 6.1&quot;, Apple iPhone 14 6.1&quot;</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Металл</param>
-</offer>
-<offer id="ts000084037000031943" available="true">
-<url>https://kmt5.com.ua/rimova-metal-case-iphone-1314-silver</url>
-<price>311.0</price>
-<vendorprice>174.0</vendorprice>
-<vendorpricedoll>3.85</vendorpricedoll>
-<rrcdoll>6.9</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>65522936</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWQvOTMv0KYtMDAwMDg0MDM3XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzMvYmIv0KYtMDAwMDg0MDM3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjgvOTQv0KYtMDAwMDg0MDM3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000084037</vendorCode>
-<code>791634</code>
-<name>Rimova Metal Case iPhone 13/14 — Silver</name>
-<quantity_in_stock>4</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 13 6.1&quot;, Apple iPhone 14 6.1&quot;</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Металл</param>
-</offer>
 <offer id="ts000084040000031949" available="true">
 <url>https://kmt5.com.ua/rimova-metal-case-iphone-14-pro-max-black</url>
 <price>311.0</price>
@@ -80110,50 +79929,6 @@
 <param name="Бренд">Различные</param>
 <param name="Материал">Металл</param>
 </offer>
-<offer id="ts000084039000031947" available="true">
-<url>https://kmt5.com.ua/rimova-metal-case-iphone-14-pro-silver</url>
-<price>311.0</price>
-<vendorprice>174.0</vendorprice>
-<vendorpricedoll>3.85</vendorpricedoll>
-<rrcdoll>6.9</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>65522936</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTQvY2Mv0KYtMDAwMDg0MDM5XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWMvZTYv0KYtMDAwMDg0MDM5XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTQvNTgv0KYtMDAwMDg0MDM5XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000084039</vendorCode>
-<code>791639</code>
-<name>Rimova Metal Case iPhone 14 Pro — Silver</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 14 Pro 6.1&quot;</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Металл</param>
-</offer>
-<offer id="ts000084041000031954" available="true">
-<url>https://kmt5.com.ua/rimova-metal-case-iphone-15-pro-max-blue</url>
-<price>311.0</price>
-<vendorprice>174.0</vendorprice>
-<vendorpricedoll>3.85</vendorpricedoll>
-<rrcdoll>6.9</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>16203878</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmMvMDAv0KYtMDAwMDg0MDQxXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTYvMTYv0KYtMDAwMDg0MDQxXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTgvODIv0KYtMDAwMDg0MDQxXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000084041</vendorCode>
-<code>791648</code>
-<name>Rimova Metal Case iPhone 15 Pro Max — Blue</name>
-<quantity_in_stock>6</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 15 Pro Max</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Металл</param>
-</offer>
 <offer id="ts000084041000031956" available="true">
 <url>https://kmt5.com.ua/rimova-metal-case-iphone-15-pro-max-orange</url>
 <price>311.0</price>
@@ -80173,50 +79948,6 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro Max</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Металл</param>
-</offer>
-<offer id="ts000084042000031957" available="true">
-<url>https://kmt5.com.ua/rimova-metal-case-iphone-15-pro-black</url>
-<price>311.0</price>
-<vendorprice>174.0</vendorprice>
-<vendorpricedoll>3.85</vendorpricedoll>
-<rrcdoll>6.9</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>16203878</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzYvYzgv0KYtMDAwMDg0MDQyXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmQvNzAv0KYtMDAwMDg0MDQyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODUvNDIv0KYtMDAwMDg0MDQyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000084042</vendorCode>
-<code>791652</code>
-<name>Rimova Metal Case iPhone 15 Pro — Black</name>
-<quantity_in_stock>3</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 15 Pro</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Металл</param>
-</offer>
-<offer id="ts000084042000031958" available="true">
-<url>https://kmt5.com.ua/rimova-metal-case-iphone-15-pro-blue</url>
-<price>311.0</price>
-<vendorprice>174.0</vendorprice>
-<vendorpricedoll>3.85</vendorpricedoll>
-<rrcdoll>6.9</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>16203878</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTMvMDYv0KYtMDAwMDg0MDQyXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmQvNzAv0KYtMDAwMDg0MDQyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGEvNDYv0KYtMDAwMDg0MDQyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000084042</vendorCode>
-<code>791653</code>
-<name>Rimova Metal Case iPhone 15 Pro — Blue</name>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 15 Pro</param>
 <param name="Бренд">Различные</param>
 <param name="Материал">Металл</param>
 </offer>
@@ -80258,72 +79989,6 @@
 <code>791667</code>
 <name>Rimova Metal Case iPhone 17 — Black</name>
 <quantity_in_stock>6</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Металл</param>
-</offer>
-<offer id="ts000084045000031970" available="true">
-<url>https://kmt5.com.ua/rimova-metal-case-iphone-17-blue</url>
-<price>311.0</price>
-<vendorprice>174.0</vendorprice>
-<vendorpricedoll>3.85</vendorpricedoll>
-<rrcdoll>6.9</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54622491</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2IvZWMv0KYtMDAwMDg0MDQ1XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjcvYjcv0KYtMDAwMDg0MDQ1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTQvMmMv0KYtMDAwMDg0MDQ1XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000084045</vendorCode>
-<code>791668</code>
-<name>Rimova Metal Case iPhone 17 — Blue</name>
-<quantity_in_stock>6</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Металл</param>
-</offer>
-<offer id="ts000084045000031972" available="true">
-<url>https://kmt5.com.ua/rimova-metal-case-iphone-17-orange</url>
-<price>311.0</price>
-<vendorprice>174.0</vendorprice>
-<vendorpricedoll>3.85</vendorpricedoll>
-<rrcdoll>6.9</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54622491</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzQvOTkv0KYtMDAwMDg0MDQ1XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjcvYjcv0KYtMDAwMDg0MDQ1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2QvNjUv0KYtMDAwMDg0MDQ1XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000084045</vendorCode>
-<code>791670</code>
-<name>Rimova Metal Case iPhone 17 — Orange</name>
-<quantity_in_stock>5</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Металл</param>
-</offer>
-<offer id="ts000084045000031971" available="true">
-<url>https://kmt5.com.ua/rimova-metal-case-iphone-17-silver</url>
-<price>311.0</price>
-<vendorprice>174.0</vendorprice>
-<vendorpricedoll>3.85</vendorpricedoll>
-<rrcdoll>6.9</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54622491</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjgvY2Yv0KYtMDAwMDg0MDQ1XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjcvYjcv0KYtMDAwMDg0MDQ1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDMvZjIv0KYtMDAwMDg0MDQ1XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000084045</vendorCode>
-<code>791669</code>
-<name>Rimova Metal Case iPhone 17 — Silver</name>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17</param>
@@ -100961,27 +100626,6 @@
 <param name="Бренд">Различные</param>
 <param name="Материал">PU кожа &amp; Полиуретан</param>
 </offer>
-<offer id="ts000077295000028443" available="true">
-<url>https://kmt5.com.ua/uag-adventure-magnetic-case-iphone-12-12-pro-61-black</url>
-<price>351.0</price>
-<vendorprice>198.0</vendorprice>
-<vendorpricedoll>4.4</vendorpricedoll>
-<rrcdoll>7.79</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>36174719</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjMvMjkv0KYtMDAwMDc3Mjk1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzYvYTkv0KYtMDAwMDc3Mjk1XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000077295</vendorCode>
-<code>782140</code>
-<name>UAG Adventure Magnetic Case — iPhone 12 ; 12 Pro 6.1&quot;  — Black</name>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 12 Pro 6.1&quot;, Apple iPhone 12 6.1&quot;</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Пластик</param>
-</offer>
 <offer id="ts000077295000025279" available="true">
 <url>https://kmt5.com.ua/uag-adventure-magnetic-case-iphone-12-12-pro-61-camouflage-black</url>
 <price>351.0</price>
@@ -115234,25 +114878,6 @@
 <param name="Материал">Ткань</param>
 <param name="Цвет">Multi Color</param>
 </offer>
-<offer id="ts000082524000030549" available="true">
-<url>https://kmt5.com.ua/sumka-14-wiwu-skin-zero-sleeve-black</url>
-<price>551.0</price>
-<vendorprice>324.0</vendorprice>
-<vendorpricedoll>7.2</vendorpricedoll>
-<rrcdoll>12.25</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>71284098</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWEvODEv0KYtMDAwMDgyNTI0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmQvMDQv0KYtMDAwMDgyNTI0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Wiwu</vendor>
-<vendorCode>Ц-000082524</vendorCode>
-<code>788767</code>
-<name>Сумка 14'' — WiWU Skin Zero Sleeve  — Black</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Сумка</param>
-<param name="Бренд">Wiwu</param>
-<param name="Материал">Ткань</param>
-</offer>
 <offer id="ts000082524000030552" available="true">
 <url>https://kmt5.com.ua/sumka-14-wiwu-skin-zero-sleeve-burgundy-red</url>
 <price>551.0</price>
@@ -121730,26 +121355,6 @@
 <code>789087</code>
 <name>Airpods Pro 3 Case — Leather Ring  — Black</name>
 <quantity_in_stock>13</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Airpods Pro 3</param>
-<param name="Бренд">Различные</param>
-<param name="Аудіо товари">Чехол для Airpods</param>
-</offer>
-<offer id="ts000082735000030681" available="true">
-<url>https://kmt5.com.ua/airpods-pro-3-case-plastic-lock-transparent</url>
-<price>213.0</price>
-<vendorprice>113.0</vendorprice>
-<vendorpricedoll>2.5</vendorpricedoll>
-<rrcdoll>4.73</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>5274189</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTMvNDEv0KYtMDAwMDgyNzM1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmYvZDUv0KYtMDAwMDgyNzM1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082735</vendorCode>
-<code>789108</code>
-<name>Airpods Pro 3 Case — Plastic Lock  — Transparent</name>
-<quantity_in_stock>3</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Airpods Pro 3</param>
 <param name="Бренд">Различные</param>
@@ -146765,28 +146370,6 @@
 <param name="Бренд">Apple</param>
 <param name="Разъем подключения">Cable USB C to C</param>
 <param name="Длина кабеля">2m</param>
-</offer>
-<offer id="ts000075678000024435" available="true">
-<url>https://kmt5.com.ua/kabel-usb-c-to-c-100w-12m-veron-cc02-nylon-lcd-black</url>
-<price>251.0</price>
-<vendorprice>158.0</vendorprice>
-<vendorpricedoll>3.5</vendorpricedoll>
-<rrcdoll>5.56</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>98417332</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWEvYTkv0KYtMDAwMDc1Njc4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2IvNDkv0KYtMDAwMDc1Njc4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjUvZTEv0KYtMDAwMDc1Njc4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTUvODAv0KYtMDAwMDc1Njc4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>VERON</vendor>
-<vendorCode>Ц-000075678</vendorCode>
-<code>770967</code>
-<name>Кабель USB C to C 100W PD (1.2m) Veron CC02 Nylon LCD — Black</name>
-<description><![CDATA[Версия USB: 3.0 Длина: 1.2 м Материал: Нейлон Сила тока: 3 А Тип использования: Для зарядки, для передачи данных Тип зарядки: Быстрая Тип коннектора 1: Type-C Тип коннектора 2: Type-C Мощность: 100 Вт Особенности: Экран для индикации Назначение: Для телефона, планшета, iPhone, iPad Цвет: Черный Тип кабеля: Type-C - Type-C]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">VERON</param>
-<param name="Разъем подключения">Cable USB C to C</param>
-<param name="Длина кабеля">1.2m</param>
 </offer>
 <offer id="ts000073196" available="true">
 <url>https://kmt5.com.ua/v9-kabel-veron-c09s-type-c-to-type-c-usb-cable-25-cm-20w</url>
