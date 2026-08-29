@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-28 23:46">
+<yml_catalog date="2026-08-29 09:28">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -74127,31 +74127,6 @@
 <param name="Бренд">Polo</param>
 <param name="Материал">Силикон</param>
 </offer>
-<offer id="ts000083013000031037" available="true">
-<url>https://kmt5.com.ua/polo-augus-silicone-case-with-magsafe-iphone-17-pro-navy-blue</url>
-<price>765.0</price>
-<vendorprice>441.0</vendorprice>
-<vendorpricedoll>9.8</vendorpricedoll>
-<rrcdoll>17.0</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54622491</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDQvMjMv0KYtMDAwMDgzMDEzXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTAvZGIv0KYtMDAwMDgzMDEzXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjkvZTcv0KYtMDAwMDgzMDEzXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWIvYjMv0KYtMDAwMDgzMDEzXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTAvODYv0KYtMDAwMDgzMDEzXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTUvMGYv0KYtMDAwMDgzMDEzXzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Polo</vendor>
-<vendorCode>Ц-000083013</vendorCode>
-<code>789736</code>
-<name>Polo Augus Silicone Case with Magsafe iPhone 17 Pro — Navy Blue</name>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro</param>
-<param name="Бренд">Polo</param>
-<param name="Материал">Силикон</param>
-</offer>
 <offer id="ts000083013000031548" available="true">
 <url>https://kmt5.com.ua/polo-augus-silicone-case-with-magsafe-iphone-17-pro-orange</url>
 <price>765.0</price>
@@ -138540,6 +138515,32 @@
 <param name="Зарядные устройства">Беспроводные</param>
 <param name="Сила тока и Мощность">15W</param>
 </offer>
+<offer id="ts000077473000025641" available="true">
+<url>https://kmt5.com.ua/wireless-charger-15w-hoco-cw6-black</url>
+<price>405.0</price>
+<vendorprice>207.0</vendorprice>
+<vendorpricedoll>4.6</vendorpricedoll>
+<rrcdoll>9.0</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>138510</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODMvNjkv0KYtMDAwMDc3NDczXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjcvZTUv0KYtMDAwMDc3NDczXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTgvZTEv0KYtMDAwMDc3NDczXzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGYvMDEv0KYtMDAwMDc3NDczXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDUvMmUv0KYtMDAwMDc3NDczXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjIvYzIv0KYtMDAwMDc3NDczXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTIvMjgv0KYtMDAwMDc3NDczXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGMvYjAv0KYtMDAwMDc3NDczXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmMvMmEv0KYtMDAwMDc3NDczXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Hoco</vendor>
+<vendorCode>Ц-000077473</vendorCode>
+<code>774203</code>
+<name>Wireless Charger 15W Hoco CW6 Pro — black</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Зарядные устройства">Беспроводные</param>
+<param name="Сила тока и Мощность">15W</param>
+</offer>
 <offer id="ts000072661000022147" available="true">
 <url>https://kmt5.com.ua/besprovodnaya-zaryadka-3-in-1-veron-y35-black</url>
 <price>1073.0</price>
@@ -188484,26 +188485,6 @@
 <param name="Материал">Металл</param>
 <param name="Аксессуары Для Смарт Часов">Браслеты</param>
 </offer>
-<offer id="ts000072952000022294" available="true">
-<url>https://kmt5.com.ua/remeshok-apple-watch-nylon-with-protective-case-384041mm-black</url>
-<price>81.0</price>
-<vendorprice>41.0</vendorprice>
-<vendorpricedoll>0.9</vendorpricedoll>
-<rrcdoll>1.8</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>48417745</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWYvYzAv0KYtMDAwMDcyOTUyXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzQvODQv0KYtMDAwMDcyOTUyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000072952</vendorCode>
-<code>754098</code>
-<name>Ремінець Nylon with protective case Apple Watch 40 mm — Black</name>
-<quantity_in_stock>16</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Watch Series 7 41 mm, Apple Watch Series 3 38 mm, Apple Watch Series 4 40 mm</param>
-<param name="Бренд">Различные</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
 <offer id="ts000072952000022441" available="true">
 <url>https://kmt5.com.ua/remnets-nylon-with-protective-case-apple-watch-40-mm-black</url>
 <price>81.0</price>
@@ -188519,6 +188500,26 @@
 <code>754287</code>
 <name>Ремінець Nylon with protective case Apple Watch 40 mm — Black</name>
 <quantity_in_stock>1</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Watch Series 7 41 mm, Apple Watch Series 3 38 mm, Apple Watch Series 4 40 mm</param>
+<param name="Бренд">Различные</param>
+<param name="Аксессуары Для Смарт Часов">Браслеты</param>
+</offer>
+<offer id="ts000072952000022294" available="true">
+<url>https://kmt5.com.ua/remeshok-apple-watch-nylon-with-protective-case-384041mm-black</url>
+<price>81.0</price>
+<vendorprice>41.0</vendorprice>
+<vendorpricedoll>0.9</vendorpricedoll>
+<rrcdoll>1.8</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>48417745</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWYvYzAv0KYtMDAwMDcyOTUyXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzQvODQv0KYtMDAwMDcyOTUyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000072952</vendorCode>
+<code>754098</code>
+<name>Ремінець Nylon with protective case Apple Watch 40 mm — Black</name>
+<quantity_in_stock>16</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Watch Series 7 41 mm, Apple Watch Series 3 38 mm, Apple Watch Series 4 40 mm</param>
 <param name="Бренд">Различные</param>
