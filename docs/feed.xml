@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-30 08:36">
+<yml_catalog date="2026-08-30 14:03">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -47887,26 +47887,6 @@
 <param name="Бренд">Различные</param>
 <param name="Материал">Кожа</param>
 </offer>
-<offer id="ts000077776000026117" available="true">
-<url>https://kmt5.com.ua/leather-book-case-samsung-a13-4ga13-4g-lte-gold</url>
-<price>75.0</price>
-<vendorprice>45.0</vendorprice>
-<vendorpricedoll>1.0</vendorpricedoll>
-<rrcdoll>1.66</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>90750134</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWIvMGMv0KYtMDAwMDc3Nzc2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000077776</vendorCode>
-<code>776442</code>
-<name>Leather Book Case Samsung A13 4G/A13 4G LTE — Gold</name>
-<quantity_in_stock>5</quantity_in_stock>
-<param name="Форм фактор">Книжка</param>
-<param name="Марка">Samsung</param>
-<param name="Модель девайса">Samsung A13 4G, Samsung A13 4G LTE</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Кожа</param>
-</offer>
 <offer id="ts000077777000026118" available="true">
 <url>https://kmt5.com.ua/leather-book-case-samsung-a14-4ga14-5g-black</url>
 <price>75.0</price>
@@ -57548,28 +57528,6 @@
 <code>779010</code>
 <name>OC Matte Case With MagSafe — iPhone 11 — Dark Blue</name>
 <quantity_in_stock>10</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 11</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Силикон</param>
-</offer>
-<offer id="ts000079246000027131" available="true">
-<url>https://kmt5.com.ua/oc-matte-case-with-magsafe-iphone-11-grey</url>
-<price>180.0</price>
-<vendorprice>108.0</vendorprice>
-<vendorpricedoll>2.38</vendorpricedoll>
-<rrcdoll>4.0</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>32288668</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjEvZjUv0KYtMDAwMDc5MjQ2XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjMvZjIv0KYtMDAwMDc5MjQ2XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWYvOTkv0KYtMDAwMDc5MjQ2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000079246</vendorCode>
-<code>779011</code>
-<name>OC Matte Case With MagSafe — iPhone 11 — Grey</name>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 11</param>
@@ -71035,31 +70993,6 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16 Pro Max</param>
-<param name="Бренд">Polo</param>
-<param name="Материал">PU кожа</param>
-</offer>
-<offer id="ts000080736000029386" available="true">
-<url>https://kmt5.com.ua/polo-darren-leather-case-with-magsafe-iphone-16-pro-black</url>
-<price>980.0</price>
-<vendorprice>576.0</vendorprice>
-<vendorpricedoll>12.8</vendorpricedoll>
-<rrcdoll>21.78</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>60652165</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWMvODcv0KYtMDAwMDgwNzM2XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTQvNGYv0KYtMDAwMDgwNzM2XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWQvM2Mv0KYtMDAwMDgwNzM2XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODIvN2Mv0KYtMDAwMDgwNzM2XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDUvZWIv0KYtMDAwMDgwNzM2XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjIvYTQv0KYtMDAwMDgwNzM2XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Polo</vendor>
-<vendorCode>Ц-000080736</vendorCode>
-<code>785861</code>
-<name>Polo Darren Leather Case with Magsafe iPhone 16 Pro — Black</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 16 Pro</param>
 <param name="Бренд">Polo</param>
 <param name="Материал">PU кожа</param>
 </offer>
@@ -112157,26 +112090,6 @@
 <param name="Бренд">Apple</param>
 <param name="Материал">Силикон</param>
 </offer>
-<offer id="ts000080219000028614" available="true">
-<url>https://kmt5.com.ua/crystal-case-macbook-air-136-m2-a2681-clear</url>
-<price>399.0</price>
-<vendorprice>234.0</vendorprice>
-<vendorpricedoll>5.2</vendorpricedoll>
-<rrcdoll>8.86</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>61259600</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2MvZTYv0KYtMDAwMDgwMjE5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000080219</vendorCode>
-<code>782387</code>
-<name>Crystal Case MacBook Air 13.6'' M2 A2681.. — Clear</name>
-<quantity_in_stock>4</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Macbook Air 13.6</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Силикон</param>
-</offer>
 <offer id="ts000077635000025842" available="true">
 <url>https://kmt5.com.ua/crystal-case-macbook-air-15-a2941-clear</url>
 <price>471.0</price>
@@ -135631,31 +135544,6 @@
 <param name="Сила тока и Мощность">3A</param>
 <param name="Цвет">Chrome</param>
 </offer>
-<offer id="ts000072684000022183" available="true">
-<url>https://kmt5.com.ua/azu-hoco-z46a-blue-whale-pd20wqc30-metal-gray</url>
-<price>246.0</price>
-<vendorprice>126.0</vendorprice>
-<vendorpricedoll>2.8</vendorpricedoll>
-<rrcdoll>5.45</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>88941842</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjMvZjAv0KYtMDAwMDcyNjg0XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjEvNmIv0KYtMDAwMDcyNjg0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDkvOWIv0KYtMDAwMDcyNjg0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTUvNzcv0KYtMDAwMDcyNjg0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDQvMWQv0KYtMDAwMDcyNjg0XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTcvOGQv0KYtMDAwMDcyNjg0XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000072684</vendorCode>
-<code>753716</code>
-<name>Car Charger | 20W | PD | USB QC3.0 | USB-C | — Hoco Z46A — Metal Gray</name>
-<description><![CDATA[Hoco Z46a – мощное автомобильное зарядное устройство. Имеет встроенные 2 порта – USB и Type-C с поддержкой технологий быстрого заряда QC3.0A и PD 20W соответственно. Корпус сделан из алюминия и предусмотрена многоуровневая система защиты. В комплекте идет кабель Type-C to Lightning. Размер : 54*25mm. Вес : 20г. Тип : Автомобильные. Питание : От прикуривателя. Совместимость : Универсальный. Количество портов : 1USB, 1 Type-C. Вид : Универсальные блоки питания. Выходной ток : 3A. Особенности ЗУ : Функция быстрой зарядки. Цвет : Серый. Слоты зарядки : 1, 2. Сила тока : 3.0А.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Колво USB портов">1 U | 1 C</param>
-<param name="Зарядные устройства">Автомобильные</param>
-<param name="Сила тока и Мощность">20W</param>
-</offer>
 <offer id="ts000080416" available="true">
 <url>https://kmt5.com.ua/car-charger-20w-q-30-usbc-veron-t07-metal-wp</url>
 <price>121.0</price>
@@ -146191,24 +146079,6 @@
 <param name="Разъем подключения">Cable USB C to C</param>
 <param name="Длина кабеля">1m</param>
 </offer>
-<offer id="ts000083580000031605" available="true">
-<url>https://kmt5.com.ua/kabel-usb-c-to-c-240w-pd-15m-wiwu-wic101-black</url>
-<price>253.0</price>
-<vendorprice>130.0</vendorprice>
-<vendorpricedoll>2.88</vendorpricedoll>
-<rrcdoll>5.61</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>98417332</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjIvMjMv0KYtMDAwMDgzNTgwXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Wiwu</vendor>
-<vendorCode>Ц-000083580</vendorCode>
-<code>790856</code>
-<name>Кабель USB C to C 240W PD (1.5m) WiWU Wi-C101 — Black</name>
-<quantity_in_stock>9</quantity_in_stock>
-<param name="Бренд">Wiwu</param>
-<param name="Разъем подключения">Cable USB C to C</param>
-<param name="Длина кабеля">1.5m</param>
-</offer>
 <offer id="ts000083580000031606" available="true">
 <url>https://kmt5.com.ua/kabel-usb-c-to-c-240w-pd-15m-wiwu-wic101-orange</url>
 <price>253.0</price>
@@ -154815,25 +154685,6 @@
 <param name="Бренд">Различные</param>
 <param name="Аудіо товари">Портативні колонки</param>
 </offer>
-<offer id="ts000082854000030775" available="true">
-<url>https://kmt5.com.ua/portativna-kolonka-borofone-br20-black</url>
-<price>1303.0</price>
-<vendorprice>666.0</vendorprice>
-<vendorpricedoll>14.8</vendorpricedoll>
-<rrcdoll>28.96</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>31204796</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzAvNzQv0KYtMDAwMDgyODU0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWMvMTQv0KYtMDAwMDgyODU0XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Borofone</vendor>
-<vendorCode>Ц-000082854</vendorCode>
-<code>789320</code>
-<name>Портативна колонка Borofone BR20 __ — Black</name>
-<description><![CDATA[BOROFONE BR20 Звукова хвиля, спортивна портативна колонка, BT v5.0, батарея 2400mAh на 3 години використання, підтримка BT, FM, TF, USB, AUX, TWS режимів відтворення 1. BT v5.0. Чип: JL AC6965E. 2. Ємність батареї: 2400mAh, час зарядки близько 3 годин. 3. Час використання: 3 години. 4. Динамік: 52мм*2. Потужність: 5W*2. 5. Розміри: 210,5*94,5*94,5 мм. Вага: 693г. 6. Підтримка BT, FM, TF карт, USB, AUX, TWS та інших режимів.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Бренд">Borofone</param>
-<param name="Аудіо товари">Портативні колонки</param>
-</offer>
 <offer id="ts000082854000030777" available="true">
 <url>https://kmt5.com.ua/portativna-kolonka-borofone-br20-red</url>
 <price>1303.0</price>
@@ -154850,25 +154701,6 @@
 <name>Портативна колонка Borofone BR20 __ — Red</name>
 <description><![CDATA[BOROFONE BR20 Звукова хвиля, спортивна портативна колонка, BT v5.0, батарея 2400mAh на 3 години використання, підтримка BT, FM, TF, USB, AUX, TWS режимів відтворення 1. BT v5.0. Чип: JL AC6965E. 2. Ємність батареї: 2400mAh, час зарядки близько 3 годин. 3. Час використання: 3 години. 4. Динамік: 52мм*2. Потужність: 5W*2. 5. Розміри: 210,5*94,5*94,5 мм. Вага: 693г. 6. Підтримка BT, FM, TF карт, USB, AUX, TWS та інших режимів.]]></description>
 <quantity_in_stock>8</quantity_in_stock>
-<param name="Бренд">Borofone</param>
-<param name="Аудіо товари">Портативні колонки</param>
-</offer>
-<offer id="ts000082854000030776" available="true">
-<url>https://kmt5.com.ua/portativna-kolonka-borofone-br20-white</url>
-<price>1303.0</price>
-<vendorprice>666.0</vendorprice>
-<vendorpricedoll>14.8</vendorpricedoll>
-<rrcdoll>28.96</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>31204796</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDkvODAv0KYtMDAwMDgyODU0XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWMvMTQv0KYtMDAwMDgyODU0XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Borofone</vendor>
-<vendorCode>Ц-000082854</vendorCode>
-<code>789321</code>
-<name>Портативна колонка Borofone BR20 __ — White</name>
-<description><![CDATA[BOROFONE BR20 Звукова хвиля, спортивна портативна колонка, BT v5.0, батарея 2400mAh на 3 години використання, підтримка BT, FM, TF, USB, AUX, TWS режимів відтворення 1. BT v5.0. Чип: JL AC6965E. 2. Ємність батареї: 2400mAh, час зарядки близько 3 годин. 3. Час використання: 3 години. 4. Динамік: 52мм*2. Потужність: 5W*2. 5. Розміри: 210,5*94,5*94,5 мм. Вага: 693г. 6. Підтримка BT, FM, TF карт, USB, AUX, TWS та інших режимів.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
 <param name="Бренд">Borofone</param>
 <param name="Аудіо товари">Портативні колонки</param>
 </offer>
@@ -166699,29 +166531,6 @@
 <param name="Аудіо товари">Bluetooth-гарнітура</param>
 <param name="Интерфейс подключения">Bluetooth</param>
 </offer>
-<offer id="ts000077409000025570" available="true">
-<url>https://kmt5.com.ua/bluetooth-headset-hoco-s19-metal-gray</url>
-<price>941.0</price>
-<vendorprice>509.0</vendorprice>
-<vendorpricedoll>11.3</vendorpricedoll>
-<rrcdoll>20.91</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>92217225</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjQvMjkv0KYtMDAwMDc3NDA5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODAvY2Uv0KYtMDAwMDc3NDA5XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGUvZmQv0KYtMDAwMDc3NDA5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTEvMjcv0KYtMDAwMDc3NDA5XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWMvODQv0KYtMDAwMDc3NDA5XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000077409</vendorCode>
-<code>774092</code>
-<name>Bluetooth Headset — Hoco S19 — Metal Gray</name>
-<description><![CDATA[Гарнітура Hoco- це сучасна Bluetooth гарнітура з новою версією 5.0 у зручному компактному розмірі. Пристрій має чутливий мікрофон і забезпечує максимально якісну передачу звуку. Ідеально підходить водіям автомобілів, велосипедистів і людей, що живуть в активному ритмі. Така гарнітура забезпечує повну свободу рухів не відриваючись від справ. Завдяки силіконової амбушюре, пристрій максимально зручно кріпиться у вушній раковині. Ергономічна конструкція забезпечить комфортне та тривале використання апарату. Корпус Hoco виготовлений з високоякісного ABS-пластику. На лицьовій панелі корпусу знаходиться сенсорна кнопка, за допомогою якої приймаються виклики, а на бічній - кнопки гучності і перемикач включення і виключення пристрою. LED індикатор світиться червоним і синім кольорами при включенні і роботі гарнітури. Щоб максимально надійно зафіксувати Hoco, виробник додав прозору пластикову наушную дугу. Також пристрій має вбудовану батарею ємністю 150 маг, заряду якої стабільно вистачає на 20 годин роботи в режимі розмови і музики. В режимі очікування може перебувати до 200 годин. Швидка зарядка гарнітури здійснюється всього за 15 хвилин за допомогою Usb шнура. Синхронізувати можна з будь-яким сучасним телефоном, який працює на операційній системі IOS або Android. Bluetooth гарнітура Hoco одна з кращих у своїх цінової категорії, тому купити її в нашому інтернет-магазині, заощадивши свої кошти і час.¶¶BT: v5.0¶Чип: Realtek RTL8763BMF¶Ёмкость аккумулятора: 90mAh¶Время зарядки: 1 час¶В режиме разговора или воспроизведения музыки: 9 часов¶Время в режиме ожидания: 200 часов¶Размеры: 99*67*31мм¶Вес: 12г¶Два микрофона с ENC шумоподавлением, звонки чище¶Поддержка уведомлений на китайском и английском языках, нажмите многофункциональную кнопку три раза в режиме без сопряжения для переключения языка]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Аудіо товари">Bluetooth-гарнітура</param>
-<param name="Интерфейс подключения">Bluetooth</param>
-</offer>
 <offer id="ts000083785" available="true">
 <url>https://kmt5.com.ua/bluetooth-garntura-tws-acefast-w2</url>
 <price>1197.0</price>
@@ -175307,28 +175116,6 @@
 <param name="Материал">Резина</param>
 <param name="Аксессуары Для Смарт Часов">Браслеты</param>
 </offer>
-<offer id="ts000037061000013291" available="true">
-<url>https://kmt5.com.ua/remnets-sport-band-apple-watch-38-mm-40-mm-41-mm-ultra-violet-30</url>
-<price>63.0</price>
-<vendorprice>32.0</vendorprice>
-<vendorpricedoll>0.7</vendorpricedoll>
-<rrcdoll>1.38</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>48417745</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTEvMjMv0KYtMDAwMDM3MDYxXzM4LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGYvMTAv0KYtMDAwMDM3MDYxXzM3LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzMvZjUv0KYtMDAwMDM3MDYxXzM5LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000037061</vendorCode>
-<code>721754</code>
-<name>Ремінець Sport Band Apple Watch 38 mm 40 mm 41 mm — Ultra Violet (30)</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Watch Series 7 41 mm, Apple Watch Series 3 38 mm, Apple Watch Series 4 40 mm</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Резина</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
 <offer id="ts000037061000012990" available="true">
 <url>https://kmt5.com.ua/remnets-sport-band-apple-watch-38-mm-40-mm-41-mm-white-9</url>
 <price>63.0</price>
@@ -177376,26 +177163,6 @@
 <param name="Материал">Металл</param>
 <param name="Аксессуары Для Смарт Часов">Браслеты</param>
 </offer>
-<offer id="ts000071951000021111" available="true">
-<url>https://kmt5.com.ua/remeshok-apple-watch-nylon-loop-22mm-black</url>
-<price>99.0</price>
-<vendorprice>51.0</vendorprice>
-<vendorpricedoll>1.12</vendorpricedoll>
-<rrcdoll>2.2</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>66318281</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTMvYWIv0KYtMDAwMDcxOTUxXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjQvNjgv0KYtMDAwMDcxOTUxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDYvMDkv0KYtMDAwMDcxOTUxXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000071951</vendorCode>
-<code>751670</code>
-<name>Ремінець Nylon Loop Універсальний 22 mm — Black</name>
-<quantity_in_stock>5</quantity_in_stock>
-<param name="Марка">Universal</param>
-<param name="Бренд">Различные</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
 <offer id="ts000071951000021110" available="true">
 <url>https://kmt5.com.ua/remnets-nylon-loop-unversalniy-22-mm-green</url>
 <price>99.0</price>
@@ -177866,27 +177633,6 @@
 <param name="Материал">Резина</param>
 <param name="Аксессуары Для Смарт Часов">Браслеты</param>
 </offer>
-<offer id="ts000073503000023424" available="true">
-<url>https://kmt5.com.ua/remeshok-apple-ocean-band-design-42444549-mm-red</url>
-<price>69.0</price>
-<vendorprice>36.0</vendorprice>
-<vendorpricedoll>0.78</vendorpricedoll>
-<rrcdoll>1.53</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>59885727</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGMvMzIv0KYtMDAwMDczNTAzXzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODAvNjgv0KYtMDAwMDczNTAzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000073503</vendorCode>
-<code>755780</code>
-<name>Ремінець Ocean Band Design Apple Watch 42 mm 44 mm 45 mm 49 mm — Red</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Watch Series 3 42 mm, Apple Watch Series 4 44 mm, Apple Watch Series 7 45 mm, Apple Watch Series 8 49 mm</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Резина</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
 <offer id="ts000073503000023426" available="true">
 <url>https://kmt5.com.ua/remeshok-apple-ocean-band-design-42444549-mm-stone</url>
 <price>69.0</price>
@@ -178114,30 +177860,6 @@
 <name>Ремінець Rolex 3 Bead Універсальний 20 mm — Black</name>
 <description><![CDATA[Модельный ряд Universal Bracelet 20mm: AmazFit BIP / AmazFit GTS / AmazFit GTR (42 mm) / Huawei GT2 (42 mm) / Samsung Gear S4 (42 mm) / Samsung Galaxy Active 2 (40 mm) / Samsung Galaxy Watch (42 mm)]]></description>
 <quantity_in_stock>14</quantity_in_stock>
-<param name="Марка">Universal</param>
-<param name="Модель девайса">20 mm</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Металл</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-<param name="Цвет">Rolex 3 Bead Black</param>
-</offer>
-<offer id="ts000077143000025145" available="true">
-<url>https://kmt5.com.ua/remnets-rolex-3-bead-unversalniy-20-mm-silver</url>
-<price>246.0</price>
-<vendorprice>133.0</vendorprice>
-<vendorpricedoll>2.95</vendorpricedoll>
-<rrcdoll>5.45</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>78104130</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWYvNTUv0KYtMDAwMDc3MTQzXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTYvNzMv0KYtMDAwMDc3MTQzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTEvNTUv0KYtMDAwMDc3MTQzXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000077143</vendorCode>
-<code>773094</code>
-<name>Ремінець Rolex 3 Bead Універсальний 20 mm — Silver</name>
-<description><![CDATA[Модельный ряд Universal Bracelet 20mm: AmazFit BIP / AmazFit GTS / AmazFit GTR (42 mm) / Huawei GT2 (42 mm) / Samsung Gear S4 (42 mm) / Samsung Galaxy Active 2 (40 mm) / Samsung Galaxy Watch (42 mm)]]></description>
-<quantity_in_stock>10</quantity_in_stock>
 <param name="Марка">Universal</param>
 <param name="Модель девайса">20 mm</param>
 <param name="Бренд">Различные</param>
@@ -187792,26 +187514,6 @@
 <param name="Материал">Металл</param>
 <param name="Аксессуары Для Смарт Часов">Браслеты</param>
 </offer>
-<offer id="ts000072952000022441" available="true">
-<url>https://kmt5.com.ua/remnets-nylon-with-protective-case-apple-watch-40-mm-black</url>
-<price>81.0</price>
-<vendorprice>41.0</vendorprice>
-<vendorpricedoll>0.9</vendorpricedoll>
-<rrcdoll>1.8</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>48417745</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjEvYTcv0KYtMDAwMDcyOTUyXzE2LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzQvODQv0KYtMDAwMDcyOTUyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000072952</vendorCode>
-<code>754287</code>
-<name>Ремінець Nylon with protective case Apple Watch 40 mm — Black</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Watch Series 7 41 mm, Apple Watch Series 3 38 mm, Apple Watch Series 4 40 mm</param>
-<param name="Бренд">Различные</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
 <offer id="ts000072952000022294" available="true">
 <url>https://kmt5.com.ua/remeshok-apple-watch-nylon-with-protective-case-384041mm-black</url>
 <price>81.0</price>
@@ -187827,6 +187529,26 @@
 <code>754098</code>
 <name>Ремінець Nylon with protective case Apple Watch 40 mm — Black</name>
 <quantity_in_stock>16</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Watch Series 7 41 mm, Apple Watch Series 3 38 mm, Apple Watch Series 4 40 mm</param>
+<param name="Бренд">Различные</param>
+<param name="Аксессуары Для Смарт Часов">Браслеты</param>
+</offer>
+<offer id="ts000072952000022441" available="true">
+<url>https://kmt5.com.ua/remnets-nylon-with-protective-case-apple-watch-40-mm-black</url>
+<price>81.0</price>
+<vendorprice>41.0</vendorprice>
+<vendorpricedoll>0.9</vendorpricedoll>
+<rrcdoll>1.8</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>48417745</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjEvYTcv0KYtMDAwMDcyOTUyXzE2LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzQvODQv0KYtMDAwMDcyOTUyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000072952</vendorCode>
+<code>754287</code>
+<name>Ремінець Nylon with protective case Apple Watch 40 mm — Black</name>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Watch Series 7 41 mm, Apple Watch Series 3 38 mm, Apple Watch Series 4 40 mm</param>
 <param name="Бренд">Различные</param>
@@ -194159,33 +193881,6 @@
 <name>Car Holder — Hoco CA91 Magic magnetic wireless fast charging — gray</name>
 <description><![CDATA[Специально разработан для iPhone 12/13/14/15 серии. Беспроводной вывод: 5W/7.5W/10W/15W, беспроводной вывод Magsafe: 7.5W, требуется автомобильное зарядное устройство с поддержкой PD. Материал: алюминиевый сплав + ABS + закаленное стекло. Процесс: окисление + текстура матрицы. Размер: 6310576 мм; Вес: 98 г. Сцена использования: автомобильный воздушный вентиляционный отсек.]]></description>
 <quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Автоаксессуары">Автотримачі</param>
-</offer>
-<offer id="ts000077448000025596" available="true">
-<url>https://kmt5.com.ua/car-holder-hoco-h15-fair-pushtype-center-console-black</url>
-<price>340.0</price>
-<vendorprice>216.0</vendorprice>
-<vendorpricedoll>4.8</vendorpricedoll>
-<rrcdoll>7.56</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>29376332</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTQvNDEv0KYtMDAwMDc3NDQ4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGMvYzQv0KYtMDAwMDc3NDQ4XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGYvNGIv0KYtMDAwMDc3NDQ4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjAvOGQv0KYtMDAwMDc3NDQ4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTEvODcv0KYtMDAwMDc3NDQ4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGYvNmYv0KYtMDAwMDc3NDQ4XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWQvYTYv0KYtMDAwMDc3NDQ4XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTgvMDkv0KYtMDAwMDc3NDQ4XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTcvYmUv0KYtMDAwMDc3NDQ4XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTQvYTAv0KYtMDAwMDc3NDQ4XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000077448</vendorCode>
-<code>774118</code>
-<name>Car Holder — Hoco H15 Fair push-type (center console) — black</name>
-<description><![CDATA[Особенности: Совместимость с любыми телефонами Использование одной рукой Красивый и стильный дизайн Место установки: торпеда (панель) авто, лобовое стекло автомобиля Вращается на 360° Надежная система фиксации Простота использования Прорезиненная поверхность держателя сохранит ваш девайс от царапин Не мешает осмотру водителя Подходит под любой интерьер авто Возможность поворачивать конструкцию в нужную сторону Характеристики: Бренд: HOCO Тип: автомобильный крепеж Крепление: Зажим Материал: ABS пластик+силикон Место установки: приборная панель автомобиля, лобовое стекло Способ монтажа: вакуумная присоска Подходит для мобильных телефонов 4.5-7 дюймов Зажим: 60 – 85 мм Цвет: Черный]]></description>
-<quantity_in_stock>2</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Автоаксессуары">Автотримачі</param>
 </offer>
@@ -203734,24 +203429,6 @@
 <name>Самоочищающаяся щетка Davin MOP04</name>
 <description><![CDATA[Портативная Ручная Швабра Характеристики: Материал: ПП Цвет: Белый Вес: 180 г Размер: 11,6 x 6,1 дюйма Особенности: Компактная и эластичная, идеальна для ванной, кухни и уголков дома. Высококачественные материалы и ватная насадка с адсорбцией. Намачиваемая ватная головка для удобства использования. Безрукавая конструкция облегчает уборку, сильное всасывание, поворотная регулировка.]]></description>
 <quantity_in_stock>30</quantity_in_stock>
-<param name="Бренд">Различные</param>
-</offer>
-<offer id="ts000081189000031081" available="true">
-<url>https://kmt5.com.ua/stayler-airwrap-complete-long-grey-gold</url>
-<price>3977.0</price>
-<vendorprice>2564.0</vendorprice>
-<vendorpricedoll>57.0</vendorpricedoll>
-<rrcdoll>88.42</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>16918768</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjIvNzQv0KYtMDAwMDgxMTg5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzYvOGIv0KYtMDAwMDgxMTg5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGQvNzIv0KYtMDAwMDgxMTg5XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000081189</vendorCode>
-<code>789903</code>
-<name>Стайлер Airwrap complete long — Grey Gold</name>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Бренд">Различные</param>
 </offer>
 <offer id="ts000081189000031082" available="true">
