@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-01 13:46">
+<yml_catalog date="2026-09-01 18:02">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -58357,6 +58357,27 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Samsung</param>
 <param name="Модель девайса">Samsung A57</param>
+<param name="Бренд">Различные</param>
+<param name="Материал">Силикон</param>
+</offer>
+<offer id="ts000083847000031709" available="true">
+<url>https://kmt5.com.ua/oc-matte-case-with-magsafe-samsung-s22-ultra-black</url>
+<price>194.0</price>
+<vendorprice>108.0</vendorprice>
+<vendorpricedoll>2.38</vendorpricedoll>
+<rrcdoll>4.3</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>43902800</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2IvOTMv0KYtMDAwMDgzODQ3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTYvMTcv0KYtMDAwMDgzODQ3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000083847</vendorCode>
+<code>791215</code>
+<name>OC Matte Case With MagSafe — Samsung S22 Ultra  — Black</name>
+<quantity_in_stock>11</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Samsung</param>
+<param name="Модель девайса">Samsung S22 Ultra</param>
 <param name="Бренд">Различные</param>
 <param name="Материал">Силикон</param>
 </offer>
@@ -205184,27 +205205,6 @@
 <param name="Разъем подключения">Cable Mini USB</param>
 <param name="Длина кабеля">1m</param>
 <param name="Цвет">Black</param>
-</offer>
-<offer id="ts000083847000031709" available="true">
-<url>https://kmt5.com.ua/oc-matte-case-with-magsafe-samsung-s22-ultra-black</url>
-<price>194.0</price>
-<vendorprice>108.0</vendorprice>
-<vendorpricedoll>2.38</vendorpricedoll>
-<rrcdoll>4.3</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>43902800</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2IvOTMv0KYtMDAwMDgzODQ3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTYvMTcv0KYtMDAwMDgzODQ3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000083847</vendorCode>
-<code>791215</code>
-<name>OC Matte Case With MagSafe — Samsung S22 Ultra  — Black</name>
-<quantity_in_stock>11</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Samsung</param>
-<param name="Модель девайса">Samsung S22 Ultra</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Силикон</param>
 </offer>
 </offers>
 </shop>
