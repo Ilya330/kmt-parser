@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-31 16:35">
+<yml_catalog date="2026-09-01 08:03">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -113,7 +113,6 @@
 <category id="6882026" parentId="9735169">iPhone 17</category>
 <category id="65313558" parentId="9735169">iPhone 17 Air</category>
 <category id="60035090" parentId="9735169">iPhone 17 Pro</category>
-<category id="93912021" parentId="9735169">iPhone 17 Pro Max</category>
 <category id="70633081" parentId="9735169">iPhone X ; XS ; 11 Pro</category>
 <category id="23617080" parentId="9735169">iPhone Xr ; 11</category>
 <category id="5005278" parentId="9735169">iPhone Xs Max ; 11 Pro Max</category>
@@ -111326,25 +111325,6 @@
 <param name="Бренд">Wiwu</param>
 <param name="Материал">Ткань</param>
 </offer>
-<offer id="ts000075916000024695" available="true">
-<url>https://kmt5.com.ua/sumka-133-142-wiwu-vogue-laptop-slim-bag-with-strap-pink</url>
-<price>1148.0</price>
-<vendorprice>675.0</vendorprice>
-<vendorpricedoll>15.0</vendorpricedoll>
-<rrcdoll>25.52</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>71284098</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmEvOGIv0KYtMDAwMDc1OTE2XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWMvNzAv0KYtMDAwMDc1OTE2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Wiwu</vendor>
-<vendorCode>Ц-000075916</vendorCode>
-<code>771448</code>
-<name>Сумка 13.3'' (14.2'') WiWU Vogue Laptop Slim Bag (with strap) — Pink</name>
-<quantity_in_stock>30</quantity_in_stock>
-<param name="Форм фактор">Сумка</param>
-<param name="Бренд">Wiwu</param>
-<param name="Материал">Ткань</param>
-</offer>
 <offer id="ts000072897000023151" available="true">
 <url>https://kmt5.com.ua/sumka-133-wiwu-skin-pro-ii-bag-black</url>
 <price>1288.0</price>
@@ -126757,32 +126737,6 @@
 <param name="Толщина">0.3 mm</param>
 <param name="Цвет">Remax HD ES-01</param>
 </offer>
-<offer id="ts000083818" available="true">
-<url>https://kmt5.com.ua/zahisne-sklo-remax-hd-tempered-glass-es01-iphone-15-pro-max</url>
-<price>266.0</price>
-<vendorprice>135.0</vendorprice>
-<vendorpricedoll>2.98</vendorpricedoll>
-<rrcdoll>5.9</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>26999379</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWMvOTQv0KYtMDAwMDgzODE4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzYvMDkv0KYtMDAwMDgzODE4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTEvZTMv0KYtMDAwMDgzODE4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTUvM2Ev0KYtMDAwMDgzODE4XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGYvMzAv0KYtMDAwMDgzODE4XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Remax</vendor>
-<vendorCode>Ц-000083818</vendorCode>
-<code>791160</code>
-<name>Захисне скло Remax HD Tempered Glass ES-01  iPhone 15 Pro Max</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 15 Pro Max</param>
-<param name="Бренд">Remax</param>
-<param name="Виды защиты экрана">Захисне скло</param>
-<param name="Вид покрытия">Прозрачное стекло</param>
-<param name="Толщина">0.3 mm</param>
-<param name="Цвет">Remax HD ES-01</param>
-</offer>
 <offer id="ts000083811" available="true">
 <url>https://kmt5.com.ua/zahisne-sklo-remax-hd-tempered-glass-es01-iphone-17-air</url>
 <price>266.0</price>
@@ -126803,32 +126757,6 @@
 <quantity_in_stock>19</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Air</param>
-<param name="Бренд">Remax</param>
-<param name="Виды защиты экрана">Захисне скло</param>
-<param name="Вид покрытия">Прозрачное стекло</param>
-<param name="Толщина">0.3 mm</param>
-<param name="Цвет">Remax HD ES-01</param>
-</offer>
-<offer id="ts000083810" available="true">
-<url>https://kmt5.com.ua/zahisne-sklo-remax-hd-tempered-glass-es01-iphone-17-pro</url>
-<price>266.0</price>
-<vendorprice>135.0</vendorprice>
-<vendorpricedoll>2.98</vendorpricedoll>
-<rrcdoll>5.9</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>60035090</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWQvY2Ev0KYtMDAwMDgzODEwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDgvYWYv0KYtMDAwMDgzODEwXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjAvMjgv0KYtMDAwMDgzODEwXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjYvODQv0KYtMDAwMDgzODEwXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTIvZjQv0KYtMDAwMDgzODEwXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Remax</vendor>
-<vendorCode>Ц-000083810</vendorCode>
-<code>791152</code>
-<name>Захисне скло Remax HD Tempered Glass ES-01  iPhone 17 Pro</name>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro</param>
 <param name="Бренд">Remax</param>
 <param name="Виды защиты экрана">Захисне скло</param>
 <param name="Вид покрытия">Прозрачное стекло</param>
@@ -127245,32 +127173,6 @@
 <quantity_in_stock>5</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro</param>
-<param name="Бренд">Remax</param>
-<param name="Виды защиты экрана">Захисне скло</param>
-<param name="Вид покрытия">Прозрачное стекло</param>
-<param name="Толщина">0.3 mm</param>
-<param name="Цвет">Remax Privacy ES-02</param>
-</offer>
-<offer id="ts000083822" available="true">
-<url>https://kmt5.com.ua/zahisne-sklo-remax-privacy-tempered-glass-es02-iphone-17-pro-max</url>
-<price>308.0</price>
-<vendorprice>156.0</vendorprice>
-<vendorpricedoll>3.45</vendorpricedoll>
-<rrcdoll>6.83</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>93912021</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTgvNjAv0KYtMDAwMDgzODIyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGUvZWQv0KYtMDAwMDgzODIyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmYvYWUv0KYtMDAwMDgzODIyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2MvNzUv0KYtMDAwMDgzODIyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGMvZWEv0KYtMDAwMDgzODIyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Remax</vendor>
-<vendorCode>Ц-000083822</vendorCode>
-<code>791163</code>
-<name>Захисне скло Remax Privacy Tempered Glass ES-02 iPhone 17 Pro Max</name>
-<quantity_in_stock>6</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro Max</param>
 <param name="Бренд">Remax</param>
 <param name="Виды защиты экрана">Захисне скло</param>
 <param name="Вид покрытия">Прозрачное стекло</param>
@@ -130023,29 +129925,6 @@
 <param name="Толщина">0.3 mm</param>
 <param name="Цвет">Black</param>
 </offer>
-<offer id="ts000077929" available="true">
-<url>https://kmt5.com.ua/zaschitnoe-steklo-super-x-esd-antistatic-xiaomi-redmi-12c-black</url>
-<price>58.0</price>
-<vendorprice>30.0</vendorprice>
-<vendorpricedoll>0.65</vendorpricedoll>
-<rrcdoll>1.27</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>9009901</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTYvZjUv0KYtMDAwMDc3OTI5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDYvNWQv0KYtMDAwMDc3OTI5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000077929</vendorCode>
-<code>776677</code>
-<name>Защитное стекло Super X ESD Antistatic Xiaomi Redmi 12C (Black)</name>
-<quantity_in_stock>10</quantity_in_stock>
-<param name="Марка">Xiaomi</param>
-<param name="Модель девайса">Xiaomi Redmi 12C</param>
-<param name="Бренд">Различные</param>
-<param name="Виды защиты экрана">Захисне скло</param>
-<param name="Вид покрытия">Прозрачное стекло</param>
-<param name="Толщина">0.3 mm</param>
-<param name="Цвет">Black</param>
-</offer>
 <offer id="ts000082761" available="true">
 <url>https://kmt5.com.ua/zaschitnoe-steklo-super-x-esd-antistatic-xiaomi-redmi-15-black</url>
 <price>58.0</price>
@@ -131190,25 +131069,6 @@
 <param name="Бренд">Acefast</param>
 <param name="Виды аккумуляторов">Power Bank</param>
 <param name="Емкость аккумулятора">От 20000 mAh</param>
-</offer>
-<offer id="ts000083838" available="true">
-<url>https://kmt5.com.ua/power-bank-40000-mah%C2%A0-225wpd20w%C2%A0-hoco-j174</url>
-<price>2303.0</price>
-<vendorprice>1440.0</vendorprice>
-<vendorpricedoll>32.0</vendorpricedoll>
-<rrcdoll>51.2</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>98942065</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDUvZGUv0KYtMDAwMDgzODM4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2QvMDMv0KYtMDAwMDgzODM4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000083838</vendorCode>
-<code>791182</code>
-<name>Power Bank 40000 mAh | 22.5W+PD20W — Hoco J174</name>
-<quantity_in_stock>24</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Виды аккумуляторов">Power Bank</param>
-<param name="Емкость аккумулятора">От 40000 mAh</param>
 </offer>
 <offer id="ts000083232" available="true">
 <url>https://kmt5.com.ua/power-bank-30000-mah-borofone-bj86a-225wpd20w</url>
@@ -141029,25 +140889,6 @@
 <description><![CDATA[1. Длина: 0,15 м; Вес: 7,6 г 2. Материал: алюминиевый сплав + нейлоновая оплетка 3. Сердечник: 10/0,10BC OD3,8 4. Разъем: Type-C male на 3,5 мм female 5. Поддерживает большинство моделей Huawei, Xiaomi, OnePlus и других брендов, некоторые модели телефонов Samsung и iPad с интерфейсом Type-C]]></description>
 <quantity_in_stock>76</quantity_in_stock>
 <param name="Бренд">Hoco</param>
-<param name="Переходники">Adapter USB C To 3.5mm</param>
-</offer>
-<offer id="ts000072568" available="true">
-<url>https://kmt5.com.ua/perehodnikveron-tc55-typec-male-to-35mm-female-adapter</url>
-<price>201.0</price>
-<vendorprice>115.0</vendorprice>
-<vendorpricedoll>2.55</vendorpricedoll>
-<rrcdoll>4.45</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>82933918</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzEvYzgv0KYtMDAwMDcyNTY4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWQvMDEv0KYtMDAwMDcyNTY4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>VERON</vendor>
-<vendorCode>Ц-000072568</vendorCode>
-<code>753457</code>
-<name>Adapter USB C To 3.5mm Veron TC55</name>
-<description><![CDATA[Veron TC55 Type C - 3.5 mm — переходник для подключения устройств вывода звука к смартфонам, планшетам и ноутбукам, в которых нет AUX 3.5 мм порта. AUX порт: Подключайте наушники, микрофон или акустическую систему с разъемом Mini Jack 3.5 мм и наслаждайтесь чистым звуком без шумов и помех Кабель из бескислородной меди , экранированный специальной фольгой и коррозионностойкие разъемы Силиконовая оболочка и протекторы возле коннекторов выдерживают более 3000 сгибаний Длина 12 см занимает минимум места и с легкостью помещается даже в карман Подойдет для подключения микрофона, наушников, акустических систем Переходник из бескислородной меди, экранированный специальной фольгой Коррозионностойкие разъемы Плотная силиконовая оболочка и протекторы от заломов выдерживают более 3000 сгибаний]]></description>
-<quantity_in_stock>382</quantity_in_stock>
-<param name="Бренд">VERON</param>
 <param name="Переходники">Adapter USB C To 3.5mm</param>
 </offer>
 <offer id="ts000080781" available="true">
@@ -191038,27 +190879,6 @@
 <param name="Бренд">Различные</param>
 <param name="Аксессуары Для Смарт Часов">Браслеты</param>
 </offer>
-<offer id="ts000072246000021474" available="true">
-<url>https://kmt5.com.ua/remeshok-thin-armor-xiaomi-mi-band-5-6-blackblue</url>
-<price>148.0</price>
-<vendorprice>86.0</vendorprice>
-<vendorpricedoll>1.9</vendorpricedoll>
-<rrcdoll>3.29</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>22922428</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2EvODcv0KYtMDAwMDcyMjQ2XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGMvMWMv0KYtMDAwMDcyMjQ2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000072246</vendorCode>
-<code>752516</code>
-<name>Ремінець Thin Armor Xiaomi Mi Band 5 6 — Black&amp;Blue</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Марка">Xiaomi</param>
-<param name="Модель девайса">Xiaomi Mi Band 5, Xiaomi Mi Band 6</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Силикон</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
 <offer id="ts000072246000021477" available="true">
 <url>https://kmt5.com.ua/remeshok-thin-armor-xiaomi-mi-band-5-6-blackred</url>
 <price>148.0</price>
@@ -191826,31 +191646,6 @@
 <code>774134</code>
 <name>Car Holder Hoco HW5 Journey wireless fast charging (center console) — Black</name>
 <quantity_in_stock>200</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Автоаксессуары">Автотримачі</param>
-</offer>
-<offer id="ts000077431000025579" available="true">
-<url>https://kmt5.com.ua/car-holder-hoco-ca120-prospering-center-console-for-tablets-black</url>
-<price>310.0</price>
-<vendorprice>189.0</vendorprice>
-<vendorpricedoll>4.2</vendorpricedoll>
-<rrcdoll>6.88</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>29376332</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzcvNTUv0KYtMDAwMDc3NDMxXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGQvOWEv0KYtMDAwMDc3NDMxXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTAvNDIv0KYtMDAwMDc3NDMxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2QvYzcv0KYtMDAwMDc3NDMxXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTYvMDIv0KYtMDAwMDc3NDMxXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTEvOWMv0KYtMDAwMDc3NDMxXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWIvODEv0KYtMDAwMDc3NDMxXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDYvYjYv0KYtMDAwMDc3NDMxXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000077431</vendorCode>
-<code>774101</code>
-<name>Car Holder — Hoco CA120 Prospering center console  for tablets — Black</name>
-<description><![CDATA[«1. Материал: АБС+силикагель. 2. Технология поверхности: загар 3. Размер: 104*155*75 мм; Вес: 216 г 4. Подходит для мобильных телефонов и планшетов с диагональю 4,7–10,5 дюймов (диапазон ширины: 108–245 мм). 5. Применимый сценарий: центральная консоль».]]></description>
-<quantity_in_stock>100</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Автоаксессуары">Автотримачі</param>
 </offer>
@@ -194855,29 +194650,6 @@
 <code>786950</code>
 <name>WiWU Premium Star Solid Balm Wi-AI004  — Hilton Hotel Smell</name>
 <quantity_in_stock>47</quantity_in_stock>
-<param name="Бренд">Wiwu</param>
-</offer>
-<offer id="ts000081391000029832" available="true">
-<url>https://kmt5.com.ua/wiwu-premium-star-solid-balm-wiai004-the-ritzcalton-hotel-smell</url>
-<price>706.0</price>
-<vendorprice>414.0</vendorprice>
-<vendorpricedoll>9.2</vendorpricedoll>
-<rrcdoll>15.69</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>31452063</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDYvMmQv0KYtMDAwMDgxMzkxXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTIvOTQv0KYtMDAwMDgxMzkxXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjAvZTkv0KYtMDAwMDgxMzkxXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmIvYzkv0KYtMDAwMDgxMzkxXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmEvZWIv0KYtMDAwMDgxMzkxXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWQvNzIv0KYtMDAwMDgxMzkxXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTEvZTcv0KYtMDAwMDgxMzkxXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTYvMjYv0KYtMDAwMDgxMzkxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Wiwu</vendor>
-<vendorCode>Ц-000081391</vendorCode>
-<code>786951</code>
-<name>WiWU Premium Star Solid Balm Wi-AI004  — The Ritz-Calton Hotel Smell</name>
-<quantity_in_stock>11</quantity_in_stock>
 <param name="Бренд">Wiwu</param>
 </offer>
 <offer id="ts000078080" available="true">
@@ -205747,6 +205519,25 @@
 <param name="Разъем подключения">Cable Mini USB</param>
 <param name="Длина кабеля">1m</param>
 <param name="Цвет">Black</param>
+</offer>
+<offer id="ts000072568" available="true">
+<url>https://kmt5.com.ua/perehodnikveron-tc55-typec-male-to-35mm-female-adapter</url>
+<price>201.0</price>
+<vendorprice>115.0</vendorprice>
+<vendorpricedoll>2.55</vendorpricedoll>
+<rrcdoll>4.45</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>82933918</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzEvYzgv0KYtMDAwMDcyNTY4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWQvMDEv0KYtMDAwMDcyNTY4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>VERON</vendor>
+<vendorCode>Ц-000072568</vendorCode>
+<code>753457</code>
+<name>Adapter USB C To 3.5mm Veron TC55</name>
+<description><![CDATA[Veron TC55 Type C - 3.5 mm — переходник для подключения устройств вывода звука к смартфонам, планшетам и ноутбукам, в которых нет AUX 3.5 мм порта. AUX порт: Подключайте наушники, микрофон или акустическую систему с разъемом Mini Jack 3.5 мм и наслаждайтесь чистым звуком без шумов и помех Кабель из бескислородной меди , экранированный специальной фольгой и коррозионностойкие разъемы Силиконовая оболочка и протекторы возле коннекторов выдерживают более 3000 сгибаний Длина 12 см занимает минимум места и с легкостью помещается даже в карман Подойдет для подключения микрофона, наушников, акустических систем Переходник из бескислородной меди, экранированный специальной фольгой Коррозионностойкие разъемы Плотная силиконовая оболочка и протекторы от заломов выдерживают более 3000 сгибаний]]></description>
+<quantity_in_stock>382</quantity_in_stock>
+<param name="Бренд">VERON</param>
+<param name="Переходники">Adapter USB C To 3.5mm</param>
 </offer>
 </offers>
 </shop>
