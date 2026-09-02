@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-01 18:02">
+<yml_catalog date="2026-09-02 07:23">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -126,7 +126,6 @@
 <category id="196270" parentId="22594817">Для Xiaomi</category>
 <category id="15708744" parentId="196270">Xiaomi Redmi Note серия</category>
 <category id="9009901" parentId="196270">Xiaomi Redmi серия</category>
-<category id="72426553" parentId="196270">Xiaomi інші</category>
 <category id="47276033" parentId="22594817">Для годинників</category>
 <category id="65362278" parentId="47276033">40</category>
 <category id="85261642" parentId="47276033">42</category>
@@ -14800,60 +14799,6 @@
 <param name="Марка">Xiaomi</param>
 <param name="Модель девайса">Xiaomi Redmi Note 14</param>
 <param name="Бренд">Различные</param>
-<param name="Материал">Полиуретан</param>
-</offer>
-<offer id="ts000082402" available="true">
-<url>https://kmt5.com.ua/clin-case-iphone-17-pro</url>
-<price>214.0</price>
-<vendorprice>126.0</vendorprice>
-<vendorpricedoll>2.8</vendorpricedoll>
-<rrcdoll>4.74</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54622491</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTAvOWUv0KYtMDAwMDgyNDAyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTIvN2Ev0KYtMDAwMDgyNDAyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDAvNzcv0KYtMDAwMDgyNDAyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWMvYjAv0KYtMDAwMDgyNDAyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmYvYTcv0KYtMDAwMDgyNDAyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTQvMTIv0KYtMDAwMDgyNDAyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTUvMzMv0KYtMDAwMDgyNDAyXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODQvNzcv0KYtMDAwMDgyNDAyXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Dux Ducis</vendor>
-<vendorCode>Ц-000082402</vendorCode>
-<code>788486</code>
-<name>Clin Case — iPhone 17 Pro</name>
-<quantity_in_stock>9</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro</param>
-<param name="Бренд">Dux Ducis</param>
-<param name="Материал">Полиуретан</param>
-</offer>
-<offer id="ts000082403" available="true">
-<url>https://kmt5.com.ua/clin-case-iphone-17-pro-max</url>
-<price>214.0</price>
-<vendorprice>126.0</vendorprice>
-<vendorpricedoll>2.8</vendorpricedoll>
-<rrcdoll>4.74</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54622491</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjIvMzMv0KYtMDAwMDgyNDAzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjIvMDAv0KYtMDAwMDgyNDAzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTYvMzAv0KYtMDAwMDgyNDAzXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTQvOTQv0KYtMDAwMDgyNDAzXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDkvNTgv0KYtMDAwMDgyNDAzXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTgvOTAv0KYtMDAwMDgyNDAzXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjUvNTQv0KYtMDAwMDgyNDAzXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjYvNzYv0KYtMDAwMDgyNDAzXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Dux Ducis</vendor>
-<vendorCode>Ц-000082403</vendorCode>
-<code>788487</code>
-<name>Clin Case — iPhone 17 Pro Max</name>
-<quantity_in_stock>8</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro Max</param>
-<param name="Бренд">Dux Ducis</param>
 <param name="Материал">Полиуретан</param>
 </offer>
 <offer id="ts000082397" available="true">
@@ -75911,27 +75856,6 @@
 <param name="Бренд">Apple</param>
 <param name="Материал">Полиуретан</param>
 </offer>
-<offer id="ts000083089" available="true">
-<url>https://kmt5.com.ua/rainbow-case-with-magsafe-iphone-16-pro-max</url>
-<price>362.0</price>
-<vendorprice>207.0</vendorprice>
-<vendorpricedoll>4.6</vendorpricedoll>
-<rrcdoll>8.03</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>60652165</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGIvNGMv0KYtMDAwMDgzMDg5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTcvODAv0KYtMDAwMDgzMDg5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000083089</vendorCode>
-<code>789835</code>
-<name>Rainbow Case With Magsafe — iPhone 16 Pro Max</name>
-<quantity_in_stock>4</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 16 Pro Max</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Полиуретан</param>
-</offer>
 <offer id="ts000083090" available="true">
 <url>https://kmt5.com.ua/rainbow-case-with-magsafe-iphone-17</url>
 <price>362.0</price>
@@ -83844,30 +83768,6 @@
 <name>Silicone Case With Magsafe iPhone 15 — Cypres</name>
 <description><![CDATA[Чехол Apple Silicone Case это лучший формат защиты вашего нового iPhone. Он идеально обойдет его формы и кнопки, и не придаст габаритности устройству, а также защитит его от царапин и падений. Внутренняя часть чехла имеет отделку из микрофибры, которая эффективно защищает корпус iPhone от царапин, а внешняя часть покрыта силиконовым материалом, который очень приятный на ощупь и не скользит в руке, что позволяет уверенно держать телефон в руке во время использования.]]></description>
 <quantity_in_stock>3</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 15</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Силикон</param>
-</offer>
-<offer id="ts000077679000025942" available="true">
-<url>https://kmt5.com.ua/silicone-case-with-magsafe-iphone-15-guava</url>
-<price>456.0</price>
-<vendorprice>275.0</vendorprice>
-<vendorpricedoll>6.1</vendorpricedoll>
-<rrcdoll>10.13</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>16203878</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTUvMzEv0KYtMDAwMDc3Njc5XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjYvODQv0KYtMDAwMDc3Njc5XzEzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDgvYWIv0KYtMDAwMDc3Njc5XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGYvMzEv0KYtMDAwMDc3Njc5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000077679</vendorCode>
-<code>776014</code>
-<name>Silicone Case With Magsafe iPhone 15 — Guava</name>
-<description><![CDATA[Чехол Apple Silicone Case это лучший формат защиты вашего нового iPhone. Он идеально обойдет его формы и кнопки, и не придаст габаритности устройству, а также защитит его от царапин и падений. Внутренняя часть чехла имеет отделку из микрофибры, которая эффективно защищает корпус iPhone от царапин, а внешняя часть покрыта силиконовым материалом, который очень приятный на ощупь и не скользит в руке, что позволяет уверенно держать телефон в руке во время использования.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15</param>
@@ -129566,29 +129466,6 @@
 <param name="Толщина">0.3 mm</param>
 <param name="Цвет">Black</param>
 </offer>
-<offer id="ts000077934" available="true">
-<url>https://kmt5.com.ua/zaschitnoe-steklo-super-x-esd-antistatic-xiaomi-poco-f5-black</url>
-<price>58.0</price>
-<vendorprice>30.0</vendorprice>
-<vendorpricedoll>0.65</vendorpricedoll>
-<rrcdoll>1.27</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>72426553</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDIvYWUv0KYtMDAwMDc3OTM0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWEvOTcv0KYtMDAwMDc3OTM0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000077934</vendorCode>
-<code>776682</code>
-<name>Защитное стекло Super X ESD Antistatic Xiaomi Poco F5 (Black)</name>
-<quantity_in_stock>7</quantity_in_stock>
-<param name="Марка">Xiaomi</param>
-<param name="Модель девайса">Xiaomi Poco F5</param>
-<param name="Бренд">Различные</param>
-<param name="Виды защиты экрана">Захисне скло</param>
-<param name="Вид покрытия">Прозрачное стекло</param>
-<param name="Толщина">0.3 mm</param>
-<param name="Цвет">Black</param>
-</offer>
 <offer id="ts000082044" available="true">
 <url>https://kmt5.com.ua/zaschitnoe-steklo-super-x-esd-antistatic-xiaomi-redmi-10-black</url>
 <price>58.0</price>
@@ -131011,32 +130888,6 @@
 <param name="Сила тока и Мощность">60W</param>
 <param name="Цвет">Black</param>
 </offer>
-<offer id="ts000083384" available="true">
-<url>https://kmt5.com.ua/power-bank-10000-mah-earldom-etpd55</url>
-<price>529.0</price>
-<vendorprice>347.0</vendorprice>
-<vendorpricedoll>7.7</vendorpricedoll>
-<rrcdoll>11.76</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>81016638</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTMvZmUv0KYtMDAwMDgzMzg0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODYvZGIv0KYtMDAwMDgzMzg0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzAvMmQv0KYtMDAwMDgzMzg0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjgvZWMv0KYtMDAwMDgzMzg0XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODEvMGEv0KYtMDAwMDgzMzg0XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzQvMzUv0KYtMDAwMDgzMzg0XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTIvMWMv0KYtMDAwMDgzMzg0XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmQvNTIv0KYtMDAwMDgzMzg0XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODUvYTQv0KYtMDAwMDgzMzg0XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Earldom</vendor>
-<vendorCode>Ц-000083384</vendorCode>
-<code>790600</code>
-<name>Power Bank 10000 mAh — Earldom ET-PD55</name>
-<quantity_in_stock>11</quantity_in_stock>
-<param name="Бренд">Earldom</param>
-<param name="Виды аккумуляторов">Power Bank</param>
-<param name="Емкость аккумулятора">От 10000 mAh</param>
-</offer>
 <offer id="ts000083381000031541" available="true">
 <url>https://kmt5.com.ua/power-bank-10000-mah-earldom-etpd56-black</url>
 <price>710.0</price>
@@ -131634,28 +131485,6 @@
 <name>Power Bank 20000 mAh | PD35W — Accezz Omega Series</name>
 <quantity_in_stock>17</quantity_in_stock>
 <param name="Бренд">Accezz</param>
-<param name="Виды аккумуляторов">Power Bank</param>
-<param name="Емкость аккумулятора">От 20000 mAh</param>
-</offer>
-<offer id="ts000082474000030450" available="true">
-<url>https://kmt5.com.ua/power-bank-20000-mah%C2%A0-225wpd20w%C2%A0-hoco-j163a-black</url>
-<price>600.0</price>
-<vendorprice>515.0</vendorprice>
-<vendorpricedoll>11.45</vendorpricedoll>
-<rrcdoll>13.32</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>96232187</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWIvMmIv0KYtMDAwMDgyNDc0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGIvN2Qv0KYtMDAwMDgyNDc0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWYvYTUv0KYtMDAwMDgyNDc0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGYvMzcv0KYtMDAwMDgyNDc0XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000082474</vendorCode>
-<code>788619</code>
-<name>Power Bank 20000 mAh |  Hoco J163A  — Black</name>
-<description><![CDATA[Повербанк 20000mAh з вбудованими кабелями HOCO J163A - зручність та надійність HOCO J163A - це потужний і універсальний павербанк з ємністю 20000 mAh і вбудованим кабелями створений для зручної і безпечної зарядки ваших гаджетів в будь-яких умовах Велика ємність 20000 mAh: Забезпечує кілька повних зарядок смартфонів, планшетів, навушників та інших пристроїв без потреби в частому підзарядженні 4 вбудовані кабелі: Вже вбудовані кабелі з роз’ємами Type-C, Lightning, micro USB та USB — не потрібно носити окремі шнури Універсальні варіанти зарядки павербанка: Можна заряджати через Type-C порт або вбудований USB кабель, що додає зручності LED-дисплей: Відображає рівень заряду акумулятора — ви завжди знаєте, скільки енергії залишилось Багаторівнева система захисту: Захист від короткого замикання, перегріву, перенапруги та перевантаження гарантує безпечне використання для вас і ваших пристроїв Технічні характеристики: Бренд: HOCO Модель: J163A Ємність батареї: 20000 mAh Номінальна ємність: 12000 mAh Тип акумулятора: Літій-полімерний Матеріал корпусу: ABS + вогнестійкий ПК Вхідні порти: Type-C: 5V/2A USB кабель: 5V/2A Вихідні порти: USB 1: 5V/2A USB 2: 5V/2A Вбудовані кабелі (Type-C, Lightning, micro USB): 5V/2A кожен Загальний вихід: 5V/2A Розміри: 151 × 68,5 × 32,5 мм Вага: 430 г]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Hoco</param>
 <param name="Виды аккумуляторов">Power Bank</param>
 <param name="Емкость аккумулятора">От 20000 mAh</param>
 </offer>
@@ -133443,10 +133272,10 @@
 </offer>
 <offer id="ts000081804" available="true">
 <url>https://kmt5.com.ua/home-charger-20w-pd-qc30-hoco-c109a</url>
-<price>167.0</price>
-<vendorprice>85.0</vendorprice>
-<vendorpricedoll>1.89</vendorpricedoll>
-<rrcdoll>3.7</rrcdoll>
+<price>141.0</price>
+<vendorprice>88.0</vendorprice>
+<vendorpricedoll>1.95</vendorpricedoll>
+<rrcdoll>3.12</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>56676196</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmQvM2Iv0KYtMDAwMDgxODA0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -133467,10 +133296,10 @@
 </offer>
 <offer id="ts000083700" available="true">
 <url>https://kmt5.com.ua/home-charger-20w-pd-qc30-veron-c209</url>
-<price>201.0</price>
-<vendorprice>95.0</vendorprice>
-<vendorpricedoll>2.1</vendorpricedoll>
-<rrcdoll>4.45</rrcdoll>
+<price>141.0</price>
+<vendorprice>88.0</vendorprice>
+<vendorpricedoll>1.95</vendorpricedoll>
+<rrcdoll>3.12</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>56676196</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODUvZjQv0KYtMDAwMDgzNzAwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -146038,28 +145867,6 @@
 <param name="Разъем подключения">Cable USB C To Lightning</param>
 <param name="Длина кабеля">0.25m</param>
 </offer>
-<offer id="ts000073194" available="true">
-<url>https://kmt5.com.ua/v9-kabel-veron-cl09-type-c-to-lightning-usb-cable-1m-20w</url>
-<price>130.0</price>
-<vendorprice>81.0</vendorprice>
-<vendorpricedoll>1.8</vendorpricedoll>
-<rrcdoll>2.89</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>403494</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTMvNDUv0KYtMDAwMDczMTk0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTcvYzEv0KYtMDAwMDczMTk0XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzAvMGMv0KYtMDAwMDczMTk0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmQvYTkv0KYtMDAwMDczMTk0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>VERON</vendor>
-<vendorCode>Ц-000073194</vendorCode>
-<code>754950</code>
-<name>Кабель USB C to Lightning 20W PD (1m) Veron CL09s Nylon</name>
-<description><![CDATA[Версия USB: 2.0 Длина: 1 м Материал: Нейлон Сила тока: 3.1 А Тип: Для зарядки и передачи данных Тип зарядки: Быстрая Тип коннекторов: Type-C на Apple Lightning Мощность: 20 Вт Особенности: С быстрой зарядкой Назначение: Для телефона, планшета Цвет: Черный]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">VERON</param>
-<param name="Разъем подключения">Cable USB C To Lightning</param>
-<param name="Длина кабеля">1m</param>
-</offer>
 <offer id="ts000080123000028393" available="true">
 <url>https://kmt5.com.ua/kabel-usb-c-to-lightning-20w-pd-1m-hoco-x59-victory-black</url>
 <price>148.0</price>
@@ -146187,29 +145994,6 @@
 <param name="Бренд">VERON</param>
 <param name="Разъем подключения">Cable USB C To Lightning</param>
 <param name="Длина кабеля">1.8m</param>
-</offer>
-<offer id="ts000079429" available="true">
-<url>https://kmt5.com.ua/kabel-usb-c-to-lightning-27w-pd-1m-borofone-bu50-magnetic</url>
-<price>362.0</price>
-<vendorprice>203.0</vendorprice>
-<vendorpricedoll>4.5</vendorpricedoll>
-<rrcdoll>8.03</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>403494</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDgvNzgv0KYtMDAwMDc5NDI5XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWQvZWIv0KYtMDAwMDc5NDI5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjAvNjEv0KYtMDAwMDc5NDI5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODAvN2Iv0KYtMDAwMDc5NDI5XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2IvYTEv0KYtMDAwMDc5NDI5XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzYvY2Iv0KYtMDAwMDc5NDI5XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Borofone</vendor>
-<vendorCode>Ц-000079429</vendorCode>
-<code>779235</code>
-<name>Кабель USB C to Lightning 27W PD (1m) Borofone BU50 Magnetic</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Borofone</param>
-<param name="Разъем подключения">Cable USB C To Lightning</param>
-<param name="Длина кабеля">1m</param>
 </offer>
 <offer id="ts000073287" available="true">
 <url>https://kmt5.com.ua/v6-kabel-veron-cl06-type-c-to-lightning-usb-cable-1m-30w</url>
@@ -149888,26 +149672,6 @@
 <code>771536</code>
 <name>Stylus Pen WiWU L</name>
 <quantity_in_stock>9</quantity_in_stock>
-<param name="Бренд">Wiwu</param>
-</offer>
-<offer id="ts000075962" available="true">
-<url>https://kmt5.com.ua/stylus-pen-wiwu-max</url>
-<price>1463.0</price>
-<vendorprice>751.0</vendorprice>
-<vendorpricedoll>16.7</vendorpricedoll>
-<rrcdoll>32.53</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>8698087</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDYvNzYv0KYtMDAwMDc1OTYyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDkvMjEv0KYtMDAwMDc1OTYyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWYvOWIv0KYtMDAwMDc1OTYyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2MvZjAv0KYtMDAwMDc1OTYyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmUvNDIv0KYtMDAwMDc1OTYyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Wiwu</vendor>
-<vendorCode>Ц-000075962</vendorCode>
-<code>771538</code>
-<name>Stylus Pen WiWU Max</name>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Бренд">Wiwu</param>
 </offer>
 <offer id="ts000075959" available="true">
@@ -160123,35 +159887,6 @@
 <param name="Количество светодиодов">900</param>
 <param name="Размер">40 x 45 cm</param>
 <param name="Цветовая температура">3200-5500K</param>
-</offer>
-<offer id="ts000079128" available="true">
-<url>https://kmt5.com.ua/lampa-videosvet-led-yn300-iv-white-18w-lights-376pcs</url>
-<price>7569.0</price>
-<vendorprice>6071.0</vendorprice>
-<vendorpricedoll>135.0</vendorpricedoll>
-<rrcdoll>168.31</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>52158449</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTUvOTEv0KYtMDAwMDc5MTI4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2IvOTcv0KYtMDAwMDc5MTI4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmQvMmEv0KYtMDAwMDc5MTI4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2YvYjgv0KYtMDAwMDc5MTI4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>YongNuo</vendor>
-<vendorCode>Ц-000079128</vendorCode>
-<code>778677</code>
-<name>Видеосвет LED RGB — Yongnuo YN300 IV (комплект акб+зарядное устройство для акб)</name>
-<description><![CDATA[. Этот продукт поддерживает зарядку аккумуляторов серии NP-F, максимальная мощность зарядки составляет до 18 Вт. Видеолампа может заряжать аккумулятор при включении и выключении, что делает ее более практичной. 2. YN300 IV поддерживает тройной вход питания, источник питания с двунаправленным интерфейсом питания USB Type-C . Батареи серии NP-F и внешний источник питания постоянного тока могут удовлетворить ваши потребности в различных случаях использования. 3. Типы заполняющего света YN300 IV более распространены; Режим сенсорной регулировки RGB более удобен для удовлетворения различных потребностей в заполняющем свете. 4.YN300 IV состоит из 316 светодиодных бусин с высоким CRI и 60 полноцветных SMD- светильников RGB, обеспечивающих различные световые эффекты. 5. YN300 IV оснащен фирменным многоканальным беспроводным пультом дистанционного управления , который легко регулирует режим RGB с помощью сенсорного экрана пульта дистанционного управления, что упрощает настройку режима RGB. В то же время он поддерживает управление частотным разделением 8 групп видеоламп. 6.YN300 IV использует запатентованную технологию постоянного тока светодиодов YONGNUO , во время съемки не будет появляться рябь или стробоскопические явления. 7. YN300 IV оснащен богатыми спецэффектами и сюжетными режимами, которые более близки к творческим потребностям пользователей.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Бренд">YongNuo</param>
-<param name="Выходная мощность">18W</param>
-<param name="Индекс цветопередачи">CRI96+</param>
-<param name="Питание лампы">AKБ с зарядным устройством</param>
-<param name="Особенности">RGB Color</param>
-<param name="Студийное оборудование">Лампа видеосвет</param>
-<param name="Вес">0.260 Kg</param>
-<param name="Количество светодиодов">316 + 60 RGB</param>
-<param name="Размер">25.5 x 23 cm</param>
-<param name="Цветовая температура">3200-5600K</param>
 </offer>
 <offer id="ts000079134" available="true">
 <url>https://kmt5.com.ua/lampa-videosvet-led-yn1200-72w-light-1200pcs-color-32005500k</url>
@@ -173338,27 +173073,6 @@
 <param name="Материал">Ткань</param>
 <param name="Аксессуары Для Смарт Часов">Браслеты</param>
 </offer>
-<offer id="ts000072950000022283" available="true">
-<url>https://kmt5.com.ua/remnets-nylon-xiaomi-mi-band-5-6-7-grey</url>
-<price>89.0</price>
-<vendorprice>45.0</vendorprice>
-<vendorpricedoll>1.0</vendorpricedoll>
-<rrcdoll>1.97</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>22922428</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTYvMDEv0KYtMDAwMDcyOTUwXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDkvNWYv0KYtMDAwMDcyOTUwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000072950</vendorCode>
-<code>754085</code>
-<name>Ремінець Nylon Xiaomi Mi Band 5 6 7 — Grey</name>
-<quantity_in_stock>7</quantity_in_stock>
-<param name="Марка">Xiaomi</param>
-<param name="Модель девайса">Xiaomi Mi Band 5, Xiaomi Mi Band 6, Xiaomi Mi Band 7</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Металл</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
 <offer id="ts000072950000022284" available="true">
 <url>https://kmt5.com.ua/remeshok-nylon-xiaomi-mi-band-5-6-7-neon-yellow</url>
 <price>89.0</price>
@@ -174071,35 +173785,6 @@
 <param name="Материал">Резина</param>
 <param name="Аксессуары Для Смарт Часов">Браслеты</param>
 </offer>
-<offer id="ts000037061000029320" available="true">
-<url>https://kmt5.com.ua/remnets-sport-band-apple-watch-38-mm-40-mm-41-mm-light-green</url>
-<price>63.0</price>
-<vendorprice>32.0</vendorprice>
-<vendorpricedoll>0.7</vendorpricedoll>
-<rrcdoll>1.38</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>48417745</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGMvZTEv0KYtMDAwMDM3MDYxXzQ5LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGYvMTAv0KYtMDAwMDM3MDYxXzM3LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTEvMjMv0KYtMDAwMDM3MDYxXzM4LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzMvZjUv0KYtMDAwMDM3MDYxXzM5LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWUvMWUv0KYtMDAwMDM3MDYxXzQwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDQvZmEv0KYtMDAwMDM3MDYxXzQxLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzIvMjUv0KYtMDAwMDM3MDYxXzQyLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzIvZjIv0KYtMDAwMDM3MDYxXzQzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDMvYWEv0KYtMDAwMDM3MDYxXzQ0LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmMvOWEv0KYtMDAwMDM3MDYxXzQ1LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000037061</vendorCode>
-<code>785353</code>
-<name>Ремінець Sport Band Apple Watch 38 mm 40 mm 41 mm — Light Green</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Watch Series 7 41 mm, Apple Watch Series 3 38 mm, Apple Watch Series 4 40 mm</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Резина</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
 <offer id="ts000037061000012981" available="true">
 <url>https://kmt5.com.ua/remnets-sport-band-apple-watch-38-mm-40-mm-41-mm-light-pink-6</url>
 <price>63.0</price>
@@ -174636,72 +174321,6 @@
 <param name="Материал">Силикон</param>
 <param name="Аксессуары Для Смарт Часов">Браслеты</param>
 </offer>
-<offer id="ts000037062000016279" available="true">
-<url>https://kmt5.com.ua/original-design-bracelet-apple-watch-42-mm-44-mm-deep-blue-3</url>
-<price>60.0</price>
-<vendorprice>31.0</vendorprice>
-<vendorpricedoll>0.67</vendorpricedoll>
-<rrcdoll>1.32</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>59885727</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTYvOTQv0KYtMDAwMDM3MDYyXzQ3LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjkvZDYv0KYtMDAwMDM3MDYyXzQ4LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWMvZTMv0KYtMDAwMDM3MDYyXzU3LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000037062</vendorCode>
-<code>737305</code>
-<name>Ремінець Sport Band Apple Watch 42 mm 44 mm 45 mm 49 mm — Deep Blue (3)</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Watch Series 3 42 mm, Apple Watch Series 4 44 mm, Apple Watch Series 7 45 mm, Apple Watch Series 8 49 mm</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Силикон</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
-<offer id="ts000037062000013000" available="true">
-<url>https://kmt5.com.ua/remnets-sport-band-apple-watch-42-mm-44-mm-45-mm-49-mm-dragon-fruit-54</url>
-<price>60.0</price>
-<vendorprice>31.0</vendorprice>
-<vendorpricedoll>0.67</vendorpricedoll>
-<rrcdoll>1.32</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>59885727</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTMvMDIv0KYtMDAwMDM3MDYyXzE5LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjYvOTcv0KYtMDAwMDM3MDYyXzIwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWMvZTMv0KYtMDAwMDM3MDYyXzU3LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000037062</vendorCode>
-<code>734940</code>
-<name>Ремінець Sport Band Apple Watch 42 mm 44 mm 45 mm 49 mm — Dragon Fruit (54)</name>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Watch Series 3 42 mm, Apple Watch Series 4 44 mm, Apple Watch Series 7 45 mm, Apple Watch Series 8 49 mm</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Силикон</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
-<offer id="ts000037062000012995" available="true">
-<url>https://kmt5.com.ua/remnets-sport-band-apple-watch-42-mm-44-mm-45-mm-49-mm-flash-32</url>
-<price>60.0</price>
-<vendorprice>31.0</vendorprice>
-<vendorpricedoll>0.67</vendorpricedoll>
-<rrcdoll>1.32</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>59885727</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGYvNzQv0KYtMDAwMDM3MDYyXzM1LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWYvMWMv0KYtMDAwMDM3MDYyXzE4LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWMvZTMv0KYtMDAwMDM3MDYyXzU3LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000037062</vendorCode>
-<code>734935</code>
-<name>Ремінець Sport Band Apple Watch 42 mm 44 mm 45 mm 49 mm — Flash (32)</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Watch Series 3 42 mm, Apple Watch Series 4 44 mm, Apple Watch Series 7 45 mm, Apple Watch Series 8 49 mm</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Силикон</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
 <offer id="ts000037062000016103" available="true">
 <url>https://kmt5.com.ua/remnets-sport-band-apple-watch-42-mm-44-mm-45-mm-49-mm-grapefruit-59</url>
 <price>60.0</price>
@@ -174717,27 +174336,6 @@
 <code>737115</code>
 <name>Ремінець Sport Band Apple Watch 42 mm 44 mm 45 mm 49 mm — Grapefruit (59)</name>
 <quantity_in_stock>11</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Watch Series 3 42 mm, Apple Watch Series 4 44 mm, Apple Watch Series 7 45 mm, Apple Watch Series 8 49 mm</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Силикон</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
-<offer id="ts000037062000016089" available="true">
-<url>https://kmt5.com.ua/remnets-sport-band-apple-watch-42-mm-44-mm-45-mm-49-mm-gray-blue-26</url>
-<price>60.0</price>
-<vendorprice>31.0</vendorprice>
-<vendorpricedoll>0.67</vendorpricedoll>
-<rrcdoll>1.32</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>59885727</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDcvMDIv0KYtMDAwMDM3MDYyXzYxLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWMvZTMv0KYtMDAwMDM3MDYyXzU3LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000037062</vendorCode>
-<code>737101</code>
-<name>Ремінець Sport Band Apple Watch 42 mm 44 mm 45 mm 49 mm — Gray Blue (26)</name>
-<quantity_in_stock>3</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Watch Series 3 42 mm, Apple Watch Series 4 44 mm, Apple Watch Series 7 45 mm, Apple Watch Series 8 49 mm</param>
 <param name="Бренд">Различные</param>
@@ -174890,27 +174488,6 @@
 <code>734946</code>
 <name>Ремінець Sport Band Apple Watch 42 mm 44 mm 45 mm 49 mm — Lilac (5)</name>
 <quantity_in_stock>11</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Watch Series 3 42 mm, Apple Watch Series 4 44 mm, Apple Watch Series 7 45 mm, Apple Watch Series 8 49 mm</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Силикон</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
-<offer id="ts000037062000016477" available="true">
-<url>https://kmt5.com.ua/original-design-bracelet-apple-watch-42-mm-44-mm-marina-green</url>
-<price>60.0</price>
-<vendorprice>31.0</vendorprice>
-<vendorpricedoll>0.67</vendorpricedoll>
-<rrcdoll>1.32</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>59885727</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjYvNTgv0KYtMDAwMDM3MDYyXzY1LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWMvZTMv0KYtMDAwMDM3MDYyXzU3LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000037062</vendorCode>
-<code>737645</code>
-<name>Ремінець Sport Band Apple Watch 42 mm 44 mm 45 mm 49 mm — Marina Green (17)</name>
-<quantity_in_stock>2</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Watch Series 3 42 mm, Apple Watch Series 4 44 mm, Apple Watch Series 7 45 mm, Apple Watch Series 8 49 mm</param>
 <param name="Бренд">Различные</param>
@@ -176841,35 +176418,6 @@
 <param name="Материал">Резина</param>
 <param name="Аксессуары Для Смарт Часов">Браслеты</param>
 </offer>
-<offer id="ts000073503000026957" available="true">
-<url>https://kmt5.com.ua/remnets-ocean-band-design-apple-watch-42-mm-44-mm-45-mm-49-mm-dark-blue</url>
-<price>69.0</price>
-<vendorprice>36.0</vendorprice>
-<vendorpricedoll>0.78</vendorpricedoll>
-<rrcdoll>1.53</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>59885727</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGYvYTYv0KYtMDAwMDczNTAzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODAvNjgv0KYtMDAwMDczNTAzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2UvNDIv0KYtMDAwMDczNTAzXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzQvMjAv0KYtMDAwMDczNTAzXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzgvYWEv0KYtMDAwMDczNTAzXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWEvOWMv0KYtMDAwMDczNTAzXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzUvZmEv0KYtMDAwMDczNTAzXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2IvMjQv0KYtMDAwMDczNTAzXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjQvZmYv0KYtMDAwMDczNTAzXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGMvMzIv0KYtMDAwMDczNTAzXzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000073503</vendorCode>
-<code>778544</code>
-<name>Ремінець Ocean Band Design Apple Watch 42 mm 44 mm 45 mm 49 mm — Dark Blue</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Watch Series 3 42 mm, Apple Watch Series 4 44 mm, Apple Watch Series 7 45 mm, Apple Watch Series 8 49 mm</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Резина</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
 <offer id="ts000073503000023423" available="true">
 <url>https://kmt5.com.ua/remeshok-apple-ocean-band-design-42444549-mm-dark-green</url>
 <price>69.0</price>
@@ -176885,27 +176433,6 @@
 <code>755779</code>
 <name>Ремінець Ocean Band Design Apple Watch 42 mm 44 mm 45 mm 49 mm — Dark Green</name>
 <quantity_in_stock>7</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Watch Series 3 42 mm, Apple Watch Series 4 44 mm, Apple Watch Series 7 45 mm, Apple Watch Series 8 49 mm</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Резина</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
-<offer id="ts000073503000025123" available="true">
-<url>https://kmt5.com.ua/remnets-ocean-band-design-apple-watch-42-mm-44-mm-45-mm-49-mm-gray-black</url>
-<price>69.0</price>
-<vendorprice>36.0</vendorprice>
-<vendorpricedoll>0.78</vendorpricedoll>
-<rrcdoll>1.53</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>59885727</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTIvZmEv0KYtMDAwMDczNTAzXzE1LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODAvNjgv0KYtMDAwMDczNTAzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000073503</vendorCode>
-<code>773057</code>
-<name>Ремінець Ocean Band Design Apple Watch 42 mm 44 mm 45 mm 49 mm — Gray &amp; Black</name>
-<quantity_in_stock>2</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Watch Series 3 42 mm, Apple Watch Series 4 44 mm, Apple Watch Series 7 45 mm, Apple Watch Series 8 49 mm</param>
 <param name="Бренд">Различные</param>
@@ -186795,26 +186322,6 @@
 <param name="Материал">Металл</param>
 <param name="Аксессуары Для Смарт Часов">Браслеты</param>
 </offer>
-<offer id="ts000072952000022441" available="true">
-<url>https://kmt5.com.ua/remnets-nylon-with-protective-case-apple-watch-40-mm-black</url>
-<price>81.0</price>
-<vendorprice>41.0</vendorprice>
-<vendorpricedoll>0.9</vendorpricedoll>
-<rrcdoll>1.8</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>48417745</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjEvYTcv0KYtMDAwMDcyOTUyXzE2LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzQvODQv0KYtMDAwMDcyOTUyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000072952</vendorCode>
-<code>754287</code>
-<name>Ремінець Nylon with protective case Apple Watch 40 mm — Black</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Watch Series 7 41 mm, Apple Watch Series 3 38 mm, Apple Watch Series 4 40 mm</param>
-<param name="Бренд">Различные</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
 <offer id="ts000072952000022294" available="true">
 <url>https://kmt5.com.ua/remeshok-apple-watch-nylon-with-protective-case-384041mm-black</url>
 <price>81.0</price>
@@ -186830,6 +186337,26 @@
 <code>754098</code>
 <name>Ремінець Nylon with protective case Apple Watch 40 mm — Black</name>
 <quantity_in_stock>16</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Watch Series 7 41 mm, Apple Watch Series 3 38 mm, Apple Watch Series 4 40 mm</param>
+<param name="Бренд">Различные</param>
+<param name="Аксессуары Для Смарт Часов">Браслеты</param>
+</offer>
+<offer id="ts000072952000022441" available="true">
+<url>https://kmt5.com.ua/remnets-nylon-with-protective-case-apple-watch-40-mm-black</url>
+<price>81.0</price>
+<vendorprice>41.0</vendorprice>
+<vendorpricedoll>0.9</vendorpricedoll>
+<rrcdoll>1.8</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>48417745</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjEvYTcv0KYtMDAwMDcyOTUyXzE2LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzQvODQv0KYtMDAwMDcyOTUyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000072952</vendorCode>
+<code>754287</code>
+<name>Ремінець Nylon with protective case Apple Watch 40 mm — Black</name>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Watch Series 7 41 mm, Apple Watch Series 3 38 mm, Apple Watch Series 4 40 mm</param>
 <param name="Бренд">Различные</param>
@@ -196856,29 +196383,6 @@
 <param name="Бренд">Hoco</param>
 <param name="Автоаксессуары">Видеорегистраторы</param>
 </offer>
-<offer id="ts000081801" available="true">
-<url>https://kmt5.com.ua/videoregistrator-hoco-dv15</url>
-<price>1721.0</price>
-<vendorprice>1035.0</vendorprice>
-<vendorpricedoll>23.0</vendorpricedoll>
-<rrcdoll>38.26</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>71383016</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWMvNzMv0KYtMDAwMDgxODAxXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2QvMDAv0KYtMDAwMDgxODAxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTAvNGEv0KYtMDAwMDgxODAxXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODIvZWEv0KYtMDAwMDgxODAxXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjYvZDEv0KYtMDAwMDgxODAxXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDQvNTIv0KYtMDAwMDgxODAxXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000081801</vendorCode>
-<code>787582</code>
-<name>Видеорегистратор — Hoco DV15</name>
-<description><![CDATA["1. Головний контролер: Jianrong JR3291; Фронтальна панель 1 мільйон пікселів, внутрішня панель 300000 пікселів, задня панель 300000 пікселів 2. 2,0-дюймовий IPS-екран високої чіткості, роздільна здатність екрана 320 * 240 3. Роздільна здатність відео: 1280 * 720P 4. Кут огляду камери: Фронтальна панель 140°, середня панель 90°, задня панель 90° 5. Підтримка Wi-Fi, APP (viidure); Максимальна підтримка карт пам'яті 128 ГБ 6. Вбудований літієвий акумулятор ємністю 150 мАг 7. Матеріал: ABS; Розмір 98 * 46 * 42 мм; Вага: 65 г; Довжина кабелю: 3,5 м 8. Відведення назад 480P, довжина кабелю 5,5 м 9. Пристрій підтримує 22 мови: китайську, англійську, російську, арабську, в'єтнамську, данську, тайську, польську, перську, іспанську, Малайська, грецька, французька, італійська, німецька, португальська, турецька, казахська, румунська, іврит, бірманська, українська]]></description>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Автоаксессуары">Видеорегистраторы</param>
-</offer>
 <offer id="ts000078699" available="true">
 <url>https://kmt5.com.ua/videoregistrator-hoco-dv5</url>
 <price>2209.0</price>
@@ -199493,10 +198997,10 @@
 </offer>
 <offer id="ts000080879" available="true">
 <url>https://kmt5.com.ua/tsifrovyie-chasyi-s-termometrom-i-gigrometrom-hoco-hx41</url>
-<price>308.0</price>
-<vendorprice>167.0</vendorprice>
-<vendorpricedoll>3.7</vendorpricedoll>
-<rrcdoll>6.84</rrcdoll>
+<price>238.0</price>
+<vendorprice>170.0</vendorprice>
+<vendorpricedoll>3.77</vendorpricedoll>
+<rrcdoll>5.28</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>91659062</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWMvYmEv0KYtMDAwMDgwODc5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -199513,10 +199017,10 @@
 </offer>
 <offer id="ts000083701" available="true">
 <url>https://kmt5.com.ua/tsifrovyie-chasyi-s-termometrom-i-gigrometrom-veron-wx42</url>
-<price>251.0</price>
-<vendorprice>176.0</vendorprice>
-<vendorpricedoll>3.9</vendorpricedoll>
-<rrcdoll>5.56</rrcdoll>
+<price>238.0</price>
+<vendorprice>170.0</vendorprice>
+<vendorpricedoll>3.77</vendorpricedoll>
+<rrcdoll>5.28</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>91659062</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzIvNGQv0KYtMDAwMDgzNzAxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
