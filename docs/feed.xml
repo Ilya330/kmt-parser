@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-02 18:12">
+<yml_catalog date="2026-09-03 07:26">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -8,7 +8,6 @@
 <category id="31522521" parentId="93684718">Power Bank</category>
 <category id="81016638" parentId="31522521">Від 10000 mAh</category>
 <category id="96232187" parentId="31522521">Від 20000 mAh</category>
-<category id="82917560" parentId="31522521">Від 30000 mAh</category>
 <category id="98942065" parentId="31522521">Від 40000 mAh</category>
 <category id="43036807" parentId="31522521">Від 5000 mAh</category>
 <category id="58928178" parentId="31522521">Від 50000 mAh</category>
@@ -190,6 +189,9 @@
 <category id="77077931" parentId="36225134">Роутери, точки доступу та WI-FI адаптери</category>
 <category id="8698087" parentId="36225134">Стілуси</category>
 <category id="44564650" parentId="36225134">Хаби</category>
+<category id="381280">Компьютерна переферія</category>
+<category id="74671840" parentId="381280">Комп'ютерна переферія</category>
+<category id="42944593" parentId="74671840">Набори для чищення</category>
 <category id="40002390">Краса та здоров'я</category>
 <category id="61823304" parentId="40002390">Hygiene appliances</category>
 <category id="1140505" parentId="40002390">Зубні щітки</category>
@@ -15667,6 +15669,33 @@
 <param name="Материал">Пластик &amp; TPU</param>
 <param name="Цвет">Transparent</param>
 </offer>
+<offer id="ts000082085" available="true">
+<url>https://kmt5.com.ua/rock-crystal-shield-series-tpu-case-with-magsafe-iphone-17-pro-max</url>
+<price>389.0</price>
+<vendorprice>234.0</vendorprice>
+<vendorpricedoll>5.2</vendorpricedoll>
+<rrcdoll>8.63</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>54622491</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzYvYTAv0KYtMDAwMDgyMDg1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmMvYjEv0KYtMDAwMDgyMDg1XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmUvM2Yv0KYtMDAwMDgyMDg1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTIvNDEv0KYtMDAwMDgyMDg1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDAvNDcv0KYtMDAwMDgyMDg1XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWQvYTMv0KYtMDAwMDgyMDg1XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTQvNWMv0KYtMDAwMDgyMDg1XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Rock</vendor>
+<vendorCode>Ц-000082085</vendorCode>
+<code>787946</code>
+<name>Rock Crystal Shield Series TPU Case with Magsafe iPhone 17 Pro Max</name>
+<quantity_in_stock>14</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 17 Pro Max</param>
+<param name="Бренд">Rock</param>
+<param name="Материал">Пластик &amp; TPU</param>
+<param name="Цвет">Transparent</param>
+</offer>
 <offer id="ts000082390000030376" available="true">
 <url>https://kmt5.com.ua/yind-case-with-magsafe-iphone-17-pro-black</url>
 <price>306.0</price>
@@ -25667,6 +25696,27 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 6.1&quot;</param>
+<param name="Бренд">Apple</param>
+<param name="Материал">Карбон &amp; Силикон</param>
+</offer>
+<offer id="ts000082299" available="true">
+<url>https://kmt5.com.ua/carbon-case-with-magsafe-iphone-14-pro</url>
+<price>290.0</price>
+<vendorprice>175.0</vendorprice>
+<vendorpricedoll>3.88</vendorpricedoll>
+<rrcdoll>6.44</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>65522936</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTQvOTIv0KYtMDAwMDgyMjk5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTEvYzEv0KYtMDAwMDgyMjk5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000082299</vendorCode>
+<code>788350</code>
+<name>Carbon case with Magsafe — iPhone 14 Pro</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 14 Pro 6.1&quot;</param>
 <param name="Бренд">Apple</param>
 <param name="Материал">Карбон &amp; Силикон</param>
 </offer>
@@ -45706,28 +45756,6 @@
 <param name="Материал">Пластик &amp; TPU</param>
 <param name="Цвет">Transparent</param>
 </offer>
-<offer id="ts000082153" available="true">
-<url>https://kmt5.com.ua/ipaky-crystal-series-tpu-case-iphone-17-pro</url>
-<price>291.0</price>
-<vendorprice>176.0</vendorprice>
-<vendorpricedoll>3.9</vendorpricedoll>
-<rrcdoll>6.46</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54622491</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzIvYjQv0KYtMDAwMDgyMTUzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjgvOTcv0KYtMDAwMDgyMTUzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082153</vendorCode>
-<code>788074</code>
-<name>Ipaky Crystal Series TPU Case iPhone 17 Pro</name>
-<quantity_in_stock>19</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Пластик &amp; TPU</param>
-<param name="Цвет">Transparent</param>
-</offer>
 <offer id="ts000078291000026589" available="true">
 <url>https://kmt5.com.ua/ipaky-mj-series-tpu-case-iphone-14-pro-max-black</url>
 <price>216.0</price>
@@ -48884,30 +48912,6 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 13 6.1&quot;</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">PU кожа</param>
-<param name="Цвет">Mix Color</param>
-</offer>
-<offer id="ts000073219000022932" available="true">
-<url>https://kmt5.com.ua/leather-case-with-magsafe-iphone-14-pro-midnight</url>
-<price>658.0</price>
-<vendorprice>374.0</vendorprice>
-<vendorpricedoll>8.3</vendorpricedoll>
-<rrcdoll>14.62</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>65522936</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDYvZDQv0KYtMDAwMDczMjE5XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmQvNWMv0KYtMDAwMDczMjE5XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGEvODEv0KYtMDAwMDczMjE5XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTYvYTUv0KYtMDAwMDczMjE5XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000073219</vendorCode>
-<code>754992</code>
-<name>Leather Case with MagSafe iPhone 14 Pro — Black</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 14 Pro 6.1&quot;</param>
 <param name="Бренд">Apple</param>
 <param name="Материал">PU кожа</param>
 <param name="Цвет">Mix Color</param>
@@ -126388,29 +126392,6 @@
 <param name="Толщина">0.3 mm</param>
 <param name="Цвет">Remax HD GL-27</param>
 </offer>
-<offer id="ts000082133" available="true">
-<url>https://kmt5.com.ua/zahisne-sklo-remax-hd-tempered-glass-gl27-iphone-17-pro-63</url>
-<price>186.0</price>
-<vendorprice>99.0</vendorprice>
-<vendorpricedoll>2.2</vendorpricedoll>
-<rrcdoll>4.13</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>60035090</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWMvMTEv0KYtMDAwMDgyMTMzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2IvOWUv0KYtMDAwMDgyMTMzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Remax</vendor>
-<vendorCode>Ц-000082133</vendorCode>
-<code>788039</code>
-<name>Захисне скло Remax HD Tempered Glass GL-27 iPhone 17 Pro 6.3&quot;</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro</param>
-<param name="Бренд">Remax</param>
-<param name="Виды защиты экрана">Захисне скло</param>
-<param name="Вид покрытия">Прозрачное стекло</param>
-<param name="Толщина">0.3 mm</param>
-<param name="Цвет">Remax HD GL-27</param>
-</offer>
 <offer id="ts000083824" available="true">
 <url>https://kmt5.com.ua/zahisne-sklo-remax-privacy-tempered-glass-es02-iphone-15-16</url>
 <price>308.0</price>
@@ -130465,31 +130446,6 @@
 <param name="Виды аккумуляторов">Power Bank</param>
 <param name="Емкость аккумулятора">От 20000 mAh</param>
 </offer>
-<offer id="ts000083232" available="true">
-<url>https://kmt5.com.ua/power-bank-30000-mah-borofone-bj86a-225wpd20w</url>
-<price>976.0</price>
-<vendorprice>698.0</vendorprice>
-<vendorpricedoll>15.5</vendorpricedoll>
-<rrcdoll>21.7</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>82917560</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzIvMWUv0KYtMDAwMDgzMjMyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmUvMWQv0KYtMDAwMDgzMjMyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTMvNTkv0KYtMDAwMDgzMjMyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjIvMWMv0KYtMDAwMDgzMjMyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2QvMjcv0KYtMDAwMDgzMjMyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWIvMjAv0KYtMDAwMDgzMjMyXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzAvZmQv0KYtMDAwMDgzMjMyXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzYvYzcv0KYtMDAwMDgzMjMyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Borofone</vendor>
-<vendorCode>Ц-000083232</vendorCode>
-<code>790068</code>
-<name>Power Bank | 30000 mAh | Borofone BJ86A with light</name>
-<quantity_in_stock>56</quantity_in_stock>
-<param name="Бренд">Borofone</param>
-<param name="Виды аккумуляторов">Power Bank</param>
-<param name="Емкость аккумулятора">От 30000 mAh</param>
-</offer>
 <offer id="ts000083574" available="true">
 <url>https://kmt5.com.ua/power-station-150w-earldom-etlt02</url>
 <price>4000.0</price>
@@ -131541,23 +131497,6 @@
 <param name="Бренд">Hoco</param>
 <param name="Виды аккумуляторов">Power Bank</param>
 <param name="Емкость аккумулятора">От 8000 mAh</param>
-</offer>
-<offer id="ts000083638" available="true">
-<url>https://kmt5.com.ua/power-station-300w-eg009li</url>
-<price>7699.0</price>
-<vendorprice>5847.0</vendorprice>
-<vendorpricedoll>130.0</vendorpricedoll>
-<rrcdoll>171.2</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>2960352</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjQvMDkv0KYtMDAwMDgzNjM4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGIvOGEv0KYtMDAwMDgzNjM4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000083638</vendorCode>
-<code>790926</code>
-<name>Power Station 300W  — Eg009Li</name>
-<quantity_in_stock>12</quantity_in_stock>
-<param name="Бренд">Различные</param>
 </offer>
 <offer id="ts000083639" available="true">
 <url>https://kmt5.com.ua/power-station-500w-eg010li</url>
@@ -152754,6 +152693,28 @@
 <param name="Аудіо товари">Мікрофон для ПК</param>
 <param name="Цвет">Black</param>
 </offer>
+<offer id="ts000078038" available="true">
+<url>https://kmt5.com.ua/nabor-dlya-chistki-010</url>
+<price>144.0</price>
+<vendorprice>72.0</vendorprice>
+<vendorpricedoll>1.6</vendorpricedoll>
+<rrcdoll>3.2</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>42944593</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTMvNjgv0KYtMDAwMDc4MDM4XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDYvOTQv0KYtMDAwMDc4MDM4XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzAvNTgv0KYtMDAwMDc4MDM4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDEvNjUv0KYtMDAwMDc4MDM4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWMvN2Mv0KYtMDAwMDc4MDM4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzgvYjYv0KYtMDAwMDc4MDM4XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000078038</vendorCode>
+<code>776870</code>
+<name>Набор для чистки 010</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Различные</param>
+<param name="Компьютерные Комплектующие">Наборы для чистки</param>
+</offer>
 <offer id="ts000078430" available="true">
 <url>https://kmt5.com.ua/nabor-dlya-chistki-bolshoy-5-in-1</url>
 <price>229.0</price>
@@ -162528,30 +162489,6 @@
 <param name="Бренд">Различные</param>
 <param name="Студийное оборудование">Запчасти для штативов</param>
 </offer>
-<offer id="ts000075882" available="true">
-<url>https://kmt5.com.ua/mnogofunktsionalnyiy-derjatelzajim-ph17-dlya-telefona-karbon</url>
-<price>220.0</price>
-<vendorprice>117.0</vendorprice>
-<vendorpricedoll>2.6</vendorpricedoll>
-<rrcdoll>4.87</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>22618992</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWMvMGMv0KYtMDAwMDc1ODgyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzIvYjkv0KYtMDAwMDc1ODgyXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjgvZGYv0KYtMDAwMDc1ODgyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzgvMzIv0KYtMDAwMDc1ODgyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzcvOWIv0KYtMDAwMDc1ODgyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWIvZDgv0KYtMDAwMDc1ODgyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGMvODQv0KYtMDAwMDc1ODgyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGMvMzIv0KYtMDAwMDc1ODgyXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000075882</vendorCode>
-<code>771384</code>
-<name>Многофункциональный держатель-зажим PH-17 для телефона ки планшета</name>
-<quantity_in_stock>14</quantity_in_stock>
-<param name="Бренд">Различные</param>
-<param name="Студийное оборудование">Запчасти для штативов</param>
-</offer>
 <offer id="ts000083749" available="true">
 <url>https://kmt5.com.ua/mnogofunktsionalnyiy-derjatelzajim-na-360-na-shtativ-povorotnyiy-s-rezboy-14</url>
 <price>149.0</price>
@@ -166083,25 +166020,6 @@
 <param name="Бренд">Hoco</param>
 <param name="Аудіо товари">Навушники USB C</param>
 <param name="Интерфейс подключения">USB C</param>
-</offer>
-<offer id="ts000071085000019788" available="true">
-<url>https://kmt5.com.ua/naushniki-s-mikrofonom-hoco-m1-pro-original-series-for-lightning-white</url>
-<price>216.0</price>
-<vendorprice>108.0</vendorprice>
-<vendorpricedoll>2.4</vendorpricedoll>
-<rrcdoll>4.8</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>78395</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzkvMTAv0KYtMDAwMDcxMDg1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGYvZGIv0KYtMDAwMDcxMDg1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000071085</vendorCode>
-<code>749574</code>
-<name>Наушники с микрофоном Hoco M1 Pro Original series for Lightning — White</name>
-<description><![CDATA[Наушник Hoco – это отличный способ для комфортного прослушивания музыки. Каждый человек любит слушать музыку и у каждых своих требований, Hoco отлично справляются со своей задачей, глубокий бас и полная сбалансированность высоких и низких частот не оставят равнодушным ни одного человека. Вы услышите все, чего не слышали раньше, откройте для себя целый мир новых ощущений. Наушник нового поколения, порадует вас своим удобством и комфортом в повседневном использовании. BT спецификация: BT V5.0 JL Спикер: 12мм Аудио штекер: интерфейс для Lightning Вес: 12г Микрофон: контроллер с микрофоном Кабель наушников: TPE эмалированный провод Длина кабеля: 1.2м Проводное управление: смарт проводное управление – регулировка громкости, управление воспроизведением, пауза / проигрывание, управление звонками, поддержка всплывающего окна для подключении интерфейса для Lightning к мобильному телефону]]></description>
-<quantity_in_stock>300</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Аудіо товари">Наушники с микрофоном</param>
 </offer>
 <offer id="ts000077389000025542" available="true">
 <url>https://kmt5.com.ua/bluetooth-earphones-hoco-es51-black</url>
@@ -172669,26 +172587,6 @@
 <code>789598</code>
 <name>Ремінець Mounting Nylon Strap Універсальний 22 mm — Azure Blue</name>
 <quantity_in_stock>9</quantity_in_stock>
-<param name="Марка">Universal</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Ткань</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
-<offer id="ts000082984000030926" available="true">
-<url>https://kmt5.com.ua/remnets-mounting-nylon-strap-unversalniy-22-mm-black</url>
-<price>160.0</price>
-<vendorprice>81.0</vendorprice>
-<vendorpricedoll>1.8</vendorpricedoll>
-<rrcdoll>3.54</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>66318281</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzAvY2Yv0KYtMDAwMDgyOTg0XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTkvMDQv0KYtMDAwMDgyOTg0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082984</vendorCode>
-<code>789597</code>
-<name>Ремінець Mounting Nylon Strap Універсальний 22 mm — Black</name>
-<quantity_in_stock>2</quantity_in_stock>
 <param name="Марка">Universal</param>
 <param name="Бренд">Различные</param>
 <param name="Материал">Ткань</param>
@@ -185207,26 +185105,6 @@
 <param name="Бренд">Различные</param>
 <param name="Аксессуары Для Смарт Часов">Браслеты</param>
 </offer>
-<offer id="ts000071759000026969" available="true">
-<url>https://kmt5.com.ua/remnets-nylon-loop-apple-watch-38-mm-40-mm-41-mm-light-pink</url>
-<price>95.0</price>
-<vendorprice>48.0</vendorprice>
-<vendorpricedoll>1.05</vendorpricedoll>
-<rrcdoll>2.1</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>48417745</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGQvM2Yv0KYtMDAwMDcxNzU5XzEyLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjIvZmQv0KYtMDAwMDcxNzU5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000071759</vendorCode>
-<code>778556</code>
-<name>Ремінець Nylon Loop Apple Watch 38 mm 40 mm 41 mm — Light Pink</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Watch Series 7 41 mm, Apple Watch Series 3 38 mm, Apple Watch Series 4 40 mm</param>
-<param name="Бренд">Различные</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
 <offer id="ts000071759000026968" available="true">
 <url>https://kmt5.com.ua/remnets-nylon-loop-apple-watch-38-mm-40-mm-41-mm-pink</url>
 <price>95.0</price>
@@ -185282,6 +185160,26 @@
 <code>751130</code>
 <name>Ремінець Nylon Loop Apple Watch 38 mm 40 mm 41 mm — Red</name>
 <quantity_in_stock>11</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Watch Series 7 41 mm, Apple Watch Series 3 38 mm, Apple Watch Series 4 40 mm</param>
+<param name="Бренд">Различные</param>
+<param name="Аксессуары Для Смарт Часов">Браслеты</param>
+</offer>
+<offer id="ts000071759000026967" available="true">
+<url>https://kmt5.com.ua/remnets-nylon-loop-apple-watch-38-mm-40-mm-41-mm-white</url>
+<price>95.0</price>
+<vendorprice>48.0</vendorprice>
+<vendorpricedoll>1.05</vendorpricedoll>
+<rrcdoll>2.1</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>48417745</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODEvODcv0KYtMDAwMDcxNzU5XzE1LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjIvZmQv0KYtMDAwMDcxNzU5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000071759</vendorCode>
+<code>778554</code>
+<name>Ремінець Nylon Loop Apple Watch 38 mm 40 mm 41 mm — White</name>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Watch Series 7 41 mm, Apple Watch Series 3 38 mm, Apple Watch Series 4 40 mm</param>
 <param name="Бренд">Различные</param>
@@ -192341,7 +192239,7 @@
 <param name="Способ установки">на повітропровід</param>
 <param name="Способ крепления">магнітний</param>
 </offer>
-<offer id="ts000077442000025590" available="true">
+<offer id="ts000077442" available="true">
 <url>https://kmt5.com.ua/car-holder-hoco-ca91-magic-magnetic-wireless-fast-charging-gray</url>
 <price>725.0</price>
 <vendorprice>432.0</vendorprice>
