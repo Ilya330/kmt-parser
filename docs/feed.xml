@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-03 18:11">
+<yml_catalog date="2026-09-04 07:28">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -154,6 +154,10 @@
 <category id="34459822" parentId="59033180">iPhone 17</category>
 <category id="49469979" parentId="59033180">iPhone 17 Air</category>
 <category id="71044671" parentId="59033180">iPhone 17 Pro Max</category>
+<category id="54931751" parentId="22594817">Захисне скло iPhone</category>
+<category id="15700386" parentId="54931751">iPhone 14 Pro</category>
+<category id="97702150" parentId="54931751">iPhone 15</category>
+<category id="55381849" parentId="54931751">iPhone 17 Pro Max</category>
 <category id="91501704">Кабелі та Перехідники</category>
 <category id="39270253" parentId="91501704">Кабель AUX</category>
 <category id="84405727" parentId="91501704">Кабель Multi 2in1 / 3in1 / 4in1</category>
@@ -17829,34 +17833,6 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max</param>
-<param name="Бренд">Dux Ducis</param>
-<param name="Материал">Пластик &amp; TPU</param>
-<param name="Цвет">Black</param>
-</offer>
-<offer id="ts000082383" available="true">
-<url>https://kmt5.com.ua/aimo-mag-series-tpu-case-samsung-s25-fe</url>
-<price>358.0</price>
-<vendorprice>216.0</vendorprice>
-<vendorpricedoll>4.8</vendorpricedoll>
-<rrcdoll>7.94</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>43902800</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWUvOGQv0KYtMDAwMDgyMzgzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTYvMzcv0KYtMDAwMDgyMzgzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmQvNWEv0KYtMDAwMDgyMzgzXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDgvY2Iv0KYtMDAwMDgyMzgzXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzUvYzYv0KYtMDAwMDgyMzgzXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzcvZDMv0KYtMDAwMDgyMzgzXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTYvN2Ev0KYtMDAwMDgyMzgzXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTAvNzUv0KYtMDAwMDgyMzgzXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Dux Ducis</vendor>
-<vendorCode>Ц-000082383</vendorCode>
-<code>788452</code>
-<name>Aimo Mag Series TPU Case — Samsung S25 FE</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Samsung</param>
-<param name="Модель девайса">Samsung S25 FE</param>
 <param name="Бренд">Dux Ducis</param>
 <param name="Материал">Пластик &amp; TPU</param>
 <param name="Цвет">Black</param>
@@ -91522,28 +91498,6 @@
 <param name="Материал">Силикон</param>
 <param name="Цвет">Clear</param>
 </offer>
-<offer id="ts000076121" available="true">
-<url>https://kmt5.com.ua/space-case-with-magsafe-iphone-13-pro-max-67</url>
-<price>194.0</price>
-<vendorprice>117.0</vendorprice>
-<vendorpricedoll>2.6</vendorpricedoll>
-<rrcdoll>4.3</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>70706401</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGYvZTQv0KYtMDAwMDc2MTIxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzUvOGEv0KYtMDAwMDc2MTIxXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000076121</vendorCode>
-<code>771909</code>
-<name>Space Case with MagSafe iPhone 13 Pro Max 6.7&quot;</name>
-<quantity_in_stock>4</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 13 Pro Max 6.7&quot;</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Силикон</param>
-<param name="Цвет">Clear</param>
-</offer>
 <offer id="ts000073659" available="true">
 <url>https://kmt5.com.ua/space-case-with-magsafe-iphone-14</url>
 <price>194.0</price>
@@ -125748,6 +125702,29 @@
 <param name="Толщина">0.3 mm</param>
 <param name="Цвет">Remax HD GL-27</param>
 </offer>
+<offer id="ts000079884" available="true">
+<url>https://kmt5.com.ua/zahisne-sklo-remax-hd-tempered-glass-gl27-iphone-13-13-pro-14-61</url>
+<price>186.0</price>
+<vendorprice>99.0</vendorprice>
+<vendorpricedoll>2.2</vendorpricedoll>
+<rrcdoll>4.13</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>62484675</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjgvMmMv0KYtMDAwMDc5ODg0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGEvZjEv0KYtMDAwMDc5ODg0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Remax</vendor>
+<vendorCode>Ц-000079884</vendorCode>
+<code>781017</code>
+<name>Захисне скло Remax HD Tempered Glass GL-27 iPhone 13 ; 13 Pro ; 14 6.1&quot;</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 13 6.1&quot;, Apple iPhone 13 Pro 6.1&quot;, Apple iPhone 13 Pro Max 6.7&quot;</param>
+<param name="Бренд">Remax</param>
+<param name="Виды защиты экрана">Захисне скло</param>
+<param name="Вид покрытия">Прозрачное стекло</param>
+<param name="Толщина">0.3 mm</param>
+<param name="Цвет">Remax HD GL-27</param>
+</offer>
 <offer id="ts000079886" available="true">
 <url>https://kmt5.com.ua/zahisne-sklo-remax-hd-tempered-glass-gl27-iphone-13-pro-max-14-plus-67</url>
 <price>186.0</price>
@@ -125765,6 +125742,29 @@
 <quantity_in_stock>3</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 13 Pro Max 6.7&quot;, Apple iPhone 14 Plus 6.7&quot;</param>
+<param name="Бренд">Remax</param>
+<param name="Виды защиты экрана">Захисне скло</param>
+<param name="Вид покрытия">Прозрачное стекло</param>
+<param name="Толщина">0.3 mm</param>
+<param name="Цвет">Remax HD GL-27</param>
+</offer>
+<offer id="ts000079885" available="true">
+<url>https://kmt5.com.ua/zahisne-sklo-remax-hd-tempered-glass-gl27-iphone-14-pro-61</url>
+<price>186.0</price>
+<vendorprice>99.0</vendorprice>
+<vendorpricedoll>2.2</vendorpricedoll>
+<rrcdoll>4.13</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>15700386</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTgvMGUv0KYtMDAwMDc5ODg1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmYvYjcv0KYtMDAwMDc5ODg1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Remax</vendor>
+<vendorCode>Ц-000079885</vendorCode>
+<code>781018</code>
+<name>Захисне скло Remax HD Tempered Glass GL-27 iPhone 14 Pro 6.1&quot;</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 14 Pro 6.1&quot;</param>
 <param name="Бренд">Remax</param>
 <param name="Виды защиты экрана">Захисне скло</param>
 <param name="Вид покрытия">Прозрачное стекло</param>
@@ -125817,6 +125817,75 @@
 <param name="Толщина">0.3 mm</param>
 <param name="Цвет">Remax HD GL-27</param>
 </offer>
+<offer id="ts000079879" available="true">
+<url>https://kmt5.com.ua/zahisne-sklo-remax-hd-tempered-glass-gl27-iphone-15-pro-61</url>
+<price>186.0</price>
+<vendorprice>99.0</vendorprice>
+<vendorpricedoll>2.2</vendorpricedoll>
+<rrcdoll>4.13</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>98702706</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDgvYjIv0KYtMDAwMDc5ODc5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTMvM2Ev0KYtMDAwMDc5ODc5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Remax</vendor>
+<vendorCode>Ц-000079879</vendorCode>
+<code>781012</code>
+<name>Захисне скло Remax HD Tempered Glass GL-27 iPhone 15 Pro 6.1&quot;</name>
+<quantity_in_stock>2</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 15 Pro</param>
+<param name="Бренд">Remax</param>
+<param name="Виды защиты экрана">Захисне скло</param>
+<param name="Вид покрытия">Прозрачное стекло</param>
+<param name="Толщина">0.3 mm</param>
+<param name="Цвет">Remax HD GL-27</param>
+</offer>
+<offer id="ts000079881" available="true">
+<url>https://kmt5.com.ua/zahisne-sklo-remax-hd-tempered-glass-gl27-iphone-15-pro-max-67</url>
+<price>186.0</price>
+<vendorprice>99.0</vendorprice>
+<vendorpricedoll>2.2</vendorpricedoll>
+<rrcdoll>4.13</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>26999379</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzUvYzMv0KYtMDAwMDc5ODgxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDUvZTYv0KYtMDAwMDc5ODgxXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Remax</vendor>
+<vendorCode>Ц-000079881</vendorCode>
+<code>781014</code>
+<name>Захисне скло Remax HD Tempered Glass GL-27 iPhone 15 Pro Max 6.7&quot;</name>
+<quantity_in_stock>1</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 15 Pro Max</param>
+<param name="Бренд">Remax</param>
+<param name="Виды защиты экрана">Захисне скло</param>
+<param name="Вид покрытия">Прозрачное стекло</param>
+<param name="Толщина">0.3 mm</param>
+<param name="Цвет">Remax HD GL-27</param>
+</offer>
+<offer id="ts000079919" available="true">
+<url>https://kmt5.com.ua/zahisne-sklo-remax-hd-tempered-glass-gl27-iphone-16-61</url>
+<price>186.0</price>
+<vendorprice>99.0</vendorprice>
+<vendorpricedoll>2.2</vendorpricedoll>
+<rrcdoll>4.13</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>97702150</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzQvNzYv0KYtMDAwMDc5OTE5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDEvZmEv0KYtMDAwMDc5OTE5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Remax</vendor>
+<vendorCode>Ц-000079919</vendorCode>
+<code>781371</code>
+<name>Захисне скло Remax HD Tempered Glass GL-27 iPhone 15/16 6.1&quot;</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 16, Apple iPhone 15</param>
+<param name="Бренд">Remax</param>
+<param name="Виды защиты экрана">Захисне скло</param>
+<param name="Вид покрытия">Прозрачное стекло</param>
+<param name="Толщина">0.3 mm</param>
+<param name="Цвет">Remax HD GL-27</param>
+</offer>
 <offer id="ts000079922" available="true">
 <url>https://kmt5.com.ua/zahisne-sklo-remax-hd-tempered-glass-gl27-iphone-16-pro-max-67</url>
 <price>186.0</price>
@@ -125857,6 +125926,52 @@
 <quantity_in_stock>87</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Air</param>
+<param name="Бренд">Remax</param>
+<param name="Виды защиты экрана">Захисне скло</param>
+<param name="Вид покрытия">Прозрачное стекло</param>
+<param name="Толщина">0.3 mm</param>
+<param name="Цвет">Remax HD GL-27</param>
+</offer>
+<offer id="ts000082133" available="true">
+<url>https://kmt5.com.ua/zahisne-sklo-remax-hd-tempered-glass-gl27-iphone-17-pro-63</url>
+<price>186.0</price>
+<vendorprice>99.0</vendorprice>
+<vendorpricedoll>2.2</vendorpricedoll>
+<rrcdoll>4.13</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>60035090</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWMvMTEv0KYtMDAwMDgyMTMzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2IvOWUv0KYtMDAwMDgyMTMzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Remax</vendor>
+<vendorCode>Ц-000082133</vendorCode>
+<code>788039</code>
+<name>Захисне скло Remax HD Tempered Glass GL-27 iPhone 17 Pro 6.3&quot;</name>
+<quantity_in_stock>1</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 17 Pro</param>
+<param name="Бренд">Remax</param>
+<param name="Виды защиты экрана">Захисне скло</param>
+<param name="Вид покрытия">Прозрачное стекло</param>
+<param name="Толщина">0.3 mm</param>
+<param name="Цвет">Remax HD GL-27</param>
+</offer>
+<offer id="ts000082132" available="true">
+<url>https://kmt5.com.ua/zahisne-sklo-remax-hd-tempered-glass-gl27-iphone-17-pro-max-69</url>
+<price>186.0</price>
+<vendorprice>99.0</vendorprice>
+<vendorpricedoll>2.2</vendorpricedoll>
+<rrcdoll>4.13</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>55381849</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjcvNGUv0KYtMDAwMDgyMTMyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTYvODcv0KYtMDAwMDgyMTMyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Remax</vendor>
+<vendorCode>Ц-000082132</vendorCode>
+<code>788038</code>
+<name>Захисне скло Remax HD Tempered Glass GL-27 iPhone 17 Pro Max 6.9&quot;</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 17 Pro Max</param>
 <param name="Бренд">Remax</param>
 <param name="Виды защиты экрана">Захисне скло</param>
 <param name="Вид покрытия">Прозрачное стекло</param>
@@ -130827,29 +130942,6 @@
 <param name="Виды аккумуляторов">Power Bank</param>
 <param name="Емкость аккумулятора">От 40000 mAh</param>
 </offer>
-<offer id="ts000082806" available="true">
-<url>https://kmt5.com.ua/power-bank-5000-mah-borofone-bj82</url>
-<price>529.0</price>
-<vendorprice>356.0</vendorprice>
-<vendorpricedoll>7.9</vendorpricedoll>
-<rrcdoll>11.76</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>43036807</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGMvZmUv0KYtMDAwMDgyODA2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2YvMGQv0KYtMDAwMDgyODA2XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWYvOTEv0KYtMDAwMDgyODA2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjIvNmEv0KYtMDAwMDgyODA2XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODgvOWIv0KYtMDAwMDgyODA2XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Borofone</vendor>
-<vendorCode>Ц-000082806</vendorCode>
-<code>789262</code>
-<name>Power Bank 5000 mAh — Borofone BJ82</name>
-<description><![CDATA[ПовербанкBorofone BJ82 - компактна універсальна батарея, яка дозволить швидко та безпечно зарядити будь-який з ваших гаджетів . Зовнішній літій-полімерний акумулятор має ємність 5000 мАг. Зарядний пристрій практично у використанні. Поміщається у будь-яку сумку або навіть кишеню. Його зручно брати із собою, не турбуючись про випадкове пошкодження під час транспортування. Бездротова зарядка Головна особливість цього повербанку – бездротова зарядка на 5W . Це робить повербанк універсальним та зручним рішенням для заряджання гаджетів без використання кабелів. Пристрій завжди готовий до використання. Наприклад, щоб почати заряджати телефон за допомогою бездротової зарядки, достатньо додати портативний акумулятор. Магнітне кріплення спрощує процес заряджання, роблячи його швидким та ефективним. Якісні матеріали Корпус батареї виготовлений із вогнестійкого пластику . LED-індикатор на корпусі відображає рівень заряду батареї. Повербанк компактний та легкий, що робить його зручним для транспортування. Має захист від перезарядки, короткого замикання та перегріву. Особливості та переваги: бездротова зарядка ; дозволяє одночасно заряджати 2 пристрої - через USB та бездротовим способом; компактні розміри та невелика вага; оснащений захистом від короткого замикання та перегріву; індикатор заряду . Комплектація: повербанк, упаковка, кабель.]]></description>
-<quantity_in_stock>12</quantity_in_stock>
-<param name="Бренд">Borofone</param>
-<param name="Виды аккумуляторов">Power Bank</param>
-<param name="Емкость аккумулятора">От 5000 mAh</param>
-</offer>
 <offer id="ts000083110" available="true">
 <url>https://kmt5.com.ua/power-bank-5000-mah-magnetic-suction-w008</url>
 <price>479.0</price>
@@ -130968,6 +131060,29 @@
 <param name="Бренд">Hoco</param>
 <param name="Виды аккумуляторов">Power Bank</param>
 <param name="Емкость аккумулятора">От 8000 mAh</param>
+</offer>
+<offer id="ts000082811" available="true">
+<url>https://kmt5.com.ua/power-bank-30000-mah%C2%A0-20w%C2%A0%C2%A0-borofone-bj79b</url>
+<price>1380.0</price>
+<vendorprice>639.0</vendorprice>
+<vendorpricedoll>14.2</vendorpricedoll>
+<rrcdoll>30.67</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>82917560</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzAvMzIv0KYtMDAwMDgyODExXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzIvMmYv0KYtMDAwMDgyODExXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzIvMjUv0KYtMDAwMDgyODExXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODEvM2Ev0KYtMDAwMDgyODExXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDgvYzAv0KYtMDAwMDgyODExXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Borofone</vendor>
+<vendorCode>Ц-000082811</vendorCode>
+<code>789270</code>
+<name>Power Bank | 30000 mAh | built-in cables— Borofone BJ79B</name>
+<description><![CDATA["1. Ємність: 30000 мАг 111 Вт·год Номінальна ємність: 16500 мАг 2. Вхід: кабель USB-C/USB-A: 5 В/2 А 3. Вихід: USB-A: 5 В/2 А； кабель USB-C/IP: 5 В/2 А; Загальний вихідний струм: 5 В/2 А 4. Індикація: світлодіодний індикатор рівня заряду акумулятора. 5. Матеріал: ABS+PC+літій-полімерний акумулятор 6. Розмір: 146 * 69 * 40 мм; Вага: 605 г"]]></description>
+<quantity_in_stock>60</quantity_in_stock>
+<param name="Бренд">Borofone</param>
+<param name="Виды аккумуляторов">Power Bank</param>
+<param name="Емкость аккумулятора">От 30000 mAh</param>
 </offer>
 <offer id="ts000083634000031619" available="true">
 <url>https://kmt5.com.ua/power-bank-30000-mah-borofone-bj88b-225wpd20w-white</url>
@@ -147771,26 +147886,6 @@
 <param name="Бренд">Earldom</param>
 <param name="Компьютерные аксессуары">Кардридеры</param>
 </offer>
-<offer id="ts000071365000020262" available="true">
-<url>https://kmt5.com.ua/card-reader-hoco-hb20-usb20-black</url>
-<price>115.0</price>
-<vendorprice>66.0</vendorprice>
-<vendorpricedoll>1.45</vendorpricedoll>
-<rrcdoll>2.54</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>30757861</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGUvNTkv0KYtMDAwMDcxMzY1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTAvYTQv0KYtMDAwMDcxMzY1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDkvZjQv0KYtMDAwMDcxMzY1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000071365</vendorCode>
-<code>750510</code>
-<name>Card Reader — Hoco HB20 (USB2.0)  — Black</name>
-<description><![CDATA[Преимущества:Высокая скорость передачи данных Крепкий и износостойкой материал Теоретическая поддерживаемая емкость: 2TB Поддержка TF/SD карт Совместимость с большинством операционных систем, например, для Windows и для Mac OS Характеристики: Скорость передачи данных: 5Gbps Интерфейс: USB-A 2.0 / SD/TF Card Вес: 10 г Размеры: 69 х 19 х 13 mm Материал: ABS Цвет: Черный]]></description>
-<quantity_in_stock>15</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Компьютерные аксессуары">Кардридеры</param>
-</offer>
 <offer id="ts000081089" available="true">
 <url>https://kmt5.com.ua/card-reader-hoco-hb45-spirit-2in1-usbtypec-20</url>
 <price>134.0</price>
@@ -152981,6 +153076,25 @@
 <param name="Бренд">Различные</param>
 <param name="Аудіо товари">Портативні колонки</param>
 </offer>
+<offer id="ts000082854000030775" available="true">
+<url>https://kmt5.com.ua/portativna-kolonka-borofone-br20-black</url>
+<price>1303.0</price>
+<vendorprice>666.0</vendorprice>
+<vendorpricedoll>14.8</vendorpricedoll>
+<rrcdoll>28.96</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>31204796</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzAvNzQv0KYtMDAwMDgyODU0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWMvMTQv0KYtMDAwMDgyODU0XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Borofone</vendor>
+<vendorCode>Ц-000082854</vendorCode>
+<code>789320</code>
+<name>Портативна колонка Borofone BR20 __ — Black</name>
+<description><![CDATA[BOROFONE BR20 Звукова хвиля, спортивна портативна колонка, BT v5.0, батарея 2400mAh на 3 години використання, підтримка BT, FM, TF, USB, AUX, TWS режимів відтворення 1. BT v5.0. Чип: JL AC6965E. 2. Ємність батареї: 2400mAh, час зарядки близько 3 годин. 3. Час використання: 3 години. 4. Динамік: 52мм*2. Потужність: 5W*2. 5. Розміри: 210,5*94,5*94,5 мм. Вага: 693г. 6. Підтримка BT, FM, TF карт, USB, AUX, TWS та інших режимів.]]></description>
+<quantity_in_stock>2</quantity_in_stock>
+<param name="Бренд">Borofone</param>
+<param name="Аудіо товари">Портативні колонки</param>
+</offer>
 <offer id="ts000082854000030777" available="true">
 <url>https://kmt5.com.ua/portativna-kolonka-borofone-br20-red</url>
 <price>1303.0</price>
@@ -154992,6 +155106,31 @@
 <quantity_in_stock>198</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Студийное оборудование">Стабилизатор для телефона</param>
+</offer>
+<offer id="ts000078697" available="true">
+<url>https://kmt5.com.ua/live-broadcast-holder-hoco-k21</url>
+<price>609.0</price>
+<vendorprice>482.0</vendorprice>
+<vendorpricedoll>10.7</vendorpricedoll>
+<rrcdoll>13.54</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>67670974</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2QvZjMv0KYtMDAwMDc4Njk3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODUvOTQv0KYtMDAwMDc4Njk3XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2QvMTkv0KYtMDAwMDc4Njk3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjEvNDcv0KYtMDAwMDc4Njk3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWMvZTEv0KYtMDAwMDc4Njk3XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjEvODgv0KYtMDAwMDc4Njk3XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjIvZTMv0KYtMDAwMDc4Njk3XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjAvZWMv0KYtMDAwMDc4Njk3XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Hoco</vendor>
+<vendorCode>Ц-000078697</vendorCode>
+<code>778162</code>
+<name>Live Broadcast Holder — Hoco K21</name>
+<description><![CDATA[Материал: алюминиевый сплав + ABS Технология поверхности: солнечный ожог Размеры: 47x58x245 мм (развернутая высота 1,37 м); вес: 270 г Поддержка мобильных телефонов с диагональю 4,5-7,0 дюйма (диапазон захвата: 62-90 мм) Пульт дистанционного управления: подключение по Bluetooth 4.2 для съемки фотографий; емкость батареи: 55 мАч Поддержка функции PTZ Сценарии применения: прямые трансляции на улице и в помещении, фотография, селфи и т. д.]]></description>
+<quantity_in_stock>24</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Студийное оборудование">Штативы</param>
 </offer>
 <offer id="ts000077596000025731" available="true">
 <url>https://kmt5.com.ua/microphone-hoco-l14-ip-lavalier-black</url>
@@ -159197,22 +159336,6 @@
 <quantity_in_stock>11</quantity_in_stock>
 <param name="Бренд">Различные</param>
 </offer>
-<offer id="ts000083750" available="true">
-<url>https://kmt5.com.ua/derjatel-na-grud-dlya-telefona-i-ekshn-kamer-povorotnoe-5-v-1</url>
-<price>290.0</price>
-<vendorprice>149.0</vendorprice>
-<vendorpricedoll>3.3</vendorpricedoll>
-<rrcdoll>6.43</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>22618992</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWQvNjgv0KYtMDAwMDgzNzUwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000083750</vendorCode>
-<code>791082</code>
-<name>Держатель на грудь для телефона и экшн камер поворотное 5 в 1</name>
-<quantity_in_stock>3</quantity_in_stock>
-<param name="Бренд">Различные</param>
-</offer>
 <offer id="ts000083467" available="true">
 <url>https://kmt5.com.ua/derjatel-sheynyiy-dlya-smartfona-jmary-mg01</url>
 <price>739.0</price>
@@ -161188,28 +161311,6 @@
 <param name="Студийное оборудование">Кольцевые лампы</param>
 <param name="Количество светодиодов">168</param>
 <param name="Размер">30 cm</param>
-</offer>
-<offer id="ts000073784" available="true">
-<url>https://kmt5.com.ua/lampa-koltsevaya-led-45-cm-18-256-lights-touch-switch-rotary-switch-adapter-inside-of-light-ljj45</url>
-<price>1039.0</price>
-<vendorprice>734.0</vendorprice>
-<vendorpricedoll>16.3</vendorpricedoll>
-<rrcdoll>23.1</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>55912833</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDUvNGIv0KYtMDAwMDczNzg0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjkvODUv0KYtMDAwMDczNzg0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000073784</vendorCode>
-<code>756461</code>
-<name>Лампа Кольцевая LED (45 cm) 256 Lights Rotary Switch LJJ-45</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Различные</param>
-<param name="Кнопки управления">Дистанционный пульт</param>
-<param name="Студийное оборудование">Кольцевые лампы</param>
-<param name="Количество светодиодов">256</param>
-<param name="Размер">45 cm</param>
-<param name="Цвет">Black</param>
 </offer>
 <offer id="ts000073785" available="true">
 <url>https://kmt5.com.ua/lampa-koltsevaya-led-45-cm-18-ljj45-256pcs-lights-touch-switchadapter</url>
@@ -167805,6 +167906,28 @@
 <name>Беспроводной микрофон для телефона BOYA Mini-15</name>
 <description><![CDATA[Опис товару BOYA Mini — це компактний бездротовий мікрофон із чистим звуком, гнучкими налаштуваннями та креативними голосовими ефектами. Завдяки технології 2.4 GHz він забезпечує стабільну передачу сигналу на відстані до 100 м, гарантуючи якість звучання рівня CD-аудіо. Модель створена для блогерів, стрімерів, інтерв'юерів, викладачів та всіх, кому важливий чіткий і насичений звук у будь-яких умовах. Основні переваги 3-рівневе шумозаглушення BOYA Mini оснащений вбудованим DSP-чипом, який забезпечує три режими шумопригнічення — слабкий, середній та сильний. Одним натиском кнопки на приймачі ви можете адаптувати звук до вулиці, приміщення чи шумного заходу. 3 голосових ефекти Мікрофон має три режими зміни голосу — глибший, м’якіший або веселий. Ідеально підходить для стрімерів, контентмейкерів та геймерів. Перемикання режимів — подвійним кліком. Чистий звук без спотворень Роздільна здатність: 48 kHz / 16-bit Частотний діапазон: 20 Hz – 20 kHz Співвідношення сигнал/шум: 80 дБ Передавач оснащений лімітером, який захищає звук від кліпінгу та спотворень навіть при гучності до 120 dB SPL. Простота використання — Plug & Play Приймач підключається безпосередньо до пристрою без будь-яких налаштувань або програм. Мікрофон готовий до роботи миттєво — ідеально для новачків та професіоналів. Тривала автономність До 6 годин роботи одного передавача До 30 годин із зарядним кейсом Час заряду: 1.5 години Чудовий вибір для довгих ефірів, подорожей, подкастів та івентів. Комплектація 1× Приймач Type-C 2× Мікрофони 1× Зарядний кейс для мікрофонів 1× Картка-інструкція 1× Type-C кабель 1× Захисний чохол-мішечок]]></description>
 <quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">BOYA</param>
+<param name="Студийное оборудование">Микрофоны для телефона</param>
+</offer>
+<offer id="ts000082662" available="true">
+<url>https://kmt5.com.ua/besprovodnoy-mikrofon-dlya-telefona-boya-mini16</url>
+<price>2070.0</price>
+<vendorprice>1035.0</vendorprice>
+<vendorpricedoll>23.0</vendorpricedoll>
+<rrcdoll>46.03</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>89410283</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGEvYjYv0KYtMDAwMDgyNjYyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2YvZGUv0KYtMDAwMDgyNjYyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjgvNzYv0KYtMDAwMDgyNjYyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzgvYjcv0KYtMDAwMDgyNjYyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGEvYWQv0KYtMDAwMDgyNjYyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>BOYA</vendor>
+<vendorCode>Ц-000082662</vendorCode>
+<code>789000</code>
+<name>Беспроводной микрофон для телефона BOYA Mini-16</name>
+<description><![CDATA[Бездротовий мікрофон - це компактне і зручне рішення для запису звуку і трансляцій. Ідеально підходить для стрімів, відеоблогів, інтерв'ю, презентацій і багато чого іншого. Мікрофон забезпечує стабільну передачу, працює на частоті 2.4 ГГц і легко підключається. Створюйте, записуйте, діліться - з відмінним звуком у кожному кадрі! Особливості: Приймач має роз'єм Lightning. Працює на частоті 2.4 ГГц. Оснащений функціями автоматичного повторного підключення та вибіркового шумозаглушення. Шумозаглушення Al (3 рівні регулювання) для чистого звуку в будь-якій обстановці. Підходить для створення контенту, прямих трансляцій, мобільної журналістики та багато чого іншого. Забезпечує стабільну передачу сигналу на відстань до 100 м. Сполучення: передавач і приймач попередньо пов'язані, але якщо вони від'єднані, виконайте такі дії: натисніть і утримуйте кнопку NR на приймачі протягом 5 секунд, поки його індикатор не почне швидко блимати синім кольором, щоб увійти в режим сполучення; натисніть і утримуйте кнопку живлення на передавачі протягом 5 секунд у режимі вимкнення, поки його індикатор не почне швидко блимати синім кольором, щоб увійти в режим сполучення; передавач і приймач успішно пов'язані між собою, коли їхні індикатори спалахують статичним синім кольором. Характеристики: Колір: чорний. Час роботи від акумулятора: близько 6 год. Відстань передачі: до 100 м. Комплектація: Мікрофон. Приймач. Магнітний зарядний кабель. Сумка для перенесення.]]></description>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Бренд">BOYA</param>
 <param name="Студийное оборудование">Микрофоны для телефона</param>
 </offer>
