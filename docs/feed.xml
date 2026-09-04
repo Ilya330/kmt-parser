@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-04 07:28">
+<yml_catalog date="2026-09-04 13:00">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -80817,6 +80817,27 @@
 <param name="Бренд">Apple HQ</param>
 <param name="Материал">Силикон</param>
 </offer>
+<offer id="ts000081428000029864" available="true">
+<url>https://kmt5.com.ua/original-silicone-case-hc-with-magsafe-iphone-12-black-18</url>
+<price>189.0</price>
+<vendorprice>113.0</vendorprice>
+<vendorpricedoll>2.5</vendorpricedoll>
+<rrcdoll>4.19</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>36174719</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGIvMmQv0KYtMDAwMDgxNDI4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTQvOWIv0KYtMDAwMDgxNDI4XzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<vendor>Apple HQ</vendor>
+<vendorCode>Ц-000081428</vendorCode>
+<code>787019</code>
+<name>Silicone Case HC with MagSafe — iPhone 12 — Black (18)</name>
+<quantity_in_stock>3</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 12 6.1&quot;</param>
+<param name="Бренд">Apple HQ</param>
+<param name="Материал">Силикон</param>
+</offer>
 <offer id="ts000081428000029872" available="true">
 <url>https://kmt5.com.ua/original-silicone-case-hc-with-magsafe-iphone-12-light-purple</url>
 <price>189.0</price>
@@ -81851,27 +81872,6 @@
 <code>787094</code>
 <name>Silicone Case HC with MagSafe — iPhone 16 Pro — Light Purple</name>
 <quantity_in_stock>21</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 16 Pro</param>
-<param name="Бренд">Apple HQ</param>
-<param name="Материал">Силикон</param>
-</offer>
-<offer id="ts000081437000029935" available="true">
-<url>https://kmt5.com.ua/original-silicone-case-hc-with-magsafe-iphone-16-pro-lilac-76</url>
-<price>189.0</price>
-<vendorprice>113.0</vendorprice>
-<vendorpricedoll>2.5</vendorpricedoll>
-<rrcdoll>4.19</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>60652165</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTAvMjMv0KYtMDAwMDgxNDM3XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODQvYzcv0KYtMDAwMDgxNDM3XzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Apple HQ</vendor>
-<vendorCode>Ц-000081437</vendorCode>
-<code>787099</code>
-<name>Silicone Case HC with MagSafe — iPhone 16 Pro — Lilac (76)</name>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16 Pro</param>
@@ -84898,31 +84898,6 @@
 <param name="Модель девайса">Apple iPhone 14 6.1&quot;</param>
 <param name="Бренд">Apple</param>
 <param name="Материал">Полиуретан</param>
-</offer>
-<offer id="ts000082372000030366" available="true">
-<url>https://kmt5.com.ua/skin-pro-case-samsung-a16-5g4g-black</url>
-<price>239.0</price>
-<vendorprice>135.0</vendorprice>
-<vendorpricedoll>3.0</vendorpricedoll>
-<rrcdoll>5.31</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>90750134</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmYvYTkv0KYtMDAwMDgyMzcyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTAvYWIv0KYtMDAwMDgyMzcyXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTEvOTgv0KYtMDAwMDgyMzcyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmQvYTkv0KYtMDAwMDgyMzcyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjMvMDQv0KYtMDAwMDgyMzcyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Dux Ducis</vendor>
-<vendorCode>Ц-000082372</vendorCode>
-<code>788436</code>
-<name>Skin Pro Case — Samsung A16 5G/4G  — Black</name>
-<quantity_in_stock>3</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Samsung</param>
-<param name="Модель девайса">Samsung A16 5G</param>
-<param name="Бренд">Dux Ducis</param>
-<param name="Материал">Пластик &amp; TPU</param>
-<param name="Цвет">Mix Color</param>
 </offer>
 <offer id="ts000082372000030367" available="true">
 <url>https://kmt5.com.ua/skin-pro-case-samsung-a16-5g4g-rose</url>
@@ -108564,31 +108539,6 @@
 <param name="Бренд">Dux Ducis</param>
 <param name="Материал">Полиуретан</param>
 </offer>
-<offer id="ts000082392000030384" available="true">
-<url>https://kmt5.com.ua/yind-case-with-magsafe-samsung-s25-black-93635</url>
-<price>319.0</price>
-<vendorprice>178.0</vendorprice>
-<vendorpricedoll>3.95</vendorpricedoll>
-<rrcdoll>7.08</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>43902800</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWQvYjMv0KYtMDAwMDgyMzkyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjEvNmIv0KYtMDAwMDgyMzkyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjAvZDMv0KYtMDAwMDgyMzkyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmIvZjAv0KYtMDAwMDgyMzkyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjEvMjQv0KYtMDAwMDgyMzkyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDcvY2Qv0KYtMDAwMDgyMzkyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Dux Ducis</vendor>
-<vendorCode>Ц-000082392</vendorCode>
-<code>788474</code>
-<name>Yind Case With Magsafe — Samsung S25  — Black</name>
-<quantity_in_stock>6</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Samsung</param>
-<param name="Модель девайса">Samsung S25</param>
-<param name="Бренд">Dux Ducis</param>
-<param name="Материал">Полиуретан</param>
-</offer>
 <offer id="ts000083162000031108" available="true">
 <url>https://kmt5.com.ua/yind-case-with-magsafe-samsung-s26-black</url>
 <price>309.0</price>
@@ -112279,27 +112229,6 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Macbook Air 15 A2941</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Силикон</param>
-</offer>
-<offer id="ts000072494000021950" available="true">
-<url>https://kmt5.com.ua/protective-case-ipad-mini-2-retina-13-a1425a1502-white</url>
-<price>377.0</price>
-<vendorprice>266.0</vendorprice>
-<vendorpricedoll>5.9</vendorpricedoll>
-<rrcdoll>8.38</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>61259600</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGMvZWQv0KYtMDAwMDcyNDk0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzYvYjEv0KYtMDAwMDcyNDk0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000072494</vendorCode>
-<code>753300</code>
-<name>Protective Case Macbook Retina 13'' A1425 ; A1502 — White</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Macbook Retina 13 '</param>
 <param name="Бренд">Apple</param>
 <param name="Материал">Силикон</param>
 </offer>
@@ -174636,27 +174565,6 @@
 <code>771575</code>
 <name>Ремінець Milanese Loop Xiaomi Mi Band 8 ; 9 — Colorfull</name>
 <quantity_in_stock>14</quantity_in_stock>
-<param name="Марка">Xiaomi</param>
-<param name="Модель девайса">Xiaomi Mi Band 8, Xiaomi Mi Band 9</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Металл</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
-<offer id="ts000075980000024758" available="true">
-<url>https://kmt5.com.ua/remnets-milanese-loop-xiaomi-mi-band-8-silver</url>
-<price>173.0</price>
-<vendorprice>88.0</vendorprice>
-<vendorpricedoll>1.95</vendorpricedoll>
-<rrcdoll>3.83</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>93183730</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2QvNGIv0KYtMDAwMDc1OTgwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2YvMjYv0KYtMDAwMDc1OTgwXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000075980</vendorCode>
-<code>771573</code>
-<name>Ремінець Milanese Loop Xiaomi Mi Band 8 ; 9 — Silver</name>
-<quantity_in_stock>10</quantity_in_stock>
 <param name="Марка">Xiaomi</param>
 <param name="Модель девайса">Xiaomi Mi Band 8, Xiaomi Mi Band 9</param>
 <param name="Бренд">Различные</param>
