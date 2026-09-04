@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-04 13:00">
+<yml_catalog date="2026-09-04 17:53">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -110363,28 +110363,6 @@
 <code>755342</code>
 <name>Сумка 13.3'' WiWU Skin Pro II Bag — Green</name>
 <quantity_in_stock>60</quantity_in_stock>
-<param name="Форм фактор">Сумка</param>
-<param name="Бренд">Wiwu</param>
-<param name="Материал">Ткань</param>
-</offer>
-<offer id="ts000072897000023156" available="true">
-<url>https://kmt5.com.ua/sumka-133-wiwu-skin-pro-ii-bag-pink</url>
-<price>1288.0</price>
-<vendorprice>716.0</vendorprice>
-<vendorpricedoll>15.9</vendorpricedoll>
-<rrcdoll>28.62</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>71284098</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWYvMmEv0KYtMDAwMDcyODk3XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzgvYTIv0KYtMDAwMDcyODk3XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGEvZDQv0KYtMDAwMDcyODk3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDAvZWQv0KYtMDAwMDcyODk3XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmMvODUv0KYtMDAwMDcyODk3XzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Wiwu</vendor>
-<vendorCode>Ц-000072897</vendorCode>
-<code>755344</code>
-<name>Сумка 13.3'' WiWU Skin Pro II Bag — Pink</name>
-<quantity_in_stock>38</quantity_in_stock>
 <param name="Форм фактор">Сумка</param>
 <param name="Бренд">Wiwu</param>
 <param name="Материал">Ткань</param>
