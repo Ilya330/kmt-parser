@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-05 12:11">
+<yml_catalog date="2026-09-05 17:00">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -274,6 +274,9 @@
 <category id="4979007" parentId="3222">Штатив консольний</category>
 <category id="29251914" parentId="3222">Штативи</category>
 <category id="72282945" parentId="3222">Штативи триподи</category>
+<category id="2113882">Чохли</category>
+<category id="37750228" parentId="2113882">Apple</category>
+<category id="28366547" parentId="37750228">iPhone 17 Series</category>
 <category id="18921163">Чохли для навушників</category>
 <category id="25114232" parentId="18921163">Airpods 1/2</category>
 <category id="39278904" parentId="18921163">Airpods 3</category>
@@ -69864,6 +69867,27 @@
 <param name="Бренд">Polo</param>
 <param name="Материал">PU кожа</param>
 </offer>
+<offer id="ts000082195000030288" available="true">
+<url>https://kmt5.com.ua/polo-aristo-leather-case-iphone-17-pro-max-titanium-grey</url>
+<price>923.0</price>
+<vendorprice>558.0</vendorprice>
+<vendorpricedoll>12.4</vendorpricedoll>
+<rrcdoll>20.52</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>28366547</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWUvMmYv0KYtMDAwMDgyMTk1XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjkvMDEv0KYtMDAwMDgyMTk1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Polo</vendor>
+<vendorCode>Ц-000082195</vendorCode>
+<code>788185</code>
+<name>Polo Aristo Leather Case iPhone 17 Pro Max — Titanium Grey</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 17 Pro Max</param>
+<param name="Бренд">Polo</param>
+<param name="Материал">PU кожа</param>
+</offer>
 <offer id="ts000082194000030283" available="true">
 <url>https://kmt5.com.ua/polo-aristo-leather-case-iphone-17-pro-black</url>
 <price>923.0</price>
@@ -69951,6 +69975,31 @@
 <code>789735</code>
 <name>Polo Augus Silicone Case with Magsafe iPhone 17 Pro — Grey</name>
 <quantity_in_stock>1</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 17 Pro</param>
+<param name="Бренд">Polo</param>
+<param name="Материал">Силикон</param>
+</offer>
+<offer id="ts000083013000031037" available="true">
+<url>https://kmt5.com.ua/polo-augus-silicone-case-with-magsafe-iphone-17-pro-navy-blue</url>
+<price>765.0</price>
+<vendorprice>441.0</vendorprice>
+<vendorpricedoll>9.8</vendorpricedoll>
+<rrcdoll>17.0</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>54622491</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDQvMjMv0KYtMDAwMDgzMDEzXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTAvZGIv0KYtMDAwMDgzMDEzXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjkvZTcv0KYtMDAwMDgzMDEzXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWIvYjMv0KYtMDAwMDgzMDEzXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTAvODYv0KYtMDAwMDgzMDEzXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTUvMGYv0KYtMDAwMDgzMDEzXzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<vendor>Polo</vendor>
+<vendorCode>Ц-000083013</vendorCode>
+<code>789736</code>
+<name>Polo Augus Silicone Case with Magsafe iPhone 17 Pro — Navy Blue</name>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro</param>
@@ -70501,6 +70550,27 @@
 <param name="Бренд">Polo</param>
 <param name="Материал">PU кожа</param>
 </offer>
+<offer id="ts000080058000028195" available="true">
+<url>https://kmt5.com.ua/polo-knight-leather-case-iphone-16-pro-max-titanium-grey</url>
+<price>722.0</price>
+<vendorprice>437.0</vendorprice>
+<vendorpricedoll>9.7</vendorpricedoll>
+<rrcdoll>16.05</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>60652165</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmEvZGYv0KYtMDAwMDgwMDU4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmMvYjAv0KYtMDAwMDgwMDU4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Polo</vendor>
+<vendorCode>Ц-000080058</vendorCode>
+<code>781680</code>
+<name>Polo Knight Leather Case iPhone 16 Pro Max — Titanium Grey</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 16 Pro Max</param>
+<param name="Бренд">Polo</param>
+<param name="Материал">PU кожа</param>
+</offer>
 <offer id="ts000080057000028192" available="true">
 <url>https://kmt5.com.ua/polo-knight-leather-case-iphone-16-pro-black</url>
 <price>722.0</price>
@@ -70585,6 +70655,31 @@
 <param name="Бренд">Polo</param>
 <param name="Материал">PU кожа</param>
 </offer>
+<offer id="ts000082180000030258" available="true">
+<url>https://kmt5.com.ua/polo-knight-leather-case-iphone-17-pro-black</url>
+<price>780.0</price>
+<vendorprice>441.0</vendorprice>
+<vendorpricedoll>9.8</vendorpricedoll>
+<rrcdoll>17.34</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>28366547</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjgvNDAv0KYtMDAwMDgyMTgwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzYvNjIv0KYtMDAwMDgyMTgwXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjcvNjAv0KYtMDAwMDgyMTgwXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmIvMzcv0KYtMDAwMDgyMTgwXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzUvMzgv0KYtMDAwMDgyMTgwXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDcvN2Uv0KYtMDAwMDgyMTgwXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Polo</vendor>
+<vendorCode>Ц-000082180</vendorCode>
+<code>788140</code>
+<name>Polo Knight Leather Case iPhone 17 Pro — Black</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 17 Pro</param>
+<param name="Бренд">Polo</param>
+<param name="Материал">PU кожа</param>
+</offer>
 <offer id="ts000082180000030259" available="true">
 <url>https://kmt5.com.ua/polo-knight-leather-case-iphone-17-pro-titanium-grey</url>
 <price>780.0</price>
@@ -70609,6 +70704,51 @@
 <param name="Модель девайса">Apple iPhone 17 Pro</param>
 <param name="Бренд">Polo</param>
 <param name="Материал">PU кожа</param>
+</offer>
+<offer id="ts000082179000030257" available="true">
+<url>https://kmt5.com.ua/polo-knight-leather-case-iphone-17-titanium-grey</url>
+<price>814.0</price>
+<vendorprice>482.0</vendorprice>
+<vendorpricedoll>10.7</vendorpricedoll>
+<rrcdoll>18.1</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>54622491</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDAvZWMv0KYtMDAwMDgyMTc5XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWIvYjIv0KYtMDAwMDgyMTc5XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGMvZjcv0KYtMDAwMDgyMTc5XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDgvMmMv0KYtMDAwMDgyMTc5XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWEvNjcv0KYtMDAwMDgyMTc5XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWEvMDIv0KYtMDAwMDgyMTc5XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Polo</vendor>
+<vendorCode>Ц-000082179</vendorCode>
+<code>788138</code>
+<name>Polo Knight Leather Case iPhone 17 — Titanium Grey</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 17</param>
+<param name="Бренд">Polo</param>
+<param name="Материал">PU кожа</param>
+</offer>
+<offer id="ts000083016000031043" available="true">
+<url>https://kmt5.com.ua/polo-kyle-leather-case-with-magsafe-iphone-17-pro-max-navy-blue</url>
+<price>1210.0</price>
+<vendorprice>698.0</vendorprice>
+<vendorpricedoll>15.5</vendorpricedoll>
+<rrcdoll>26.9</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>54622491</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODIvYzkv0KYtMDAwMDgzMDE2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Polo</vendor>
+<vendorCode>Ц-000083016</vendorCode>
+<code>789745</code>
+<name>Polo Kyle Leather Case with Magsafe iPhone 17 Pro Max — Navy Blue</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 17 Pro Max</param>
+<param name="Бренд">Polo</param>
+<param name="Материал">Силикон</param>
 </offer>
 <offer id="ts000083016000031044" available="true">
 <url>https://kmt5.com.ua/polo-kyle-leather-case-with-magsafe-iphone-17-pro-max-orange</url>
@@ -71043,6 +71183,27 @@
 <param name="Бренд">Polo</param>
 <param name="Материал">PU кожа</param>
 </offer>
+<offer id="ts000082193000030281" available="true">
+<url>https://kmt5.com.ua/polo-paris-gentleman-leather-case-iphone-17-pro-max-shoulder-bag</url>
+<price>849.0</price>
+<vendorprice>513.0</vendorprice>
+<vendorpricedoll>11.4</vendorpricedoll>
+<rrcdoll>18.87</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>28366547</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjIvZjUv0KYtMDAwMDgyMTkzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmQvMmQv0KYtMDAwMDgyMTkzXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Polo</vendor>
+<vendorCode>Ц-000082193</vendorCode>
+<code>788176</code>
+<name>Polo Paris Gentleman Leather Case iPhone 17 Pro Max — Shoulder Bag</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 17 Pro Max</param>
+<param name="Бренд">Polo</param>
+<param name="Материал">PU кожа</param>
+</offer>
 <offer id="ts000082192000030279" available="true">
 <url>https://kmt5.com.ua/polo-paris-gentleman-leather-case-iphone-17-pro-bag</url>
 <price>849.0</price>
@@ -71082,6 +71243,31 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro</param>
+<param name="Бренд">Polo</param>
+<param name="Материал">PU кожа</param>
+</offer>
+<offer id="ts000082178000030254" available="true">
+<url>https://kmt5.com.ua/polo-primo-leather-case-iphone-17-pro-max-black</url>
+<price>974.0</price>
+<vendorprice>576.0</vendorprice>
+<vendorpricedoll>12.8</vendorpricedoll>
+<rrcdoll>21.65</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>54622491</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2IvN2Iv0KYtMDAwMDgyMTc4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjIvM2Mv0KYtMDAwMDgyMTc4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDUvNjMv0KYtMDAwMDgyMTc4XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzEvZjQv0KYtMDAwMDgyMTc4XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjAvMzYv0KYtMDAwMDgyMTc4XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTQvOTMv0KYtMDAwMDgyMTc4XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Polo</vendor>
+<vendorCode>Ц-000082178</vendorCode>
+<code>788134</code>
+<name>Polo Primo Leather Case iPhone 17 Pro Max — Black</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 17 Pro Max</param>
 <param name="Бренд">Polo</param>
 <param name="Материал">PU кожа</param>
 </offer>
@@ -71132,6 +71318,57 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro</param>
+<param name="Бренд">Polo</param>
+<param name="Материал">PU кожа</param>
+</offer>
+<offer id="ts000082177000030253" available="true">
+<url>https://kmt5.com.ua/polo-primo-leather-case-iphone-17-pro-titanium-grey</url>
+<price>974.0</price>
+<vendorprice>576.0</vendorprice>
+<vendorpricedoll>12.8</vendorpricedoll>
+<rrcdoll>21.65</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>54622491</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmUvMDIv0KYtMDAwMDgyMTc3XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmEvNTQv0KYtMDAwMDgyMTc3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWEvMjcv0KYtMDAwMDgyMTc3XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjIvYzAv0KYtMDAwMDgyMTc3XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjcvYTQv0KYtMDAwMDgyMTc3XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmMvY2Qv0KYtMDAwMDgyMTc3XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Polo</vendor>
+<vendorCode>Ц-000082177</vendorCode>
+<code>788132</code>
+<name>Polo Primo Leather Case iPhone 17 Pro — Titanium Grey</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 17 Pro</param>
+<param name="Бренд">Polo</param>
+<param name="Материал">PU кожа</param>
+</offer>
+<offer id="ts000082176000030251" available="true">
+<url>https://kmt5.com.ua/polo-primo-leather-case-iphone-17-black</url>
+<price>974.0</price>
+<vendorprice>576.0</vendorprice>
+<vendorpricedoll>12.8</vendorpricedoll>
+<rrcdoll>21.65</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>54622491</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWMvZmMv0KYtMDAwMDgyMTc2XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTcvNzYv0KYtMDAwMDgyMTc2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWYvMjgv0KYtMDAwMDgyMTc2XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjIvZjUv0KYtMDAwMDgyMTc2XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjcvOTkv0KYtMDAwMDgyMTc2XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTMvN2Mv0KYtMDAwMDgyMTc2XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODQvOTQv0KYtMDAwMDgyMTc2XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Polo</vendor>
+<vendorCode>Ц-000082176</vendorCode>
+<code>788129</code>
+<name>Polo Primo Leather Case iPhone 17 — Black</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 17</param>
 <param name="Бренд">Polo</param>
 <param name="Материал">PU кожа</param>
 </offer>
@@ -71377,6 +71614,27 @@
 <param name="Бренд">Polo</param>
 <param name="Материал">PU кожа</param>
 </offer>
+<offer id="ts000082191000030278" available="true">
+<url>https://kmt5.com.ua/polo-san-francisco-fortune-leather-case-iphone-17-pro-max-bay-area-player</url>
+<price>860.0</price>
+<vendorprice>486.0</vendorprice>
+<vendorpricedoll>10.8</vendorpricedoll>
+<rrcdoll>19.11</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>28366547</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDIvNmIv0KYtMDAwMDgyMTkxXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzUvMzQv0KYtMDAwMDgyMTkxXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Polo</vendor>
+<vendorCode>Ц-000082191</vendorCode>
+<code>788171</code>
+<name>Polo San Francisco Fortune Leather Case iPhone 17 Pro Max — Bay Area Player</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 17 Pro Max</param>
+<param name="Бренд">Polo</param>
+<param name="Материал">PU кожа</param>
+</offer>
 <offer id="ts000082191000030277" available="true">
 <url>https://kmt5.com.ua/polo-san-francisco-fortune-leather-case-iphone-17-pro-max-golden-state-bear</url>
 <price>860.0</price>
@@ -71525,6 +71783,26 @@
 <param name="Бренд">Polo</param>
 <param name="Материал">PU кожа</param>
 </offer>
+<offer id="ts000083020000031050" available="true">
+<url>https://kmt5.com.ua/polo-simon-leather-case-with-magsafe-iphone-17-pro-beige</url>
+<price>916.0</price>
+<vendorprice>518.0</vendorprice>
+<vendorpricedoll>11.5</vendorpricedoll>
+<rrcdoll>20.35</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>54622491</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWMvOTYv0KYtMDAwMDgzMDIwXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Polo</vendor>
+<vendorCode>Ц-000083020</vendorCode>
+<code>789756</code>
+<name>Polo Simon Leather Case with Magsafe iPhone 17 Pro — Beige</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 17 Pro</param>
+<param name="Бренд">Polo</param>
+<param name="Материал">PU кожа</param>
+</offer>
 <offer id="ts000083020000031051" available="true">
 <url>https://kmt5.com.ua/polo-simon-leather-case-with-magsafe-iphone-17-pro-black</url>
 <price>916.0</price>
@@ -71585,6 +71863,30 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17</param>
+<param name="Бренд">Polo</param>
+<param name="Материал">Силикон</param>
+</offer>
+<offer id="ts000083018000031046" available="true">
+<url>https://kmt5.com.ua/polo-solara-silicone-case-with-magsafe-iphone-17-pro-black</url>
+<price>820.0</price>
+<vendorprice>473.0</vendorprice>
+<vendorpricedoll>10.5</vendorpricedoll>
+<rrcdoll>18.22</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>28366547</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzMvZWMv0KYtMDAwMDgzMDE4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGUvZDkv0KYtMDAwMDgzMDE4XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGQvYjEv0KYtMDAwMDgzMDE4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzQvYWEv0KYtMDAwMDgzMDE4XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGQvZDMv0KYtMDAwMDgzMDE4XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Polo</vendor>
+<vendorCode>Ц-000083018</vendorCode>
+<code>789750</code>
+<name>Polo Solara Silicone Case with Magsafe iPhone 17 Pro — Black</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 17 Pro</param>
 <param name="Бренд">Polo</param>
 <param name="Материал">Силикон</param>
 </offer>
@@ -107765,28 +108067,6 @@
 <param name="Бренд">Apple</param>
 <param name="Материал">Силикон</param>
 </offer>
-<offer id="ts000084036" available="true">
-<url>https://kmt5.com.ua/wave-case-with-magsafe-iphone-17-pro-max-brown</url>
-<price>283.0</price>
-<vendorprice>158.0</vendorprice>
-<vendorpricedoll>3.5</vendorpricedoll>
-<rrcdoll>6.29</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54622491</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjcvYTIv0KYtMDAwMDg0MDM2XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDYvYjEv0KYtMDAwMDg0MDM2XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzcvNTgv0KYtMDAwMDg0MDM2XzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000084036</vendorCode>
-<code>791629</code>
-<name>Wave Case with MagSafe iPhone 17 Pro Max — Brown</name>
-<quantity_in_stock>4</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro Max</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Силикон</param>
-</offer>
 <offer id="ts000084036000031935" available="true">
 <url>https://kmt5.com.ua/wave-case-with-magsafe-iphone-17-pro-max-grey</url>
 <price>283.0</price>
@@ -107802,27 +108082,6 @@
 <code>791625</code>
 <name>Wave Case with MagSafe iPhone 17 Pro Max — Grey</name>
 <quantity_in_stock>7</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro Max</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Силикон</param>
-</offer>
-<offer id="ts000084036-96080" available="true">
-<url>https://kmt5.com.ua/wave-case-with-magsafe-iphone-17-pro-max-lavander</url>
-<price>283.0</price>
-<vendorprice>158.0</vendorprice>
-<vendorpricedoll>3.5</vendorpricedoll>
-<rrcdoll>6.29</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54622491</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDkvNjUv0KYtMDAwMDg0MDM2XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDYvYjEv0KYtMDAwMDg0MDM2XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000084036</vendorCode>
-<code>791628</code>
-<name>Wave Case with MagSafe iPhone 17 Pro Max — Lavander</name>
-<quantity_in_stock>2</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max</param>
@@ -107865,28 +108124,6 @@
 <code>791626</code>
 <name>Wave Case with MagSafe iPhone 17 Pro Max — Sand</name>
 <quantity_in_stock>3</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro Max</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Силикон</param>
-</offer>
-<offer id="ts000084036-96084" available="true">
-<url>https://kmt5.com.ua/wave-case-with-magsafe-iphone-17-pro-max-white</url>
-<price>283.0</price>
-<vendorprice>158.0</vendorprice>
-<vendorpricedoll>3.5</vendorpricedoll>
-<rrcdoll>6.29</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54622491</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDgvNDQv0KYtMDAwMDg0MDM2XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDYvYjEv0KYtMDAwMDg0MDM2XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTMvM2Ev0KYtMDAwMDg0MDM2XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000084036</vendorCode>
-<code>791630</code>
-<name>Wave Case with MagSafe iPhone 17 Pro Max — White</name>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max</param>
@@ -146066,27 +146303,6 @@
 <name>Дротова миша — Hoco GM37 — Black</name>
 <description><![CDATA[Материал: ABS+PC 2. Размер: 110 * 62 * 40 мм; Вес: 76 г 3. Схема: Ernst; Чип: A582 4. Метод подключения: USB-проводной 5. Четырехскоростной DPI: 800-1200-1600-2400 (то же, что и CPI) 6. Количество кнопок: 4 7. Оснащен цветной дышащей подсветкой]]></description>
 <quantity_in_stock>50</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Компьютерные аксессуары">Компьютерные мыши</param>
-</offer>
-<offer id="ts000080881000029511" available="true">
-<url>https://kmt5.com.ua/drotova-misha-hoco-gm37-white</url>
-<price>254.0</price>
-<vendorprice>135.0</vendorprice>
-<vendorpricedoll>2.98</vendorpricedoll>
-<rrcdoll>5.64</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>48368747</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmIvMTAv0KYtMDAwMDgwODgxXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzkvMGUv0KYtMDAwMDgwODgxXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODcvOWQv0KYtMDAwMDgwODgxXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDgvZTUv0KYtMDAwMDgwODgxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000080881</vendorCode>
-<code>786123</code>
-<name>Дротова миша — Hoco GM37 — White</name>
-<description><![CDATA[Материал: ABS+PC 2. Размер: 110 * 62 * 40 мм; Вес: 76 г 3. Схема: Ernst; Чип: A582 4. Метод подключения: USB-проводной 5. Четырехскоростной DPI: 800-1200-1600-2400 (то же, что и CPI) 6. Количество кнопок: 4 7. Оснащен цветной дышащей подсветкой]]></description>
-<quantity_in_stock>8</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Компьютерные аксессуары">Компьютерные мыши</param>
 </offer>
