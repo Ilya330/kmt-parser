@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-04 17:53">
+<yml_catalog date="2026-09-05 07:10">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -161507,28 +161507,6 @@
 <param name="Размер">46 cm</param>
 <param name="Цвет">Black</param>
 </offer>
-<offer id="ts000069277" available="true">
-<url>https://kmt5.com.ua/lampa-koltsevaya-led-46-cm-18-rl18-bez-shtativa-416-pcs-lights</url>
-<price>1650.0</price>
-<vendorprice>1120.0</vendorprice>
-<vendorpricedoll>24.9</vendorpricedoll>
-<rrcdoll>36.67</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>55912833</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDcvNTUv0KYtMDAwMDY5Mjc3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWIvYmMv0KYtMDAwMDY5Mjc3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000069277</vendorCode>
-<code>737341</code>
-<name>Лампа Кольцевая LED RL-18 Original 46 cm  55w | 416 Lights | Remote I 3m cable with plug  I 3 holder I</name>
-<description><![CDATA[Лампа LED " RL-18 " обеспечивает равномерный свет без мерцания. Диметр кольца 46 см, этого достаточно, чтобы равномерно осветить все необходимые объекты. Лампа работает от сети 220 В. Во время длительной работы не нагревается. Есть возможность закрепить сразу 3 смартфона для съёмки. Лампа подойдет для салонов красоты, фотографов, блогеров. В комплект входит: лампа, пульт управления, шнур питания, держатели для смартфона.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Бренд">Различные</param>
-<param name="Кнопки управления">Дистанционный пульт</param>
-<param name="Студийное оборудование">Кольцевые лампы</param>
-<param name="Количество светодиодов">416</param>
-<param name="Размер">46 cm</param>
-</offer>
 <offer id="ts000081121" available="true">
 <url>https://kmt5.com.ua/lampa-koltsevaya-led-rgb18-original-46-cm-18-416-lights</url>
 <price>1879.0</price>
@@ -189796,6 +189774,31 @@
 <param name="Бренд">Hoco</param>
 <param name="Автоаксессуары">Автотримачі</param>
 </offer>
+<offer id="ts000077431000025579" available="true">
+<url>https://kmt5.com.ua/car-holder-hoco-ca120-prospering-center-console-for-tablets-black</url>
+<price>310.0</price>
+<vendorprice>189.0</vendorprice>
+<vendorpricedoll>4.2</vendorpricedoll>
+<rrcdoll>6.88</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>29376332</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzcvNTUv0KYtMDAwMDc3NDMxXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGQvOWEv0KYtMDAwMDc3NDMxXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTAvNDIv0KYtMDAwMDc3NDMxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2QvYzcv0KYtMDAwMDc3NDMxXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTYvMDIv0KYtMDAwMDc3NDMxXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTEvOWMv0KYtMDAwMDc3NDMxXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWIvODEv0KYtMDAwMDc3NDMxXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDYvYjYv0KYtMDAwMDc3NDMxXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Hoco</vendor>
+<vendorCode>Ц-000077431</vendorCode>
+<code>774101</code>
+<name>Car Holder — Hoco CA120 Prospering center console  for tablets — Black</name>
+<description><![CDATA[«1. Материал: АБС+силикагель. 2. Технология поверхности: загар 3. Размер: 104*155*75 мм; Вес: 216 г 4. Подходит для мобильных телефонов и планшетов с диагональю 4,7–10,5 дюймов (диапазон ширины: 108–245 мм). 5. Применимый сценарий: центральная консоль».]]></description>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Автоаксессуары">Автотримачі</param>
+</offer>
 <offer id="ts000077441000025589" available="true">
 <url>https://kmt5.com.ua/car-holder-hoco-ca83-david-onebutton-center-console-black</url>
 <price>206.0</price>
@@ -191456,32 +191459,6 @@
 <code>774121</code>
 <name>Car Holder Hoco H18 Mighty one-button (air outlet) — black</name>
 <quantity_in_stock>128</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Автоаксессуары">Автотримачі</param>
-</offer>
-<offer id="ts000077459000025608" available="true">
-<url>https://kmt5.com.ua/car-holder-hoco-h8-general-air-outlet-black</url>
-<price>197.0</price>
-<vendorprice>117.0</vendorprice>
-<vendorpricedoll>2.6</vendorpricedoll>
-<rrcdoll>4.36</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>29376332</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDYvMGUv0KYtMDAwMDc3NDU5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGYvNGMv0KYtMDAwMDc3NDU5XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjQvYmUv0KYtMDAwMDc3NDU5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTEvZDQv0KYtMDAwMDc3NDU5XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWYvYmIv0KYtMDAwMDc3NDU5XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzgvNDgv0KYtMDAwMDc3NDU5XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjkvZTMv0KYtMDAwMDc3NDU5XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWMvNWIv0KYtMDAwMDc3NDU5XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODgvMmMv0KYtMDAwMDc3NDU5XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000077459</vendorCode>
-<code>774130</code>
-<name>Car Holder Hoco H8 General (air outlet) __ — black</name>
-<description><![CDATA[«1. Материал: АБС+ПУ+силикон. 2. Технология поверхности: солнечный рисунок. 3. Размер: 70*107*110 мм 4. Вес: 81 г. 5. Подходит для мобильных телефонов 4,7-7 дюймов (диапазон ширины патрона: 54-90 мм) 6. Применимое крепление: воздуховыпускное отверстие автомобиля».]]></description>
-<quantity_in_stock>3</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Автоаксессуары">Автотримачі</param>
 </offer>
