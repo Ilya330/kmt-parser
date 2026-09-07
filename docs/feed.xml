@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-06 17:24">
+<yml_catalog date="2026-09-07 07:37">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -22426,27 +22426,6 @@
 <param name="Бренд">Benks</param>
 <param name="Материал">Карбон &amp; Силикон</param>
 </offer>
-<offer id="ts000084139" available="true">
-<url>https://kmt5.com.ua/benks-armortint-kevlar-case-samsung-s26-ultra</url>
-<price>1990.0</price>
-<vendorprice>1260.0</vendorprice>
-<vendorpricedoll>28.0</vendorpricedoll>
-<rrcdoll>44.25</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>43902800</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDcvYzkv0KYtMDAwMDg0MTM5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjAvN2Yv0KYtMDAwMDg0MTM5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Benks</vendor>
-<vendorCode>Ц-000084139</vendorCode>
-<code>791900</code>
-<name>Benks ArmorTint kevlar case — Samsung S26 Ultra</name>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Samsung</param>
-<param name="Модель девайса">Samsung S26 Ultra</param>
-<param name="Бренд">Benks</param>
-<param name="Материал">Карбон &amp; Силикон</param>
-</offer>
 <offer id="ts000084134000032109" available="true">
 <url>https://kmt5.com.ua/benks-lucid-armor-magnetic-case-iphone-17-pro-max-blue</url>
 <price>600.0</price>
@@ -22620,27 +22599,6 @@
 <param name="Бренд">Benks</param>
 <param name="Материал">Поликарбонат &amp; Силикон</param>
 </offer>
-<offer id="ts000080605" available="true">
-<url>https://kmt5.com.ua/black-hybrid-case-with-magsafe-iphone-11</url>
-<price>188.0</price>
-<vendorprice>113.0</vendorprice>
-<vendorpricedoll>2.5</vendorpricedoll>
-<rrcdoll>4.16</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>32288668</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTQvOGUv0KYtMDAwMDgwNjA1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGEvMjIv0KYtMDAwMDgwNjA1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000080605</vendorCode>
-<code>785208</code>
-<name>Black Hybrid Case With MagSafe — iPhone 11</name>
-<quantity_in_stock>5</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 11</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Полиуретан</param>
-</offer>
 <offer id="ts000080607" available="true">
 <url>https://kmt5.com.ua/black-hybrid-case-with-magsafe-iphone-11-pro</url>
 <price>188.0</price>
@@ -22659,27 +22617,6 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 11 Pro</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Полиуретан</param>
-</offer>
-<offer id="ts000080608" available="true">
-<url>https://kmt5.com.ua/black-hybrid-case-with-magsafe-iphone-11-pro-max</url>
-<price>188.0</price>
-<vendorprice>113.0</vendorprice>
-<vendorpricedoll>2.5</vendorpricedoll>
-<rrcdoll>4.16</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>32288668</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjEvYTIv0KYtMDAwMDgwNjA4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWIvY2Iv0KYtMDAwMDgwNjA4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000080608</vendorCode>
-<code>785211</code>
-<name>Black Hybrid Case With MagSafe — iPhone 11 Pro Max</name>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 11 Pro Max</param>
 <param name="Бренд">Apple</param>
 <param name="Материал">Полиуретан</param>
 </offer>
@@ -110153,24 +110090,6 @@
 <quantity_in_stock>249</quantity_in_stock>
 <param name="Бренд">Различные</param>
 </offer>
-<offer id="ts000075923000024705" available="true">
-<url>https://kmt5.com.ua/sumka-wiwu-pilot-backpack-black</url>
-<price>1781.0</price>
-<vendorprice>990.0</vendorprice>
-<vendorpricedoll>22.0</vendorpricedoll>
-<rrcdoll>39.6</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>10372040</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTcvOTkv0KYtMDAwMDc1OTIzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Wiwu</vendor>
-<vendorCode>Ц-000075923</vendorCode>
-<code>771465</code>
-<name>Рюкзак WiWU Pilot Backpack — Black</name>
-<quantity_in_stock>5</quantity_in_stock>
-<param name="Форм фактор">Сумка</param>
-<param name="Бренд">Wiwu</param>
-<param name="Материал">Ткань</param>
-</offer>
 <offer id="ts000084091" available="true">
 <url>https://kmt5.com.ua/ryukzak-wiwu-terrace-backpack-14</url>
 <price>2591.0</price>
@@ -112745,28 +112664,6 @@
 <param name="Модель девайса">Apple Macbook Air 13.6</param>
 <param name="Бренд">Wiwu</param>
 </offer>
-<offer id="ts000072862000023117" available="true">
-<url>https://kmt5.com.ua/ishield-hard-shell-case-macbook-142-pro-2021-black</url>
-<price>671.0</price>
-<vendorprice>405.0</vendorprice>
-<vendorpricedoll>9.0</vendorpricedoll>
-<rrcdoll>14.9</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>61259600</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTQvZDEv0KYtMDAwMDcyODYyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2MvOTIv0KYtMDAwMDcyODYyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjAvNTEv0KYtMDAwMDcyODYyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjAvODEv0KYtMDAwMDcyODYyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Wiwu</vendor>
-<vendorCode>Ц-000072862</vendorCode>
-<code>755305</code>
-<name>WiWU iShield Hard Shell Case Macbook 14.2&quot; Pro (2021) — Black</name>
-<quantity_in_stock>3</quantity_in_stock>
-<param name="Форм фактор">Книжка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Macbook Pro 14.2</param>
-<param name="Бренд">Wiwu</param>
-</offer>
 <offer id="ts000072862000023118" available="true">
 <url>https://kmt5.com.ua/ishield-hard-shell-case-macbook-142-pro-2021-white</url>
 <price>671.0</price>
@@ -113307,31 +113204,6 @@
 <param name="Бренд">Wiwu</param>
 <param name="Материал">Ткань</param>
 </offer>
-<offer id="ts000072902000023162" available="true">
-<url>https://kmt5.com.ua/sumka-skin-pro-portable-stand-sleeve-bag-133-blue</url>
-<price>1060.0</price>
-<vendorprice>639.0</vendorprice>
-<vendorpricedoll>14.2</vendorpricedoll>
-<rrcdoll>23.56</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>71284098</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzkvMzEv0KYtMDAwMDcyOTAyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmQvYzYv0KYtMDAwMDcyOTAyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzQvNmQv0KYtMDAwMDcyOTAyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmYvYTIv0KYtMDAwMDcyOTAyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTMvNjUv0KYtMDAwMDcyOTAyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Wiwu</vendor>
-<vendorCode>Ц-000072902</vendorCode>
-<code>755353</code>
-<name>Сумка 13.3&quot; Skin Pro Portable Stand Sleeve Bag — Blue</name>
-<quantity_in_stock>3</quantity_in_stock>
-<param name="Форм фактор">Сумка</param>
-<param name="Марка">Universal</param>
-<param name="Модель девайса">13.3&quot;</param>
-<param name="Бренд">Wiwu</param>
-<param name="Материал">Ткань</param>
-<param name="Размер">13.3&quot;</param>
-</offer>
 <offer id="ts000072902000026861" available="true">
 <url>https://kmt5.com.ua/sumka-133-skin-pro-portable-stand-sleeve-bag-brown</url>
 <price>1060.0</price>
@@ -113594,25 +113466,6 @@
 <code>788770</code>
 <name>Сумка 14'' — WiWU Skin Zero Sleeve  — Burgundy Red</name>
 <quantity_in_stock>3</quantity_in_stock>
-<param name="Форм фактор">Сумка</param>
-<param name="Бренд">Wiwu</param>
-<param name="Материал">Ткань</param>
-</offer>
-<offer id="ts000082524000030550" available="true">
-<url>https://kmt5.com.ua/sumka-14-wiwu-skin-zero-sleeve-gray</url>
-<price>551.0</price>
-<vendorprice>324.0</vendorprice>
-<vendorpricedoll>7.2</vendorpricedoll>
-<rrcdoll>12.25</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>71284098</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjEvODMv0KYtMDAwMDgyNTI0XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmQvMDQv0KYtMDAwMDgyNTI0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Wiwu</vendor>
-<vendorCode>Ц-000082524</vendorCode>
-<code>788768</code>
-<name>Сумка 14'' — WiWU Skin Zero Sleeve  — Gray</name>
-<quantity_in_stock>4</quantity_in_stock>
 <param name="Форм фактор">Сумка</param>
 <param name="Бренд">Wiwu</param>
 <param name="Материал">Ткань</param>
@@ -125226,33 +125079,6 @@
 <param name="Вид покрытия">Full Screen</param>
 <param name="Цвет">Black</param>
 </offer>
-<offer id="ts000083814" available="true">
-<url>https://kmt5.com.ua/zahisne-sklo-remax-hd-tempered-glass-es01-iphone-15-16</url>
-<price>266.0</price>
-<vendorprice>135.0</vendorprice>
-<vendorpricedoll>2.98</vendorpricedoll>
-<rrcdoll>5.9</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>66970748</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjcvMmYv0KYtMDAwMDgzODE0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTUvNTgv0KYtMDAwMDgzODE0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDkvZTYv0KYtMDAwMDgzODE0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTkvOTkv0KYtMDAwMDgzODE0XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTUvMzEv0KYtMDAwMDgzODE0XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2YvYjQv0KYtMDAwMDgzODE0XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Remax</vendor>
-<vendorCode>Ц-000083814</vendorCode>
-<code>791156</code>
-<name>Захисне скло Remax HD Tempered Glass ES-01  iPhone 15 ; 16</name>
-<quantity_in_stock>6</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 15, Apple iPhone 16</param>
-<param name="Бренд">Remax</param>
-<param name="Виды защиты экрана">Захисне скло</param>
-<param name="Вид покрытия">Прозрачное стекло</param>
-<param name="Толщина">0.3 mm</param>
-<param name="Цвет">Remax HD ES-01</param>
-</offer>
 <offer id="ts000083815" available="true">
 <url>https://kmt5.com.ua/zahisne-sklo-remax-hd-tempered-glass-es01-iphone-15-plus-16-plus</url>
 <price>266.0</price>
@@ -130999,29 +130825,6 @@
 <param name="Виды аккумуляторов">Power Bank</param>
 <param name="Емкость аккумулятора">От 8000 mAh</param>
 </offer>
-<offer id="ts000082811" available="true">
-<url>https://kmt5.com.ua/power-bank-30000-mah%C2%A0-20w%C2%A0%C2%A0-borofone-bj79b</url>
-<price>1380.0</price>
-<vendorprice>639.0</vendorprice>
-<vendorpricedoll>14.2</vendorpricedoll>
-<rrcdoll>30.67</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>82917560</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzAvMzIv0KYtMDAwMDgyODExXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzIvMmYv0KYtMDAwMDgyODExXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzIvMjUv0KYtMDAwMDgyODExXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODEvM2Ev0KYtMDAwMDgyODExXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDgvYzAv0KYtMDAwMDgyODExXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Borofone</vendor>
-<vendorCode>Ц-000082811</vendorCode>
-<code>789270</code>
-<name>Power Bank | 30000 mAh | built-in cables— Borofone BJ79B</name>
-<description><![CDATA["1. Ємність: 30000 мАг 111 Вт·год Номінальна ємність: 16500 мАг 2. Вхід: кабель USB-C/USB-A: 5 В/2 А 3. Вихід: USB-A: 5 В/2 А； кабель USB-C/IP: 5 В/2 А; Загальний вихідний струм: 5 В/2 А 4. Індикація: світлодіодний індикатор рівня заряду акумулятора. 5. Матеріал: ABS+PC+літій-полімерний акумулятор 6. Розмір: 146 * 69 * 40 мм; Вага: 605 г"]]></description>
-<quantity_in_stock>60</quantity_in_stock>
-<param name="Бренд">Borofone</param>
-<param name="Виды аккумуляторов">Power Bank</param>
-<param name="Емкость аккумулятора">От 30000 mAh</param>
-</offer>
 <offer id="ts000083634000031619" available="true">
 <url>https://kmt5.com.ua/power-bank-30000-mah-borofone-bj88b-225wpd20w-white</url>
 <price>1001.0</price>
@@ -131927,31 +131730,6 @@
 <param name="Колво USB портов">2 Type - C</param>
 <param name="Зарядные устройства">Автомобильные</param>
 <param name="Сила тока и Мощность">60W</param>
-</offer>
-<offer id="ts000083792" available="true">
-<url>https://kmt5.com.ua/home-charger-100w-gan5-1u-2c-c-to-c-cable-1m-acefast-z10</url>
-<price>3508.0</price>
-<vendorprice>1754.0</vendorprice>
-<vendorpricedoll>39.0</vendorpricedoll>
-<rrcdoll>78.0</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>56676196</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzgvNmEv0KYtMDAwMDgzNzkyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODkvNTgv0KYtMDAwMDgzNzkyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWYvMWMv0KYtMDAwMDgzNzkyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2QvNGEv0KYtMDAwMDgzNzkyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjkvZWIv0KYtMDAwMDgzNzkyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODUvMDgv0KYtMDAwMDgzNzkyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODAvYjMv0KYtMDAwMDgzNzkyXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Acefast</vendor>
-<vendorCode>Ц-000083792</vendorCode>
-<code>791133</code>
-<name>Home Charger 100W GaN5 1U 2C C to C Cable (1m) Acefast Z10</name>
-<quantity_in_stock>5</quantity_in_stock>
-<param name="Бренд">Acefast</param>
-<param name="Колво USB портов">1 USB +2 USB-C</param>
-<param name="Зарядные устройства">СЗУ &amp; Кабель Type C</param>
-<param name="Сила тока и Мощность">100W</param>
 </offer>
 <offer id="ts000068644000012155" available="true">
 <url>https://kmt5.com.ua/hoco-c72a-glorious-single-port-chargereu-white</url>
@@ -144733,25 +144511,6 @@
 <param name="Разъем подключения">Cable USB C to C</param>
 <param name="Длина кабеля">1m</param>
 </offer>
-<offer id="ts000082097" available="true">
-<url>https://kmt5.com.ua/kabel-usb-c-to-c-60w-1m-hoco-x121</url>
-<price>148.0</price>
-<vendorprice>77.0</vendorprice>
-<vendorpricedoll>1.7</vendorpricedoll>
-<rrcdoll>3.27</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>98417332</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTAvNWQv0KYtMDAwMDgyMDk3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzkvZjkv0KYtMDAwMDgyMDk3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000082097</vendorCode>
-<code>787975</code>
-<name>Кабель USB C to C 60W (1m) — Hoco X121</name>
-<quantity_in_stock>12</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Разъем подключения">Cable USB C to C</param>
-<param name="Длина кабеля">1m</param>
-</offer>
 <offer id="ts000082467000030445" available="true">
 <url>https://kmt5.com.ua/kabel-usb-c-to-c-60w-1m-hoco-x124-black</url>
 <price>131.0</price>
@@ -157516,10 +157275,10 @@
 </offer>
 <offer id="ts000075549" available="true">
 <url>https://kmt5.com.ua/shtativ-210-sm-8806-pod-led-podsvetku</url>
-<price>370.0</price>
-<vendorprice>241.0</vendorprice>
-<vendorpricedoll>5.35</vendorpricedoll>
-<rrcdoll>8.21</rrcdoll>
+<price>371.0</price>
+<vendorprice>265.0</vendorprice>
+<vendorpricedoll>5.88</vendorpricedoll>
+<rrcdoll>8.23</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>3222</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjcvYWUv0KYtMDAwMDc1NTQ5XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
@@ -159959,31 +159718,6 @@
 <param name="Бренд">Различные</param>
 <param name="Студийное оборудование">Лампа видеосвет</param>
 <param name="Количество светодиодов">240</param>
-<param name="Цветовая температура">2700-6000K</param>
-</offer>
-<offer id="ts000075540" available="true">
-<url>https://kmt5.com.ua/lampa-videosvet-40x28cm-4028-27006000k</url>
-<price>970.0</price>
-<vendorprice>630.0</vendorprice>
-<vendorpricedoll>14.0</vendorpricedoll>
-<rrcdoll>21.55</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>52158449</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDUvZDAv0KYtMDAwMDc1NTQwXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzcvNTgv0KYtMDAwMDc1NTQwXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDIvZjAv0KYtMDAwMDc1NTQwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2EvZWIv0KYtMDAwMDc1NTQwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTUvNWYv0KYtMDAwMDc1NTQwXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTYvZmYv0KYtMDAwMDc1NTQwXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjkvMmUv0KYtMDAwMDc1NTQwXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000075540</vendorCode>
-<code>770598</code>
-<name>Лампа видеосвет LED 4028 40x28 cm 204, Lights 2700K-6000K</name>
-<quantity_in_stock>8</quantity_in_stock>
-<param name="Бренд">Различные</param>
-<param name="Студийное оборудование">Лампа видеосвет</param>
-<param name="Количество светодиодов">204</param>
 <param name="Цветовая температура">2700-6000K</param>
 </offer>
 <offer id="ts000075504" available="true">
@@ -164975,28 +164709,6 @@
 <name>Bluetooth гарнітура TWS Hoco EW28 Magic — Black</name>
 <description><![CDATA[Hoco EW28 TWS – беспроводные bluetooth наушники, очень удобны в использовании. Подключаются как обычный блютуз аудиоустройство, это делает их универсальными, работают на iPhone, Android, Windows. Работают по протоколу Bluetooth 5.3, звук передается надежно и без задержек. Встроенный аккумулятор показывает вполне солидный показатель, его хватит до 8 часов бесперебойного использования. Наушники имеют встроенные сенсоры для управления, благодаря чему вы сможете ответить на звонок или перелистнуть песню. Микрофон: Встроенный Тип крепления: С креплением в ушах Материал амбушюр: Пластик Чашки: Овальные Вес: 40 гр Время зарядки, ч: 2 Время работы, ч: 4 Радиус действия, м: 20 Количество микрофонов: 2 Версия Bluetooth: 5.3 Чувствительность: до 95 (85-95) Импеданс: до 32 Емкость АКБ: Кейс - 320mAh, наушники - 2 x 40mAh Частота: 20-20000Гц]]></description>
 <quantity_in_stock>41</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Аудіо товари">Bluetooth гарнітура TWS</param>
-</offer>
-<offer id="ts000081134" available="true">
-<url>https://kmt5.com.ua/bluetooth-garntura-tws-hoco-ew85</url>
-<price>719.0</price>
-<vendorprice>387.0</vendorprice>
-<vendorpricedoll>8.6</vendorpricedoll>
-<rrcdoll>15.97</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54581499</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmUvYWMv0KYtMDAwMDgxMTM0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjcvMTgv0KYtMDAwMDgxMTM0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmIvMTIv0KYtMDAwMDgxMTM0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDMvODcv0KYtMDAwMDgxMTM0XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmMvMmMv0KYtMDAwMDgxMTM0XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000081134</vendorCode>
-<code>786426</code>
-<name>Bluetooth гарнітура TWS Hoco EW85</name>
-<description><![CDATA[1. Bluetooth 5.4; Чип: JL AC7003 2. Емкость аккумулятора: зарядный чехол 300 мАч, гарнитура 30 мАч 3. Время использования: 4 часа 4. Материал: ABS; Размер: 50 * 46 * 21,2 мм; Общий вес: 42 г 5. Поддержка функций шумоподавления и прозрачности, переключения ведущий-ведомый, переключения песен вверх и вниз, вызова Siri и других функций]]></description>
-<quantity_in_stock>11</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Аудіо товари">Bluetooth гарнітура TWS</param>
 </offer>
@@ -173390,27 +173102,6 @@
 <code>734943</code>
 <name>Ремінець Sport Band Apple Watch 42 mm 44 mm 45 mm 49 mm — Green (31)</name>
 <quantity_in_stock>4</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Watch Series 3 42 mm, Apple Watch Series 4 44 mm, Apple Watch Series 7 45 mm, Apple Watch Series 8 49 mm</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Силикон</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
-<offer id="ts000037062000016280" available="true">
-<url>https://kmt5.com.ua/original-design-bracelet-apple-watch-42-mm-44-mm-ice-blue-21</url>
-<price>60.0</price>
-<vendorprice>31.0</vendorprice>
-<vendorpricedoll>0.67</vendorpricedoll>
-<rrcdoll>1.32</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>59885727</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzgvM2Iv0KYtMDAwMDM3MDYyXzYzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWMvZTMv0KYtMDAwMDM3MDYyXzU3LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000037062</vendorCode>
-<code>737306</code>
-<name>Ремінець Sport Band Apple Watch 42 mm 44 mm 45 mm 49 mm — Ice Blue (21)</name>
-<quantity_in_stock>3</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Watch Series 3 42 mm, Apple Watch Series 4 44 mm, Apple Watch Series 7 45 mm, Apple Watch Series 8 49 mm</param>
 <param name="Бренд">Различные</param>
@@ -193761,10 +193452,10 @@
 </offer>
 <offer id="ts000067114" available="true">
 <url>https://kmt5.com.ua/avtotrimach-magntniy-na-povtroprovd-hct213</url>
-<price>232.0</price>
-<vendorprice>149.0</vendorprice>
-<vendorpricedoll>3.3</vendorpricedoll>
-<rrcdoll>5.14</rrcdoll>
+<price>200.0</price>
+<vendorprice>134.0</vendorprice>
+<vendorpricedoll>2.96</vendorpricedoll>
+<rrcdoll>4.44</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>83056549</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2UvYzgv0KYtMDAwMDY3MTE0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -194043,10 +193734,10 @@
 </offer>
 <offer id="ts000072739000022626" available="true">
 <url>https://kmt5.com.ua/avtotrimach-rozsuvniy-na-povtroprovd-borofone-bh69-black</url>
-<price>204.0</price>
-<vendorprice>135.0</vendorprice>
-<vendorpricedoll>3.0</vendorpricedoll>
-<rrcdoll>4.53</rrcdoll>
+<price>193.0</price>
+<vendorprice>129.0</vendorprice>
+<vendorpricedoll>2.85</vendorpricedoll>
+<rrcdoll>4.28</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>29376332</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWEvMWIv0KYtMDAwMDcyNzM5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -197044,29 +196735,6 @@
 <param name="Бренд">Acefast</param>
 <param name="Видео аксессуары">Экшн-камеры</param>
 </offer>
-<offer id="ts000080115" available="true">
-<url>https://kmt5.com.ua/ekshn-kamera-hoco-dv102</url>
-<price>2419.0</price>
-<vendorprice>1916.0</vendorprice>
-<vendorpricedoll>42.6</vendorpricedoll>
-<rrcdoll>53.79</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>22825303</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzkvMWUv0KYtMDAwMDgwMTE1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjAvZmMv0KYtMDAwMDgwMTE1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODEvZmMv0KYtMDAwMDgwMTE1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODEvOTcv0KYtMDAwMDgwMTE1XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTcvOWUv0KYtMDAwMDgwMTE1XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGEvNDQv0KYtMDAwMDgwMTE1XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000080115</vendorCode>
-<code>781918</code>
-<name>Экшн камера Hoco DV102</name>
-<description><![CDATA["1. Схема: Allwinner V316 СЕНСОРА: Sony386 (1200 Вт пікселів) 2. Дисплей: 2-дюймовий IPS з повним кутом огляду, роздільна здатність 240*320, 1,3-дюймовий IPS з роздільною здатністю 240*240 3. Роздільна здатність: Підтримка відео 4K 30 кадрів/с та фото 20 Мп 4. HDMI: Підтримка/Стабілізація: 6-осьова гіроскопічна стабілізація 5. WIFI: Підтримка/Підтримка ПРОГРАМИ 6. Підтримка карт пам'яті до 128 ГБ 7. Акумулятор: Знімний 3,7 В/900 мАг 8. Матеріал: ABS, Розмір: 61*32*44 мм; Вага: 65 г 9. Рівень водонепроникності: водонепроникність 30 м (водонепроникний корпус)"]]></description>
-<quantity_in_stock>20</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Видео аксессуары">Экшн-камеры</param>
-</offer>
 <offer id="ts000082684" available="true">
 <url>https://kmt5.com.ua/ekshn-kamera-hoco-dv105</url>
 <price>1936.0</price>
@@ -199849,26 +199517,6 @@
 <name>Выпрямитель для прямых и вьющихся волос Hoco HP41 — White</name>
 <description><![CDATA[Материал: ПЭТ Размер: 305х35х35 мм; Вес: 445 г; Длина кабеля: 2 м Нагреватель: MCH, быстрое нагревание за 15 секунд Температура: 130-230 ℃, 265-450 ℉ Дисплей: 6 уровней температуры]]></description>
 <quantity_in_stock>43</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-</offer>
-<offer id="ts000080538" available="true">
-<url>https://kmt5.com.ua/vyipryamitel-dlya-pryamyih-i-vyuschihsya-volos-hoco-hp44</url>
-<price>1025.0</price>
-<vendorprice>698.0</vendorprice>
-<vendorpricedoll>15.5</vendorpricedoll>
-<rrcdoll>22.78</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>16918768</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGQvODcv0KYtMDAwMDgwNTM4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGEvYTMv0KYtMDAwMDgwNTM4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzIvMmIv0KYtMDAwMDgwNTM4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDQvYjAv0KYtMDAwMDgwNTM4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000080538</vendorCode>
-<code>785088</code>
-<name>Выпрямитель для прямых и вьющихся волос Hoco HP44</name>
-<description><![CDATA[ФЕН-ЩІТКА ДЛЯ ВОЛОССЯ HOCO HP44: ШВИДКЕ ТА ЕФЕКТИВНЕ ПРИВЕДЕННЯ ВОЛОССЯ ДО ЛАДУ Фен-щітка для волосся Hoco HP44 є унікальним пристроєм, що поєднує в собі функції фена і гребінця. Це незамінний помічник для тих, хто цінує свій час і прагне швидко та ефективно привести свою зачіску до ладу. ВИСОКА ПОТУЖНІСТЬ ТА ШВИДКІСТЬ СУШІННЯ ВОЛОССЯ Фен-щітка Hoco HP44 має високу потужність і швидкість сушки волосся, що дозволяє швидко і без зайвих зусиль укласти волосся, надавши їм бажану форму і об’єм. Також вона оснащена функцією іонізації, яка допомагає запобігти статичній електриці і робить волосся більш гладким і блискучим. СПЕЦІАЛЬНА НАСАДКА-ГРЕБІНЕЦЬ Пристрій оснащений спеціальною насадкою-гребінцем з розміром нагрівальної панелі 103 × 58 × 22 мм, яка дозволяє швидко та акуратно розчесати волосся, а також надати їм додаткового об’єму та пишності. СТИЛЬНИЙ ТА СУЧАСНИЙ ДИЗАЙН Фен-щітка Hoco HP44 має стильний та сучасний дизайн, який підійде до будь-якого образу та стилю. Сірий колір корпусу робить його ненав’язливим та елегантним. БАГАТОФУНКЦІОНАЛЬНІСТЬ ТА ЕКОНОМІЯ ЧАСУ Фен-щітка Hoco HP44 є багатофункціональним пристроєм, який допоможе вам заощадити час та сили на укладанні волосся. Регулювання температури в діапазоні від 120 до 220 °C та LCD-дисплей температури забезпечують додатковий комфорт під час використання. Автоматичне вимкнення через 60 хвилин і пам’ять температури після вимикання роблять пристрій ще зручнішим та безпечнішим.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 </offer>
 <offer id="ts000081805" available="true">
