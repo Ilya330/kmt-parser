@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-08 13:08">
+<yml_catalog date="2026-09-08 18:11">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -54,6 +54,11 @@
 <category id="31204796" parentId="10627703">Портативні колонки</category>
 <category id="89410283" parentId="50652989">Мікрофони</category>
 <category id="22933428" parentId="50652989">Накладні навушники</category>
+<category id="80796576" parentId="50652989">Чохли для AirPods</category>
+<category id="52376858" parentId="80796576">Airpods 4</category>
+<category id="90559290" parentId="80796576">Airpods Pro</category>
+<category id="92761193" parentId="80796576">Airpods Pro 2</category>
+<category id="87591679" parentId="80796576">Airpods Pro 3</category>
 <category id="58682601">Вентилятори</category>
 <category id="34592365">Все для дому</category>
 <category id="95805898" parentId="34592365">Інструменти</category>
@@ -75,6 +80,8 @@
 <category id="75032919" parentId="24338106">Чехлы для IQOS</category>
 <category id="30139001" parentId="27119935">Аксесуары для ТВ</category>
 <category id="72554065" parentId="30139001">TV Holder</category>
+<category id="52687104" parentId="27119935">Прикраси для телефону</category>
+<category id="16846687" parentId="52687104">Прочее</category>
 <category id="15419004" parentId="27119935">Сумки і Рюкзаки</category>
 <category id="10372040" parentId="15419004">Рюкзаки</category>
 <category id="71284098" parentId="15419004">Сумки</category>
@@ -5978,6 +5985,22 @@
 <quantity_in_stock>254</quantity_in_stock>
 <param name="Бренд">Различные</param>
 </offer>
+<offer id="ts000083984000031778" available="true">
+<url>https://kmt5.com.ua/brelok-braid-flower-blackwhite</url>
+<price>86.0</price>
+<vendorprice>43.0</vendorprice>
+<vendorpricedoll>0.95</vendorpricedoll>
+<rrcdoll>1.9</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>26128749</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWQvZjEv0KYtMDAwMDgzOTg0XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000083984</vendorCode>
+<code>791418</code>
+<name>Брелок Braid Flower  — Black&amp;White</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Различные</param>
+</offer>
 <offer id="ts000083984000031780" available="true">
 <url>https://kmt5.com.ua/brelok-braid-flower-bluewhite</url>
 <price>86.0</price>
@@ -5992,6 +6015,102 @@
 <code>791420</code>
 <name>Брелок Braid Flower  — Blue&amp;Red</name>
 <quantity_in_stock>2</quantity_in_stock>
+<param name="Бренд">Различные</param>
+</offer>
+<offer id="ts000083984000031781" available="true">
+<url>https://kmt5.com.ua/brelok-braid-flower-greenwhite</url>
+<price>86.0</price>
+<vendorprice>43.0</vendorprice>
+<vendorpricedoll>0.95</vendorpricedoll>
+<rrcdoll>1.9</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>16846687</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2QvNjEv0KYtMDAwMDgzOTg0XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000083984</vendorCode>
+<code>791421</code>
+<name>Брелок Braid Flower  — Green&amp;Yellow</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Различные</param>
+</offer>
+<offer id="ts000083984000032116" available="true">
+<url>https://kmt5.com.ua/brelok-braid-flower-mintgray</url>
+<price>86.0</price>
+<vendorprice>43.0</vendorprice>
+<vendorpricedoll>0.95</vendorpricedoll>
+<rrcdoll>1.9</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>26128749</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmIvOWUv0KYtMDAwMDgzOTg0XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000083984</vendorCode>
+<code>791914</code>
+<name>Брелок Braid Flower  — Mint&amp;Gray</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Различные</param>
+</offer>
+<offer id="ts000083984000032117" available="true">
+<url>https://kmt5.com.ua/brelok-braid-flower-orangegreen</url>
+<price>86.0</price>
+<vendorprice>43.0</vendorprice>
+<vendorpricedoll>0.95</vendorpricedoll>
+<rrcdoll>1.9</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>26128749</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmMvMGMv0KYtMDAwMDgzOTg0XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000083984</vendorCode>
+<code>791915</code>
+<name>Брелок Braid Flower  — Orange&amp;Green</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Различные</param>
+</offer>
+<offer id="ts000083984000031777" available="true">
+<url>https://kmt5.com.ua/brelok-braid-flower-pinkwhite</url>
+<price>86.0</price>
+<vendorprice>43.0</vendorprice>
+<vendorpricedoll>0.95</vendorpricedoll>
+<rrcdoll>1.9</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>26128749</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTUvMTIv0KYtMDAwMDgzOTg0XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000083984</vendorCode>
+<code>791417</code>
+<name>Брелок Braid Flower  — Pink&amp;White</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Различные</param>
+</offer>
+<offer id="ts000083984000032115" available="true">
+<url>https://kmt5.com.ua/brelok-braid-flower-purplepink</url>
+<price>86.0</price>
+<vendorprice>43.0</vendorprice>
+<vendorpricedoll>0.95</vendorpricedoll>
+<rrcdoll>1.9</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>26128749</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzcvNjEv0KYtMDAwMDgzOTg0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000083984</vendorCode>
+<code>791913</code>
+<name>Брелок Braid Flower  — Purple&amp;Pink</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Различные</param>
+</offer>
+<offer id="ts000083984000031779" available="true">
+<url>https://kmt5.com.ua/brelok-braid-flower-yellowwhite</url>
+<price>86.0</price>
+<vendorprice>43.0</vendorprice>
+<vendorpricedoll>0.95</vendorpricedoll>
+<rrcdoll>1.9</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>16846687</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTMvZjAv0KYtMDAwMDgzOTg0XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000083984</vendorCode>
+<code>791419</code>
+<name>Брелок Braid Flower  — Yellow&amp;Pink</name>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Бренд">Различные</param>
 </offer>
 <offer id="ts000082788000030753" available="true">
@@ -6463,6 +6582,23 @@
 <quantity_in_stock>34</quantity_in_stock>
 <param name="Бренд">Различные</param>
 </offer>
+<offer id="ts000083983000031775" available="true">
+<url>https://kmt5.com.ua/brelok-pearl-necklace-black-flower</url>
+<price>108.0</price>
+<vendorprice>54.0</vendorprice>
+<vendorpricedoll>1.2</vendorpricedoll>
+<rrcdoll>2.4</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>16846687</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDMvNmIv0KYtMDAwMDgzOTgzXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzEvNDMv0KYtMDAwMDgzOTgzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000083983</vendorCode>
+<code>791414</code>
+<name>Брелок Pearl Necklace  — Black Flower</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Различные</param>
+</offer>
 <offer id="ts000083983000031774" available="true">
 <url>https://kmt5.com.ua/brelok-pearl-necklace-heart</url>
 <price>108.0</price>
@@ -6549,6 +6685,23 @@
 <quantity_in_stock>20</quantity_in_stock>
 <param name="Бренд">Различные</param>
 </offer>
+<offer id="ts000083986000031787" available="true">
+<url>https://kmt5.com.ua/brelok-swarovski-color-bear-black</url>
+<price>86.0</price>
+<vendorprice>43.0</vendorprice>
+<vendorpricedoll>0.95</vendorpricedoll>
+<rrcdoll>1.9</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>16846687</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTQvY2Qv0KYtMDAwMDgzOTg2XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTIvZTUv0KYtMDAwMDgzOTg2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000083986</vendorCode>
+<code>791429</code>
+<name>Брелок Swarovski Color Bear — Black</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Различные</param>
+</offer>
 <offer id="ts000083986000032119" available="true">
 <url>https://kmt5.com.ua/brelok-swarovski-color-bear-mint</url>
 <price>86.0</price>
@@ -6564,6 +6717,40 @@
 <code>791917</code>
 <name>Брелок Swarovski Color Bear — Mint</name>
 <quantity_in_stock>14</quantity_in_stock>
+<param name="Бренд">Различные</param>
+</offer>
+<offer id="ts000083986000031790" available="true">
+<url>https://kmt5.com.ua/brelok-swarovski-color-bear-green</url>
+<price>86.0</price>
+<vendorprice>43.0</vendorprice>
+<vendorpricedoll>0.95</vendorpricedoll>
+<rrcdoll>1.9</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>16846687</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDUvYTUv0KYtMDAwMDgzOTg2XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTIvZTUv0KYtMDAwMDgzOTg2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000083986</vendorCode>
+<code>791432</code>
+<name>Брелок Swarovski Color Bear — Purple</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Различные</param>
+</offer>
+<offer id="ts000083986000032120" available="true">
+<url>https://kmt5.com.ua/brelok-swarovski-color-bear-silver</url>
+<price>86.0</price>
+<vendorprice>43.0</vendorprice>
+<vendorpricedoll>0.95</vendorpricedoll>
+<rrcdoll>1.9</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>16846687</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODIvN2Iv0KYtMDAwMDgzOTg2XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTIvZTUv0KYtMDAwMDgzOTg2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000083986</vendorCode>
+<code>791918</code>
+<name>Брелок Swarovski Color Bear — Silver</name>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Бренд">Различные</param>
 </offer>
 <offer id="ts000083985000031782" available="true">
@@ -59107,34 +59294,6 @@
 <code>790200</code>
 <name>Original Silicone Case Full Size iPhone 13 Pro 6.1&quot; — Hermes Orange (81)</name>
 <quantity_in_stock>4</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 13 Pro 6.1&quot;</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Полиуретан</param>
-</offer>
-<offer id="ts000071720000031269" available="true">
-<url>https://kmt5.com.ua/original-silicone-case-full-size-iphone-13-pro-61-new-brown-80</url>
-<price>155.0</price>
-<vendorprice>88.0</vendorprice>
-<vendorpricedoll>1.95</vendorpricedoll>
-<rrcdoll>3.43</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>70706401</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjMvMTgv0KYtMDAwMDcxNzIwXzI5LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTQvN2Yv0KYtMDAwMDcxNzIwXzE3LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzQvMWYv0KYtMDAwMDcxNzIwXzIxLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDgvOGUv0KYtMDAwMDcxNzIwXzIyLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzIvNDAv0KYtMDAwMDcxNzIwXzIzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTYvZmEv0KYtMDAwMDcxNzIwXzI0LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjgvM2Ev0KYtMDAwMDcxNzIwXzI1LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmIvYzAv0KYtMDAwMDcxNzIwXzI2LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmUvNTQv0KYtMDAwMDcxNzIwXzI4LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000071720</vendorCode>
-<code>790199</code>
-<name>Original Silicone Case Full Size iPhone 13 Pro 6.1&quot; — New Brown (80)</name>
-<quantity_in_stock>2</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 13 Pro 6.1&quot;</param>
@@ -116260,6 +116419,26 @@
 <param name="Бренд">Различные</param>
 <param name="Аудіо товари">Чехол для Airpods</param>
 </offer>
+<offer id="ts000080740000029419" available="true">
+<url>https://kmt5.com.ua/airpods-4-case-microfiber-gray</url>
+<price>76.0</price>
+<vendorprice>41.0</vendorprice>
+<vendorpricedoll>0.9</vendorpricedoll>
+<rrcdoll>1.68</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>19314331</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDcvMjgv0KYtMDAwMDgwNzQwXzI5LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzIvYjgv0KYtMDAwMDgwNzQwXzI2LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000080740</vendorCode>
+<code>785898</code>
+<name>Airpods 4 Case Microfiber — Gray</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Airpods 4</param>
+<param name="Бренд">Различные</param>
+<param name="Аудіо товари">Чехол для Airpods</param>
+</offer>
 <offer id="ts000080740000029403" available="true">
 <url>https://kmt5.com.ua/airpods-4-case-microfiber-lavender-14</url>
 <price>76.0</price>
@@ -116275,6 +116454,26 @@
 <code>785882</code>
 <name>Airpods 4 Case Microfiber — Lavender (14)</name>
 <quantity_in_stock>13</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Airpods 4</param>
+<param name="Бренд">Различные</param>
+<param name="Аудіо товари">Чехол для Airpods</param>
+</offer>
+<offer id="ts000080740000029402" available="true">
+<url>https://kmt5.com.ua/airpods-4-case-microfiber-lavender-gray-12</url>
+<price>76.0</price>
+<vendorprice>41.0</vendorprice>
+<vendorpricedoll>0.9</vendorpricedoll>
+<rrcdoll>1.68</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>52376858</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjgvMTcv0KYtMDAwMDgwNzQwXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzIvYjgv0KYtMDAwMDgwNzQwXzI2LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000080740</vendorCode>
+<code>785881</code>
+<name>Airpods 4 Case Microfiber — Lavender Gray (12)</name>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Airpods 4</param>
 <param name="Бренд">Различные</param>
@@ -116595,6 +116794,46 @@
 <code>785309</code>
 <name>Airpods 4 Case — Leather Ring  — Dark Green</name>
 <quantity_in_stock>9</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Airpods 4</param>
+<param name="Бренд">Различные</param>
+<param name="Аудіо товари">Чехол для Airpods</param>
+</offer>
+<offer id="ts000080657000029283" available="true">
+<url>https://kmt5.com.ua/airpods-4-case-leather-lock-gray</url>
+<price>160.0</price>
+<vendorprice>86.0</vendorprice>
+<vendorpricedoll>1.9</vendorpricedoll>
+<rrcdoll>3.54</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>19314331</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjIvZTQv0KYtMDAwMDgwNjU3XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGMvNzEv0KYtMDAwMDgwNjU3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000080657</vendorCode>
+<code>785308</code>
+<name>Airpods 4 Case — Leather Ring  — Gray</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Airpods 4</param>
+<param name="Бренд">Различные</param>
+<param name="Аудіо товари">Чехол для Airpods</param>
+</offer>
+<offer id="ts000080657000029285" available="true">
+<url>https://kmt5.com.ua/airpods-4-case-leather-lock-white</url>
+<price>160.0</price>
+<vendorprice>86.0</vendorprice>
+<vendorpricedoll>1.9</vendorpricedoll>
+<rrcdoll>3.54</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>19314331</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzIvNmIv0KYtMDAwMDgwNjU3XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGMvNzEv0KYtMDAwMDgwNjU3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000080657</vendorCode>
+<code>785310</code>
+<name>Airpods 4 Case — Leather Ring  — White</name>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Airpods 4</param>
 <param name="Бренд">Различные</param>
@@ -118746,6 +118985,26 @@
 <param name="Бренд">Различные</param>
 <param name="Аудіо товари">Чехол для Airpods</param>
 </offer>
+<offer id="ts000075718000024498" available="true">
+<url>https://kmt5.com.ua/airpods-pro-2-case-microfiber-black-1</url>
+<price>76.0</price>
+<vendorprice>41.0</vendorprice>
+<vendorpricedoll>0.9</vendorpricedoll>
+<rrcdoll>1.68</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>2209499</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmYvOTkv0KYtMDAwMDc1NzE4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODUvZTUv0KYtMDAwMDc1NzE4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000075718</vendorCode>
+<code>771070</code>
+<name>Airpods Pro 2 Case Microfiber — Black (1)</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Airpods Pro 2</param>
+<param name="Бренд">Различные</param>
+<param name="Аудіо товари">Чехол для Airpods</param>
+</offer>
 <offer id="ts000075718000024499" available="true">
 <url>https://kmt5.com.ua/airpods-pro-2-case-microfiber-deep-blue-2</url>
 <price>76.0</price>
@@ -118761,6 +119020,46 @@
 <code>771071</code>
 <name>Airpods Pro 2 Case Microfiber — Deep Blue (2)</name>
 <quantity_in_stock>16</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Airpods Pro 2</param>
+<param name="Бренд">Различные</param>
+<param name="Аудіо товари">Чехол для Airpods</param>
+</offer>
+<offer id="ts000075718000024505" available="true">
+<url>https://kmt5.com.ua/airpods-pro-2-case-microfiber-gray-12</url>
+<price>76.0</price>
+<vendorprice>41.0</vendorprice>
+<vendorpricedoll>0.9</vendorpricedoll>
+<rrcdoll>1.68</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>2209499</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzYvNzIv0KYtMDAwMDc1NzE4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODUvZTUv0KYtMDAwMDc1NzE4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000075718</vendorCode>
+<code>771077</code>
+<name>Airpods Pro 2 Case Microfiber — Lavander Gray (12)</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Airpods Pro 2</param>
+<param name="Бренд">Различные</param>
+<param name="Аудіо товари">Чехол для Airpods</param>
+</offer>
+<offer id="ts000075718000024500" available="true">
+<url>https://kmt5.com.ua/airpods-pro-2-case-microfiber-lilac-5</url>
+<price>76.0</price>
+<vendorprice>41.0</vendorprice>
+<vendorpricedoll>0.9</vendorpricedoll>
+<rrcdoll>1.68</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>2209499</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGUvNGIv0KYtMDAwMDc1NzE4XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODUvZTUv0KYtMDAwMDc1NzE4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000075718</vendorCode>
+<code>771072</code>
+<name>Airpods Pro 2 Case Microfiber — Lilac (5)</name>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Airpods Pro 2</param>
 <param name="Бренд">Различные</param>
@@ -118826,6 +119125,26 @@
 <param name="Бренд">Различные</param>
 <param name="Аудіо товари">Чехол для Airpods</param>
 </offer>
+<offer id="ts000075718000024508" available="true">
+<url>https://kmt5.com.ua/airpods-pro-2-case-microfiber-pine-green-16</url>
+<price>76.0</price>
+<vendorprice>41.0</vendorprice>
+<vendorpricedoll>0.9</vendorpricedoll>
+<rrcdoll>1.68</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>2209499</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTIvMWMv0KYtMDAwMDc1NzE4XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODUvZTUv0KYtMDAwMDc1NzE4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000075718</vendorCode>
+<code>771080</code>
+<name>Airpods Pro 2 Case Microfiber — Pine Green (16)</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Airpods Pro 2</param>
+<param name="Бренд">Различные</param>
+<param name="Аудіо товари">Чехол для Airpods</param>
+</offer>
 <offer id="ts000075718000029467" available="true">
 <url>https://kmt5.com.ua/airpods-pro-2-case-microfiber-pink</url>
 <price>76.0</price>
@@ -118841,6 +119160,66 @@
 <code>786014</code>
 <name>Airpods Pro 2 Case Microfiber — Pink</name>
 <quantity_in_stock>21</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Airpods Pro 2</param>
+<param name="Бренд">Различные</param>
+<param name="Аудіо товари">Чехол для Airpods</param>
+</offer>
+<offer id="ts000075718000024502" available="true">
+<url>https://kmt5.com.ua/airpods-pro-2-case-microfiber-pink-sand-7</url>
+<price>76.0</price>
+<vendorprice>41.0</vendorprice>
+<vendorpricedoll>0.9</vendorpricedoll>
+<rrcdoll>1.68</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>2209499</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGQvNDkv0KYtMDAwMDc1NzE4XzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODUvZTUv0KYtMDAwMDc1NzE4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000075718</vendorCode>
+<code>771074</code>
+<name>Airpods Pro 2 Case Microfiber — Pink Sand (7)</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Airpods Pro 2</param>
+<param name="Бренд">Различные</param>
+<param name="Аудіо товари">Чехол для Airpods</param>
+</offer>
+<offer id="ts000075718000024501" available="true">
+<url>https://kmt5.com.ua/airpods-pro-2-case-microfiber-purple-6</url>
+<price>76.0</price>
+<vendorprice>41.0</vendorprice>
+<vendorpricedoll>0.9</vendorpricedoll>
+<rrcdoll>1.68</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>2209499</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGIvZDgv0KYtMDAwMDc1NzE4XzEyLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODUvZTUv0KYtMDAwMDc1NzE4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000075718</vendorCode>
+<code>771073</code>
+<name>Airpods Pro 2 Case Microfiber — Purple (6)</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Airpods Pro 2</param>
+<param name="Бренд">Различные</param>
+<param name="Аудіо товари">Чехол для Airpods</param>
+</offer>
+<offer id="ts000075718000024507" available="true">
+<url>https://kmt5.com.ua/airpods-pro-2-case-microfiber-white-15</url>
+<price>76.0</price>
+<vendorprice>41.0</vendorprice>
+<vendorpricedoll>0.9</vendorpricedoll>
+<rrcdoll>1.68</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>92761193</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWUvYTcv0KYtMDAwMDc1NzE4XzE1LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODUvZTUv0KYtMDAwMDc1NzE4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000075718</vendorCode>
+<code>771079</code>
+<name>Airpods Pro 2 Case Microfiber — White (15)</name>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Airpods Pro 2</param>
 <param name="Бренд">Различные</param>
@@ -119453,6 +119832,26 @@
 <param name="Материал">Силикон</param>
 <param name="Аудіо товари">Чехол для Airpods</param>
 </offer>
+<offer id="ts000082734000030678" available="true">
+<url>https://kmt5.com.ua/airpods-pro-3-case-microfiber-dark-red</url>
+<price>87.0</price>
+<vendorprice>45.0</vendorprice>
+<vendorpricedoll>0.98</vendorpricedoll>
+<rrcdoll>1.93</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>87591679</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTUvYWIv0KYtMDAwMDgyNzM0XzE2LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjYvMDgv0KYtMDAwMDgyNzM0XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000082734</vendorCode>
+<code>789104</code>
+<name>Airpods Pro 3 Case Microfiber — Dark Red</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Airpods Pro 3</param>
+<param name="Бренд">Различные</param>
+<param name="Аудіо товари">Чехол для Airpods</param>
+</offer>
 <offer id="ts000082734000030666" available="true">
 <url>https://kmt5.com.ua/airpods-pro-3-case-microfiber-deep-blue-2</url>
 <price>87.0</price>
@@ -119467,6 +119866,26 @@
 <vendorCode>Ц-000082734</vendorCode>
 <code>789092</code>
 <name>Airpods Pro 3 Case Microfiber — Deep Blue (2)</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Airpods Pro 3</param>
+<param name="Бренд">Различные</param>
+<param name="Аудіо товари">Чехол для Airpods</param>
+</offer>
+<offer id="ts000082734000030671" available="true">
+<url>https://kmt5.com.ua/airpods-pro-3-case-microfiber-lavender-gray-12</url>
+<price>87.0</price>
+<vendorprice>45.0</vendorprice>
+<vendorpricedoll>0.98</vendorpricedoll>
+<rrcdoll>1.93</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>87591679</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWUvYTAv0KYtMDAwMDgyNzM0XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjYvMDgv0KYtMDAwMDgyNzM0XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000082734</vendorCode>
+<code>789097</code>
+<name>Airpods Pro 3 Case Microfiber — Lavender Gray (12)</name>
 <quantity_in_stock>10</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Airpods Pro 3</param>
@@ -119516,6 +119935,26 @@
 <code>789102</code>
 <name>Airpods Pro 3 Case Microfiber — Light Purple</name>
 <quantity_in_stock>8</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Airpods Pro 3</param>
+<param name="Бренд">Различные</param>
+<param name="Аудіо товари">Чехол для Airpods</param>
+</offer>
+<offer id="ts000082734000030674" available="true">
+<url>https://kmt5.com.ua/airpods-pro-3-case-microfiber-marsala-22</url>
+<price>87.0</price>
+<vendorprice>45.0</vendorprice>
+<vendorpricedoll>0.98</vendorpricedoll>
+<rrcdoll>1.93</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>5274189</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzAvNzUv0KYtMDAwMDgyNzM0XzEyLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjYvMDgv0KYtMDAwMDgyNzM0XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000082734</vendorCode>
+<code>789100</code>
+<name>Airpods Pro 3 Case Microfiber — Marsala (22)</name>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Airpods Pro 3</param>
 <param name="Бренд">Различные</param>
@@ -119644,6 +120083,46 @@
 <code>789087</code>
 <name>Airpods Pro 3 Case — Leather Ring  — Black</name>
 <quantity_in_stock>13</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Airpods Pro 3</param>
+<param name="Бренд">Различные</param>
+<param name="Аудіо товари">Чехол для Airpods</param>
+</offer>
+<offer id="ts000082733000030663" available="true">
+<url>https://kmt5.com.ua/airpods-pro-3-case-leather-ring-grey</url>
+<price>188.0</price>
+<vendorprice>99.0</vendorprice>
+<vendorpricedoll>2.2</vendorpricedoll>
+<rrcdoll>4.16</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>5274189</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzIvZDQv0KYtMDAwMDgyNzMzXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2IvNTMv0KYtMDAwMDgyNzMzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000082733</vendorCode>
+<code>789088</code>
+<name>Airpods Pro 3 Case — Leather Ring  — Grey</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Airpods Pro 3</param>
+<param name="Бренд">Различные</param>
+<param name="Аудіо товари">Чехол для Airpods</param>
+</offer>
+<offer id="ts000082733000030664" available="true">
+<url>https://kmt5.com.ua/airpods-pro-3-case-leather-ring-white</url>
+<price>188.0</price>
+<vendorprice>99.0</vendorprice>
+<vendorpricedoll>2.2</vendorpricedoll>
+<rrcdoll>4.16</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>5274189</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTAvMjgv0KYtMDAwMDgyNzMzXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2IvNTMv0KYtMDAwMDgyNzMzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000082733</vendorCode>
+<code>789089</code>
+<name>Airpods Pro 3 Case — Leather Ring  — White</name>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Airpods Pro 3</param>
 <param name="Бренд">Различные</param>
@@ -120361,6 +120840,26 @@
 <code>773770</code>
 <name>Airpods Pro Case Lovely Austronauts — White</name>
 <quantity_in_stock>41</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Airpods Pro</param>
+<param name="Бренд">Различные</param>
+<param name="Аудіо товари">Чехол для Airpods</param>
+</offer>
+<offer id="ts000075716000024468" available="true">
+<url>https://kmt5.com.ua/airpods-pro-case-microfiber-black-1</url>
+<price>76.0</price>
+<vendorprice>41.0</vendorprice>
+<vendorpricedoll>0.9</vendorpricedoll>
+<rrcdoll>1.68</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>90559290</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODUvMGIv0KYtMDAwMDc1NzE2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzQvODYv0KYtMDAwMDc1NzE2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000075716</vendorCode>
+<code>771038</code>
+<name>Airpods Pro Case Microfiber — Black (1)</name>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Airpods Pro</param>
 <param name="Бренд">Различные</param>
@@ -122417,6 +122916,28 @@
 <quantity_in_stock>28</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Air</param>
+<param name="Бренд">Различные</param>
+<param name="Виды защиты экрана">Захисне скло</param>
+<param name="Вид покрытия">Camera Glass</param>
+</offer>
+<offer id="ts000083913000031763" available="true">
+<url>https://kmt5.com.ua/camera-glass-metal-color-iphone-17-pro-max-blue</url>
+<price>162.0</price>
+<vendorprice>81.0</vendorprice>
+<vendorpricedoll>1.8</vendorpricedoll>
+<rrcdoll>3.59</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>71044671</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDIvNWQv0KYtMDAwMDgzOTEzXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2QvMWQv0KYtMDAwMDgzOTEzXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTkvODUv0KYtMDAwMDgzOTEzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000083913</vendorCode>
+<code>791333</code>
+<name>Camera Glass Metal Color — iPhone 17 Pro Max — Blue</name>
+<quantity_in_stock>1</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 17 Pro Max</param>
 <param name="Бренд">Различные</param>
 <param name="Виды защиты экрана">Захисне скло</param>
 <param name="Вид покрытия">Camera Glass</param>
