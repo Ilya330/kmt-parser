@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-10 17:57">
+<yml_catalog date="2026-09-11 07:32">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -3948,8 +3948,8 @@
 <quantity_in_stock>10</quantity_in_stock>
 <param name="Бренд">Различные</param>
 </offer>
-<offer id="ts000084499000032717" available="true">
-<url>https://kmt5.com.ua/brelok-capybara-1</url>
+<offer id="ts000084499000032719" available="true">
+<url>https://kmt5.com.ua/brelok-capybara-3</url>
 <price>82.0</price>
 <vendorprice>48.0</vendorprice>
 <vendorpricedoll>1.05</vendorpricedoll>
@@ -3959,8 +3959,8 @@
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjMvOWIv0KYtMDAwMDg0NDk5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000084499</vendorCode>
-<code>792861</code>
-<name>Брелок Capybara — 1</name>
+<code>792863</code>
+<name>Брелок Capybara — Fish</name>
 <quantity_in_stock>10</quantity_in_stock>
 <param name="Бренд">Различные</param>
 </offer>
@@ -3976,23 +3976,7 @@
 <vendor>Различные</vendor>
 <vendorCode>Ц-000084499</vendorCode>
 <code>792862</code>
-<name>Брелок Capybara — 2</name>
-<quantity_in_stock>10</quantity_in_stock>
-<param name="Бренд">Различные</param>
-</offer>
-<offer id="ts000084499000032719" available="true">
-<url>https://kmt5.com.ua/brelok-capybara-3</url>
-<price>82.0</price>
-<vendorprice>48.0</vendorprice>
-<vendorpricedoll>1.05</vendorpricedoll>
-<rrcdoll>1.81</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>26128749</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjMvOWIv0KYtMDAwMDg0NDk5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000084499</vendorCode>
-<code>792863</code>
-<name>Брелок Capybara — 3</name>
+<name>Брелок Capybara — MC</name>
 <quantity_in_stock>10</quantity_in_stock>
 <param name="Бренд">Различные</param>
 </offer>
@@ -4008,7 +3992,23 @@
 <vendor>Различные</vendor>
 <vendorCode>Ц-000084499</vendorCode>
 <code>792864</code>
-<name>Брелок Capybara — 4</name>
+<name>Брелок Capybara — Peach</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Различные</param>
+</offer>
+<offer id="ts000084499000032717" available="true">
+<url>https://kmt5.com.ua/brelok-capybara-1</url>
+<price>82.0</price>
+<vendorprice>48.0</vendorprice>
+<vendorpricedoll>1.05</vendorpricedoll>
+<rrcdoll>1.81</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>26128749</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjMvOWIv0KYtMDAwMDg0NDk5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000084499</vendorCode>
+<code>792861</code>
+<name>Брелок Capybara — Turtle</name>
 <quantity_in_stock>10</quantity_in_stock>
 <param name="Бренд">Различные</param>
 </offer>
@@ -4040,7 +4040,7 @@
 <vendor>Различные</vendor>
 <vendorCode>Ц-000084498</vendorCode>
 <code>792859</code>
-<name>Брелок Necklace — Different</name>
+<name>Брелок Necklace — Brown</name>
 <quantity_in_stock>10</quantity_in_stock>
 <param name="Бренд">Различные</param>
 </offer>
@@ -4056,7 +4056,23 @@
 <vendor>Различные</vendor>
 <vendorCode>Ц-000084498</vendorCode>
 <code>792858</code>
-<name>Брелок Necklace — Lilak</name>
+<name>Брелок Necklace — Neon Pink</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Различные</param>
+</offer>
+<offer id="ts000084498000032714" available="true">
+<url>https://kmt5.com.ua/brelok-necklace-red</url>
+<price>84.0</price>
+<vendorprice>49.0</vendorprice>
+<vendorpricedoll>1.08</vendorpricedoll>
+<rrcdoll>1.86</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>26128749</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWYvZjcv0KYtMDAwMDg0NDk4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000084498</vendorCode>
+<code>792857</code>
+<name>Брелок Necklace — Orange Peach</name>
 <quantity_in_stock>10</quantity_in_stock>
 <param name="Бренд">Различные</param>
 </offer>
@@ -4089,22 +4105,6 @@
 <vendorCode>Ц-000084498</vendorCode>
 <code>792855</code>
 <name>Брелок Necklace — Purple</name>
-<quantity_in_stock>10</quantity_in_stock>
-<param name="Бренд">Различные</param>
-</offer>
-<offer id="ts000084498000032714" available="true">
-<url>https://kmt5.com.ua/brelok-necklace-red</url>
-<price>84.0</price>
-<vendorprice>49.0</vendorprice>
-<vendorpricedoll>1.08</vendorpricedoll>
-<rrcdoll>1.86</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>26128749</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWYvZjcv0KYtMDAwMDg0NDk4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000084498</vendorCode>
-<code>792857</code>
-<name>Брелок Necklace — Red</name>
 <quantity_in_stock>10</quantity_in_stock>
 <param name="Бренд">Различные</param>
 </offer>
@@ -4310,23 +4310,6 @@
 <param name="Бренд">Различные</param>
 <param name="Украшения для Телефонов">Шнурки</param>
 </offer>
-<offer id="ts000084420000032402" available="true">
-<url>https://kmt5.com.ua/shnurok-na-ruku-carabine-blue</url>
-<price>99.0</price>
-<vendorprice>58.0</vendorprice>
-<vendorpricedoll>1.27</vendorpricedoll>
-<rrcdoll>2.19</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>26128749</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDQvMzQv0KYtMDAwMDg0NDIwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000084420</vendorCode>
-<code>792470</code>
-<name>Шнурок на руку « Carabine » — Blue</name>
-<quantity_in_stock>10</quantity_in_stock>
-<param name="Бренд">Различные</param>
-<param name="Украшения для Телефонов">Шнурки</param>
-</offer>
 <offer id="ts000084420000032405" available="true">
 <url>https://kmt5.com.ua/shnurok-na-ruku-carabine-dark-blue</url>
 <price>99.0</price>
@@ -4378,6 +4361,23 @@
 <param name="Бренд">Различные</param>
 <param name="Украшения для Телефонов">Шнурки</param>
 </offer>
+<offer id="ts000084420000032407" available="true">
+<url>https://kmt5.com.ua/shnurok-na-ruku-carabine-yellow</url>
+<price>99.0</price>
+<vendorprice>58.0</vendorprice>
+<vendorpricedoll>1.27</vendorpricedoll>
+<rrcdoll>2.19</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>26128749</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDQvMzQv0KYtMDAwMDg0NDIwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000084420</vendorCode>
+<code>792475</code>
+<name>Шнурок на руку « Carabine » — Khaki</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Различные</param>
+<param name="Украшения для Телефонов">Шнурки</param>
+</offer>
 <offer id="ts000084420000032406" available="true">
 <url>https://kmt5.com.ua/shnurok-na-ruku-carabine-orange</url>
 <price>99.0</price>
@@ -4412,6 +4412,23 @@
 <param name="Бренд">Различные</param>
 <param name="Украшения для Телефонов">Шнурки</param>
 </offer>
+<offer id="ts000084420000032402" available="true">
+<url>https://kmt5.com.ua/shnurok-na-ruku-carabine-blue</url>
+<price>99.0</price>
+<vendorprice>58.0</vendorprice>
+<vendorpricedoll>1.27</vendorpricedoll>
+<rrcdoll>2.19</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>26128749</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDQvMzQv0KYtMDAwMDg0NDIwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000084420</vendorCode>
+<code>792470</code>
+<name>Шнурок на руку « Carabine » — Purple</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Различные</param>
+<param name="Украшения для Телефонов">Шнурки</param>
+</offer>
 <offer id="ts000084420000032403" available="true">
 <url>https://kmt5.com.ua/shnurok-na-ruku-carabine-red</url>
 <price>99.0</price>
@@ -4441,24 +4458,7 @@
 <vendor>Различные</vendor>
 <vendorCode>Ц-000084420</vendorCode>
 <code>792467</code>
-<name>Шнурок на руку « Carabine » — White</name>
-<quantity_in_stock>10</quantity_in_stock>
-<param name="Бренд">Различные</param>
-<param name="Украшения для Телефонов">Шнурки</param>
-</offer>
-<offer id="ts000084420000032407" available="true">
-<url>https://kmt5.com.ua/shnurok-na-ruku-carabine-yellow</url>
-<price>99.0</price>
-<vendorprice>58.0</vendorprice>
-<vendorpricedoll>1.27</vendorpricedoll>
-<rrcdoll>2.19</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>26128749</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDQvMzQv0KYtMDAwMDg0NDIwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000084420</vendorCode>
-<code>792475</code>
-<name>Шнурок на руку « Carabine » — Yellow</name>
+<name>Шнурок на руку « Carabine » — Stone</name>
 <quantity_in_stock>10</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Украшения для Телефонов">Шнурки</param>
@@ -4480,23 +4480,6 @@
 <param name="Бренд">Различные</param>
 <param name="Украшения для Телефонов">Шнурки</param>
 </offer>
-<offer id="ts000084419000032394" available="true">
-<url>https://kmt5.com.ua/shnurok-na-sheyu-heart-blue</url>
-<price>154.0</price>
-<vendorprice>90.0</vendorprice>
-<vendorpricedoll>1.98</vendorpricedoll>
-<rrcdoll>3.42</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>26128749</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDIvYjIv0KYtMDAwMDg0NDE5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000084419</vendorCode>
-<code>792461</code>
-<name>Шнурок на шею «Heart» — Blue</name>
-<quantity_in_stock>10</quantity_in_stock>
-<param name="Бренд">Различные</param>
-<param name="Украшения для Телефонов">Шнурки</param>
-</offer>
 <offer id="ts000084419000032393" available="true">
 <url>https://kmt5.com.ua/shnurok-na-sheyu-heart-green</url>
 <price>154.0</price>
@@ -4509,7 +4492,24 @@
 <vendor>Различные</vendor>
 <vendorCode>Ц-000084419</vendorCode>
 <code>792460</code>
-<name>Шнурок на шею «Heart» — Green</name>
+<name>Шнурок на шею «Heart» — Brown</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Различные</param>
+<param name="Украшения для Телефонов">Шнурки</param>
+</offer>
+<offer id="ts000084419000032395" available="true">
+<url>https://kmt5.com.ua/shnurok-na-sheyu-heart-yellow</url>
+<price>154.0</price>
+<vendorprice>90.0</vendorprice>
+<vendorpricedoll>1.98</vendorpricedoll>
+<rrcdoll>3.42</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>26128749</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDIvYjIv0KYtMDAwMDg0NDE5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000084419</vendorCode>
+<code>792462</code>
+<name>Шнурок на шею «Heart» — Lavander</name>
 <quantity_in_stock>10</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Украшения для Телефонов">Шнурки</param>
@@ -4548,6 +4548,23 @@
 <param name="Бренд">Различные</param>
 <param name="Украшения для Телефонов">Шнурки</param>
 </offer>
+<offer id="ts000084419000032394" available="true">
+<url>https://kmt5.com.ua/shnurok-na-sheyu-heart-blue</url>
+<price>154.0</price>
+<vendorprice>90.0</vendorprice>
+<vendorpricedoll>1.98</vendorpricedoll>
+<rrcdoll>3.42</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>26128749</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDIvYjIv0KYtMDAwMDg0NDE5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000084419</vendorCode>
+<code>792461</code>
+<name>Шнурок на шею «Heart» — Purple</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Различные</param>
+<param name="Украшения для Телефонов">Шнурки</param>
+</offer>
 <offer id="ts000084419000032392" available="true">
 <url>https://kmt5.com.ua/shnurok-na-sheyu-heart-red</url>
 <price>154.0</price>
@@ -4577,24 +4594,7 @@
 <vendor>Различные</vendor>
 <vendorCode>Ц-000084419</vendorCode>
 <code>792458</code>
-<name>Шнурок на шею «Heart» — White</name>
-<quantity_in_stock>10</quantity_in_stock>
-<param name="Бренд">Различные</param>
-<param name="Украшения для Телефонов">Шнурки</param>
-</offer>
-<offer id="ts000084419000032395" available="true">
-<url>https://kmt5.com.ua/shnurok-na-sheyu-heart-yellow</url>
-<price>154.0</price>
-<vendorprice>90.0</vendorprice>
-<vendorpricedoll>1.98</vendorpricedoll>
-<rrcdoll>3.42</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>26128749</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDIvYjIv0KYtMDAwMDg0NDE5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000084419</vendorCode>
-<code>792462</code>
-<name>Шнурок на шею «Heart» — Yellow</name>
+<name>Шнурок на шею «Heart» — Stone</name>
 <quantity_in_stock>10</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Украшения для Телефонов">Шнурки</param>
@@ -4628,7 +4628,7 @@
 <vendor>Различные</vendor>
 <vendorCode>Ц-000084418</vendorCode>
 <code>792453</code>
-<name>Шнурок на шею «Oxford» — Blue</name>
+<name>Шнурок на шею «Oxford» — Dark Blue</name>
 <quantity_in_stock>10</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Украшения для Телефонов">Шнурки</param>
@@ -4650,23 +4650,6 @@
 <param name="Бренд">Различные</param>
 <param name="Украшения для Телефонов">Шнурки</param>
 </offer>
-<offer id="ts000084418000032386" available="true">
-<url>https://kmt5.com.ua/shnurok-na-sheyu-oxford-green</url>
-<price>219.0</price>
-<vendorprice>127.0</vendorprice>
-<vendorpricedoll>2.81</vendorpricedoll>
-<rrcdoll>4.85</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>26128749</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmIvODAv0KYtMDAwMDg0NDE4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000084418</vendorCode>
-<code>792452</code>
-<name>Шнурок на шею «Oxford» — Green</name>
-<quantity_in_stock>10</quantity_in_stock>
-<param name="Бренд">Различные</param>
-<param name="Украшения для Телефонов">Шнурки</param>
-</offer>
 <offer id="ts000084418000032388" available="true">
 <url>https://kmt5.com.ua/shnurok-na-sheyu-oxford-light-blue</url>
 <price>219.0</price>
@@ -4679,7 +4662,7 @@
 <vendor>Различные</vendor>
 <vendorCode>Ц-000084418</vendorCode>
 <code>792454</code>
-<name>Шнурок на шею «Oxford» — Light Blue</name>
+<name>Шнурок на шею «Oxford» — Light Purple</name>
 <quantity_in_stock>10</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Украшения для Телефонов">Шнурки</param>
@@ -4696,7 +4679,24 @@
 <vendor>Различные</vendor>
 <vendorCode>Ц-000084418</vendorCode>
 <code>792451</code>
-<name>Шнурок на шею «Oxford» — Red</name>
+<name>Шнурок на шею «Oxford» — Orange</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Различные</param>
+<param name="Украшения для Телефонов">Шнурки</param>
+</offer>
+<offer id="ts000084418000032386" available="true">
+<url>https://kmt5.com.ua/shnurok-na-sheyu-oxford-green</url>
+<price>219.0</price>
+<vendorprice>127.0</vendorprice>
+<vendorpricedoll>2.81</vendorpricedoll>
+<rrcdoll>4.85</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>26128749</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmIvODAv0KYtMDAwMDg0NDE4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000084418</vendorCode>
+<code>792452</code>
+<name>Шнурок на шею «Oxford» — Purple</name>
 <quantity_in_stock>10</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Украшения для Телефонов">Шнурки</param>
@@ -4713,7 +4713,7 @@
 <vendor>Различные</vendor>
 <vendorCode>Ц-000084418</vendorCode>
 <code>792450</code>
-<name>Шнурок на шею «Oxford» — White</name>
+<name>Шнурок на шею «Oxford» — Stone</name>
 <quantity_in_stock>10</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Украшения для Телефонов">Шнурки</param>
@@ -11083,23 +11083,6 @@
 <code>789927</code>
 <name>Led лампа 30 см</name>
 <quantity_in_stock>119</quantity_in_stock>
-<param name="Бренд">Различные</param>
-</offer>
-<offer id="ts000083155" available="true">
-<url>https://kmt5.com.ua/led-lampa-40-sm</url>
-<price>495.0</price>
-<vendorprice>282.0</vendorprice>
-<vendorpricedoll>6.27</vendorpricedoll>
-<rrcdoll>10.99</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>99750360</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTQvMDEv0KYtMDAwMDgzMTU1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDUvZjMv0KYtMDAwMDgzMTU1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000083155</vendorCode>
-<code>789928</code>
-<name>Led лампа 40 см</name>
-<quantity_in_stock>14</quantity_in_stock>
 <param name="Бренд">Различные</param>
 </offer>
 <offer id="ts000083156" available="true">
@@ -17570,28 +17553,6 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Пластик &amp; TPU</param>
-<param name="Цвет">Transparent</param>
-</offer>
-<offer id="ts000082154" available="true">
-<url>https://kmt5.com.ua/ipaky-crystal-series-tpu-case-iphone-17-pro-max</url>
-<price>291.0</price>
-<vendorprice>193.0</vendorprice>
-<vendorpricedoll>4.29</vendorpricedoll>
-<rrcdoll>6.46</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54622491</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDkvOGIv0KYtMDAwMDgyMTU0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzEvZGMv0KYtMDAwMDgyMTU0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082154</vendorCode>
-<code>788075</code>
-<name>Ipaky Crystal Series TPU Case iPhone 17 Pro Max</name>
-<quantity_in_stock>23</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro Max</param>
 <param name="Бренд">Различные</param>
 <param name="Материал">Пластик &amp; TPU</param>
 <param name="Цвет">Transparent</param>
@@ -24861,27 +24822,6 @@
 <param name="Бренд">Apple</param>
 <param name="Материал">Полиуретан</param>
 </offer>
-<offer id="ts000081745" available="true">
-<url>https://kmt5.com.ua/black-hybrid-case-with-magsafe-samsung-s24fe</url>
-<price>189.0</price>
-<vendorprice>124.0</vendorprice>
-<vendorpricedoll>2.75</vendorpricedoll>
-<rrcdoll>4.19</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>43902800</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2IvMDEv0KYtMDAwMDgxNzQ1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWMvNzMv0KYtMDAwMDgxNzQ1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000081745</vendorCode>
-<code>787505</code>
-<name>Black Hybrid Case With Magsafe — Samsung S24FE</name>
-<quantity_in_stock>4</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Samsung</param>
-<param name="Модель девайса">Samsung S24 FE</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Полиуретан</param>
-</offer>
 <offer id="ts000080625" available="true">
 <url>https://kmt5.com.ua/black-hybrid-case-with-magsafe-samsung-s25</url>
 <price>188.0</price>
@@ -27999,48 +27939,6 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 6.1&quot;</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Карбон &amp; Силикон</param>
-</offer>
-<offer id="ts000082302" available="true">
-<url>https://kmt5.com.ua/carbon-case-with-magsafe-iphone-15-pro</url>
-<price>290.0</price>
-<vendorprice>193.0</vendorprice>
-<vendorpricedoll>4.27</vendorpricedoll>
-<rrcdoll>6.44</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>16203878</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDMvZWIv0KYtMDAwMDgyMzAyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjMvZDQv0KYtMDAwMDgyMzAyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000082302</vendorCode>
-<code>788353</code>
-<name>Carbon case with Magsafe — iPhone 15 Pro</name>
-<quantity_in_stock>6</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 15 Pro</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Карбон &amp; Силикон</param>
-</offer>
-<offer id="ts000082304" available="true">
-<url>https://kmt5.com.ua/carbon-case-with-magsafe-iphone-16</url>
-<price>290.0</price>
-<vendorprice>193.0</vendorprice>
-<vendorpricedoll>4.27</vendorpricedoll>
-<rrcdoll>6.44</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>60652165</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGYvYTIv0KYtMDAwMDgyMzA0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODkvYzgv0KYtMDAwMDgyMzA0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000082304</vendorCode>
-<code>788355</code>
-<name>Carbon case with Magsafe — iPhone 16</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 16</param>
 <param name="Бренд">Apple</param>
 <param name="Материал">Карбон &amp; Силикон</param>
 </offer>
@@ -76923,27 +76821,6 @@
 <param name="Бренд">Apple</param>
 <param name="Материал">Полиуретан</param>
 </offer>
-<offer id="ts000083093" available="true">
-<url>https://kmt5.com.ua/rainbow-case-with-magsafe-iphone-17-pro-max</url>
-<price>362.0</price>
-<vendorprice>228.0</vendorprice>
-<vendorpricedoll>5.06</vendorpricedoll>
-<rrcdoll>8.03</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54622491</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjcvNGUv0KYtMDAwMDgzMDkzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjQvZmUv0KYtMDAwMDgzMDkzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000083093</vendorCode>
-<code>789839</code>
-<name>Rainbow Case With Magsafe — iPhone 17 Pro Max</name>
-<quantity_in_stock>4</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro Max</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Полиуретан</param>
-</offer>
 <offer id="ts000040087" available="true">
 <url>https://kmt5.com.ua/remax-beck-series-creative-case-iphone-7-8-brown</url>
 <price>186.0</price>
@@ -92352,30 +92229,6 @@
 <param name="Материал">Силикон</param>
 <param name="Цвет">Clear</param>
 </offer>
-<offer id="ts000073662" available="true">
-<url>https://kmt5.com.ua/space-case-with-magsafe-iphone-14-pro-max</url>
-<price>194.0</price>
-<vendorprice>129.0</vendorprice>
-<vendorpricedoll>2.86</vendorpricedoll>
-<rrcdoll>4.3</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>65522936</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzgvYTMv0KYtMDAwMDczNjYyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmMvZDAv0KYtMDAwMDczNjYyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTIvOTMv0KYtMDAwMDczNjYyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2EvMjUv0KYtMDAwMDczNjYyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000073662</vendorCode>
-<code>756156</code>
-<name>Space Case with MagSafe iPhone 14 Pro Max</name>
-<quantity_in_stock>5</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 14 Pro Max 6.7&quot;</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Силикон</param>
-<param name="Цвет">Clear</param>
-</offer>
 <offer id="ts000077247" available="true">
 <url>https://kmt5.com.ua/space-case-with-magsafe-iphone-15</url>
 <price>194.0</price>
@@ -98646,27 +98499,6 @@
 <param name="Бренд">Различные</param>
 <param name="Материал">Пластик</param>
 </offer>
-<offer id="ts000077297000028446" available="true">
-<url>https://kmt5.com.ua/uag-adventure-magnetic-case-iphone-12-pro-max-67-gray</url>
-<price>351.0</price>
-<vendorprice>218.0</vendorprice>
-<vendorpricedoll>4.84</vendorpricedoll>
-<rrcdoll>7.79</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>36174719</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTkvODQv0KYtMDAwMDc3Mjk3XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDIvZDcv0KYtMDAwMDc3Mjk3XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000077297</vendorCode>
-<code>782143</code>
-<name>UAG Adventure Magnetic Case — iPhone 12 Pro Max 6.7&quot;  — Gray</name>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 12 Pro Max 6.7&quot;</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Пластик</param>
-</offer>
 <offer id="ts000077297000028449" available="true">
 <url>https://kmt5.com.ua/uag-adventure-magnetic-case-iphone-12-pro-max-67-green</url>
 <price>351.0</price>
@@ -100010,29 +99842,6 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 13 Pro Max 6.7&quot;</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Пластик</param>
-<param name="Цвет">Black</param>
-</offer>
-<offer id="ts000073578" available="true">
-<url>https://kmt5.com.ua/uag-military-armor-monarch-case-iphone-14</url>
-<price>224.0</price>
-<vendorprice>139.0</vendorprice>
-<vendorpricedoll>3.08</vendorpricedoll>
-<rrcdoll>4.96</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>65522936</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWIvMjkv0KYtMDAwMDczNTc4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTkvNzcv0KYtMDAwMDczNTc4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTIvNGUv0KYtMDAwMDczNTc4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000073578</vendorCode>
-<code>755993</code>
-<name>UAG Military armor Monarch Case iPhone 14</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 14 6.1&quot;</param>
 <param name="Бренд">Различные</param>
 <param name="Материал">Пластик</param>
 <param name="Цвет">Black</param>
@@ -132396,27 +132205,6 @@
 <quantity_in_stock>9</quantity_in_stock>
 <param name="Бренд">VERON</param>
 </offer>
-<offer id="ts000084111" available="true">
-<url>https://kmt5.com.ua/gibridnyiy-invertor-vrs51101-s-odnim-akkumulyatorom-512kwh-s-korpusom-na-kolesah-lifepo4</url>
-<price>80000.0</price>
-<vendorprice>75685.0</vendorprice>
-<vendorpricedoll>1683.0</vendorpricedoll>
-<rrcdoll>1778.96</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>38465602</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTYvZjMv0KYtMDAwMDg0MTExXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGYvYjQv0KYtMDAwMDg0MTExXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODkvMTEv0KYtMDAwMDg0MTExXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODgvYTQv0KYtMDAwMDg0MTExXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGMvNGMv0KYtMDAwMDg0MTExXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>VERON</vendor>
-<vendorCode>Ц-000084111</vendorCode>
-<code>791860</code>
-<name>Гибридный инвертор VR-S51101 с одним аккумулятором 5,12KWh с корпусом на колесах  LiFePo4</name>
-<description><![CDATA[Max.PV Open Circuit Voltage :500VdcPV Working Voltage Range:120V-500VdcMPPT Voltage Range:120V-450VdcMax.PV input Current :22AMax.pV input Power: 5500WMax. PV Charging Current: 80A Технические характеристики системы включают в себя: номинальное напряжение — 48 вольт, ёмкость — 5,1 кВт·ч на модуль, максимальная мощность отдачи — 3 кВт, интерфейсы — CAN и RS485 для связи с инвертором, степень защиты корпуса — IP20, а рабочий температурный диапазон — от минус 10 до плюс 50 градусов Цельсия. Также поддерживается несколько режимов работы, включая режим автоматического восстановления, умное управление зарядкой и защиту от перегрузок.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">VERON</param>
-</offer>
 <offer id="ts000084112" available="true">
 <url>https://kmt5.com.ua/gibridnyiy-invertor-vrs51102-s-dvumya-akkumulyatorami-1024kwh-s-korpusom-na-kolesah-lifepo4</url>
 <price>115000.0</price>
@@ -138590,25 +138378,6 @@
 <param name="Бренд">Wiwu</param>
 <param name="Зарядные устройства">Беспроводные</param>
 <param name="Аксессуары Для Смарт Часов">Зарядное устройство</param>
-</offer>
-<offer id="ts000037963" available="true">
-<url>https://kmt5.com.ua/zaryadnye-ustroystva-dlya-wifi-routera-12v2a</url>
-<price>160.0</price>
-<vendorprice>94.0</vendorprice>
-<vendorpricedoll>2.09</vendorpricedoll>
-<rrcdoll>3.55</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>56676196</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDQvYzEv0KYtMDAwMDM3OTYzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjgvMzAv0KYtMDAwMDM3OTYzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000037963</vendorCode>
-<code>718944</code>
-<name>Зарядные устройства для WIFI роутера 12V2A</name>
-<quantity_in_stock>18</quantity_in_stock>
-<param name="Бренд">Различные</param>
-<param name="Сетевое оборудование">Зарядные устройства для роутеров</param>
-<param name="Цвет">Black</param>
 </offer>
 <offer id="ts000075485" available="true">
 <url>https://kmt5.com.ua/power-plug-adapter-all-in-one</url>
@@ -147876,26 +147645,6 @@
 <param name="Длина кабеля">1m</param>
 <param name="Цвет">Black</param>
 </offer>
-<offer id="ts000077535" available="true">
-<url>https://kmt5.com.ua/30-usb-to-vga-copper</url>
-<price>372.0</price>
-<vendorprice>246.0</vendorprice>
-<vendorpricedoll>5.45</vendorpricedoll>
-<rrcdoll>8.25</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>30757861</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDYvMzEv0KYtMDAwMDc3NTM1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWYvZWIv0KYtMDAwMDc3NTM1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDAvYTMv0KYtMDAwMDc3NTM1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000077535</vendorCode>
-<code>775056</code>
-<name>3.0 USB to VGA Copper</name>
-<quantity_in_stock>12</quantity_in_stock>
-<param name="Бренд">Различные</param>
-<param name="Компьютерные аксессуары">Переходники</param>
-<param name="Цвет">Black</param>
-</offer>
 <offer id="ts000042557" available="true">
 <url>https://kmt5.com.ua/adapter-hdmi-m-dvi-f</url>
 <price>82.0</price>
@@ -149069,25 +148818,6 @@
 <param name="Бренд">Hoco</param>
 <param name="Разъем подключения">HDMI Cable</param>
 <param name="Длина кабеля">1m</param>
-</offer>
-<offer id="ts000077546" available="true">
-<url>https://kmt5.com.ua/hdmi-to-3-hdmi</url>
-<price>401.0</price>
-<vendorprice>287.0</vendorprice>
-<vendorpricedoll>6.38</vendorpricedoll>
-<rrcdoll>8.9</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>30757861</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDcvYmIv0KYtMDAwMDc3NTQ2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjcvNGIv0KYtMDAwMDc3NTQ2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDAvZTYv0KYtMDAwMDc3NTQ2XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000077546</vendorCode>
-<code>775067</code>
-<name>HDMI To 3 HDMI</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Различные</param>
-<param name="Компьютерные аксессуары">Кабели</param>
 </offer>
 <offer id="ts000077532" available="true">
 <url>https://kmt5.com.ua/hdmi-to-mini-dp-18m</url>
@@ -161547,26 +161277,6 @@
 <name>Лампа видеосвет LED RL-1200</name>
 <description><![CDATA[Модель: RL1200 Цветовая температура: 5500K Электропитание: 50 Вт Напряжение: 110-220v Вес: 3 kg Режим управления: Дистанционное управление Материал: Пластик + АБС Размер: 12 дюймов Источник света: Белый + желтый + смешанный]]></description>
 <quantity_in_stock>42</quantity_in_stock>
-<param name="Бренд">Различные</param>
-<param name="Студийное оборудование">Лампа видеосвет</param>
-</offer>
-<offer id="ts000075502" available="true">
-<url>https://kmt5.com.ua/lampa-videosvet-projektor-rl24</url>
-<price>1109.0</price>
-<vendorprice>965.0</vendorprice>
-<vendorpricedoll>21.45</vendorpricedoll>
-<rrcdoll>24.66</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>52158449</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTEvMmUv0KYtMDAwMDc1NTAyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2UvN2Yv0KYtMDAwMDc1NTAyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2IvZjgv0KYtMDAwMDc1NTAyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjEvNGYv0KYtMDAwMDc1NTAyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000075502</vendorCode>
-<code>770560</code>
-<name>Лампа видеосвет LED RL-24</name>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Студийное оборудование">Лампа видеосвет</param>
 </offer>
@@ -183600,26 +183310,6 @@
 <param name="Материал">Металл</param>
 <param name="Аксессуары Для Смарт Часов">Браслеты</param>
 </offer>
-<offer id="ts000072952000022441" available="true">
-<url>https://kmt5.com.ua/remnets-nylon-with-protective-case-apple-watch-40-mm-black</url>
-<price>81.0</price>
-<vendorprice>45.0</vendorprice>
-<vendorpricedoll>0.99</vendorpricedoll>
-<rrcdoll>1.8</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>48417745</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjEvYTcv0KYtMDAwMDcyOTUyXzE2LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzQvODQv0KYtMDAwMDcyOTUyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000072952</vendorCode>
-<code>754287</code>
-<name>Ремінець Nylon with protective case Apple Watch 40 mm — Black</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Watch Series 7 41 mm, Apple Watch Series 3 38 mm, Apple Watch Series 4 40 mm</param>
-<param name="Бренд">Различные</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
 <offer id="ts000072952000022294" available="true">
 <url>https://kmt5.com.ua/remeshok-apple-watch-nylon-with-protective-case-384041mm-black</url>
 <price>81.0</price>
@@ -183635,6 +183325,26 @@
 <code>754098</code>
 <name>Ремінець Nylon with protective case Apple Watch 40 mm — Black</name>
 <quantity_in_stock>16</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Watch Series 7 41 mm, Apple Watch Series 3 38 mm, Apple Watch Series 4 40 mm</param>
+<param name="Бренд">Различные</param>
+<param name="Аксессуары Для Смарт Часов">Браслеты</param>
+</offer>
+<offer id="ts000072952000022441" available="true">
+<url>https://kmt5.com.ua/remnets-nylon-with-protective-case-apple-watch-40-mm-black</url>
+<price>81.0</price>
+<vendorprice>45.0</vendorprice>
+<vendorpricedoll>0.99</vendorpricedoll>
+<rrcdoll>1.8</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>48417745</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjEvYTcv0KYtMDAwMDcyOTUyXzE2LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzQvODQv0KYtMDAwMDcyOTUyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000072952</vendorCode>
+<code>754287</code>
+<name>Ремінець Nylon with protective case Apple Watch 40 mm — Black</name>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Watch Series 7 41 mm, Apple Watch Series 3 38 mm, Apple Watch Series 4 40 mm</param>
 <param name="Бренд">Различные</param>
@@ -196249,10 +195959,10 @@
 </offer>
 <offer id="ts000084500000032723" available="true">
 <url>https://kmt5.com.ua/igrushkaantistress-squishy-dumpling-big-blue</url>
-<price>108.0</price>
-<vendorprice>85.0</vendorprice>
-<vendorpricedoll>1.87</vendorpricedoll>
-<rrcdoll>2.38</rrcdoll>
+<price>95.0</price>
+<vendorprice>75.0</vendorprice>
+<vendorpricedoll>1.65</vendorpricedoll>
+<rrcdoll>2.1</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>75087609</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGQvMDQv0KYtMDAwMDg0NTAwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -196265,10 +195975,10 @@
 </offer>
 <offer id="ts000084500000032721" available="true">
 <url>https://kmt5.com.ua/igrushkaantistress-squishy-dumpling-big-green</url>
-<price>108.0</price>
-<vendorprice>85.0</vendorprice>
-<vendorpricedoll>1.87</vendorpricedoll>
-<rrcdoll>2.38</rrcdoll>
+<price>95.0</price>
+<vendorprice>75.0</vendorprice>
+<vendorpricedoll>1.65</vendorpricedoll>
+<rrcdoll>2.1</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>75087609</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGQvMDQv0KYtMDAwMDg0NTAwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -196281,10 +195991,10 @@
 </offer>
 <offer id="ts000084500000032722" available="true">
 <url>https://kmt5.com.ua/igrushkaantistress-squishy-dumpling-big-red</url>
-<price>108.0</price>
-<vendorprice>85.0</vendorprice>
-<vendorpricedoll>1.87</vendorpricedoll>
-<rrcdoll>2.38</rrcdoll>
+<price>95.0</price>
+<vendorprice>75.0</vendorprice>
+<vendorpricedoll>1.65</vendorpricedoll>
+<rrcdoll>2.1</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>75087609</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGQvMDQv0KYtMDAwMDg0NTAwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -196297,10 +196007,10 @@
 </offer>
 <offer id="ts000084500000032725" available="true">
 <url>https://kmt5.com.ua/igrushkaantistress-squishy-dumpling-big-white</url>
-<price>108.0</price>
-<vendorprice>85.0</vendorprice>
-<vendorpricedoll>1.87</vendorpricedoll>
-<rrcdoll>2.38</rrcdoll>
+<price>95.0</price>
+<vendorprice>75.0</vendorprice>
+<vendorpricedoll>1.65</vendorpricedoll>
+<rrcdoll>2.1</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>75087609</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGQvMDQv0KYtMDAwMDg0NTAwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -196313,10 +196023,10 @@
 </offer>
 <offer id="ts000084500000032724" available="true">
 <url>https://kmt5.com.ua/igrushkaantistress-squishy-dumpling-big-yellow</url>
-<price>108.0</price>
-<vendorprice>85.0</vendorprice>
-<vendorpricedoll>1.87</vendorpricedoll>
-<rrcdoll>2.38</rrcdoll>
+<price>95.0</price>
+<vendorprice>75.0</vendorprice>
+<vendorpricedoll>1.65</vendorpricedoll>
+<rrcdoll>2.1</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>75087609</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGQvMDQv0KYtMDAwMDg0NTAwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -196329,10 +196039,10 @@
 </offer>
 <offer id="ts000084501000032727" available="true">
 <url>https://kmt5.com.ua/igrushkaantistress-squishy-dumpling-small-blue</url>
-<price>85.0</price>
-<vendorprice>68.0</vendorprice>
-<vendorpricedoll>1.49</vendorpricedoll>
-<rrcdoll>1.89</rrcdoll>
+<price>76.0</price>
+<vendorprice>60.0</vendorprice>
+<vendorpricedoll>1.32</vendorpricedoll>
+<rrcdoll>1.68</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>75087609</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDEvN2Iv0KYtMDAwMDg0NTAxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -196345,10 +196055,10 @@
 </offer>
 <offer id="ts000084501000032729" available="true">
 <url>https://kmt5.com.ua/igrushkaantistress-squishy-dumpling-small-red</url>
-<price>85.0</price>
-<vendorprice>68.0</vendorprice>
-<vendorpricedoll>1.49</vendorpricedoll>
-<rrcdoll>1.89</rrcdoll>
+<price>76.0</price>
+<vendorprice>60.0</vendorprice>
+<vendorpricedoll>1.32</vendorpricedoll>
+<rrcdoll>1.68</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>75087609</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDEvN2Iv0KYtMDAwMDg0NTAxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -196361,10 +196071,10 @@
 </offer>
 <offer id="ts000084501000032726" available="true">
 <url>https://kmt5.com.ua/igrushkaantistress-squishy-dumpling-small-white</url>
-<price>85.0</price>
-<vendorprice>68.0</vendorprice>
-<vendorpricedoll>1.49</vendorpricedoll>
-<rrcdoll>1.89</rrcdoll>
+<price>76.0</price>
+<vendorprice>60.0</vendorprice>
+<vendorpricedoll>1.32</vendorpricedoll>
+<rrcdoll>1.68</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>75087609</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDEvN2Iv0KYtMDAwMDg0NTAxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -196377,10 +196087,10 @@
 </offer>
 <offer id="ts000084501000032728" available="true">
 <url>https://kmt5.com.ua/igrushkaantistress-squishy-dumpling-small-yellow</url>
-<price>85.0</price>
-<vendorprice>68.0</vendorprice>
-<vendorpricedoll>1.49</vendorpricedoll>
-<rrcdoll>1.89</rrcdoll>
+<price>76.0</price>
+<vendorprice>60.0</vendorprice>
+<vendorpricedoll>1.32</vendorpricedoll>
+<rrcdoll>1.68</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>75087609</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDEvN2Iv0KYtMDAwMDg0NTAxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -203560,24 +203270,6 @@
 <name>Підставка для телефону S701</name>
 <quantity_in_stock>47</quantity_in_stock>
 <param name="Бренд">Различные</param>
-</offer>
-<offer id="ts000081203" available="true">
-<url>https://kmt5.com.ua/pdstavka-dlya-telefonu-wiwu-zm014</url>
-<price>290.0</price>
-<vendorprice>174.0</vendorprice>
-<vendorpricedoll>3.85</vendorpricedoll>
-<rrcdoll>6.44</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>52765482</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2EvNDgv0KYtMDAwMDgxMjAzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzYvYTgv0KYtMDAwMDgxMjAzXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTEvNGQv0KYtMDAwMDgxMjAzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Wiwu</vendor>
-<vendorCode>Ц-000081203</vendorCode>
-<code>786543</code>
-<name>Підставка для телефону WiWU ZM014</name>
-<quantity_in_stock>6</quantity_in_stock>
-<param name="Бренд">Wiwu</param>
 </offer>
 <offer id="ts000065666000024416" available="true">
 <url>https://kmt5.com.ua/baseus-sulr0-unlimited-adjustment-lazy-phone-holder-sulr0g-grey</url>
