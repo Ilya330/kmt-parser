@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-13 07:42">
+<yml_catalog date="2026-09-13 13:31">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -15238,31 +15238,6 @@
 <param name="Бренд">Polo</param>
 <param name="Материал">PU кожа</param>
 </offer>
-<offer id="ts000083014000031039" available="true">
-<url>https://kmt5.com.ua/polo-augus-silicone-case-with-magsafe-iphone-17-pro-max-grey</url>
-<price>780.0</price>
-<vendorprice>484.0</vendorprice>
-<vendorpricedoll>10.78</vendorpricedoll>
-<rrcdoll>17.38</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54622491</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDkvNmUv0KYtMDAwMDgzMDE0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTEvZjQv0KYtMDAwMDgzMDE0XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2EvYzQv0KYtMDAwMDgzMDE0XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTAvZjQv0KYtMDAwMDgzMDE0XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDYvMzAv0KYtMDAwMDgzMDE0XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWQvNzYv0KYtMDAwMDgzMDE0XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Polo</vendor>
-<vendorCode>Ц-000083014</vendorCode>
-<code>789739</code>
-<name>Polo Augus Silicone Case with Magsafe iPhone 17 Pro Max — Grey</name>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro Max</param>
-<param name="Бренд">Polo</param>
-<param name="Материал">Силикон</param>
-</offer>
 <offer id="ts000083014000031040" available="true">
 <url>https://kmt5.com.ua/polo-augus-silicone-case-with-magsafe-iphone-17-pro-max-navy-blue</url>
 <price>780.0</price>
@@ -16865,27 +16840,6 @@
 <code>792060</code>
 <name>Vibe Case With MagSafe iPhone 15 Pro Max  — Black</name>
 <quantity_in_stock>20</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 15 Pro Max</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Силикон</param>
-</offer>
-<offer id="ts000084225" available="true">
-<url>https://kmt5.com.ua/vibe-case-with-magsafe-iphone-15-pro-max-grey</url>
-<price>320.0</price>
-<vendorprice>196.0</vendorprice>
-<vendorpricedoll>4.35</vendorpricedoll>
-<rrcdoll>7.13</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>16203878</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTgvZWMv0KYtMDAwMDg0MjI1XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTkvZWQv0KYtMDAwMDg0MjI1XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000084225</vendorCode>
-<code>792062</code>
-<name>Vibe Case With MagSafe iPhone 15 Pro Max  — Grey</name>
-<quantity_in_stock>10</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro Max</param>
@@ -19201,27 +19155,6 @@
 <vendorCode>Ц-000082592</vendorCode>
 <code>789941</code>
 <name>AG Glass Case With MagSafe — iPhone 17 Pro Max — Orange</name>
-<quantity_in_stock>3</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro Max</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Полиуретан</param>
-</offer>
-<offer id="ts000082592000030620" available="true">
-<url>https://kmt5.com.ua/ag-glass-case-with-magsafe-iphone-17-pro-max-silver</url>
-<price>215.0</price>
-<vendorprice>131.0</vendorprice>
-<vendorpricedoll>2.92</vendorpricedoll>
-<rrcdoll>4.78</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54622491</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2IvZjUv0KYtMDAwMDgyNTkyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGEvNjIv0KYtMDAwMDgyNTkyXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000082592</vendorCode>
-<code>788904</code>
-<name>AG Glass Case With MagSafe — iPhone 17 Pro Max — Silver</name>
 <quantity_in_stock>3</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
@@ -61511,31 +61444,6 @@
 <param name="Бренд">Apple</param>
 <param name="Материал">Полиуретан</param>
 </offer>
-<offer id="ts000076190000031279" available="true">
-<url>https://kmt5.com.ua/original-silicone-case-full-size-iphone-15-pro-new-brown-80</url>
-<price>155.0</price>
-<vendorprice>97.0</vendorprice>
-<vendorpricedoll>2.15</vendorpricedoll>
-<rrcdoll>3.44</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>16203878</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzMvZTcv0KYtMDAwMDc2MTkwXzIzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTQvZjQv0KYtMDAwMDc2MTkwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjMvYzEv0KYtMDAwMDc2MTkwXzE3LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2YvMmEv0KYtMDAwMDc2MTkwXzE4LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjcvNTUv0KYtMDAwMDc2MTkwXzE5LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTYvZmEv0KYtMDAwMDc2MTkwXzIyLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000076190</vendorCode>
-<code>790209</code>
-<name>Original Silicone Case Full Size iPhone 15 Pro — New Brown (80)</name>
-<quantity_in_stock>3</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 15 Pro</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Полиуретан</param>
-</offer>
 <offer id="ts000076190000025080" available="true">
 <url>https://kmt5.com.ua/original-silicone-case-full-size-iphone-15-pro-pine-green-58</url>
 <price>155.0</price>
@@ -62330,6 +62238,29 @@
 <code>782839</code>
 <name>Original Silicone Case Full Size iPhone 16 Pro — Phistashio (68)</name>
 <quantity_in_stock>9</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 16 Pro</param>
+<param name="Бренд">Apple</param>
+<param name="Материал">Полиуретан</param>
+</offer>
+<offer id="ts000080322000028864" available="true">
+<url>https://kmt5.com.ua/original-silicone-case-full-size-iphone-16-pro-rock-gray-10</url>
+<price>155.0</price>
+<vendorprice>97.0</vendorprice>
+<vendorpricedoll>2.15</vendorpricedoll>
+<rrcdoll>3.44</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>60652165</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2EvMTIv0KYtMDAwMDgwMzIyXzE5LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTIvMDAv0KYtMDAwMDgwMzIyXzE0LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzAvZmYv0KYtMDAwMDgwMzIyXzE1LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzAvMjkv0KYtMDAwMDgwMzIyXzIxLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000080322</vendorCode>
+<code>782841</code>
+<name>Original Silicone Case Full Size iPhone 16 Pro — Rock Gray (10)</name>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16 Pro</param>
@@ -66370,6 +66301,28 @@
 <code>771732</code>
 <name>Original Silicone Case with protective camera iPhone 13 Pro Max — Neon Green (60)</name>
 <quantity_in_stock>5</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 13 Pro Max 6.7&quot;</param>
+<param name="Бренд">Различные</param>
+<param name="Материал">Полиуретан</param>
+</offer>
+<offer id="ts000076003000024887" available="true">
+<url>https://kmt5.com.ua/original-silicone-case-with-protective-camera-iphone-13-pro-max-white-9</url>
+<price>136.0</price>
+<vendorprice>89.0</vendorprice>
+<vendorpricedoll>1.98</vendorpricedoll>
+<rrcdoll>3.02</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>70706401</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjgvMWIv0KYtMDAwMDc2MDAzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGQvOGYv0KYtMDAwMDc2MDAzXzIzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzUvNTUv0KYtMDAwMDc2MDAzXzE4LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000076003</vendorCode>
+<code>771726</code>
+<name>Original Silicone Case with protective camera iPhone 13 Pro Max — White (9)</name>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 13 Pro Max 6.7&quot;</param>
@@ -80011,30 +79964,6 @@
 <param name="Бренд">Rock</param>
 <param name="Материал">Пластик &amp; TPU</param>
 </offer>
-<offer id="ts000079425000027258" available="true">
-<url>https://kmt5.com.ua/rock-guard-touch-protection-case-antidrop-lens-protection-iphone-15-pro-titanium-black</url>
-<price>340.0</price>
-<vendorprice>223.0</vendorprice>
-<vendorpricedoll>4.95</vendorpricedoll>
-<rrcdoll>7.57</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>16203878</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDgvMzkv0KYtMDAwMDc5NDI1XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmEvMTkv0KYtMDAwMDc5NDI1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGEvN2Ev0KYtMDAwMDc5NDI1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTEvN2Ev0KYtMDAwMDc5NDI1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjEvYmEv0KYtMDAwMDc5NDI1XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Rock</vendor>
-<vendorCode>Ц-000079425</vendorCode>
-<code>779231</code>
-<name>Rock Guard Touch Protection Case Anti-drop Lens Protection iPhone 15 Pro — Titanium Black</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 15 Pro</param>
-<param name="Бренд">Rock</param>
-<param name="Материал">Пластик &amp; TPU</param>
-</offer>
 <offer id="ts000080447000029128" available="true">
 <url>https://kmt5.com.ua/rock-matte-series-tpu-case-with-magsafe-iphone-16-graphite-black</url>
 <price>507.0</price>
@@ -82072,27 +82001,6 @@
 <code>787020</code>
 <name>Silicone Case HC with MagSafe — iPhone 12 — Ash (75)</name>
 <quantity_in_stock>4</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 12 6.1&quot;</param>
-<param name="Бренд">Apple HQ</param>
-<param name="Материал">Силикон</param>
-</offer>
-<offer id="ts000081428000029864" available="true">
-<url>https://kmt5.com.ua/original-silicone-case-hc-with-magsafe-iphone-12-black-18</url>
-<price>189.0</price>
-<vendorprice>124.0</vendorprice>
-<vendorpricedoll>2.75</vendorpricedoll>
-<rrcdoll>4.2</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>36174719</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGIvMmQv0KYtMDAwMDgxNDI4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTQvOWIv0KYtMDAwMDgxNDI4XzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Apple HQ</vendor>
-<vendorCode>Ц-000081428</vendorCode>
-<code>787019</code>
-<name>Silicone Case HC with MagSafe — iPhone 12 — Black (18)</name>
-<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 12 6.1&quot;</param>
@@ -111059,25 +110967,6 @@
 <param name="Бренд">Wiwu</param>
 <param name="Материал">Ткань</param>
 </offer>
-<offer id="ts000075916000024697" available="true">
-<url>https://kmt5.com.ua/sumka-133-142-wiwu-vogue-laptop-slim-bag-with-strap-gray</url>
-<price>1148.0</price>
-<vendorprice>741.0</vendorprice>
-<vendorpricedoll>16.5</vendorpricedoll>
-<rrcdoll>25.59</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>71284098</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzEvMzAv0KYtMDAwMDc1OTE2XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWMvNzAv0KYtMDAwMDc1OTE2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Wiwu</vendor>
-<vendorCode>Ц-000075916</vendorCode>
-<code>771450</code>
-<name>Сумка 13.3'' (14.2'') WiWU Vogue Laptop Slim Bag (with strap) — Gray</name>
-<quantity_in_stock>4</quantity_in_stock>
-<param name="Форм фактор">Сумка</param>
-<param name="Бренд">Wiwu</param>
-<param name="Материал">Ткань</param>
-</offer>
 <offer id="ts000072897000023151" available="true">
 <url>https://kmt5.com.ua/sumka-133-wiwu-skin-pro-ii-bag-black</url>
 <price>1288.0</price>
@@ -111596,30 +111485,6 @@
 <param name="Бренд">Wiwu</param>
 <param name="Материал">Ткань</param>
 </offer>
-<offer id="ts000079708000027636" available="true">
-<url>https://kmt5.com.ua/sumka-lulu-crossbody-bag-black</url>
-<price>618.0</price>
-<vendorprice>405.0</vendorprice>
-<vendorpricedoll>9.02</vendorpricedoll>
-<rrcdoll>13.76</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>71284098</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODAvZmUv0KYtMDAwMDc5NzA4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjUvMzYv0KYtMDAwMDc5NzA4XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2QvYTUv0KYtMDAwMDc5NzA4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDEvMjYv0KYtMDAwMDc5NzA4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTUvZTIv0KYtMDAwMDc5NzA4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Wiwu</vendor>
-<vendorCode>Ц-000079708</vendorCode>
-<code>779885</code>
-<name>Сумка LULU Crossbody Bag — Black</name>
-<description><![CDATA[Кроссбоди сумка WiWU LULU через плечо для мужчин, цвет - черный. Эта сумка сочетает стиль и практичность для современного мужчины. Изготовлена из высококачественных материалов - PU кожи и нейлона, она сочетает элегантный внешний вид с высокой прочностью и износостойкостью. Характеристики: Материал: Использование PU кожи и нейлона обеспечивает долговечность и стильный внешний вид сумки. Вес: Легкая конструкция с весом всего 260 г позволяет комфортно носить сумку в течение всего дня без лишней нагрузки. Размеры: С размерами 21x13,5x5,5 см эта сумка идеально подходит для хранения необходимых предметов, обеспечивая компактность и удобство использования. WiWU LULU - это не просто сумка, это аксессуар, который дополнит ваш стиль и обеспечит надежное хранение ваших личных вещей в любой момент.]]></description>
-<quantity_in_stock>10</quantity_in_stock>
-<param name="Форм фактор">Сумка</param>
-<param name="Марка">Universal</param>
-<param name="Бренд">Wiwu</param>
-<param name="Материал">Ткань</param>
-</offer>
 <offer id="ts000079708000030558" available="true">
 <url>https://kmt5.com.ua/sumka-lulu-crossbody-bag-green</url>
 <price>618.0</price>
@@ -111767,27 +111632,6 @@
 <code>791090</code>
 <name>Crystal Case MacBook Neo 13'' A3404 — Black</name>
 <quantity_in_stock>24</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Macbook Neo 13 A3404</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Силикон</param>
-</offer>
-<offer id="ts000083754000031675" available="true">
-<url>https://kmt5.com.ua/crystal-case-macbook-neo-13-a3404-clear</url>
-<price>421.0</price>
-<vendorprice>257.0</vendorprice>
-<vendorpricedoll>5.72</vendorpricedoll>
-<rrcdoll>9.37</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>61259600</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2EvOTcv0KYtMDAwMDgzNzU0XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDIvNzIv0KYtMDAwMDgzNzU0XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000083754</vendorCode>
-<code>791089</code>
-<name>Crystal Case MacBook Neo 13'' A3404 — Clear</name>
-<quantity_in_stock>52</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Macbook Neo 13 A3404</param>
@@ -203356,28 +203200,6 @@
 <param name="Разъем подключения">Cable Mini USB</param>
 <param name="Длина кабеля">1m</param>
 <param name="Цвет">Black</param>
-</offer>
-<offer id="ts000076003000024887" available="true">
-<url>https://kmt5.com.ua/original-silicone-case-with-protective-camera-iphone-13-pro-max-white-9</url>
-<price>136.0</price>
-<vendorprice>89.0</vendorprice>
-<vendorpricedoll>1.98</vendorpricedoll>
-<rrcdoll>3.02</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>70706401</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjgvMWIv0KYtMDAwMDc2MDAzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGQvOGYv0KYtMDAwMDc2MDAzXzIzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzUvNTUv0KYtMDAwMDc2MDAzXzE4LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000076003</vendorCode>
-<code>771726</code>
-<name>Original Silicone Case with protective camera iPhone 13 Pro Max — White (9)</name>
-<quantity_in_stock>10</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 13 Pro Max 6.7&quot;</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Полиуретан</param>
 </offer>
 </offers>
 </shop>
