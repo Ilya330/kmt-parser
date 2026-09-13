@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-13 06:13">
+<yml_catalog date="2026-09-13 07:42">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -16871,7 +16871,7 @@
 <param name="Бренд">Apple</param>
 <param name="Материал">Силикон</param>
 </offer>
-<offer id="ts000084225000032188" available="true">
+<offer id="ts000084225" available="true">
 <url>https://kmt5.com.ua/vibe-case-with-magsafe-iphone-15-pro-max-grey</url>
 <price>320.0</price>
 <vendorprice>196.0</vendorprice>
@@ -66370,28 +66370,6 @@
 <code>771732</code>
 <name>Original Silicone Case with protective camera iPhone 13 Pro Max — Neon Green (60)</name>
 <quantity_in_stock>5</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 13 Pro Max 6.7&quot;</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Полиуретан</param>
-</offer>
-<offer id="ts000076003000024887" available="true">
-<url>https://kmt5.com.ua/original-silicone-case-with-protective-camera-iphone-13-pro-max-white-9</url>
-<price>136.0</price>
-<vendorprice>89.0</vendorprice>
-<vendorpricedoll>1.98</vendorpricedoll>
-<rrcdoll>3.02</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>70706401</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjgvMWIv0KYtMDAwMDc2MDAzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGQvOGYv0KYtMDAwMDc2MDAzXzIzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzUvNTUv0KYtMDAwMDc2MDAzXzE4LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000076003</vendorCode>
-<code>771726</code>
-<name>Original Silicone Case with protective camera iPhone 13 Pro Max — White (9)</name>
-<quantity_in_stock>10</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 13 Pro Max 6.7&quot;</param>
@@ -203378,6 +203356,28 @@
 <param name="Разъем подключения">Cable Mini USB</param>
 <param name="Длина кабеля">1m</param>
 <param name="Цвет">Black</param>
+</offer>
+<offer id="ts000076003000024887" available="true">
+<url>https://kmt5.com.ua/original-silicone-case-with-protective-camera-iphone-13-pro-max-white-9</url>
+<price>136.0</price>
+<vendorprice>89.0</vendorprice>
+<vendorpricedoll>1.98</vendorpricedoll>
+<rrcdoll>3.02</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>70706401</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjgvMWIv0KYtMDAwMDc2MDAzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGQvOGYv0KYtMDAwMDc2MDAzXzIzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzUvNTUv0KYtMDAwMDc2MDAzXzE4LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000076003</vendorCode>
+<code>771726</code>
+<name>Original Silicone Case with protective camera iPhone 13 Pro Max — White (9)</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 13 Pro Max 6.7&quot;</param>
+<param name="Бренд">Различные</param>
+<param name="Материал">Полиуретан</param>
 </offer>
 </offers>
 </shop>
