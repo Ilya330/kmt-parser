@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-14 08:10">
+<yml_catalog date="2026-09-14 15:19">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -76717,6 +76717,28 @@
 <param name="Бренд">Различные</param>
 <param name="Материал">Металл</param>
 </offer>
+<offer id="ts000084040000031951" available="true">
+<url>https://kmt5.com.ua/rimova-metal-case-iphone-14-pro-max-silver</url>
+<price>311.0</price>
+<vendorprice>191.0</vendorprice>
+<vendorpricedoll>4.24</vendorpricedoll>
+<rrcdoll>6.92</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>65522936</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDAvOGYv0KYtMDAwMDg0MDQwXzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTkvMjIv0KYtMDAwMDg0MDQwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjgvODQv0KYtMDAwMDg0MDQwXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000084040</vendorCode>
+<code>791644</code>
+<name>Rimova Metal Case iPhone 14 Pro Max — Silver</name>
+<quantity_in_stock>4</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 14 Pro Max 6.7&quot;</param>
+<param name="Бренд">Различные</param>
+<param name="Материал">Металл</param>
+</offer>
 <offer id="ts000084039000031945" available="true">
 <url>https://kmt5.com.ua/rimova-metal-case-iphone-14-pro-black</url>
 <price>311.0</price>
@@ -111995,6 +112017,33 @@
 <code>775858</code>
 <name>PU Sleeve Case MacBook 13'' — Red</name>
 <quantity_in_stock>8</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Macbook Air 13</param>
+<param name="Бренд">Apple</param>
+<param name="Материал">Силикон</param>
+</offer>
+<offer id="ts000073700000030624" available="true">
+<url>https://kmt5.com.ua/pu-sleeve-case-macbook-13-white</url>
+<price>606.0</price>
+<vendorprice>371.0</vendorprice>
+<vendorpricedoll>8.25</vendorpricedoll>
+<rrcdoll>13.49</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>61259600</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmYvN2Uv0KYtMDAwMDczNzAwXzIxLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWUvNDIv0KYtMDAwMDczNzAwXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjIvZWMv0KYtMDAwMDczNzAwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTQvMjUv0KYtMDAwMDczNzAwXzE1LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDIvN2Uv0KYtMDAwMDczNzAwXzE2LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2EvZjMv0KYtMDAwMDczNzAwXzE3LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODEvYzgv0KYtMDAwMDczNzAwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTIvMmUv0KYtMDAwMDczNzAwXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000073700</vendorCode>
+<code>788954</code>
+<name>PU Sleeve Case MacBook 13'' — White</name>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Macbook Air 13</param>
@@ -180887,26 +180936,6 @@
 <param name="Материал">Металл</param>
 <param name="Аксессуары Для Смарт Часов">Браслеты</param>
 </offer>
-<offer id="ts000072952000022441" available="true">
-<url>https://kmt5.com.ua/remnets-nylon-with-protective-case-apple-watch-40-mm-black</url>
-<price>101.0</price>
-<vendorprice>45.0</vendorprice>
-<vendorpricedoll>0.99</vendorpricedoll>
-<rrcdoll>2.23</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>48417745</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjEvYTcv0KYtMDAwMDcyOTUyXzE2LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzQvODQv0KYtMDAwMDcyOTUyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000072952</vendorCode>
-<code>754287</code>
-<name>Ремінець Nylon with protective case Apple Watch 40 mm — Black</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Watch Series 7 41 mm, Apple Watch Series 3 38 mm, Apple Watch Series 4 40 mm</param>
-<param name="Бренд">Различные</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
 <offer id="ts000072952000022294" available="true">
 <url>https://kmt5.com.ua/remeshok-apple-watch-nylon-with-protective-case-384041mm-black</url>
 <price>101.0</price>
@@ -180922,6 +180951,26 @@
 <code>754098</code>
 <name>Ремінець Nylon with protective case Apple Watch 40 mm — Black</name>
 <quantity_in_stock>16</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Watch Series 7 41 mm, Apple Watch Series 3 38 mm, Apple Watch Series 4 40 mm</param>
+<param name="Бренд">Различные</param>
+<param name="Аксессуары Для Смарт Часов">Браслеты</param>
+</offer>
+<offer id="ts000072952000022441" available="true">
+<url>https://kmt5.com.ua/remnets-nylon-with-protective-case-apple-watch-40-mm-black</url>
+<price>101.0</price>
+<vendorprice>45.0</vendorprice>
+<vendorpricedoll>0.99</vendorpricedoll>
+<rrcdoll>2.23</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>48417745</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjEvYTcv0KYtMDAwMDcyOTUyXzE2LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzQvODQv0KYtMDAwMDcyOTUyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000072952</vendorCode>
+<code>754287</code>
+<name>Ремінець Nylon with protective case Apple Watch 40 mm — Black</name>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Watch Series 7 41 mm, Apple Watch Series 3 38 mm, Apple Watch Series 4 40 mm</param>
 <param name="Бренд">Различные</param>
