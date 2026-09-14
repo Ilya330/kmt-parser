@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-13 17:47">
+<yml_catalog date="2026-09-14 08:10">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -13098,23 +13098,6 @@
 <code>777570</code>
 <name>Ночной светильник Neon Sign — Cloud</name>
 <quantity_in_stock>10</quantity_in_stock>
-<param name="Бренд">Различные</param>
-</offer>
-<offer id="ts000070492000018749" available="true">
-<url>https://kmt5.com.ua/nochnoy-svetilnik-neon-sign-dino</url>
-<price>292.0</price>
-<vendorprice>173.0</vendorprice>
-<vendorpricedoll>3.85</vendorpricedoll>
-<rrcdoll>6.49</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>36525104</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2MvMmYv0KYtMDAwMDcwNDkyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGEvODIv0KYtMDAwMDcwNDkyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000070492</vendorCode>
-<code>747805</code>
-<name>Ночной светильник Neon Sign — Dino</name>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Бренд">Различные</param>
 </offer>
 <offer id="ts000070492000026657" available="true">
@@ -27424,6 +27407,27 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 6.1&quot;</param>
+<param name="Бренд">Apple</param>
+<param name="Материал">Карбон &amp; Силикон</param>
+</offer>
+<offer id="ts000082302" available="true">
+<url>https://kmt5.com.ua/carbon-case-with-magsafe-iphone-15-pro</url>
+<price>290.0</price>
+<vendorprice>192.0</vendorprice>
+<vendorpricedoll>4.27</vendorpricedoll>
+<rrcdoll>6.46</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>16203878</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDMvZWIv0KYtMDAwMDgyMzAyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjMvZDQv0KYtMDAwMDgyMzAyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000082302</vendorCode>
+<code>788353</code>
+<name>Carbon case with Magsafe — iPhone 15 Pro</name>
+<quantity_in_stock>6</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 15 Pro</param>
 <param name="Бренд">Apple</param>
 <param name="Материал">Карбон &amp; Силикон</param>
 </offer>
@@ -46578,27 +46582,6 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Samsung</param>
 <param name="Модель девайса">Samsung S25 Plus</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Полиуретан</param>
-</offer>
-<offer id="ts000080360" available="true">
-<url>https://kmt5.com.ua/ipacky-aurora-case-with-magsafe-iphone-16</url>
-<price>388.0</price>
-<vendorprice>257.0</vendorprice>
-<vendorpricedoll>5.72</vendorpricedoll>
-<rrcdoll>8.63</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>60652165</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDQvMTUv0KYtMDAwMDgwMzYwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmYvOWMv0KYtMDAwMDgwMzYwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000080360</vendorCode>
-<code>782948</code>
-<name>Ipacky Aurora Case With Magsafe — iPhone 16</name>
-<quantity_in_stock>3</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 16</param>
 <param name="Бренд">Различные</param>
 <param name="Материал">Полиуретан</param>
 </offer>
@@ -114899,6 +114882,26 @@
 <param name="Бренд">Различные</param>
 <param name="Аудіо товари">Чехол для Airpods</param>
 </offer>
+<offer id="ts000080740000029397" available="true">
+<url>https://kmt5.com.ua/airpods-4-case-microfiber-lilac-5</url>
+<price>76.0</price>
+<vendorprice>45.0</vendorprice>
+<vendorpricedoll>0.99</vendorpricedoll>
+<rrcdoll>1.68</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>19314331</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjkvNDMv0KYtMDAwMDgwNzQwXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzIvYjgv0KYtMDAwMDgwNzQwXzI2LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000080740</vendorCode>
+<code>785876</code>
+<name>Airpods 4 Case Microfiber — Lilac (5)</name>
+<quantity_in_stock>5</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Airpods 4</param>
+<param name="Бренд">Различные</param>
+<param name="Аудіо товари">Чехол для Airpods</param>
+</offer>
 <offer id="ts000080740000029553" available="true">
 <url>https://kmt5.com.ua/airpods-4-case-microfiber-mint-green</url>
 <price>76.0</price>
@@ -130767,26 +130770,6 @@
 <name>Battery 1.5V — Hoco JA5 (2PCS)</name>
 <description><![CDATA["1. Вихідна напруга: 1,5 В 2. Розмір: 34,2 * 61,5 мм (діаметр * висота); Вага: 140 г 3. Спосіб упаковки: картон + вакуумне формування 4. Використання: газова плита, водонагрівач, електронна клавіатура, ліхтарик, радіо та інше обладнання"]]></description>
 <quantity_in_stock>3</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-</offer>
-<offer id="ts000083203" available="true">
-<url>https://kmt5.com.ua/battery-3v-cr2025-hoco-ja7-5pcs</url>
-<price>70.0</price>
-<vendorprice>34.0</vendorprice>
-<vendorpricedoll>0.74</vendorpricedoll>
-<rrcdoll>1.54</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>46114804</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGQvNDQv0KYtMDAwMDgzMjAzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTUvZjMv0KYtMDAwMDgzMjAzXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTMvYjAv0KYtMDAwMDgzMjAzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjMvODgv0KYtMDAwMDgzMjAzXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000083203</vendorCode>
-<code>790035</code>
-<name>Battery 3V CR2025 — Hoco JA7 (5PCS)</name>
-<description><![CDATA[1. Ємність акумулятора: 150 мАг 2. Номінальна напруга: 3 В 3. Розмір: 20 * 2,5 мм (діаметр * висота); Вага: 2,5 г 4. Спосіб упаковки: картон + вакуумне формування 5. Вміст ртуті: без ртуті 6. Використання: ключі від автомобіля, селфі-палки, пульти дистанційного керування, розумні контролери температури та вологості, електронні ваги та інші пристрої]]></description>
-<quantity_in_stock>2</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 </offer>
 <offer id="ts000078917" available="true">
@@ -180904,26 +180887,6 @@
 <param name="Материал">Металл</param>
 <param name="Аксессуары Для Смарт Часов">Браслеты</param>
 </offer>
-<offer id="ts000072952000022294" available="true">
-<url>https://kmt5.com.ua/remeshok-apple-watch-nylon-with-protective-case-384041mm-black</url>
-<price>101.0</price>
-<vendorprice>45.0</vendorprice>
-<vendorpricedoll>0.99</vendorpricedoll>
-<rrcdoll>2.23</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>48417745</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWYvYzAv0KYtMDAwMDcyOTUyXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzQvODQv0KYtMDAwMDcyOTUyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000072952</vendorCode>
-<code>754098</code>
-<name>Ремінець Nylon with protective case Apple Watch 40 mm — Black</name>
-<quantity_in_stock>16</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Watch Series 7 41 mm, Apple Watch Series 3 38 mm, Apple Watch Series 4 40 mm</param>
-<param name="Бренд">Различные</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
 <offer id="ts000072952000022441" available="true">
 <url>https://kmt5.com.ua/remnets-nylon-with-protective-case-apple-watch-40-mm-black</url>
 <price>101.0</price>
@@ -180939,6 +180902,26 @@
 <code>754287</code>
 <name>Ремінець Nylon with protective case Apple Watch 40 mm — Black</name>
 <quantity_in_stock>1</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Watch Series 7 41 mm, Apple Watch Series 3 38 mm, Apple Watch Series 4 40 mm</param>
+<param name="Бренд">Различные</param>
+<param name="Аксессуары Для Смарт Часов">Браслеты</param>
+</offer>
+<offer id="ts000072952000022294" available="true">
+<url>https://kmt5.com.ua/remeshok-apple-watch-nylon-with-protective-case-384041mm-black</url>
+<price>101.0</price>
+<vendorprice>45.0</vendorprice>
+<vendorpricedoll>0.99</vendorpricedoll>
+<rrcdoll>2.23</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>48417745</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWYvYzAv0KYtMDAwMDcyOTUyXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzQvODQv0KYtMDAwMDcyOTUyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000072952</vendorCode>
+<code>754098</code>
+<name>Ремінець Nylon with protective case Apple Watch 40 mm — Black</name>
+<quantity_in_stock>16</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Watch Series 7 41 mm, Apple Watch Series 3 38 mm, Apple Watch Series 4 40 mm</param>
 <param name="Бренд">Различные</param>
@@ -189267,27 +189250,6 @@
 <param name="Бренд">Hoco</param>
 <param name="Аксессуары Для Смарт Часов">Браслеты</param>
 </offer>
-<offer id="ts000082551" available="true">
-<url>https://kmt5.com.ua/car-charger-42w-1pd-2u-hoco-z63a</url>
-<price>250.0</price>
-<vendorprice>134.0</vendorprice>
-<vendorpricedoll>2.97</vendorpricedoll>
-<rrcdoll>5.57</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>44441115</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODYvNzEv0KYtMDAwMDgyNTUxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODgvNjAv0KYtMDAwMDgyNTUxXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000082551</vendorCode>
-<code>788805</code>
-<name>Car Charger | 42W | PD | 2 USB | USB-C | — Hoco Z63A</name>
-<description><![CDATA[Адаптер автомобільний HOCO Barry digital display car charger Z63A – швидка зарядка з цифровим дисплеєм HOCO Z63A – це компактний автомобільний зарядний пристрій із цифровим дисплеєм, який дозволяє контролювати напругу та струм у режимі реального часу. Оснащений двома USB-A портами та одним USB-C портом з підтримкою PD/QC, він забезпечує швидку та безпечну зарядку смартфонів, планшетів та інших гаджетів під час руху. Основні характеристики: ✔ Матеріал: PC + ABS ✔ Вихідна потужність: USB-C: 30W (PD/QC/FCC/AFC) USB-A1/A2: 5V/2.4A USB-A1+USB-A2: 5V/2.4A USB-C + (USB-A1+USB-A2): 30W + 12W ✔ Розмір: 65 × 38 × 25 мм ✔ Вага: 27 г Для оптових покупців: HOCO Z63A – популярний автомобільний аксесуар завдяки високій швидкості зарядки та цифровому дисплею. Ідеально підходить для щоденного використання та подарунків, а також добре продається в роздрібних і оптових продажах]]></description>
-<quantity_in_stock>100</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Колво USB портов">2 U | 1 C</param>
-<param name="Зарядные устройства">Автомобильные</param>
-<param name="Сила тока и Мощность">42W</param>
-</offer>
 <offer id="ts000083234" available="true">
 <url>https://kmt5.com.ua/car-holder-borofone-bh140-gloria-vacuum-suction-cup-magnetic-ring-holdermultiscene</url>
 <price>253.0</price>
@@ -189482,10 +189444,10 @@
 </offer>
 <offer id="ts000080534" available="true">
 <url>https://kmt5.com.ua/fm-transmitter-mp3-car-charger-24a-2u-hoco-e67</url>
-<price>398.0</price>
-<vendorprice>277.0</vendorprice>
-<vendorpricedoll>6.16</vendorpricedoll>
-<rrcdoll>8.87</rrcdoll>
+<price>354.0</price>
+<vendorprice>260.0</vendorprice>
+<vendorpricedoll>5.78</vendorpricedoll>
+<rrcdoll>7.88</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>10170836</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzYvNjUv0KYtMDAwMDgwNTM0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -189546,10 +189508,10 @@
 </offer>
 <offer id="ts000083837" available="true">
 <url>https://kmt5.com.ua/fm-transmitter-mp3-car-charger-30a-pd42w-1u-hoco-e166</url>
-<price>375.0</price>
-<vendorprice>242.0</vendorprice>
-<vendorpricedoll>5.39</vendorpricedoll>
-<rrcdoll>8.35</rrcdoll>
+<price>300.0</price>
+<vendorprice>220.0</vendorprice>
+<vendorpricedoll>4.9</vendorpricedoll>
+<rrcdoll>6.68</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>10170836</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjMvYmEv0KYtMDAwMDgzODM3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -190256,10 +190218,10 @@
 </offer>
 <offer id="ts000064084" available="true">
 <url>https://kmt5.com.ua/fm-modulyator-mp3-bt510-</url>
-<price>152.0</price>
-<vendorprice>98.0</vendorprice>
-<vendorpricedoll>2.18</vendorpricedoll>
-<rrcdoll>3.38</rrcdoll>
+<price>114.0</price>
+<vendorprice>84.0</vendorprice>
+<vendorpricedoll>1.86</vendorpricedoll>
+<rrcdoll>2.54</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>10170836</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTcvNTkv0KYtMDAwMDY0MDg0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -190350,10 +190312,10 @@
 </offer>
 <offer id="ts000080991" available="true">
 <url>https://kmt5.com.ua/bluetooth-audio-receiver-earldom-etbr16</url>
-<price>231.0</price>
-<vendorprice>149.0</vendorprice>
-<vendorpricedoll>3.3</vendorpricedoll>
-<rrcdoll>5.13</rrcdoll>
+<price>192.0</price>
+<vendorprice>141.0</vendorprice>
+<vendorpricedoll>3.14</vendorpricedoll>
+<rrcdoll>4.28</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>10170836</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWMvZTkv0KYtMDAwMDgwOTkxXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -190378,10 +190340,10 @@
 </offer>
 <offer id="ts000082282" available="true">
 <url>https://kmt5.com.ua/bluetooth-audio-receiver-earldom-etbr22</url>
-<price>169.0</price>
-<vendorprice>109.0</vendorprice>
-<vendorpricedoll>2.42</vendorpricedoll>
-<rrcdoll>3.75</rrcdoll>
+<price>139.0</price>
+<vendorprice>102.0</vendorprice>
+<vendorpricedoll>2.26</vendorpricedoll>
+<rrcdoll>3.08</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>10170836</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzIvYTAv0KYtMDAwMDgyMjgyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -190477,10 +190439,10 @@
 </offer>
 <offer id="ts000082996" available="true">
 <url>https://kmt5.com.ua/bluetooth-audio-receiver-earldom-etbr04</url>
-<price>534.0</price>
-<vendorprice>356.0</vendorprice>
-<vendorpricedoll>7.92</vendorpricedoll>
-<rrcdoll>11.9</rrcdoll>
+<price>458.0</price>
+<vendorprice>336.0</vendorprice>
+<vendorpricedoll>7.48</vendorpricedoll>
+<rrcdoll>10.2</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>10170836</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWIvNWIv0KYtMDAwMDgyOTk2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -190522,10 +190484,10 @@
 </offer>
 <offer id="ts000082280" available="true">
 <url>https://kmt5.com.ua/bluetooth-audio-receiver-earldom-etbr10</url>
-<price>535.0</price>
-<vendorprice>344.0</vendorprice>
-<vendorpricedoll>7.67</vendorpricedoll>
-<rrcdoll>11.92</rrcdoll>
+<price>438.0</price>
+<vendorprice>321.0</vendorprice>
+<vendorpricedoll>7.15</vendorpricedoll>
+<rrcdoll>9.75</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>10170836</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmEvYjEv0KYtMDAwMDgyMjgwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -190571,10 +190533,10 @@
 </offer>
 <offer id="ts000083023" available="true">
 <url>https://kmt5.com.ua/bluetooth-audio-receiver-veron-vr09</url>
-<price>201.0</price>
-<vendorprice>122.0</vendorprice>
-<vendorpricedoll>2.7</vendorpricedoll>
-<rrcdoll>4.46</rrcdoll>
+<price>152.0</price>
+<vendorprice>112.0</vendorprice>
+<vendorpricedoll>2.48</vendorpricedoll>
+<rrcdoll>3.38</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>10170836</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDYvNjcv0KYtMDAwMDgzMDIzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -191675,10 +191637,10 @@
 </offer>
 <offer id="ts000082286" available="true">
 <url>https://kmt5.com.ua/fm-modulator-mp3-car-charger-30a-1u-1c-earldom-etm99</url>
-<price>288.0</price>
-<vendorprice>186.0</vendorprice>
-<vendorpricedoll>4.13</vendorpricedoll>
-<rrcdoll>6.41</rrcdoll>
+<price>246.0</price>
+<vendorprice>181.0</vendorprice>
+<vendorpricedoll>4.02</vendorpricedoll>
+<rrcdoll>5.48</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>10170836</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWMvNmMv0KYtMDAwMDgyMjg2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -191703,10 +191665,10 @@
 </offer>
 <offer id="ts000080814" available="true">
 <url>https://kmt5.com.ua/fm-modulator-mp3-hm20</url>
-<price>272.0</price>
-<vendorprice>176.0</vendorprice>
-<vendorpricedoll>3.91</vendorpricedoll>
-<rrcdoll>6.05</rrcdoll>
+<price>210.0</price>
+<vendorprice>154.0</vendorprice>
+<vendorpricedoll>3.43</vendorpricedoll>
+<rrcdoll>4.68</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>10170836</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTgvODcv0KYtMDAwMDgwODE0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -191723,10 +191685,10 @@
 </offer>
 <offer id="ts000080813" available="true">
 <url>https://kmt5.com.ua/fm-modulator-mp3-hm21</url>
-<price>264.0</price>
-<vendorprice>171.0</vendorprice>
-<vendorpricedoll>3.8</vendorpricedoll>
-<rrcdoll>5.88</rrcdoll>
+<price>201.0</price>
+<vendorprice>148.0</vendorprice>
+<vendorpricedoll>3.28</vendorpricedoll>
+<rrcdoll>4.47</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>10170836</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGYvMWMv0KYtMDAwMDgwODEzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -191766,10 +191728,10 @@
 </offer>
 <offer id="ts000075844" available="true">
 <url>https://kmt5.com.ua/fm-modulator-mp3-veron-mc020</url>
-<price>250.0</price>
-<vendorprice>183.0</vendorprice>
-<vendorpricedoll>4.07</vendorpricedoll>
-<rrcdoll>5.57</rrcdoll>
+<price>240.0</price>
+<vendorprice>176.0</vendorprice>
+<vendorpricedoll>3.91</vendorpricedoll>
+<rrcdoll>5.33</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>10170836</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGYvNmIv0KYtMDAwMDc1ODQ0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -191810,10 +191772,10 @@
 </offer>
 <offer id="ts000080993" available="true">
 <url>https://kmt5.com.ua/fm-modulator-mp3-car-charger-20a-2u-earldom-etm111</url>
-<price>353.0</price>
-<vendorprice>233.0</vendorprice>
-<vendorpricedoll>5.19</vendorpricedoll>
-<rrcdoll>7.87</rrcdoll>
+<price>241.0</price>
+<vendorprice>177.0</vendorprice>
+<vendorpricedoll>3.94</vendorpricedoll>
+<rrcdoll>5.37</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>10170836</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjUvZDgv0KYtMDAwMDgwOTkzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -191837,10 +191799,10 @@
 </offer>
 <offer id="ts000072226" available="true">
 <url>https://kmt5.com.ua/fm-modulator-mp3-car-charger-20a-2u-earldom-etm58</url>
-<price>279.0</price>
-<vendorprice>181.0</vendorprice>
-<vendorpricedoll>4.02</vendorpricedoll>
-<rrcdoll>6.22</rrcdoll>
+<price>210.0</price>
+<vendorprice>154.0</vendorprice>
+<vendorpricedoll>3.43</vendorpricedoll>
+<rrcdoll>4.68</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>10170836</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGIvYjUv0KYtMDAwMDcyMjI2XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -191863,10 +191825,10 @@
 </offer>
 <offer id="ts000070296" available="true">
 <url>https://kmt5.com.ua/fm-modulyator-mp3-earldom-etm43-black</url>
-<price>364.0</price>
-<vendorprice>235.0</vendorprice>
-<vendorpricedoll>5.23</vendorpricedoll>
-<rrcdoll>8.1</rrcdoll>
+<price>264.0</price>
+<vendorprice>194.0</vendorprice>
+<vendorpricedoll>4.31</vendorpricedoll>
+<rrcdoll>5.88</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>10170836</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGYvOWQv0KYtMDAwMDcwMjk2XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -191888,10 +191850,10 @@
 </offer>
 <offer id="ts000083372" available="true">
 <url>https://kmt5.com.ua/fm-modulator-mp3-car-charger-30a-2u-1c-earldom-etm112</url>
-<price>458.0</price>
-<vendorprice>295.0</vendorprice>
-<vendorpricedoll>6.56</vendorpricedoll>
-<rrcdoll>10.19</rrcdoll>
+<price>383.0</price>
+<vendorprice>281.0</vendorprice>
+<vendorpricedoll>6.25</vendorpricedoll>
+<rrcdoll>8.52</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>10170836</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjAvNWMv0KYtMDAwMDgzMzcyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -191915,10 +191877,10 @@
 </offer>
 <offer id="ts000083371" available="true">
 <url>https://kmt5.com.ua/fm-modulator-mp3-car-charger-30a-2u-1c-earldom-etm113</url>
-<price>468.0</price>
-<vendorprice>309.0</vendorprice>
-<vendorpricedoll>6.88</vendorpricedoll>
-<rrcdoll>10.42</rrcdoll>
+<price>371.0</price>
+<vendorprice>272.0</vendorprice>
+<vendorpricedoll>6.05</vendorpricedoll>
+<rrcdoll>8.25</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>10170836</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWYvZmIv0KYtMDAwMDgzMzcxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -191964,33 +191926,6 @@
 <code>790804</code>
 <name>Fm Modulator MP3 | Car Charger | 3.0A | 2U | 1C — Earldom ET-M114</name>
 <quantity_in_stock>5</quantity_in_stock>
-<param name="Бренд">Earldom</param>
-<param name="Автоаксессуары">Fm Модулятор MP3</param>
-<param name="Способ установки">В прикуриватель</param>
-<param name="Цвет">Black</param>
-</offer>
-<offer id="ts000083536" available="true">
-<url>https://kmt5.com.ua/fm-modulator-mp3-car-charger-30a-2u-1c-earldom-etm116</url>
-<price>229.0</price>
-<vendorprice>151.0</vendorprice>
-<vendorpricedoll>3.36</vendorpricedoll>
-<rrcdoll>5.09</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>10170836</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmEvYTEv0KYtMDAwMDgzNTM2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTQvYjQv0KYtMDAwMDgzNTM2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjYvMjIv0KYtMDAwMDgzNTM2XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTcvNDkv0KYtMDAwMDgzNTM2XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjgvMzMv0KYtMDAwMDgzNTM2XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWYvZGIv0KYtMDAwMDgzNTM2XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDkvMDUv0KYtMDAwMDgzNTM2XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2EvNWEv0KYtMDAwMDgzNTM2XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjUvMmYv0KYtMDAwMDgzNTM2XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Earldom</vendor>
-<vendorCode>Ц-000083536</vendorCode>
-<code>790803</code>
-<name>Fm Modulator MP3 | Car Charger | 3.0A | 2U | 1C — Earldom ET-M116</name>
-<quantity_in_stock>2</quantity_in_stock>
 <param name="Бренд">Earldom</param>
 <param name="Автоаксессуары">Fm Модулятор MP3</param>
 <param name="Способ установки">В прикуриватель</param>
@@ -192156,10 +192091,10 @@
 </offer>
 <offer id="ts000080761" available="true">
 <url>https://kmt5.com.ua/fm-transmitter-mp3-car-charger-30a-pd30w-2u-hoco-e86</url>
-<price>348.0</price>
-<vendorprice>242.0</vendorprice>
-<vendorpricedoll>5.39</vendorpricedoll>
-<rrcdoll>7.75</rrcdoll>
+<price>300.0</price>
+<vendorprice>220.0</vendorprice>
+<vendorpricedoll>4.9</vendorpricedoll>
+<rrcdoll>6.68</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>10170836</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWIvZjEv0KYtMDAwMDgwNzYxXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -196107,6 +196042,27 @@
 <quantity_in_stock>11</quantity_in_stock>
 <param name="Бренд">Earldom</param>
 </offer>
+<offer id="ts000082333" available="true">
+<url>https://kmt5.com.ua/planshet-detskiy-earldom-ettp02</url>
+<price>3609.0</price>
+<vendorprice>2023.0</vendorprice>
+<vendorpricedoll>45.1</vendorpricedoll>
+<rrcdoll>80.45</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>39173668</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDQvMmYv0KYtMDAwMDgyMzMzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzIvZWQv0KYtMDAwMDgyMzMzXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjUvOWUv0KYtMDAwMDgyMzMzXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzUvZmMv0KYtMDAwMDgyMzMzXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWUvM2Mv0KYtMDAwMDgyMzMzXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmEvNjAv0KYtMDAwMDgyMzMzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Earldom</vendor>
+<vendorCode>Ц-000082333</vendorCode>
+<code>788384</code>
+<name>Планшет 6&quot; 4/32 ГБ,  Android 7, Wi-Fi, Dual Camera 0.3/2.0MP, детский Earldom ET-TP02 идеальный для обучения и развлечений</name>
+<quantity_in_stock>1</quantity_in_stock>
+<param name="Бренд">Earldom</param>
+</offer>
 <offer id="ts000082332" available="true">
 <url>https://kmt5.com.ua/planshet-detskiy-earldom-ettp03</url>
 <price>3519.0</price>
@@ -198091,6 +198047,26 @@
 <code>789773</code>
 <name>Сушка для обуви Shoe Dryer</name>
 <quantity_in_stock>44</quantity_in_stock>
+</offer>
+<offer id="ts000082698000030651" available="true">
+<url>https://kmt5.com.ua/taymer-hoco-hx43-blue</url>
+<price>180.0</price>
+<vendorprice>112.0</vendorprice>
+<vendorpricedoll>2.48</vendorpricedoll>
+<rrcdoll>4.01</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>91659062</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGYvODYv0KYtMDAwMDgyNjk4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzgvYTYv0KYtMDAwMDgyNjk4XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmEvNjEv0KYtMDAwMDgyNjk4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjUvZDYv0KYtMDAwMDgyNjk4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Hoco</vendor>
+<vendorCode>Ц-000082698</vendorCode>
+<code>789042</code>
+<name>Таймер — Hoco HX43 — Blue</name>
+<description><![CDATA[Цифровий таймер / секундомір HOCO HX43 HOCO HX43 — це зручний і точний цифровий таймер, який стане вашим надійним помічником у приготуванні їжі, заняттях спортом, навчанні чи роботі. Просте управління та продуманий дизайн роблять його універсальним аксесуаром для дому, офісу чи кухні. Особливості: Зручне керування: Кнопки Start, Pause, Reset, а також швидкий вибір часу — 10 хвилин, 1 хвилина, 10 секунд Чіткий цифровий дисплей: Великий РК-екран забезпечує легке зчитування часу навіть з відстані Магнітне кріплення: Вбудований магніт дозволяє легко закріпити таймер на холодильнику чи будь-якій металевій поверхні Висувна підставка: Дає змогу зручно розмістити таймер на столі або робочій поверхні Універсальне застосування: Ідеальний для кухні, тренувань, відпочинку, нарад чи презентацій Компактний і легкий: Легко поміщається в кишеню або сумку, зручно брати із собою Міцний корпус: Виготовлений із якісного пластику ABS, що гарантує довговічність і надійність у використанні Технічні характеристики Бренд: HOCO Модель: HX43 Матеріал: ABS Екран: РК-дисплей Живлення: 1 батарейка Розмір: 62 × 60 × 19 мм Вага: 46 г]]></description>
+<quantity_in_stock>25</quantity_in_stock>
+<param name="Бренд">Hoco</param>
 </offer>
 <offer id="ts000082698000030652" available="true">
 <url>https://kmt5.com.ua/taymer-hoco-hx43-yellow</url>
