@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-15 13:56">
+<yml_catalog date="2026-09-15 18:34">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -90355,26 +90355,6 @@
 <param name="Бренд">Различные</param>
 <param name="Аудіо товари">Чехол для Airpods</param>
 </offer>
-<offer id="ts000082734000030669" available="true">
-<url>https://kmt5.com.ua/airpods-pro-3-case-microfiber-pink-sand-7</url>
-<price>87.0</price>
-<vendorprice>46.0</vendorprice>
-<vendorpricedoll>1.01</vendorpricedoll>
-<rrcdoll>1.93</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>5274189</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGUvNTMv0KYtMDAwMDgyNzM0XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjYvMDgv0KYtMDAwMDgyNzM0XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082734</vendorCode>
-<code>789095</code>
-<name>Airpods Pro 3 Case Microfiber — Pink Sand (7)</name>
-<quantity_in_stock>10</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Airpods Pro 3</param>
-<param name="Бренд">Различные</param>
-<param name="Аудіо товари">Чехол для Airpods</param>
-</offer>
 <offer id="ts000082734000030668" available="true">
 <url>https://kmt5.com.ua/airpods-pro-3-case-microfiber-purple-6</url>
 <price>87.0</price>
@@ -106766,28 +106746,6 @@
 <description><![CDATA[Сетевое зарядное устройство Hoco C80A PD + Quick Charge 3.0 1USB / 3.1A – предназначен для быстрого и безопасного подзарядки ваших гаджетов. Если ваш девайс поддерживает функцию быстрой зарядки QC 3.0 и PD, то он будет заряжаться в 2 раза быстрее. Выдает ток до 3.1A, мощность составляет до 18W. Это очень удобно, поскольку не каждый провод дома может иметь необходимую для блока питания пропускную способность. Материал: огнеупорный PC. Размер: 85*46*25мм. Вес одного зарядного устройства: 46г. Вес набора с кабелем: 72г. Выход USB: QC 18W ВыходType-C – 9V / 2.22A, 12V / 1.67A (PD 20W) Общий выход: 5V / 3.1A Поддержка для PD3.0, for QC3.0 / QC2.0, для Huawei FCP, для Samsung AFC и других протоколов быстрой зарядки EU штекер]]></description>
 <quantity_in_stock>175</quantity_in_stock>
 <param name="Бренд">Hoco</param>
-<param name="Колво USB портов">1 U | 1 C</param>
-<param name="Зарядные устройства">Home Chargers</param>
-<param name="Сила тока и Мощность">20W</param>
-</offer>
-<offer id="ts000075938000024724" available="true">
-<url>https://kmt5.com.ua/home-charger-20w-pd-qc30-wiwu-wiu002-white</url>
-<price>301.0</price>
-<vendorprice>185.0</vendorprice>
-<vendorpricedoll>4.12</vendorpricedoll>
-<rrcdoll>6.69</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>56676196</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTMvZDYv0KYtMDAwMDc1OTM4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjYvMjQv0KYtMDAwMDc1OTM4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWEvNTMv0KYtMDAwMDc1OTM4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzcvNGYv0KYtMDAwMDc1OTM4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Wiwu</vendor>
-<vendorCode>Ц-000075938</vendorCode>
-<code>771499</code>
-<name>Home Charger 20W PD QC3.0 WiWU Wi-U002 — White</name>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Бренд">Wiwu</param>
 <param name="Колво USB портов">1 U | 1 C</param>
 <param name="Зарядные устройства">Home Chargers</param>
 <param name="Сила тока и Мощность">20W</param>
@@ -150353,35 +150311,6 @@
 <param name="Материал">Резина</param>
 <param name="Аксессуары Для Смарт Часов">Браслеты</param>
 </offer>
-<offer id="ts000037061000025516" available="true">
-<url>https://kmt5.com.ua/remnets-sport-band-apple-watch-38-mm-40-mm-41-mm-stone</url>
-<price>101.0</price>
-<vendorprice>33.0</vendorprice>
-<vendorpricedoll>0.72</vendorpricedoll>
-<rrcdoll>2.23</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>48417745</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGMvZTEv0KYtMDAwMDM3MDYxXzQ5LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGYvMTAv0KYtMDAwMDM3MDYxXzM3LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTEvMjMv0KYtMDAwMDM3MDYxXzM4LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzMvZjUv0KYtMDAwMDM3MDYxXzM5LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWUvMWUv0KYtMDAwMDM3MDYxXzQwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDQvZmEv0KYtMDAwMDM3MDYxXzQxLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzIvMjUv0KYtMDAwMDM3MDYxXzQyLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzIvZjIv0KYtMDAwMDM3MDYxXzQzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDMvYWEv0KYtMDAwMDM3MDYxXzQ0LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmMvOWEv0KYtMDAwMDM3MDYxXzQ1LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000037061</vendorCode>
-<code>773923</code>
-<name>Ремінець Sport Band Apple Watch 38 mm 40 mm 41 mm — Stone</name>
-<quantity_in_stock>24</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Watch Series 7 41 mm, Apple Watch Series 3 38 mm, Apple Watch Series 4 40 mm</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Резина</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
 <offer id="ts000037061000013296" available="true">
 <url>https://kmt5.com.ua/original-design-bracelet-apple-watch-38-mm-40-mm-turquoise</url>
 <price>101.0</price>
@@ -152358,27 +152287,6 @@
 <code>789659</code>
 <name>Ремінець Striped Magnetic Buckle Strap Apple Watch 42 mm 44 mm 45 mm 49 mm — Wine red</name>
 <quantity_in_stock>21</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Watch Series 3 42 mm, Apple Watch Series 4 44 mm, Apple Watch Series 7 45 mm, Apple Watch Series 8 49 mm</param>
-<param name="Бренд">Различные</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
-<offer id="ts000079370000027221" available="true">
-<url>https://kmt5.com.ua/remnets-tsilicon-apple-watch-42-mm-44-mm-45-mm-49-mm-blue</url>
-<price>350.0</price>
-<vendorprice>214.0</vendorprice>
-<vendorpricedoll>4.77</vendorpricedoll>
-<rrcdoll>7.8</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>59885727</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjAvODcv0KYtMDAwMDc5MzcwXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzIvYmQv0KYtMDAwMDc5MzcwXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzIvZWIv0KYtMDAwMDc5MzcwXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000079370</vendorCode>
-<code>779138</code>
-<name>Ремінець T-silicon Apple Watch 42 mm 44 mm 45 mm 49 mm — Blue</name>
-<quantity_in_stock>6</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Watch Series 3 42 mm, Apple Watch Series 4 44 mm, Apple Watch Series 7 45 mm, Apple Watch Series 8 49 mm</param>
 <param name="Бренд">Различные</param>
@@ -158939,23 +158847,6 @@
 <quantity_in_stock>5</quantity_in_stock>
 <param name="Бренд">Различные</param>
 </offer>
-<offer id="ts000080769000029457" available="true">
-<url>https://kmt5.com.ua/printer-detskiy-s9-pink</url>
-<price>554.0</price>
-<vendorprice>301.0</vendorprice>
-<vendorpricedoll>6.7</vendorpricedoll>
-<rrcdoll>12.33</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>13357477</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzEvNDYv0KYtMDAwMDgwNzY5XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjkvYTEv0KYtMDAwMDgwNzY5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000080769</vendorCode>
-<code>785965</code>
-<name>Принтер детский С9  — Pink</name>
-<quantity_in_stock>127</quantity_in_stock>
-<param name="Бренд">Различные</param>
-</offer>
 <offer id="ts000078774000028014" available="true">
 <url>https://kmt5.com.ua/fotoapparat-detskiy-childrens-fun-camera-x14-4</url>
 <price>664.0</price>
@@ -161078,26 +160969,6 @@
 <name>Брелок-антипотеря — Wiwu WT-07</name>
 <quantity_in_stock>21</quantity_in_stock>
 <param name="Бренд">Wiwu</param>
-</offer>
-<offer id="ts000080561000029201" available="true">
-<url>https://kmt5.com.ua/detektor-skryityih-kamer-i-juchkov-hoco-gm231-white</url>
-<price>183.0</price>
-<vendorprice>112.0</vendorprice>
-<vendorpricedoll>2.49</vendorpricedoll>
-<rrcdoll>4.06</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>27119935</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTcvODQv0KYtMDAwMDgwNTYxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWEvOWMv0KYtMDAwMDgwNTYxXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmMvN2Ev0KYtMDAwMDgwNTYxXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjYvYjQv0KYtMDAwMDgwNTYxXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000080561</vendorCode>
-<code>785132</code>
-<name>Детектор скрытых камер и жучков Hoco GM231  — White</name>
-<description><![CDATA[1. Материал: ABS+стекло+электронные компоненты 2. Размер: 42*42*13 мм; Вес: 12 г 3. Емкость аккумулятора: литиевый аккумулятор 80 мАч 4. Время использования: 40 минут 5. Модернизируйте инфракрасный чип и двухскоростной режим сканирования, чтобы фильтровать опасность слой за слоем]]></description>
-<quantity_in_stock>7</quantity_in_stock>
-<param name="Бренд">Hoco</param>
 </offer>
 <offer id="ts000080206" available="true">
 <url>https://kmt5.com.ua/schiptsyi-dlya-zavivki-resnits-electric-eyelash-curler-sj01</url>
