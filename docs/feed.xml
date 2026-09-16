@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-16 07:59">
+<yml_catalog date="2026-09-16 13:48">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -10,6 +10,7 @@
 <category id="96232187" parentId="31522521">Від 20000 mAh</category>
 <category id="98942065" parentId="31522521">Від 40000 mAh</category>
 <category id="43036807" parentId="31522521">Від 5000 mAh</category>
+<category id="58928178" parentId="31522521">Від 50000 mAh</category>
 <category id="14626412" parentId="93684718">Power Stations</category>
 <category id="2960352" parentId="14626412">Power Stations</category>
 <category id="13344437" parentId="14626412">Solar Panel</category>
@@ -9269,6 +9270,25 @@
 <param name="Бренд">Различные</param>
 <param name="Украшения для Телефонов">Шнурки</param>
 </offer>
+<offer id="ts000079358000027209" available="true">
+<url>https://kmt5.com.ua/shnurok-na-sheyu-round-clip-black</url>
+<price>80.0</price>
+<vendorprice>46.0</vendorprice>
+<vendorpricedoll>1.01</vendorpricedoll>
+<rrcdoll>1.78</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>26128749</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDQvODAv0KYtMDAwMDc5MzU4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGUvNTEv0KYtMDAwMDc5MzU4XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDgvNTgv0KYtMDAwMDc5MzU4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000079358</vendorCode>
+<code>779114</code>
+<name>Шнурок на шею «Round Clip» — Black</name>
+<quantity_in_stock>96</quantity_in_stock>
+<param name="Бренд">Различные</param>
+<param name="Украшения для Телефонов">Шнурки</param>
+</offer>
 <offer id="ts000079358000031020" available="true">
 <url>https://kmt5.com.ua/shnurok-na-sheyu-round-clip-blue</url>
 <price>80.0</price>
@@ -10349,30 +10369,6 @@
 <quantity_in_stock>74</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Особенности">RGB Color</param>
-</offer>
-<offer id="ts000073450000023389" available="true">
-<url>https://kmt5.com.ua/power-bank-10000-mah-yoobao-kj03-blue-94914</url>
-<price>549.0</price>
-<vendorprice>324.0</vendorprice>
-<vendorpricedoll>7.21</vendorpricedoll>
-<rrcdoll>12.24</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>81016638</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzAvYjYv0KYtMDAwMDczNDUwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDIvN2Uv0KYtMDAwMDczNDUwXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTAvMTQv0KYtMDAwMDczNDUwXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTcvOTMv0KYtMDAwMDczNDUwXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTcvZDEv0KYtMDAwMDczNDUwXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTMvYmUv0KYtMDAwMDczNDUwXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000073450</vendorCode>
-<code>755693</code>
-<name>Power Bank 10000 mAh Yoobao KJ03 — Blue</name>
-<description><![CDATA[Power Bank Yoobao KJ03 10000 mAh — Blue — компактний портативний акумулятор для заряджання смартфонів, планшетів, смарт-годинників, навушників та інших мобільних пристроїв. Завдяки ємності 10000 мА·год він стане зручним джерелом додаткового живлення в дорозі, на роботі, під час подорожей або у випадку відключення електроенергії. Модель оснащена 4 USB-портами, що дозволяє підключати декілька пристроїв. LED-індикатори допомагають контролювати рівень заряду повербанка. Вбудована система захисту забезпечує безпечну експлуатацію та захищає пристрій від надмірного розряду, перегрівання та перезаряджання. Корпус виготовлений із практичного пластику, а компактні розміри дозволяють легко носити повербанк у сумці або рюкзаку. Характеристики: * Бренд: Yoobao * Модель: KJ03 * Тип: портативний акумулятор / Power Bank * Ємність акумулятора: 10000 мА·год * Тип акумулятора: Li-Pol * Потужність: 10 Вт * Кількість USB-портів: 4 * Вхід: 5V/2A * Вихід: 5V/2.1A * Час заряджання: до 10 годин * Матеріал корпусу: пластик * Індикація: LED-індикатори * Захист від надмірного розряду * Захист від перегрівання * Захист від перезаряджання * Колір: синій Power Bank Yoobao KJ03 — практичне рішення для щоденного використання, яке допоможе залишатися на зв’язку та заряджати необхідні гаджети там, де немає доступу до розетки.]]></description>
-<quantity_in_stock>91</quantity_in_stock>
-<param name="Бренд">Различные</param>
-<param name="Виды аккумуляторов">Power Bank</param>
-<param name="Емкость аккумулятора">От 10000 mAh</param>
 </offer>
 <offer id="ts000066446" available="true">
 <url>https://kmt5.com.ua/power-bank-5200-mah-3-in-1-wireless</url>
@@ -12415,6 +12411,82 @@
 <param name="Бренд">Apple HQ</param>
 <param name="Материал">Силикон</param>
 </offer>
+<offer id="ts000081430000032881" available="true">
+<url>https://kmt5.com.ua/silicone-case-hc-with-magsafe-iphone-13-pro-max-stone</url>
+<price>189.0</price>
+<vendorprice>116.0</vendorprice>
+<vendorpricedoll>2.58</vendorpricedoll>
+<rrcdoll>4.2</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>70706401</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTUvYWMv0KYtMDAwMDgxNDMwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzQvZjAv0KYtMDAwMDgxNDMwXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzYvZjMv0KYtMDAwMDgxNDMwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDIvNTMv0KYtMDAwMDgxNDMwXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWMvMWYv0KYtMDAwMDgxNDMwXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGUvZWIv0KYtMDAwMDgxNDMwXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGYvMDAv0KYtMDAwMDgxNDMwXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple HQ</vendor>
+<vendorCode>Ц-000081430</vendorCode>
+<code>793346</code>
+<name>Silicone Case HC with MagSafe — iPhone 13 Pro Max — Stone</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 13 Pro Max 6.7&quot;</param>
+<param name="Бренд">Apple HQ</param>
+<param name="Материал">Силикон</param>
+</offer>
+<offer id="ts000081432000029889" available="true">
+<url>https://kmt5.com.ua/original-silicone-case-hc-with-magsafe-iphone-14-pro-max-black-18</url>
+<price>189.0</price>
+<vendorprice>116.0</vendorprice>
+<vendorpricedoll>2.58</vendorpricedoll>
+<rrcdoll>4.2</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>65522936</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmIvZGQv0KYtMDAwMDgxNDMyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2UvYzIv0KYtMDAwMDgxNDMyXzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<vendor>Apple HQ</vendor>
+<vendorCode>Ц-000081432</vendorCode>
+<code>787048</code>
+<name>Silicone Case HC with MagSafe — iPhone 14 Pro Max — Black (18)</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 14 Pro Max 6.7&quot;</param>
+<param name="Бренд">Apple HQ</param>
+<param name="Материал">Силикон</param>
+</offer>
+<offer id="ts000081432000032882" available="true">
+<url>https://kmt5.com.ua/silicone-case-hc-with-magsafe-iphone-14-pro-max-light-gray</url>
+<price>189.0</price>
+<vendorprice>116.0</vendorprice>
+<vendorpricedoll>2.58</vendorpricedoll>
+<rrcdoll>4.2</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>65522936</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDIvMGYv0KYtMDAwMDgxNDMyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2UvYzIv0KYtMDAwMDgxNDMyXzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmEvZTkv0KYtMDAwMDgxNDMyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmIvZGQv0KYtMDAwMDgxNDMyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjcvM2Qv0KYtMDAwMDgxNDMyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTAvNjEv0KYtMDAwMDgxNDMyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODMvZDAv0KYtMDAwMDgxNDMyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWIvNjcv0KYtMDAwMDgxNDMyXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWQvYTMv0KYtMDAwMDgxNDMyXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGYvOTkv0KYtMDAwMDgxNDMyXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple HQ</vendor>
+<vendorCode>Ц-000081432</vendorCode>
+<code>793347</code>
+<name>Silicone Case HC with MagSafe — iPhone 14 Pro Max — Light Gray</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 14 Pro Max 6.7&quot;</param>
+<param name="Бренд">Apple HQ</param>
+<param name="Материал">Силикон</param>
+</offer>
 <offer id="ts000081432000029891" available="true">
 <url>https://kmt5.com.ua/original-silicone-case-hc-with-magsafe-iphone-14-pro-max-light-purple</url>
 <price>189.0</price>
@@ -12493,6 +12565,27 @@
 <code>787053</code>
 <name>Silicone Case HC with MagSafe — iPhone 14 Pro Max — Pink Sand</name>
 <quantity_in_stock>7</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 14 Pro Max 6.7&quot;</param>
+<param name="Бренд">Apple HQ</param>
+<param name="Материал">Силикон</param>
+</offer>
+<offer id="ts000081432000029896" available="true">
+<url>https://kmt5.com.ua/original-silicone-case-hc-with-magsafe-iphone-14-pro-max-white-9</url>
+<price>189.0</price>
+<vendorprice>116.0</vendorprice>
+<vendorpricedoll>2.58</vendorpricedoll>
+<rrcdoll>4.2</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>65522936</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmEvZTkv0KYtMDAwMDgxNDMyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2UvYzIv0KYtMDAwMDgxNDMyXzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<vendor>Apple HQ</vendor>
+<vendorCode>Ц-000081432</vendorCode>
+<code>787055</code>
+<name>Silicone Case HC with MagSafe — iPhone 14 Pro Max — White (9)</name>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 Pro Max 6.7&quot;</param>
@@ -12654,6 +12747,27 @@
 <param name="Бренд">Apple HQ</param>
 <param name="Материал">Силикон</param>
 </offer>
+<offer id="ts000081439000029952" available="true">
+<url>https://kmt5.com.ua/original-silicone-case-hc-with-magsafe-iphone-14-pro-white-9</url>
+<price>189.0</price>
+<vendorprice>116.0</vendorprice>
+<vendorpricedoll>2.58</vendorpricedoll>
+<rrcdoll>4.2</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>65522936</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmYvNGUv0KYtMDAwMDgxNDM5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWMvMzkv0KYtMDAwMDgxNDM5XzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<vendor>Apple HQ</vendor>
+<vendorCode>Ц-000081439</vendorCode>
+<code>787118</code>
+<name>Silicone Case HC with MagSafe — iPhone 14 Pro — White (9)</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 14 Pro 6.1&quot;</param>
+<param name="Бренд">Apple HQ</param>
+<param name="Материал">Силикон</param>
+</offer>
 <offer id="ts000081434000029900" available="true">
 <url>https://kmt5.com.ua/original-silicone-case-hc-with-magsafe-iphone-15-pro-ash-75</url>
 <price>189.0</price>
@@ -12669,6 +12783,35 @@
 <code>787061</code>
 <name>Silicone Case HC with MagSafe — iPhone 15 Pro — Ash (75)</name>
 <quantity_in_stock>4</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 15 Pro</param>
+<param name="Бренд">Apple HQ</param>
+<param name="Материал">Силикон</param>
+</offer>
+<offer id="ts000081434000032884" available="true">
+<url>https://kmt5.com.ua/silicone-case-hc-with-magsafe-iphone-15-pro-light-gray</url>
+<price>189.0</price>
+<vendorprice>116.0</vendorprice>
+<vendorpricedoll>2.58</vendorpricedoll>
+<rrcdoll>4.2</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>16203878</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmYvOTUv0KYtMDAwMDgxNDM0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTAvNjQv0KYtMDAwMDgxNDM0XzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDgvNzQv0KYtMDAwMDgxNDM0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2IvZmEv0KYtMDAwMDgxNDM0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWQvNTcv0KYtMDAwMDgxNDM0XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODQvNzcv0KYtMDAwMDgxNDM0XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGMvZmQv0KYtMDAwMDgxNDM0XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmIvOGEv0KYtMDAwMDgxNDM0XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGYvMDMv0KYtMDAwMDgxNDM0XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGUvNGUv0KYtMDAwMDgxNDM0XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple HQ</vendor>
+<vendorCode>Ц-000081434</vendorCode>
+<code>793349</code>
+<name>Silicone Case HC with MagSafe — iPhone 15 Pro — Light Gray</name>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro</param>
@@ -12717,6 +12860,27 @@
 <param name="Бренд">Apple HQ</param>
 <param name="Материал">Силикон</param>
 </offer>
+<offer id="ts000081434000029906" available="true">
+<url>https://kmt5.com.ua/original-silicone-case-hc-with-magsafe-iphone-15-pro-pink-sand</url>
+<price>189.0</price>
+<vendorprice>116.0</vendorprice>
+<vendorpricedoll>2.58</vendorpricedoll>
+<rrcdoll>4.2</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>16203878</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGUvNGUv0KYtMDAwMDgxNDM0XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTAvNjQv0KYtMDAwMDgxNDM0XzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<vendor>Apple HQ</vendor>
+<vendorCode>Ц-000081434</vendorCode>
+<code>787067</code>
+<name>Silicone Case HC with MagSafe — iPhone 15 Pro — Pink Sand</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 15 Pro</param>
+<param name="Бренд">Apple HQ</param>
+<param name="Материал">Силикон</param>
+</offer>
 <offer id="ts000081434000029907" available="true">
 <url>https://kmt5.com.ua/original-silicone-case-hc-with-magsafe-iphone-15-pro-stone</url>
 <price>189.0</price>
@@ -12732,6 +12896,27 @@
 <code>787068</code>
 <name>Silicone Case HC with MagSafe — iPhone 15 Pro — Stone</name>
 <quantity_in_stock>3</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 15 Pro</param>
+<param name="Бренд">Apple HQ</param>
+<param name="Материал">Силикон</param>
+</offer>
+<offer id="ts000081434000029908" available="true">
+<url>https://kmt5.com.ua/original-silicone-case-hc-with-magsafe-iphone-15-pro-white-9</url>
+<price>189.0</price>
+<vendorprice>116.0</vendorprice>
+<vendorpricedoll>2.58</vendorpricedoll>
+<rrcdoll>4.2</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>16203878</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDgvNzQv0KYtMDAwMDgxNDM0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTAvNjQv0KYtMDAwMDgxNDM0XzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<vendor>Apple HQ</vendor>
+<vendorCode>Ц-000081434</vendorCode>
+<code>787069</code>
+<name>Silicone Case HC with MagSafe — iPhone 15 Pro — White (9)</name>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro</param>
@@ -12759,6 +12944,32 @@
 <param name="Бренд">Apple HQ</param>
 <param name="Материал">Силикон</param>
 </offer>
+<offer id="ts000081433000032883" available="true">
+<url>https://kmt5.com.ua/silicone-case-hc-with-magsafe-iphone-15-stone</url>
+<price>189.0</price>
+<vendorprice>116.0</vendorprice>
+<vendorpricedoll>2.58</vendorpricedoll>
+<rrcdoll>4.2</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>16203878</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWYvZjIv0KYtMDAwMDgxNDMzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzQvYjYv0KYtMDAwMDgxNDMzXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGYvNzIv0KYtMDAwMDgxNDMzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTQvMzIv0KYtMDAwMDgxNDMzXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWYvNzYv0KYtMDAwMDgxNDMzXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWEvYzkv0KYtMDAwMDgxNDMzXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjIvNGUv0KYtMDAwMDgxNDMzXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple HQ</vendor>
+<vendorCode>Ц-000081433</vendorCode>
+<code>793348</code>
+<name>Silicone Case HC with MagSafe — iPhone 15 — Stone</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 15</param>
+<param name="Бренд">Apple HQ</param>
+<param name="Материал">Силикон</param>
+</offer>
 <offer id="ts000081438000029937" available="true">
 <url>https://kmt5.com.ua/original-silicone-case-hc-with-magsafe-iphone-16-pro-max-black-18</url>
 <price>189.0</price>
@@ -12780,6 +12991,35 @@
 <param name="Бренд">Apple HQ</param>
 <param name="Материал">Силикон</param>
 </offer>
+<offer id="ts000081438000032885" available="true">
+<url>https://kmt5.com.ua/silicone-case-hc-with-magsafe-iphone-16-pro-max-light-gray</url>
+<price>189.0</price>
+<vendorprice>116.0</vendorprice>
+<vendorpricedoll>2.58</vendorpricedoll>
+<rrcdoll>4.2</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>60652165</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmQvYTUv0KYtMDAwMDgxNDM4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWMvNjUv0KYtMDAwMDgxNDM4XzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTUvYWMv0KYtMDAwMDgxNDM4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDAvMzMv0KYtMDAwMDgxNDM4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzgvYjAv0KYtMDAwMDgxNDM4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGMvOWQv0KYtMDAwMDgxNDM4XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmIvMDYv0KYtMDAwMDgxNDM4XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDkvN2Qv0KYtMDAwMDgxNDM4XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTkvMzIv0KYtMDAwMDgxNDM4XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjMvZGYv0KYtMDAwMDgxNDM4XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple HQ</vendor>
+<vendorCode>Ц-000081438</vendorCode>
+<code>793350</code>
+<name>Silicone Case HC with MagSafe — iPhone 16 Pro Max — Light Gray</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 16 Pro Max</param>
+<param name="Бренд">Apple HQ</param>
+<param name="Материал">Силикон</param>
+</offer>
 <offer id="ts000081438000029939" available="true">
 <url>https://kmt5.com.ua/original-silicone-case-hc-with-magsafe-iphone-16-pro-max-light-purple</url>
 <price>189.0</price>
@@ -12794,6 +13034,27 @@
 <vendorCode>Ц-000081438</vendorCode>
 <code>787104</code>
 <name>Silicone Case HC with MagSafe — iPhone 16 Pro Max — Light Purple</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 16 Pro Max</param>
+<param name="Бренд">Apple HQ</param>
+<param name="Материал">Силикон</param>
+</offer>
+<offer id="ts000081438000029940" available="true">
+<url>https://kmt5.com.ua/original-silicone-case-hc-with-magsafe-iphone-16-pro-max-midnight-blue-8</url>
+<price>189.0</price>
+<vendorprice>116.0</vendorprice>
+<vendorpricedoll>2.58</vendorpricedoll>
+<rrcdoll>4.2</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>60652165</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGMvOWQv0KYtMDAwMDgxNDM4XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWMvNjUv0KYtMDAwMDgxNDM4XzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<vendor>Apple HQ</vendor>
+<vendorCode>Ц-000081438</vendorCode>
+<code>787105</code>
+<name>Silicone Case HC with MagSafe — iPhone 16 Pro Max — Midnight blue (8)</name>
 <quantity_in_stock>10</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
@@ -12858,6 +13119,33 @@
 <code>788694</code>
 <name>Silicone Case HC with MagSafe — iPhone 17 Pro Max — Black (18)</name>
 <quantity_in_stock>28</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 17 Pro Max</param>
+<param name="Бренд">Apple HQ</param>
+<param name="Материал">Силикон</param>
+</offer>
+<offer id="ts000082502000032887" available="true">
+<url>https://kmt5.com.ua/silicone-case-hc-with-magsafe-iphone-17-pro-max-light-gray</url>
+<price>191.0</price>
+<vendorprice>116.0</vendorprice>
+<vendorpricedoll>2.58</vendorpricedoll>
+<rrcdoll>4.24</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>54622491</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTYvOGYv0KYtMDAwMDgyNTAyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTcvNmEv0KYtMDAwMDgyNTAyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWIvMTIv0KYtMDAwMDgyNTAyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzAvNTIv0KYtMDAwMDgyNTAyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmQvM2Qv0KYtMDAwMDgyNTAyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2MvMzkv0KYtMDAwMDgyNTAyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2EvMzAv0KYtMDAwMDgyNTAyXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjAvYzEv0KYtMDAwMDgyNTAyXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple HQ</vendor>
+<vendorCode>Ц-000082502</vendorCode>
+<code>793352</code>
+<name>Silicone Case HC with MagSafe — iPhone 17 Pro Max — Light Gray</name>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max</param>
@@ -13036,6 +13324,48 @@
 <param name="Модель девайса">Apple iPhone 17</param>
 <param name="Бренд">Apple HQ</param>
 <param name="Материал">Силикон</param>
+</offer>
+<offer id="ts000082504000030513" available="true">
+<url>https://kmt5.com.ua/silicone-case-hc-with-magsafe-iphone-17-white-9</url>
+<price>191.0</price>
+<vendorprice>116.0</vendorprice>
+<vendorpricedoll>2.58</vendorpricedoll>
+<rrcdoll>4.24</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>54622491</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTMvMmMv0KYtMDAwMDgyNTA0XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWQvNjEv0KYtMDAwMDgyNTA0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple HQ</vendor>
+<vendorCode>Ц-000082504</vendorCode>
+<code>788712</code>
+<name>Silicone Case HC with MagSafe — iPhone 17 — White (9)</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 17</param>
+<param name="Бренд">Apple HQ</param>
+<param name="Материал">Силикон</param>
+</offer>
+<offer id="ts000082195000030287" available="true">
+<url>https://kmt5.com.ua/polo-aristo-leather-case-iphone-17-pro-max-navy</url>
+<price>924.0</price>
+<vendorprice>573.0</vendorprice>
+<vendorpricedoll>12.77</vendorpricedoll>
+<rrcdoll>20.58</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>54622491</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTMvMWQv0KYtMDAwMDgyMTk1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjkvMDEv0KYtMDAwMDgyMTk1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Polo</vendor>
+<vendorCode>Ц-000082195</vendorCode>
+<code>788184</code>
+<name>Polo Aristo Leather Case iPhone 17 Pro Max — Navy</name>
+<quantity_in_stock>2</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 17 Pro Max</param>
+<param name="Бренд">Polo</param>
+<param name="Материал">PU кожа</param>
 </offer>
 <offer id="ts000083014000031039" available="true">
 <url>https://kmt5.com.ua/polo-augus-silicone-case-with-magsafe-iphone-17-pro-max-grey</url>
@@ -15998,6 +16328,27 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max</param>
+<param name="Бренд">Apple</param>
+<param name="Материал">Полиуретан</param>
+</offer>
+<offer id="ts000082591000030613" available="true">
+<url>https://kmt5.com.ua/ag-glass-case-with-magsafe-iphone-17-pro-blue</url>
+<price>215.0</price>
+<vendorprice>123.0</vendorprice>
+<vendorpricedoll>2.73</vendorpricedoll>
+<rrcdoll>4.78</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>54622491</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjkvODUv0KYtMDAwMDgyNTkxXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmEvNGQv0KYtMDAwMDgyNTkxXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000082591</vendorCode>
+<code>788896</code>
+<name>AG Glass Case With MagSafe — iPhone 17 Pro — Blue</name>
+<quantity_in_stock>14</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 17 Pro</param>
 <param name="Бренд">Apple</param>
 <param name="Материал">Полиуретан</param>
 </offer>
@@ -19401,6 +19752,27 @@
 <code>791904</code>
 <name>Benks ArmorAir ArmorGrid kevlar case — Samsung S26 Ultra — Orange</name>
 <quantity_in_stock>9</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Samsung</param>
+<param name="Модель девайса">Samsung S26 Ultra</param>
+<param name="Бренд">Benks</param>
+<param name="Материал">Карбон &amp; Силикон</param>
+</offer>
+<offer id="ts000084140000032113" available="true">
+<url>https://kmt5.com.ua/benks-armorair-armorgrid-kevlar-case-samsung-s26-ultra-purple</url>
+<price>2200.0</price>
+<vendorprice>1664.0</vendorprice>
+<vendorpricedoll>37.08</vendorpricedoll>
+<rrcdoll>49.05</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>43902800</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjgvZWMv0KYtMDAwMDg0MTQwXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDYvOGUv0KYtMDAwMDg0MTQwXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Benks</vendor>
+<vendorCode>Ц-000084140</vendorCode>
+<code>791903</code>
+<name>Benks ArmorAir ArmorGrid kevlar case — Samsung S26 Ultra — Purple</name>
+<quantity_in_stock>7</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Samsung</param>
 <param name="Модель девайса">Samsung S26 Ultra</param>
@@ -22866,6 +23238,27 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 Pro 6.1&quot;</param>
+<param name="Бренд">Различные</param>
+<param name="Материал">Полиуретан</param>
+</offer>
+<offer id="ts000074010000023926" available="true">
+<url>https://kmt5.com.ua/casetify-crocodile-tpu-case-iphone-7-black</url>
+<price>60.0</price>
+<vendorprice>37.0</vendorprice>
+<vendorpricedoll>0.82</vendorpricedoll>
+<rrcdoll>1.33</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>63143311</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGYvZjYv0KYtMDAwMDc0MDEwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDcvYWYv0KYtMDAwMDc0MDEwXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000074010</vendorCode>
+<code>768797</code>
+<name>Casetify Crocodile TPU Case iPhone 7 — Black</name>
+<quantity_in_stock>7</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 7</param>
 <param name="Бренд">Различные</param>
 <param name="Материал">Полиуретан</param>
 </offer>
@@ -31244,6 +31637,27 @@
 <param name="Бренд">Apple</param>
 <param name="Материал">Силикон</param>
 </offer>
+<offer id="ts000084001000031806" available="true">
+<url>https://kmt5.com.ua/full-camera-armor-case-with-magsafe-iphone-1212-pro-brown</url>
+<price>241.0</price>
+<vendorprice>138.0</vendorprice>
+<vendorpricedoll>3.07</vendorpricedoll>
+<rrcdoll>5.37</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>36174719</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTMvNWEv0KYtMDAwMDg0MDAxXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2QvMTIv0KYtMDAwMDg0MDAxXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000084001</vendorCode>
+<code>791464</code>
+<name>Full camera armor Case With MagSafe — iPhone 12/12 Pro  — Brown</name>
+<quantity_in_stock>5</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 12 6.1&quot;, Apple iPhone 12 Pro 6.1&quot;</param>
+<param name="Бренд">Apple</param>
+<param name="Материал">Силикон</param>
+</offer>
 <offer id="ts000084001000031807" available="true">
 <url>https://kmt5.com.ua/full-camera-armor-case-with-magsafe-iphone-1212-pro-dark-blue</url>
 <price>241.0</price>
@@ -31637,6 +32051,27 @@
 <code>791511</code>
 <name>Full camera armor Case With MagSafe — iPhone 17 Pro  — Black</name>
 <quantity_in_stock>5</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 17 Pro</param>
+<param name="Бренд">Apple</param>
+<param name="Материал">Силикон</param>
+</offer>
+<offer id="ts000084011000031847" available="true">
+<url>https://kmt5.com.ua/full-camera-armor-case-with-magsafe-iphone-17-pro-dark-blue</url>
+<price>241.0</price>
+<vendorprice>138.0</vendorprice>
+<vendorpricedoll>3.07</vendorpricedoll>
+<rrcdoll>5.37</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>54622491</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGMvMWUv0KYtMDAwMDg0MDExXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDIvYzQv0KYtMDAwMDg0MDExXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000084011</vendorCode>
+<code>791515</code>
+<name>Full camera armor Case With MagSafe — iPhone 17 Pro  — Dark Blue</name>
+<quantity_in_stock>7</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro</param>
@@ -39520,6 +39955,27 @@
 <param name="Бренд">Wiwu</param>
 <param name="Материал">Полиуретан</param>
 </offer>
+<offer id="ts000082497000030488" available="true">
+<url>https://kmt5.com.ua/ishield-pro-case-with-magsafe-mcc101-iphone-16-pro-max-transparent-black</url>
+<price>358.0</price>
+<vendorprice>218.0</vendorprice>
+<vendorpricedoll>4.84</vendorpricedoll>
+<rrcdoll>7.97</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>60652165</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzYvMDkv0KYtMDAwMDgyNDk3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWMvOGMv0KYtMDAwMDgyNDk3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Wiwu</vendor>
+<vendorCode>Ц-000082497</vendorCode>
+<code>788680</code>
+<name>iShield Pro Case With MagSafe MCC-101 — iPhone 16 Pro Max — Transparent Black</name>
+<quantity_in_stock>29</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 16 Pro Max</param>
+<param name="Бренд">Wiwu</param>
+<param name="Материал">Полиуретан</param>
+</offer>
 <offer id="ts000082498000030489" available="true">
 <url>https://kmt5.com.ua/ishield-pro-case-with-magsafe-mcc101-iphone-17-transparent</url>
 <price>358.0</price>
@@ -46701,28 +47157,6 @@
 <param name="Бренд">Apple</param>
 <param name="Материал">Силикон</param>
 </offer>
-<offer id="ts000079340000027174" available="true">
-<url>https://kmt5.com.ua/oc-matte-case-with-magsafe-iphone-15-pro-max-dark-blue</url>
-<price>180.0</price>
-<vendorprice>110.0</vendorprice>
-<vendorpricedoll>2.45</vendorpricedoll>
-<rrcdoll>4.01</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>16203878</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzAvNWUv0KYtMDAwMDc5MzQwXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGMvZWMv0KYtMDAwMDc5MzQwXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmMvNDYv0KYtMDAwMDc5MzQwXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000079340</vendorCode>
-<code>779064</code>
-<name>OC Matte Case With MagSafe iPhone 15 Pro Max — Dark Blue</name>
-<quantity_in_stock>4</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 15 Pro Max</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Силикон</param>
-</offer>
 <offer id="ts000079340000027175" available="true">
 <url>https://kmt5.com.ua/oc-matte-case-with-magsafe-iphone-15-pro-max-grey</url>
 <price>180.0</price>
@@ -48088,6 +48522,31 @@
 <param name="Бренд">Apple</param>
 <param name="Материал">Полиуретан</param>
 </offer>
+<offer id="ts000069683000020618" available="true">
+<url>https://kmt5.com.ua/original-silicone-case-full-size-iphone-12-12-pro-61-pink-sand-19</url>
+<price>136.0</price>
+<vendorprice>84.0</vendorprice>
+<vendorpricedoll>1.85</vendorpricedoll>
+<rrcdoll>3.02</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>36174719</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjYvNDkv0KYtMDAwMDY5NjgzXzE5LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGMvZmEv0KYtMDAwMDY5NjgzXzE1LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODgvMGYv0KYtMDAwMDY5NjgzXzI3LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzYvM2Mv0KYtMDAwMDY5NjgzXzI4LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjAvOGUv0KYtMDAwMDY5NjgzXzI5LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjQvZGUv0KYtMDAwMDY5NjgzXzMwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000069683</vendorCode>
+<code>750872</code>
+<name>Original Silicone Case Full Size iPhone 12 ; 12 Pro 6.1&quot; — Pink Sand (19)</name>
+<quantity_in_stock>2</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 12 6.1&quot;, Apple iPhone 12 Pro 6.1&quot;</param>
+<param name="Бренд">Apple</param>
+<param name="Материал">Полиуретан</param>
+</offer>
 <offer id="ts000069683000021648" available="true">
 <url>https://kmt5.com.ua/original-silicone-case-full-size-iphone-12-12-pro-61-red</url>
 <price>136.0</price>
@@ -48843,6 +49302,31 @@
 <param name="Бренд">Apple</param>
 <param name="Материал">Полиуретан</param>
 </offer>
+<offer id="ts000072933000031276" available="true">
+<url>https://kmt5.com.ua/original-silicone-case-full-size-iphone-14-pro-max-67-hermes-orange-81</url>
+<price>155.0</price>
+<vendorprice>91.0</vendorprice>
+<vendorpricedoll>2.01</vendorpricedoll>
+<rrcdoll>3.44</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>65522936</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGEvZDgv0KYtMDAwMDcyOTMzXzMxLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDAvYjYv0KYtMDAwMDcyOTMzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmYvYTgv0KYtMDAwMDcyOTMzXzIxLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjkvNGQv0KYtMDAwMDcyOTMzXzIzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzYvMDMv0KYtMDAwMDcyOTMzXzI0LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGMvMzAv0KYtMDAwMDcyOTMzXzI3LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000072933</vendorCode>
+<code>790206</code>
+<name>Original Silicone Case Full Size iPhone 14 Pro Max 6.7&quot; — Hermes Orange (81)</name>
+<quantity_in_stock>2</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 14 Pro Max 6.7&quot;</param>
+<param name="Бренд">Apple</param>
+<param name="Материал">Полиуретан</param>
+</offer>
 <offer id="ts000072933000022261" available="true">
 <url>https://kmt5.com.ua/original-silicone-case-full-size-iphone-14-pro-max-67-khaki-48</url>
 <price>155.0</price>
@@ -49038,6 +49522,27 @@
 <code>772068</code>
 <name>Original Silicone Case Full Size iPhone 15 Plus — Lavender Gray</name>
 <quantity_in_stock>15</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 15 Plus</param>
+<param name="Бренд">Различные</param>
+<param name="Материал">Полиуретан</param>
+</offer>
+<offer id="ts000076189000025064" available="true">
+<url>https://kmt5.com.ua/original-silicone-case-full-size-iphone-15-plus-lilac-76</url>
+<price>136.0</price>
+<vendorprice>84.0</vendorprice>
+<vendorpricedoll>1.85</vendorpricedoll>
+<rrcdoll>3.02</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>16203878</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzIvYWUv0KYtMDAwMDc2MTg5XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmYvZmYv0KYtMDAwMDc2MTg5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000076189</vendorCode>
+<code>772069</code>
+<name>Original Silicone Case Full Size iPhone 15 Plus — Lilac (76)</name>
+<quantity_in_stock>22</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Plus</param>
@@ -50651,6 +51156,31 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 7, Apple iPhone 8, Apple iPhone SE 2020</param>
+<param name="Бренд">Apple</param>
+<param name="Материал">Полиуретан</param>
+</offer>
+<offer id="ts000068667000015892" available="true">
+<url>https://kmt5.com.ua/original-silicone-case-full-size-iphone-x-xs-red-14</url>
+<price>136.0</price>
+<vendorprice>84.0</vendorprice>
+<vendorpricedoll>1.85</vendorpricedoll>
+<rrcdoll>3.02</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>7649743</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjAvNzYv0KYtMDAwMDY4NjY3XzM1LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjUvNjUv0KYtMDAwMDY4NjY3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzQvYWEv0KYtMDAwMDY4NjY3XzQ3LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjYvOTYv0KYtMDAwMDY4NjY3XzQ4LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmEvYzcv0KYtMDAwMDY4NjY3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDcvOWEv0KYtMDAwMDY4NjY3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000068667</vendorCode>
+<code>736904</code>
+<name>Original Silicone Case Full Size iPhone X ; XS — Red (14)</name>
+<quantity_in_stock>4</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone X, Apple iPhone Xs</param>
 <param name="Бренд">Apple</param>
 <param name="Материал">Полиуретан</param>
 </offer>
@@ -57266,6 +57796,32 @@
 <param name="Модель девайса">Apple iPhone 15 Pro</param>
 <param name="Бренд">Polo</param>
 <param name="Материал">Пластик &amp; TPU</param>
+</offer>
+<offer id="ts000082182000030262" available="true">
+<url>https://kmt5.com.ua/polo-lucas-leather-case-iphone-17-pro-grey</url>
+<price>849.0</price>
+<vendorprice>527.0</vendorprice>
+<vendorpricedoll>11.74</vendorpricedoll>
+<rrcdoll>18.92</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>54622491</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmIvOWQv0KYtMDAwMDgyMTgyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDQvYzQv0KYtMDAwMDgyMTgyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjYvMTQv0KYtMDAwMDgyMTgyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjcvMzUv0KYtMDAwMDgyMTgyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjYvOGEv0KYtMDAwMDgyMTgyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDAvODMv0KYtMDAwMDgyMTgyXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTcvMmIv0KYtMDAwMDgyMTgyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Polo</vendor>
+<vendorCode>Ц-000082182</vendorCode>
+<code>788146</code>
+<name>Polo Lucas Leather Case iPhone 17 Pro — Grey</name>
+<quantity_in_stock>13</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 17 Pro</param>
+<param name="Бренд">Polo</param>
+<param name="Материал">PU кожа</param>
 </offer>
 <offer id="ts000079632000027548" available="true">
 <url>https://kmt5.com.ua/polo-new-york-never-sleeps-tpu-case-iphone-15-pro-bronx-energy</url>
@@ -65397,6 +65953,27 @@
 <param name="Бренд">Apple HQ</param>
 <param name="Материал">Силикон</param>
 </offer>
+<offer id="ts000081431000029880" available="true">
+<url>https://kmt5.com.ua/original-silicone-case-hc-with-magsafe-iphone-14-black-18</url>
+<price>189.0</price>
+<vendorprice>116.0</vendorprice>
+<vendorpricedoll>2.58</vendorpricedoll>
+<rrcdoll>4.2</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>65522936</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjEvYmQv0KYtMDAwMDgxNDMxXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjEvYzcv0KYtMDAwMDgxNDMxXzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<vendor>Apple HQ</vendor>
+<vendorCode>Ц-000081431</vendorCode>
+<code>787038</code>
+<name>Silicone Case HC with MagSafe — iPhone 14 — Black (18)</name>
+<quantity_in_stock>24</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 14 6.1&quot;</param>
+<param name="Бренд">Apple HQ</param>
+<param name="Материал">Силикон</param>
+</offer>
 <offer id="ts000081431000029882" available="true">
 <url>https://kmt5.com.ua/original-silicone-case-hc-with-magsafe-iphone-14-light-purple</url>
 <price>189.0</price>
@@ -72207,6 +72784,27 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Samsung</param>
 <param name="Модель девайса">Samsung A34</param>
+<param name="Бренд">Различные</param>
+<param name="Материал">Полиуретан</param>
+</offer>
+<offer id="ts000070601000019036" available="true">
+<url>https://kmt5.com.ua/soft-touch-tpu-case-samsung-a52-a525f-pink-sand</url>
+<price>60.0</price>
+<vendorprice>37.0</vendorprice>
+<vendorpricedoll>0.82</vendorpricedoll>
+<rrcdoll>1.33</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>90750134</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWYvNjQv0KYtMDAwMDcwNjAxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjIvMzIv0KYtMDAwMDcwNjAxXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000070601</vendorCode>
+<code>748250</code>
+<name>Soft Touch TPU Case Samsung A52 (A525F) — Pink Sand</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Samsung</param>
+<param name="Модель девайса">Samsung A52(A525F)</param>
 <param name="Бренд">Различные</param>
 <param name="Материал">Полиуретан</param>
 </offer>
@@ -79072,27 +79670,6 @@
 <param name="Бренд">Различные</param>
 <param name="Материал">Пластик</param>
 </offer>
-<offer id="ts000077297000028447" available="true">
-<url>https://kmt5.com.ua/uag-adventure-magnetic-case-iphone-12-pro-max-67-black</url>
-<price>351.0</price>
-<vendorprice>204.0</vendorprice>
-<vendorpricedoll>4.53</vendorpricedoll>
-<rrcdoll>7.81</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>36174719</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGIvY2Qv0KYtMDAwMDc3Mjk3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDIvZDcv0KYtMDAwMDc3Mjk3XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000077297</vendorCode>
-<code>782144</code>
-<name>UAG Adventure Magnetic Case — iPhone 12 Pro Max 6.7&quot;  — Black</name>
-<quantity_in_stock>8</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 12 Pro Max 6.7&quot;</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Пластик</param>
-</offer>
 <offer id="ts000077297000025285" available="true">
 <url>https://kmt5.com.ua/uag-adventure-magnetic-case-iphone-12-pro-max-67-camouflage-black</url>
 <price>351.0</price>
@@ -79405,27 +79982,6 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 Pro 6.1&quot;</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Пластик</param>
-</offer>
-<offer id="ts000077303000025321" available="true">
-<url>https://kmt5.com.ua/uag-adventure-magnetic-case-iphone-14-pro-max-67-camouflage-black</url>
-<price>351.0</price>
-<vendorprice>204.0</vendorprice>
-<vendorpricedoll>4.53</vendorpricedoll>
-<rrcdoll>7.81</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>65522936</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjEvY2Uv0KYtMDAwMDc3MzAzXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzQvMDgv0KYtMDAwMDc3MzAzXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000077303</vendorCode>
-<code>773409</code>
-<name>UAG Adventure Magnetic Case — iPhone 14 Pro Max 6.7&quot;  — Camouflage Black</name>
-<quantity_in_stock>5</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 14 Pro Max 6.7&quot;</param>
 <param name="Бренд">Различные</param>
 <param name="Материал">Пластик</param>
 </offer>
@@ -85207,32 +85763,6 @@
 <param name="Бренд">Dux Ducis</param>
 <param name="Материал">Полиуретан</param>
 </offer>
-<offer id="ts000082393000030385" available="true">
-<url>https://kmt5.com.ua/yind-case-with-magsafe-samsung-s25-ultra-black-93489</url>
-<price>305.0</price>
-<vendorprice>190.0</vendorprice>
-<vendorpricedoll>4.22</vendorpricedoll>
-<rrcdoll>6.8</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>43902800</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTUvZjIv0KYtMDAwMDgyMzkzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWUvYjQv0KYtMDAwMDgyMzkzXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTMvN2Ev0KYtMDAwMDgyMzkzXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGUvMWQv0KYtMDAwMDgyMzkzXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTUvOWYv0KYtMDAwMDgyMzkzXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzEvYjkv0KYtMDAwMDgyMzkzXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGEvYTEv0KYtMDAwMDgyMzkzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Dux Ducis</vendor>
-<vendorCode>Ц-000082393</vendorCode>
-<code>788476</code>
-<name>Yind Case With Magsafe — Samsung S25 Ultra — Black</name>
-<quantity_in_stock>6</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Samsung</param>
-<param name="Модель девайса">Samsung S25 Ultra</param>
-<param name="Бренд">Dux Ducis</param>
-<param name="Материал">Полиуретан</param>
-</offer>
 <offer id="ts000083162000031108" available="true">
 <url>https://kmt5.com.ua/yind-case-with-magsafe-samsung-s26-black</url>
 <price>309.0</price>
@@ -86768,6 +87298,27 @@
 <param name="Бренд">Wiwu</param>
 <param name="Материал">Ткань</param>
 </offer>
+<offer id="ts000084092000032083" available="true">
+<url>https://kmt5.com.ua/ryukzak-wiwu-terrace-tot-14-black</url>
+<price>2105.0</price>
+<vendorprice>1202.0</vendorprice>
+<vendorpricedoll>26.78</vendorpricedoll>
+<rrcdoll>46.93</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>71284098</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWMvZWMv0KYtMDAwMDg0MDkyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTMvYjUv0KYtMDAwMDg0MDkyXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDkvYTkv0KYtMDAwMDg0MDkyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Wiwu</vendor>
+<vendorCode>Ц-000084092</vendorCode>
+<code>791828</code>
+<name>Рюкзак WiWU Terrace Tot 14&quot; — Black</name>
+<description><![CDATA[Сумка WiWU Minimalist Backpack чехол для ноутбука Рюкзак для MacBook Pro 15,6" Черный Это идеальный выбор для тех, кто ищет высокое качество и стиль в носке. Благодаря своей диагонали 15,6" и В основном большому отделению, этот рюкзак идеально подходит для владельцев MacBook и всех, кто всегда в движении. Характеристики: Большой объем: Рюкзак имеет объем 40 литров, что позволяет разместить все ваши необходимые вещи без лишних проблем. Функциональные отделения: В рюкзаке есть одно основное отделение, внутренний карманчик, наружный карманчик для смартфона или зарядного устройства, а также наружные маленькие карманчики для мелочей. Отдельное отделение для ноутбука: В рюкзаке предусмотрено специальное отделение с возможностью размещения ноутбука с диагональю до 15,6". Два плечевых ремня и короткая ручка: Вы можете носить рюкзак на спинах, а также короткой ручкой, которая удобна для подъем Регулируемые ремни: Рюкзак оснащен регулируемыми ремнями, которые позволяют настроить его положение на спине для удобства Надежная фиксация на плечах: Не скользящие лямки гарантируют, что рюкзак будет надежно фиксироваться на вашем плече. переднем отделении: Большое количество карманов в переднем отделении помогает легко организовать ваши вещи Мягкая спинка: Наличие мягкой спинки делает рюкзак особенно комфортным при ношении. , не чувствуя усталости. Рюкзак WIWU Minimalist Backpack – это идеальный спутник для активных людей, которые ценят удобство и стиль.]]></description>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Форм фактор">Сумка</param>
+<param name="Бренд">Wiwu</param>
+<param name="Материал">Ткань</param>
+</offer>
 <offer id="ts000084092000032084" available="true">
 <url>https://kmt5.com.ua/ryukzak-wiwu-terrace-tot-14-light-grey</url>
 <price>2105.0</price>
@@ -87538,6 +88089,27 @@
 <param name="Бренд">Apple</param>
 <param name="Материал">Силикон</param>
 </offer>
+<offer id="ts000083754000031675" available="true">
+<url>https://kmt5.com.ua/crystal-case-macbook-neo-13-a3404-clear</url>
+<price>421.0</price>
+<vendorprice>241.0</vendorprice>
+<vendorpricedoll>5.36</vendorpricedoll>
+<rrcdoll>9.37</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>61259600</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2EvOTcv0KYtMDAwMDgzNzU0XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDIvNzIv0KYtMDAwMDgzNzU0XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000083754</vendorCode>
+<code>791089</code>
+<name>Crystal Case MacBook Neo 13'' A3404 — Clear</name>
+<quantity_in_stock>52</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Macbook Neo 13 A3404</param>
+<param name="Бренд">Apple</param>
+<param name="Материал">Силикон</param>
+</offer>
 <offer id="ts000080248000028683" available="true">
 <url>https://kmt5.com.ua/crystal-case-macbook-pro-142-a2442-clear</url>
 <price>399.0</price>
@@ -87555,28 +88127,6 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Macbook Pro 14.2</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Силикон</param>
-</offer>
-<offer id="ts000083756000031680" available="true">
-<url>https://kmt5.com.ua/glitter-case-macbook-neo-13-a3404-clear</url>
-<price>542.0</price>
-<vendorprice>310.0</vendorprice>
-<vendorpricedoll>6.9</vendorpricedoll>
-<rrcdoll>12.07</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>61259600</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODQvODAv0KYtMDAwMDgzNzU2XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTQvYWIv0KYtMDAwMDgzNzU2XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTAvYWQv0KYtMDAwMDgzNzU2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000083756</vendorCode>
-<code>791096</code>
-<name>Glitter Case MacBook Neo 13'' A3404 — Clear</name>
-<quantity_in_stock>10</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Macbook Neo 13 A3404</param>
 <param name="Бренд">Apple</param>
 <param name="Материал">Силикон</param>
 </offer>
@@ -88345,27 +88895,6 @@
 <param name="Бренд">Apple</param>
 <param name="Материал">Силикон</param>
 </offer>
-<offer id="ts000081325000029805" available="true">
-<url>https://kmt5.com.ua/glitter-protective-case-macbook-air-133-a1932-a2179-a2337-clear</url>
-<price>482.0</price>
-<vendorprice>292.0</vendorprice>
-<vendorpricedoll>6.49</vendorpricedoll>
-<rrcdoll>10.73</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>61259600</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjIvMTMv0KYtMDAwMDgxMzI1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjgvZTgv0KYtMDAwMDgxMzI1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000081325</vendorCode>
-<code>786858</code>
-<name>Glitter Case MacBook Air 13.3&quot; A1932 ; A2179 ; A2337 — Clear</name>
-<quantity_in_stock>9</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Macbook Air 13.3 A1932/A2179/A2337</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Силикон</param>
-</offer>
 <offer id="ts000069972000017564" available="true">
 <url>https://kmt5.com.ua/original-wallet-case-magsafe-iphone-12-12-pro-brown</url>
 <price>310.0</price>
@@ -88482,6 +89011,24 @@
 <code>779610</code>
 <name>Key storage bag Opp Oval — Pink</name>
 <quantity_in_stock>4</quantity_in_stock>
+<param name="Форм фактор">Чехол для ключей</param>
+<param name="Бренд">Различные</param>
+</offer>
+<offer id="ts000079607000027496" available="true">
+<url>https://kmt5.com.ua/key-storage-bag-wallet-black</url>
+<price>112.0</price>
+<vendorprice>70.0</vendorprice>
+<vendorpricedoll>1.55</vendorpricedoll>
+<rrcdoll>2.49</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>18825693</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDYvZDIv0KYtMDAwMDc5NjA3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGIvZmMv0KYtMDAwMDc5NjA3XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000079607</vendorCode>
+<code>779642</code>
+<name>Key storage bag Wallet — Black</name>
+<quantity_in_stock>9</quantity_in_stock>
 <param name="Форм фактор">Чехол для ключей</param>
 <param name="Бренд">Различные</param>
 </offer>
@@ -90137,6 +90684,26 @@
 <code>785898</code>
 <name>Airpods 4 Case Microfiber — Gray</name>
 <quantity_in_stock>10</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Airpods 4</param>
+<param name="Бренд">Различные</param>
+<param name="Аудіо товари">Чехол для Airpods</param>
+</offer>
+<offer id="ts000080740000029403" available="true">
+<url>https://kmt5.com.ua/airpods-4-case-microfiber-lavender-14</url>
+<price>76.0</price>
+<vendorprice>42.0</vendorprice>
+<vendorpricedoll>0.93</vendorpricedoll>
+<rrcdoll>1.68</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>19314331</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTgvZGYv0KYtMDAwMDgwNzQwXzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzIvYjgv0KYtMDAwMDgwNzQwXzI2LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000080740</vendorCode>
+<code>785882</code>
+<name>Airpods 4 Case Microfiber — Lavender (14)</name>
+<quantity_in_stock>13</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Airpods 4</param>
 <param name="Бренд">Различные</param>
@@ -94883,6 +95450,27 @@
 <param name="Бренд">Различные</param>
 <param name="Аудіо товари">Чехол для Airpods</param>
 </offer>
+<offer id="ts000077340000025477" available="true">
+<url>https://kmt5.com.ua/airpods-pro-2-case-clear-hello-kitty</url>
+<price>101.0</price>
+<vendorprice>56.0</vendorprice>
+<vendorpricedoll>1.24</vendorpricedoll>
+<rrcdoll>2.24</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>2209499</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzcvMzMv0KYtMDAwMDc3MzQwXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDcvNmIv0KYtMDAwMDc3MzQwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzIvMjkv0KYtMDAwMDc3MzQwXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000077340</vendorCode>
+<code>773753</code>
+<name>Airpods Pro 2 Case Clear — Hello Kitty</name>
+<quantity_in_stock>3</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Airpods Pro 2</param>
+<param name="Бренд">Различные</param>
+<param name="Аудіо товари">Чехол для Airpods</param>
+</offer>
 <offer id="ts000077340000025480" available="true">
 <url>https://kmt5.com.ua/airpods-pro-2-case-clear-winny-pooh</url>
 <price>101.0</price>
@@ -97681,6 +98269,29 @@
 <param name="Виды защиты экрана">Захисне скло</param>
 <param name="Вид покрытия">Camera Glass</param>
 </offer>
+<offer id="ts000078528000026716" available="true">
+<url>https://kmt5.com.ua/camera-glass-diamond-crumb-iphone-1414-plus-blue</url>
+<price>100.0</price>
+<vendorprice>56.0</vendorprice>
+<vendorpricedoll>1.24</vendorpricedoll>
+<rrcdoll>2.22</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>30469396</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTEvZDEv0KYtMDAwMDc4NTI4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzkvN2Iv0KYtMDAwMDc4NTI4XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjUvYWIv0KYtMDAwMDc4NTI4XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2YvZGYv0KYtMDAwMDc4NTI4XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000078528</vendorCode>
+<code>777779</code>
+<name>Camera Glass Diamond Crumb iPhone 14/14 Plus — Blue</name>
+<quantity_in_stock>48</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 14 6.1&quot;, Apple iPhone 14 Plus 6.7&quot;</param>
+<param name="Бренд">Различные</param>
+<param name="Виды защиты экрана">Захисне скло</param>
+<param name="Вид покрытия">Camera Glass</param>
+</offer>
 <offer id="ts000078528000026719" available="true">
 <url>https://kmt5.com.ua/camera-glass-diamond-crumb-iphone-1414-plus-gold</url>
 <price>100.0</price>
@@ -98414,6 +99025,27 @@
 <code>775954</code>
 <name>Camera Glass Steel iPhone 15 Pro/15 Pro max — Silver</name>
 <quantity_in_stock>14</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 15 Pro, Apple iPhone 15 Pro Max</param>
+<param name="Бренд">Различные</param>
+<param name="Виды защиты экрана">Захисне скло</param>
+<param name="Вид покрытия">Camera Glass</param>
+</offer>
+<offer id="ts000077670000025907" available="true">
+<url>https://kmt5.com.ua/camera-glass-steel-iphone-15-pro-titanium-gray</url>
+<price>79.0</price>
+<vendorprice>44.0</vendorprice>
+<vendorpricedoll>0.97</vendorpricedoll>
+<rrcdoll>1.74</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>19951999</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTgvZTYv0KYtMDAwMDc3NjcwXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2YvYmYv0KYtMDAwMDc3NjcwXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000077670</vendorCode>
+<code>775951</code>
+<name>Camera Glass Steel iPhone 15 Pro/15 Pro max — Titanium Gray</name>
+<quantity_in_stock>17</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro, Apple iPhone 15 Pro Max</param>
 <param name="Бренд">Различные</param>
@@ -103721,6 +104353,42 @@
 <quantity_in_stock>200</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 </offer>
+<offer id="ts000083198000031151" available="true">
+<url>https://kmt5.com.ua/power-bank-10000-mah%C2%A0-225wpd20w%C2%A0-hoco-j158a-black</url>
+<price>618.0</price>
+<vendorprice>453.0</vendorprice>
+<vendorpricedoll>10.09</vendorpricedoll>
+<rrcdoll>13.76</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>81016638</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDUvNDYv0KYtMDAwMDgzMTk4XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Hoco</vendor>
+<vendorCode>Ц-000083198</vendorCode>
+<code>790030</code>
+<name>Power Bank 10000 mAh | 22.5W+PD20W — Hoco J158Pro — Black</name>
+<quantity_in_stock>42</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Виды аккумуляторов">Power Bank</param>
+<param name="Емкость аккумулятора">От 10000 mAh</param>
+</offer>
+<offer id="ts000083635000031620" available="true">
+<url>https://kmt5.com.ua/power-bank-20000-mah%C2%A0-225wpd20w%C2%A0-hoco-j102a-white</url>
+<price>913.0</price>
+<vendorprice>670.0</vendorprice>
+<vendorpricedoll>14.94</vendorpricedoll>
+<rrcdoll>20.35</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>96232187</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWYvMjkv0KYtMDAwMDgzNjM1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Hoco</vendor>
+<vendorCode>Ц-000083635</vendorCode>
+<code>790921</code>
+<name>Power Bank 20000 mAh | PD20W — Hoco J102A  — White</name>
+<quantity_in_stock>1034</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Виды аккумуляторов">Power Bank</param>
+<param name="Емкость аккумулятора">От 20000 mAh</param>
+</offer>
 <offer id="ts000083781" available="true">
 <url>https://kmt5.com.ua/power-bank-20000-%C2%A0-100w-fast-charging-power-bank-with-cable-and-tft-display-metal-gray-acefast-m33</url>
 <price>3022.0</price>
@@ -103942,6 +104610,50 @@
 <param name="Бренд">Различные</param>
 <param name="Виды аккумуляторов">Power Bank</param>
 <param name="Емкость аккумулятора">От 10000 mAh</param>
+</offer>
+<offer id="ts000080333000028926" available="true">
+<url>https://kmt5.com.ua/power-bank-10000-mah%C2%A0-225w%C2%A0-wiwu-wip018-gray</url>
+<price>1329.0</price>
+<vendorprice>855.0</vendorprice>
+<vendorpricedoll>19.06</vendorpricedoll>
+<rrcdoll>29.63</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>81016638</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGUvNDcv0KYtMDAwMDgwMzMzXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzEvNTEv0KYtMDAwMDgwMzMzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzMvNGMv0KYtMDAwMDgwMzMzXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGIvZDgv0KYtMDAwMDgwMzMzXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODEvNmIv0KYtMDAwMDgwMzMzXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Wiwu</vendor>
+<vendorCode>Ц-000080333</vendorCode>
+<code>782914</code>
+<name>Power Bank 10000 mAh | 22.5W — WiWU Wi-P018  — Gray</name>
+<description><![CDATA[Портативный аккумулятор 10000 мА·ч с поддержкой Power Delivery Компактный и мощный внешний аккумулятор на 10000 мА·ч — это идеальное решение для зарядки смартфонов, планшетов и других гаджетов в дороге. Благодаря поддержке технологии Power Delivery устройство обеспечивает быструю и безопасную зарядку, а его универсальные входы делают его совместимым с большинством современных устройств. Основные характеристики: Ёмкость батареи: 10 000 мА·ч Функции зарядки: Поддержка Power Delivery (PD) Входные интерфейсы: Lightning, USB Type-C Выходное напряжение: До 20 В Размеры: 109 × 71 × 20 мм Вес: 80 г Материал корпуса: Пластик Цвет: Серый]]></description>
+<quantity_in_stock>33</quantity_in_stock>
+<param name="Бренд">Wiwu</param>
+<param name="Виды аккумуляторов">Power Bank</param>
+</offer>
+<offer id="ts000080333000028925" available="true">
+<url>https://kmt5.com.ua/power-bank-10000-mah%C2%A0-225w%C2%A0-wiwu-wip018-white</url>
+<price>1329.0</price>
+<vendorprice>855.0</vendorprice>
+<vendorpricedoll>19.06</vendorpricedoll>
+<rrcdoll>29.63</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>81016638</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjQvOTIv0KYtMDAwMDgwMzMzXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzEvNTEv0KYtMDAwMDgwMzMzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzMvNGMv0KYtMDAwMDgwMzMzXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGIvZDgv0KYtMDAwMDgwMzMzXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODEvNmIv0KYtMDAwMDgwMzMzXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Wiwu</vendor>
+<vendorCode>Ц-000080333</vendorCode>
+<code>782913</code>
+<name>Power Bank 10000 mAh | 22.5W — WiWU Wi-P018  — White</name>
+<description><![CDATA[Портативный аккумулятор 10000 мА·ч с поддержкой Power Delivery Компактный и мощный внешний аккумулятор на 10000 мА·ч — это идеальное решение для зарядки смартфонов, планшетов и других гаджетов в дороге. Благодаря поддержке технологии Power Delivery устройство обеспечивает быструю и безопасную зарядку, а его универсальные входы делают его совместимым с большинством современных устройств. Основные характеристики: Ёмкость батареи: 10 000 мА·ч Функции зарядки: Поддержка Power Delivery (PD) Входные интерфейсы: Lightning, USB Type-C Выходное напряжение: До 20 В Размеры: 109 × 71 × 20 мм Вес: 80 г Материал корпуса: Пластик Цвет: Серый]]></description>
+<quantity_in_stock>22</quantity_in_stock>
+<param name="Бренд">Wiwu</param>
+<param name="Виды аккумуляторов">Power Bank</param>
 </offer>
 <offer id="ts000081196000029602" available="true">
 <url>https://kmt5.com.ua/power-bank-10000-mah%C2%A0-225w%C2%A0-wiwu-wip056-black</url>
@@ -104260,6 +104972,26 @@
 <param name="Виды аккумуляторов">Power Bank</param>
 <param name="Емкость аккумулятора">От 40000 mAh</param>
 </offer>
+<offer id="ts000083649000031624" available="true">
+<url>https://kmt5.com.ua/power-bank-50000-mah%C2%A0-225wpd20w%C2%A0-ansty-ap065-black</url>
+<price>2009.0</price>
+<vendorprice>1317.0</vendorprice>
+<vendorpricedoll>29.36</vendorpricedoll>
+<rrcdoll>44.79</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>58928178</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTkvMzkv0KYtMDAwMDgzNjQ5XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTAvZjgv0KYtMDAwMDgzNjQ5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Ansty</vendor>
+<vendorCode>Ц-000083649</vendorCode>
+<code>790939</code>
+<name>Power Bank 50000 mAh | 22.5W+PD20W — Ansty AP-065 — Black</name>
+<description><![CDATA[Потужний портативний акумулятор для заряджання смартфонів, планшетів, навушників та іншої мобільної техніки вдома, у дорозі або під час відключень електроенергії. Великий запас ємності дозволяє неодноразово поповнювати заряд гаджетів і довше залишатися незалежним від розетки. Модель підтримує технологію Power Delivery і швидке заряджання, завдяки чому сумісні пристрої отримують енергію значно швидше. Індикатор рівня заряду допомагає контролювати залишок енергії повербанка та своєчасно підключати його до заряджання. Чорний корпус має сучасний стриманий дизайн та підходить для щоденного використання, подорожей, роботи й тривалих поїздок. Вбудовані системи захисту від перегрівання та короткого замикання сприяють безпечній експлуатації пристрою. Переваги: -велика ємність для багаторазового заряджання гаджетів; -підтримка швидкого заряджання; -технологія Power Delivery; -індикатор залишку заряду; -можливість використання зі смартфонами, планшетами та іншими сумісними пристроями; -захист від перегрівання та короткого замикання; -стильний чорний корпус; -зручний формат для повсякденного використання та поїздок. Зверни увагу: у наданих характеристиках є розбіжність — зверху вказано 50000 mAh і 22.5W + PD20W, а в таблиці — 40000 mAh і максимальна потужність 65W. Для картки товару краще залишити один правильний варіант, щоб не вводити покупця в оману.]]></description>
+<quantity_in_stock>128</quantity_in_stock>
+<param name="Бренд">Ansty</param>
+<param name="Виды аккумуляторов">Power Bank</param>
+<param name="Емкость аккумулятора">От 50000 mAh</param>
+</offer>
 <offer id="ts000083643" available="true">
 <url>https://kmt5.com.ua/ups-dlya-routera-modema-dc-ups-10400mah-istochnik-bespereboynogo-pitaniya</url>
 <price>1539.0</price>
@@ -104321,6 +105053,29 @@
 <param name="Бренд">Различные</param>
 <param name="Виды аккумуляторов">Power Bank</param>
 <param name="Цвет">White</param>
+</offer>
+<offer id="ts000039037000012411" available="true">
+<url>https://kmt5.com.ua/power-bank-10000-mah-yoobao-m5-white</url>
+<price>559.0</price>
+<vendorprice>324.0</vendorprice>
+<vendorpricedoll>7.21</vendorpricedoll>
+<rrcdoll>12.46</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>81016638</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODQvNzMv0KYtMDAwMDM5MDM3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmMvYjIv0KYtMDAwMDM5MDM3XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGYvYzYv0KYtMDAwMDM5MDM3XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTIvY2Uv0KYtMDAwMDM5MDM3XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGIvNTgv0KYtMDAwMDM5MDM3XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000039037</vendorCode>
+<code>734366</code>
+<name>§Power Bank 10000 mAh — Yoobao M5 — White</name>
+<description><![CDATA[Портативное зарядное Power Bank Yoobao – это устройство, которое обеспечивает бесперебойную работу любого мобильного устройства или планшета. Благодаря своей компактности, внешний аккумулятор легко поместится, в сумке или портфеле не занимая много места, и в нужный момент всегда будет под рукой.Power Bank Yoobao достаточно мощный и надежный, что гарантирует полноценную зарядку планшета, смартфона, плеера, фотоаппарата или любой другой техники совместимой по характеристикам с портативным зарядным устройством. Заряжается от: USB Выходное напряжение, В: 5 Тип аккумуляторов: Литий-ионные (Li-ion) Индикация: С индикатором уровня заряда Емкость аккумулятора: 10000 мА/ч Материал корпуса: Пластик Особенности: Фонарик Разъемы: USBx2 Выходной ток: 2.1]]></description>
+<quantity_in_stock>47</quantity_in_stock>
+<param name="Бренд">Различные</param>
+<param name="Виды аккумуляторов">Power Bank</param>
+<param name="Емкость аккумулятора">От 10000 mAh</param>
 </offer>
 <offer id="ts000073448000023386" available="true">
 <url>https://kmt5.com.ua/power-bank-10000-mah-yoobao-s10k-black</url>
@@ -109701,29 +110456,6 @@
 <param name="Бренд">Распродажа</param>
 <param name="Зарядные устройства">Мережевий перехідник</param>
 <param name="Цвет">White</param>
-</offer>
-<offer id="ts000078140000026421" available="true">
-<url>https://kmt5.com.ua/adapter-otg-usb-c-to-usb-hoco-ua24-metal-gray</url>
-<price>250.0</price>
-<vendorprice>91.0</vendorprice>
-<vendorpricedoll>2.01</vendorpricedoll>
-<rrcdoll>5.57</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>82512492</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTEvOWMv0KYtMDAwMDc4MTQwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTEvMjEv0KYtMDAwMDc4MTQwXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTkvMDQv0KYtMDAwMDc4MTQwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjAvZjEv0KYtMDAwMDc4MTQwXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTkvNGMv0KYtMDAwMDc4MTQwXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDkvNzgv0KYtMDAwMDc4MTQwXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000078140</vendorCode>
-<code>777102</code>
-<name>Adapter OTG USB C To USB Hoco UA24 — Metal Gray</name>
-<description><![CDATA[Материал: алюминиевый сплав + TPE. Длина кабеля: 165 мм ± 5 мм; Вес: 14 г. Разъем: Type-C к USB женский. Поддержка функции передачи данных и зарядки. С USB-кабелем для Lightning поддерживает зарядку Apple 5V/2A (без функции PD); с USB-кабелем для Type-C поддерживает ток 4A, может активировать протокол быстрой зарядки SCP 5V/4A, также поддерживает быструю зарядку для устройств Xiaomi, OPPO и других.]]></description>
-<quantity_in_stock>200</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Переходники">Adapter OTG USB C To USB</param>
 </offer>
 <offer id="ts000083905" available="true">
 <url>https://kmt5.com.ua/adapter-usb-c-to-35mm-hoco-upa35</url>
@@ -115729,6 +116461,29 @@
 <param name="Колво USB портов">4 USB</param>
 <param name="Компьютерные аксессуары">USB Хабы</param>
 </offer>
+<offer id="ts000078660000026854" available="true">
+<url>https://kmt5.com.ua/bezdrotova-misha-hoco-gm25-royal-dualmode-dark-night-black</url>
+<price>410.0</price>
+<vendorprice>227.0</vendorprice>
+<vendorpricedoll>5.05</vendorpricedoll>
+<rrcdoll>9.13</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>48368747</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGUvNDIv0KYtMDAwMDc4NjYwXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDMvYzQv0KYtMDAwMDc4NjYwXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODYvMmUv0KYtMDAwMDc4NjYwXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmYvNWUv0KYtMDAwMDc4NjYwXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzcvNjAv0KYtMDAwMDc4NjYwXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWQvMmQv0KYtMDAwMDc4NjYwXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Hoco</vendor>
+<vendorCode>Ц-000078660</vendorCode>
+<code>778074</code>
+<name>Wireless Mouse — Hoco GM25 black — dark night black</name>
+<description><![CDATA[Материал: ABS Размеры: 113х64х37 мм; Вес: 65 г Схема: Хань Тянься; Чип: MX8650 Режим связи: 2,4 ГГц / Bluetooth (3.0+5.2) Значение DPI: 800-1200-1600 (значение CPI: 800-1200-1600) Срок службы: 3 миллиона раз Кнопки: 4 кнопки]]></description>
+<quantity_in_stock>52</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Компьютерные аксессуары">Компьютерные мыши</param>
+</offer>
 <offer id="ts000072772000022832" available="true">
 <url>https://kmt5.com.ua/myish-becprovodnaya-borofone-bg5-24g-business-black</url>
 <price>288.0</price>
@@ -115908,24 +116663,6 @@
 <code>785124</code>
 <name>Дротова миша — Hoco GM31 — Black</name>
 <quantity_in_stock>50</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Компьютерные аксессуары">Компьютерные мыши</param>
-</offer>
-<offer id="ts000080559000029196" available="true">
-<url>https://kmt5.com.ua/drotova-misha-hoco-gm31-white</url>
-<price>327.0</price>
-<vendorprice>183.0</vendorprice>
-<vendorpricedoll>4.07</vendorpricedoll>
-<rrcdoll>7.28</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>48368747</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTQvMTUv0KYtMDAwMDgwNTU5XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjAvN2Yv0KYtMDAwMDgwNTU5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000080559</vendorCode>
-<code>785125</code>
-<name>Дротова миша — Hoco GM31 — White</name>
-<quantity_in_stock>40</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Компьютерные аксессуары">Компьютерные мыши</param>
 </offer>
@@ -131446,6 +132183,30 @@
 <param name="Бренд">Различные</param>
 <param name="Видео аксессуары">Экшн-камеры</param>
 </offer>
+<offer id="ts000077406000025566" available="true">
+<url>https://kmt5.com.ua/35mm-earphones-with-mic-hoco-m106-silver</url>
+<price>101.0</price>
+<vendorprice>51.0</vendorprice>
+<vendorpricedoll>1.13</vendorpricedoll>
+<rrcdoll>2.23</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>72062147</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTUvODQv0KYtMDAwMDc3NDA2XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGQvYmUv0KYtMDAwMDc3NDA2XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWIvN2Yv0KYtMDAwMDc3NDA2XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzAvNDQv0KYtMDAwMDc3NDA2XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjkvMTkv0KYtMDAwMDc3NDA2XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjkvZGEv0KYtMDAwMDc3NDA2XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmIvZTEv0KYtMDAwMDc3NDA2XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Hoco</vendor>
+<vendorCode>Ц-000077406</vendorCode>
+<code>774088</code>
+<name>3.5 mm Earphones With Mic —Hoco M106 — Silver</name>
+<quantity_in_stock>100</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Аудіо товари">Навушники з мікрофоном 3.5mm</param>
+<param name="Интерфейс подключения">3.5mm</param>
+</offer>
 <offer id="ts000077407000025567" available="true">
 <url>https://kmt5.com.ua/35mm-earphones-with-mic-hoco-m3-black</url>
 <price>201.0</price>
@@ -132017,6 +132778,29 @@
 <name>Bluetooth гарнітура TWS Hoco EQ34 Plus — Black</name>
 <description><![CDATA[1. Bluetooth 5.4; чіп: Jerry AC7003D4 2. Ємність акумулятора: зарядний футляр 300 мАг; гарнітура 40 мАг 3. Час використання: 7 годин (ANC 6 годин) 4. Матеріал: ABS; розмір: 61*51,5*28,5 мм; загальна вага: 44,8 г 5. З функцією APP, підтримується перемикач Hall Switch]]></description>
 <quantity_in_stock>59</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Аудіо товари">Bluetooth гарнітура TWS</param>
+</offer>
+<offer id="ts000072798000022210" available="true">
+<url>https://kmt5.com.ua/naushniki-bluetooth-hoco-ew26-true-white</url>
+<price>450.0</price>
+<vendorprice>315.0</vendorprice>
+<vendorpricedoll>7.0</vendorpricedoll>
+<rrcdoll>10.03</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>54581499</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDgvMmEv0KYtMDAwMDcyNzk4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzEvMDQv0KYtMDAwMDcyNzk4XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTkvYjEv0KYtMDAwMDcyNzk4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTcvOGMv0KYtMDAwMDcyNzk4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzAvYWMv0KYtMDAwMDcyNzk4XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmMvMTIv0KYtMDAwMDcyNzk4XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Hoco</vendor>
+<vendorCode>Ц-000072798</vendorCode>
+<code>753860</code>
+<name>Bluetooth гарнітура TWS Hoco EW26 — White</name>
+<description><![CDATA[Беспроводные наушники Hoco EW26 - качественные беспроводные наушники нового поколения. Каждый из наушников является полноценным и может использоваться самостоятельно. Благодаря технологии Bluetooth версии 5.3, наушники имеют стабильную передачу звука, быстрое сопряжение и низкое энергопотребление. Наушники управляются одной кнопкой, подойдут как для IOS, так и для Android. Современный и стильный дизайн гарантирует комфортное использование. Совместимость: подходят ко всем устройствам (iOS, Android, Windows) Bluetooth: 5.3 Расстояние беспроводного подключения: до 10 м Диапазон частот: 20 Гц-20 кГц Сенсорное управление Можно слушать один наушник или оба Емкость аккумулятора наушников: 30 мА*ч Емкость аккумулятора кейса: 300 мА*ч Время автономной работы наушников: до 4 часов Время работы в режиме ожидания: до 150 часов Время зарядки наушников: 1 час Время зарядки кейса: 1 час Кейс оснащен LED-индикатором Влагозащита корпуса: IPX5 Разъем для зарядки: Lightning]]></description>
+<quantity_in_stock>194</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Аудіо товари">Bluetooth гарнітура TWS</param>
 </offer>
@@ -132843,6 +133627,29 @@
 <param name="Аудіо товари">Навушники Bluetooth</param>
 <param name="Интерфейс подключения">Bluetooth</param>
 </offer>
+<offer id="ts000080113000028377" available="true">
+<url>https://kmt5.com.ua/bluetooth-headphones-hoco-w56-black</url>
+<price>650.0</price>
+<vendorprice>400.0</vendorprice>
+<vendorpricedoll>8.9</vendorpricedoll>
+<rrcdoll>14.49</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>22933428</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTAvMmYv0KYtMDAwMDgwMTEzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmEvMWUv0KYtMDAwMDgwMTEzXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWMvZWMv0KYtMDAwMDgwMTEzXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmYvODcv0KYtMDAwMDgwMTEzXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODYvNzUv0KYtMDAwMDgwMTEzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Hoco</vendor>
+<vendorCode>Ц-000080113</vendorCode>
+<code>781915</code>
+<name>Bluetooth Headphones — Hoco W56 — Black</name>
+<description><![CDATA[1. Чип Bluetooth 5.4: JL JL7003F4 2. Емкость аккумулятора: 250 мАч; Время зарядки: 2 часа 3. Время использования: 28 часов; Время ожидания: 180 часов 4. Материал: ABS; Размер: 195*185*84 мм; Вес: 198 г 5. Поддержка Bluetooth, AUX и других режимов 6. Поддержка китайских и английских звуковых подсказок: дважды нажмите кнопку питания, если не установлено сопряжение]]></description>
+<quantity_in_stock>50</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Аудіо товари">Навушники Bluetooth</param>
+<param name="Интерфейс подключения">Bluetooth</param>
+</offer>
 <offer id="ts000080856000029497" available="true">
 <url>https://kmt5.com.ua/bluetooth-headphones-hoco-w62-brown</url>
 <price>780.0</price>
@@ -133308,6 +134115,25 @@
 <param name="Бренд">Hoco</param>
 <param name="Аудіо товари">Bluetooth гарнітура TWS</param>
 </offer>
+<offer id="ts000082719000030658" available="true">
+<url>https://kmt5.com.ua/bluetooth-garntura-tws-hoco-eq33-white</url>
+<price>401.0</price>
+<vendorprice>271.0</vendorprice>
+<vendorpricedoll>6.03</vendorpricedoll>
+<rrcdoll>8.92</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>54581499</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTcvMjMv0KYtMDAwMDgyNzE5XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTkvZTUv0KYtMDAwMDgyNzE5XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Hoco</vendor>
+<vendorCode>Ц-000082719</vendorCode>
+<code>789070</code>
+<name>Bluetooth гарнітура TWS Hoco EQ33 — White</name>
+<description><![CDATA[Бездротова гарнітура EQ33 Gem BT (додаток) 1. Bluetooth 5.4; Чіп: JL AC6983D4 2. Ємність акумулятора: зарядний футляр 300 мАг; навушники 40 мАг 3. Час використання: 7 годин 4. Матеріал: ABS; Розміри: 50 * 48,5 * 26 мм; Загальна вага: 39 г 5. З функцією застосунку та підтримкою перемикача Холла]]></description>
+<quantity_in_stock>20</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Аудіо товари">Bluetooth гарнітура TWS</param>
+</offer>
 <offer id="ts000080729000029383" available="true">
 <url>https://kmt5.com.ua/bluetooth-garntura-tws-hoco-ew111-pink</url>
 <price>701.0</price>
@@ -133615,6 +134441,25 @@
 <param name="Бренд">Wiwu</param>
 <param name="Аудіо товари">Bluetooth гарнітура TWS</param>
 </offer>
+<offer id="ts000082424000030402" available="true">
+<url>https://kmt5.com.ua/bluetooth-garntura-tws-wiwu-t31-white</url>
+<price>701.0</price>
+<vendorprice>430.0</vendorprice>
+<vendorpricedoll>9.58</vendorpricedoll>
+<rrcdoll>15.61</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>22933428</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzYvNWEv0KYtMDAwMDgyNDI0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjgvODIv0KYtMDAwMDgyNDI0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Wiwu</vendor>
+<vendorCode>Ц-000082424</vendorCode>
+<code>788522</code>
+<name>Bluetooth гарнітура TWS Wiwu T31 — White</name>
+<description><![CDATA[Рішення Bluetooth: Zhuhai JL Чіп Bluetooth: AD6973D8 Час відтворення музики: близько 8 годин Час розмови: близько 7,5 годин Інтерфейс заряджання: type-c Рівень водонепроникності: IPX4 Версія Bluetooth: Bluetooth V5.3 Ефективна відстань Bluetooth: ≤10 метрів Розмір акумулятора зарядного пристрою: 701435, полімерний акумулятор 3,7 В, ємність 320 мАг Розмір: 451012, полімерний акумулятор швидкої зарядки 3,7 В /3C, ємність 35 мАг]]></description>
+<quantity_in_stock>6</quantity_in_stock>
+<param name="Бренд">Wiwu</param>
+<param name="Аудіо товари">Bluetooth гарнітура TWS</param>
+</offer>
 <offer id="ts000068147000012331" available="true">
 <url>https://kmt5.com.ua/yoobao-yb505-bluetooth-earphone-red</url>
 <price>780.0</price>
@@ -133636,26 +134481,6 @@
 <description><![CDATA[Беспроводные наушники Yoobao YB505 Bluetooth Earphone - решение для наибольшего комфорта владельца при повседневном прослушивании аудио. Аксессуар представлен на рынке как наушники обычные, TWS|влагозащитные|с зарядным кейсом при этом они подходят для подавляющего большинства пользовательских задач. Если возникнет необходимость, наушники можно приконнектить и к мобильным гаджетам, и к ноутбуку или ПК. Тип: bluetooth вакуумные наушники Материал наушников: пластик Чувствительность*: 100 дБ ±3 дБ Частотный диапазон*: 20 Гц - 23 кГц Максимальная мощность*: 10 мВт Микрофон: есть (совместим со всеми современными гаджетами)]]></description>
 <quantity_in_stock>6</quantity_in_stock>
 <param name="Бренд">Различные</param>
-<param name="Аудіо товари">Bluetooth гарнітура TWS</param>
-</offer>
-<offer id="ts000071006000019644" available="true">
-<url>https://kmt5.com.ua/hoco-ew04-plus-true-wireless-bt-headse-white</url>
-<price>550.0</price>
-<vendorprice>384.0</vendorprice>
-<vendorpricedoll>8.55</vendorpricedoll>
-<rrcdoll>12.26</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54581499</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGIvYjMv0KYtMDAwMDcxMDA2XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmIvMGUv0KYtMDAwMDcxMDA2XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmIvYTkv0KYtMDAwMDcxMDA2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000071006</vendorCode>
-<code>749291</code>
-<name>Bluetooth гарнітура TWS — Hoco EW04 Plus — White</name>
-<description><![CDATA[Полную свободу во время движения и идеальный звук подарят пользователям ТВС-наушники Hoco EW04 Plus True wireless BT headse . Компактная конструкция и миниатюрный вес совершенно не стесняют движения, гарнитура не мешает во время эксплуатации, при этом стабильно фиксируется в ушах. Как и другие устройства этого типа, предложенная TWS-гарнитура радует абсолютным отсутствием штекеров и оголовья, а значит, аксессуар не будет сдерживать ваши движения или, например, мешать вам во время тренировок или активного отдыха.]]></description>
-<quantity_in_stock>29</quantity_in_stock>
-<param name="Бренд">Hoco</param>
 <param name="Аудіо товари">Bluetooth гарнітура TWS</param>
 </offer>
 <offer id="ts000078734" available="true">
@@ -134499,6 +135324,34 @@
 <param name="Бренд">Hoco</param>
 <param name="Аудіо товари">Bluetooth микрофон</param>
 </offer>
+<offer id="ts000072804000022217" available="true">
+<url>https://kmt5.com.ua/naushniki-s-mikrofonom-borofone-bm71-light-song-universal-white</url>
+<price>150.0</price>
+<vendorprice>87.0</vendorprice>
+<vendorpricedoll>1.93</vendorpricedoll>
+<rrcdoll>3.34</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>72062147</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGEvZDgv0KYtMDAwMDcyODA0XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2EvNDYv0KYtMDAwMDcyODA0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWEvNGMv0KYtMDAwMDcyODA0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzQvYWIv0KYtMDAwMDcyODA0XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWUvYTEv0KYtMDAwMDcyODA0XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTUvOTkv0KYtMDAwMDcyODA0XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjQvZjEv0KYtMDAwMDcyODA0XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTQvZGUv0KYtMDAwMDcyODA0XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTIvYzMv0KYtMDAwMDcyODA0XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDcvNzAv0KYtMDAwMDcyODA0XzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<vendor>Borofone</vendor>
+<vendorCode>Ц-000072804</vendorCode>
+<code>753873</code>
+<name>Навушники 3.5 mm з мікрофоном Borofone BM71 Light Song — White</name>
+<description><![CDATA[BOROFONE BM71 - это наушники подходящие, ко всем современным смартфонам и планшетам. Корпус наушников приятный на ощупь, а современный дизайн сочетает в себе удобство и функциональность. С данной моделью наушников вы будете наслаждаться, хорошим акустическим звуком, а удобная форма не даст уставать ушам при длительном прослушивании любимых треков. Тип наушников: Вкладыши Тип подключения: Проводные Интерфейс подключения: 3.5 мм (mini-Jack) Микрофон: Встроенный Длина шнура, м: 1.2 Импеданс, Ом: 32 Форма штекера: Прямой Чувствительность наушников: 98 дБ ± 3 дБ Тип кабеля: Круглый]]></description>
+<quantity_in_stock>35</quantity_in_stock>
+<param name="Бренд">Borofone</param>
+<param name="Аудіо товари">Навушники з мікрофоном 3.5mm</param>
+<param name="Интерфейс подключения">3.5mm</param>
+</offer>
 <offer id="ts000078087" available="true">
 <url>https://kmt5.com.ua/navushniki-bluetooth-1910</url>
 <price>201.0</price>
@@ -135326,6 +136179,26 @@
 <param name="Аудіо товари">Навушники Bluetooth</param>
 <param name="Интерфейс подключения">Bluetooth</param>
 </offer>
+<offer id="ts000083187000031141" available="true">
+<url>https://kmt5.com.ua/navushniki-bluetooth-hoco-w73-graceful-black</url>
+<price>701.0</price>
+<vendorprice>453.0</vendorprice>
+<vendorpricedoll>10.09</vendorpricedoll>
+<rrcdoll>15.61</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>22933428</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2MvZGYv0KYtMDAwMDgzMTg3XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmIvNGQv0KYtMDAwMDgzMTg3XzEyLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTMvODIv0KYtMDAwMDgzMTg3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Hoco</vendor>
+<vendorCode>Ц-000083187</vendorCode>
+<code>790009</code>
+<name>Навушники Bluetooth Hoco W73 Graceful  — Black</name>
+<quantity_in_stock>49</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Аудіо товари">Навушники Bluetooth</param>
+<param name="Интерфейс подключения">Bluetooth</param>
+</offer>
 <offer id="ts000083187000031142" available="true">
 <url>https://kmt5.com.ua/navushniki-bluetooth-hoco-w73-graceful-silver</url>
 <price>701.0</price>
@@ -135853,6 +136726,31 @@
 <param name="Аудіо товари">Навушники з мікрофоном 3.5mm</param>
 <param name="Интерфейс подключения">3.5mm</param>
 </offer>
+<offer id="ts000072769000022638" available="true">
+<url>https://kmt5.com.ua/naushniki-s-mikrofonom-borofone-bm39-refined-white</url>
+<price>101.0</price>
+<vendorprice>50.0</vendorprice>
+<vendorpricedoll>1.11</vendorpricedoll>
+<rrcdoll>2.23</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>72062147</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzAvMzQv0KYtMDAwMDcyNzY5XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWMvYjcv0KYtMDAwMDcyNzY5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjIvYTIv0KYtMDAwMDcyNzY5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjEvMTIv0KYtMDAwMDcyNzY5XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzAvYTgv0KYtMDAwMDcyNzY5XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTkvYjYv0KYtMDAwMDcyNzY5XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTUvYmIv0KYtMDAwMDcyNzY5XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Borofone</vendor>
+<vendorCode>Ц-000072769</vendorCode>
+<code>754543</code>
+<name>Навушники з мікрофоном 3.5mm  Borofone BM39 Refined __ — White</name>
+<description><![CDATA[BOROFONE BM39 Refined chant - это наушники подходящие, ко всем современным смартфонам и планшетам. Корпус наушников приятный на ощупь, а современный дизайн сочетает в себе удобство и функциональность. С данной моделью наушников вы будете наслаждаться, хорошим акустическим звуком, а удобная форма не даст уставать ушам при длительном прослушивании любимых треков. Спикер: 10мм Аудио разъем: Ø3.5мм Кабель наушников: TPE Длина кабеля: 1.2м Вес: 10 г Микрофон: пульт с микрофоном Проводное управление: управление одной кнопкой]]></description>
+<quantity_in_stock>45</quantity_in_stock>
+<param name="Бренд">Borofone</param>
+<param name="Аудіо товари">Навушники з мікрофоном 3.5mm</param>
+<param name="Интерфейс подключения">3.5mm</param>
+</offer>
 <offer id="ts000073886000023775" available="true">
 <url>https://kmt5.com.ua/navushniki-z-mkrofonom-35mm-borofone-bm82-art-music-black</url>
 <price>131.0</price>
@@ -135912,6 +136810,50 @@
 <param name="Аудіо товари">Навушники з мікрофоном 3.5mm</param>
 <param name="Интерфейс подключения">3.5mm</param>
 <param name="Цвет">White</param>
+</offer>
+<offer id="ts000071109000019814" available="true">
+<url>https://kmt5.com.ua/navushniki-z-mkrofonom-35mm-hoco-m60-perfect-sound-universal-black</url>
+<price>131.0</price>
+<vendorprice>56.0</vendorprice>
+<vendorpricedoll>1.24</vendorpricedoll>
+<rrcdoll>2.9</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>72062147</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODgvNTMv0KYtMDAwMDcxMTA5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzkvNGIv0KYtMDAwMDcxMTA5XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2IvYTAv0KYtMDAwMDcxMTA5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjgvYmYv0KYtMDAwMDcxMTA5XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjAvYmMv0KYtMDAwMDcxMTA5XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Hoco</vendor>
+<vendorCode>Ц-000071109</vendorCode>
+<code>749599</code>
+<name>Навушники з мікрофоном 3.5mm  Hoco M60 Perfect sound universal — Black</name>
+<description><![CDATA[Благодаря многоуровневой предпродажной проверке мы гарантируем высокое качество товаров, профессиональное обслуживание, удобную для пользователя поддержку и безопасные условия для покупок в нашем магазине.В качестве дополнительного удобства клиентам предлагается широкий выбор платежных систем и способов доставки. Благодаря налаженным прямым поставкам от производителей в нашем магазине всегда самые выгодные для покупателей цены. Таким образом, каждый посетитель найдет то, что лучше всего будет соответствовать его требованиям.Все запросы посетителей сайта обрабатываются в течение максимум 24 часов. Динамик: 10 мм Длина лески: 1,2 м Вес: 13 г Аудиоразъем: Ø3,5 мм Кабель наушников: высокоэластичная оплетка из ТПЭ с эмалированным проводом Микрофон: контроллер с микрофоном Проводное управление: функциональное управление одной кнопкой, адаптированное для управления Apple и Android]]></description>
+<quantity_in_stock>179</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Длина кабеля">1.2m</param>
+<param name="Аудіо товари">Навушники з мікрофоном 3.5mm</param>
+<param name="Интерфейс подключения">3.5mm</param>
+</offer>
+<offer id="ts000073025000022563" available="true">
+<url>https://kmt5.com.ua/naushniki-s-mikrofonom-yison-x1-white</url>
+<price>101.0</price>
+<vendorprice>53.0</vendorprice>
+<vendorpricedoll>1.17</vendorpricedoll>
+<rrcdoll>2.23</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>72062147</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjMvMmQv0KYtMDAwMDczMDI1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmUvNGUv0KYtMDAwMDczMDI1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000073025</vendorCode>
+<code>754438</code>
+<name>Навушники з мікрофоном 3.5mm  Yison X1 — White</name>
+<description><![CDATA[Наушники с микрофоном Yison X1 удобны для повседневного прослушивания любимой музыки. Качественное звучание радует слух, а эргономичность обеспечивает комфорт для ушей слушателя. Тип наушников: вкладыш Длина шнура, м: 1,2 Диапазон частот наушников: 20-20000 Гц Чувствительность наушников: 93 дБ Тип подключения: Проводные Максимальная воспроизводимая частота: 20000.0 Гц Форма разъема: Прямой Материал амбушюра: Силикон Сопротивление: 16.0 Ом Тип разъема: jack 3.5 mm]]></description>
+<quantity_in_stock>36</quantity_in_stock>
+<param name="Бренд">Различные</param>
+<param name="Аудіо товари">Навушники з мікрофоном 3.5mm</param>
+<param name="Интерфейс подключения">3.5mm</param>
 </offer>
 <offer id="ts000072687000022189" available="true">
 <url>https://kmt5.com.ua/naushniki-bluetooth-hoco-w36-cat-ear-dream-blue</url>
@@ -136478,6 +137420,86 @@
 <name>M7 Smart Watch</name>
 <quantity_in_stock>4</quantity_in_stock>
 <param name="Бренд">Различные</param>
+<param name="Аксессуары Для Смарт Часов">Смарт-годинник</param>
+</offer>
+<offer id="ts000080565000029204" available="true">
+<url>https://kmt5.com.ua/smart-baby-watch-hoco-y100-black</url>
+<price>950.0</price>
+<vendorprice>689.0</vendorprice>
+<vendorpricedoll>15.35</vendorpricedoll>
+<rrcdoll>21.18</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>52936706</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTIvZDQv0KYtMDAwMDgwNTY1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzAvNzAv0KYtMDAwMDgwNTY1XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Hoco</vendor>
+<vendorCode>Ц-000080565</vendorCode>
+<code>785139</code>
+<name>Smart Baby Watch (Call Version) — Hoco Y100   — Black</name>
+<quantity_in_stock>17</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Материал">Силикон</param>
+<param name="Аксессуары Для Смарт Часов">Смарт-годинник</param>
+</offer>
+<offer id="ts000080565000029205" available="true">
+<url>https://kmt5.com.ua/smart-baby-watch-hoco-y100-blue</url>
+<price>950.0</price>
+<vendorprice>689.0</vendorprice>
+<vendorpricedoll>15.35</vendorpricedoll>
+<rrcdoll>21.18</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>52936706</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzUvZTMv0KYtMDAwMDgwNTY1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzAvNzAv0KYtMDAwMDgwNTY1XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Hoco</vendor>
+<vendorCode>Ц-000080565</vendorCode>
+<code>785140</code>
+<name>Smart Baby Watch (Call Version) — Hoco Y100   — Blue</name>
+<quantity_in_stock>20</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Материал">Силикон</param>
+<param name="Аксессуары Для Смарт Часов">Смарт-годинник</param>
+</offer>
+<offer id="ts000080906000029527" available="true">
+<url>https://kmt5.com.ua/smart-sports-watch-call-version-hoco-y104-black</url>
+<price>1551.0</price>
+<vendorprice>1178.0</vendorprice>
+<vendorpricedoll>26.27</vendorpricedoll>
+<rrcdoll>34.56</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>52936706</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2EvOTQv0KYtMDAwMDgwOTA2XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmEvZTAv0KYtMDAwMDgwOTA2XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWIvZDUv0KYtMDAwMDgwOTA2XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTkvZWMv0KYtMDAwMDgwOTA2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Hoco</vendor>
+<vendorCode>Ц-000080906</vendorCode>
+<code>786164</code>
+<name>Smart Baby Watch (Call Version) — Hoco Y104  — Black</name>
+<description><![CDATA[1. Основной экран: 1,69-дюймовый 2,5D экран высокой четкости; Разрешение: 240 * 280 2. Чип: ASR3603S; Память: 16 МБ + 24 МБ 3. Аккумулятор: 700 мАч; Срок службы аккумулятора: 1-2 дня 4. Поддержка SIM-карты (тип Nano-карты) 5. Поддержка сетей: GSM, WCDMA, FDD 6. Поддержка позиционирования (LBS + GPS + WIFI), привязка часов для видеозвонков и отправки голосовых сообщений WeChat 7. Камера: 8 Вт камера высокой четкости для фотосъемки 8. 15 языков: английский, русский, арабский, вьетнамский, польский, испанский, тайский, украинский, малайский, греческий, французский, румынский, турецкий, португальский, иврит]]></description>
+<quantity_in_stock>33</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Аксессуары Для Смарт Часов">Смарт-годинник</param>
+</offer>
+<offer id="ts000080906000029528" available="true">
+<url>https://kmt5.com.ua/smart-sports-watch-call-version-hoco-y104-blue</url>
+<price>1551.0</price>
+<vendorprice>1178.0</vendorprice>
+<vendorpricedoll>26.27</vendorpricedoll>
+<rrcdoll>34.56</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>52936706</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWUvNGQv0KYtMDAwMDgwOTA2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODQvM2Uv0KYtMDAwMDgwOTA2XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWIvZDUv0KYtMDAwMDgwOTA2XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTkvZWMv0KYtMDAwMDgwOTA2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Hoco</vendor>
+<vendorCode>Ц-000080906</vendorCode>
+<code>786165</code>
+<name>Smart Baby Watch (Call Version) — Hoco Y104  — Blue</name>
+<description><![CDATA[1. Основной экран: 1,69-дюймовый 2,5D экран высокой четкости; Разрешение: 240 * 280 2. Чип: ASR3603S; Память: 16 МБ + 24 МБ 3. Аккумулятор: 700 мАч; Срок службы аккумулятора: 1-2 дня 4. Поддержка SIM-карты (тип Nano-карты) 5. Поддержка сетей: GSM, WCDMA, FDD 6. Поддержка позиционирования (LBS + GPS + WIFI), привязка часов для видеозвонков и отправки голосовых сообщений WeChat 7. Камера: 8 Вт камера высокой четкости для фотосъемки 8. 15 языков: английский, русский, арабский, вьетнамский, польский, испанский, тайский, украинский, малайский, греческий, французский, румынский, турецкий, португальский, иврит]]></description>
+<quantity_in_stock>15</quantity_in_stock>
+<param name="Бренд">Hoco</param>
 <param name="Аксессуары Для Смарт Часов">Смарт-годинник</param>
 </offer>
 <offer id="ts000082716000030655" available="true">
@@ -142433,27 +143455,6 @@
 <param name="Бренд">Различные</param>
 <param name="Аксессуары Для Смарт Часов">Браслеты</param>
 </offer>
-<offer id="ts000082970000030859" available="true">
-<url>https://kmt5.com.ua/remnets-magic-silicon-apple-watch-38-mm-40-mm-41-mm-midnight-blue</url>
-<price>250.0</price>
-<vendorprice>137.0</vendorprice>
-<vendorpricedoll>3.04</vendorpricedoll>
-<rrcdoll>5.57</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>48417745</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTAvNWMv0KYtMDAwMDgyOTcwXzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjEvOTAv0KYtMDAwMDgyOTcwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2QvNTQv0KYtMDAwMDgyOTcwXzE5LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000082970</vendorCode>
-<code>789518</code>
-<name>Ремінець Magic Silicon Apple Watch 38 mm 40 mm 41 mm — Midnight Blue</name>
-<quantity_in_stock>5</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Watch Series 2 38 mm, Apple Watch Series 4 40 mm, Apple Watch Series 7 41 mm</param>
-<param name="Бренд">Различные</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
 <offer id="ts000082970000030864" available="true">
 <url>https://kmt5.com.ua/remnets-magic-silicon-apple-watch-38-mm-40-mm-41-mm-midnight-bluegray</url>
 <price>250.0</price>
@@ -142470,6 +143471,27 @@
 <code>789523</code>
 <name>Ремінець Magic Silicon Apple Watch 38 mm 40 mm 41 mm — Midnight Blue&amp;Gray</name>
 <quantity_in_stock>10</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Watch Series 2 38 mm, Apple Watch Series 4 40 mm, Apple Watch Series 7 41 mm</param>
+<param name="Бренд">Различные</param>
+<param name="Аксессуары Для Смарт Часов">Браслеты</param>
+</offer>
+<offer id="ts000082970000030870" available="true">
+<url>https://kmt5.com.ua/remnets-magic-silicon-apple-watch-38-mm-40-mm-41-mm-milk-tearock-white</url>
+<price>250.0</price>
+<vendorprice>137.0</vendorprice>
+<vendorpricedoll>3.04</vendorpricedoll>
+<rrcdoll>5.57</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>48417745</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWMvYTMv0KYtMDAwMDgyOTcwXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjEvOTAv0KYtMDAwMDgyOTcwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2QvNTQv0KYtMDAwMDgyOTcwXzE5LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000082970</vendorCode>
+<code>789529</code>
+<name>Ремінець Magic Silicon Apple Watch 38 mm 40 mm 41 mm — Milk Tea&amp;Rock White</name>
+<quantity_in_stock>15</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Watch Series 2 38 mm, Apple Watch Series 4 40 mm, Apple Watch Series 7 41 mm</param>
 <param name="Бренд">Различные</param>
@@ -142916,6 +143938,27 @@
 <param name="Бренд">Различные</param>
 <param name="Аксессуары Для Смарт Часов">Браслеты</param>
 </offer>
+<offer id="ts000082969000030842" available="true">
+<url>https://kmt5.com.ua/remnets-magic-silicon-apple-watch-42-mm-44-mm-45-mm-49-mm-orangeblack</url>
+<price>250.0</price>
+<vendorprice>148.0</vendorprice>
+<vendorpricedoll>3.3</vendorpricedoll>
+<rrcdoll>5.57</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>59885727</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjEvMGMv0KYtMDAwMDgyOTY5XzEzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGIvMDkv0KYtMDAwMDgyOTY5XzIwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzIvNWQv0KYtMDAwMDgyOTY5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000082969</vendorCode>
+<code>789500</code>
+<name>Ремінець Magic Silicon — Apple Watch 42 mm | 44 mm | 45 mm | 49 mm — Orange&amp;Black</name>
+<quantity_in_stock>15</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Watch Series 3 42 mm, Apple Watch Series 4 44 mm, Apple Watch Series 7 45 mm, Apple Watch Series 8 49 mm</param>
+<param name="Бренд">Различные</param>
+<param name="Аксессуары Для Смарт Часов">Браслеты</param>
+</offer>
 <offer id="ts000082969000030845" available="true">
 <url>https://kmt5.com.ua/remnets-magic-silicon-apple-watch-42-mm-44-mm-45-mm-49-mm-oxford-pinkstarlight</url>
 <price>250.0</price>
@@ -142932,6 +143975,27 @@
 <code>789503</code>
 <name>Ремінець Magic Silicon — Apple Watch 42 mm | 44 mm | 45 mm | 49 mm — Oxford Pink&amp;Starlight</name>
 <quantity_in_stock>12</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Watch Series 3 42 mm, Apple Watch Series 4 44 mm, Apple Watch Series 7 45 mm, Apple Watch Series 8 49 mm</param>
+<param name="Бренд">Различные</param>
+<param name="Аксессуары Для Смарт Часов">Браслеты</param>
+</offer>
+<offer id="ts000082969000030833" available="true">
+<url>https://kmt5.com.ua/remnets-magic-silicon-apple-watch-42-mm-44-mm-45-mm-49-mm-starlight</url>
+<price>250.0</price>
+<vendorprice>148.0</vendorprice>
+<vendorpricedoll>3.3</vendorpricedoll>
+<rrcdoll>5.57</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>59885727</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzUvYzMv0KYtMDAwMDgyOTY5XzE2LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGIvMDkv0KYtMDAwMDgyOTY5XzIwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzIvNWQv0KYtMDAwMDgyOTY5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000082969</vendorCode>
+<code>789491</code>
+<name>Ремінець Magic Silicon — Apple Watch 42 mm | 44 mm | 45 mm | 49 mm — Starlight</name>
+<quantity_in_stock>16</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Watch Series 3 42 mm, Apple Watch Series 4 44 mm, Apple Watch Series 7 45 mm, Apple Watch Series 8 49 mm</param>
 <param name="Бренд">Различные</param>
@@ -149318,6 +150382,27 @@
 <param name="Материал">Силикон</param>
 <param name="Аксессуары Для Смарт Часов">Браслеты</param>
 </offer>
+<offer id="ts000069414000016511" available="true">
+<url>https://kmt5.com.ua/original-design-bracelet-xiaomi-mi-band-5-black</url>
+<price>101.0</price>
+<vendorprice>21.0</vendorprice>
+<vendorpricedoll>0.46</vendorpricedoll>
+<rrcdoll>2.23</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>22922428</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWIvMWMv0KYtMDAwMDY5NDE0XzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzUvNWIv0KYtMDAwMDY5NDE0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000069414</vendorCode>
+<code>737745</code>
+<name>Ремінець Silicone Sport Band Xiaomi Mi Band 5 6 7 — Black</name>
+<quantity_in_stock>131</quantity_in_stock>
+<param name="Марка">Xiaomi</param>
+<param name="Модель девайса">Xiaomi Mi Band 5, Xiaomi Mi Band 6, Xiaomi Mi Band 7</param>
+<param name="Бренд">Различные</param>
+<param name="Материал">Силикон</param>
+<param name="Аксессуары Для Смарт Часов">Браслеты</param>
+</offer>
 <offer id="ts000069414000024745" available="true">
 <url>https://kmt5.com.ua/remnets-silicone-sport-band-xiaomi-mi-band-5-6-7-dark-gray</url>
 <price>101.0</price>
@@ -150934,6 +152019,35 @@
 <param name="Материал">Резина</param>
 <param name="Аксессуары Для Смарт Часов">Браслеты</param>
 </offer>
+<offer id="ts000037061000025516" available="true">
+<url>https://kmt5.com.ua/remnets-sport-band-apple-watch-38-mm-40-mm-41-mm-stone</url>
+<price>101.0</price>
+<vendorprice>33.0</vendorprice>
+<vendorpricedoll>0.72</vendorpricedoll>
+<rrcdoll>2.23</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>48417745</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGMvZTEv0KYtMDAwMDM3MDYxXzQ5LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGYvMTAv0KYtMDAwMDM3MDYxXzM3LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTEvMjMv0KYtMDAwMDM3MDYxXzM4LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzMvZjUv0KYtMDAwMDM3MDYxXzM5LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWUvMWUv0KYtMDAwMDM3MDYxXzQwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDQvZmEv0KYtMDAwMDM3MDYxXzQxLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzIvMjUv0KYtMDAwMDM3MDYxXzQyLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzIvZjIv0KYtMDAwMDM3MDYxXzQzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDMvYWEv0KYtMDAwMDM3MDYxXzQ0LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmMvOWEv0KYtMDAwMDM3MDYxXzQ1LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000037061</vendorCode>
+<code>773923</code>
+<name>Ремінець Sport Band Apple Watch 38 mm 40 mm 41 mm — Stone</name>
+<quantity_in_stock>24</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Watch Series 7 41 mm, Apple Watch Series 3 38 mm, Apple Watch Series 4 40 mm</param>
+<param name="Бренд">Различные</param>
+<param name="Материал">Резина</param>
+<param name="Аксессуары Для Смарт Часов">Браслеты</param>
+</offer>
 <offer id="ts000037061000013296" available="true">
 <url>https://kmt5.com.ua/original-design-bracelet-apple-watch-38-mm-40-mm-turquoise</url>
 <price>101.0</price>
@@ -151643,28 +152757,6 @@
 <code>734957</code>
 <name>Ремінець Sport Band Apple Watch 42 mm 44 mm 45 mm 49 mm — Vintage Rose</name>
 <quantity_in_stock>7</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Watch Series 3 42 mm, Apple Watch Series 4 44 mm, Apple Watch Series 7 45 mm, Apple Watch Series 8 49 mm</param>
-<param name="Бренд">Различные</param>
-<param name="Материал">Силикон</param>
-<param name="Аксессуары Для Смарт Часов">Браслеты</param>
-</offer>
-<offer id="ts000037062000013018" available="true">
-<url>https://kmt5.com.ua/remnets-sport-band-apple-watch-42-mm-44-mm-45-mm-49-mm-white-9</url>
-<price>101.0</price>
-<vendorprice>31.0</vendorprice>
-<vendorpricedoll>0.69</vendorpricedoll>
-<rrcdoll>2.23</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>59885727</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzcvOWYv0KYtMDAwMDM3MDYyXzU1LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTQvOGYv0KYtMDAwMDM3MDYyXzU2LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWMvZTMv0KYtMDAwMDM3MDYyXzU3LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000037062</vendorCode>
-<code>734958</code>
-<name>Ремінець Sport Band Apple Watch 42 mm 44 mm 45 mm 49 mm — White (9)</name>
-<quantity_in_stock>19</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Watch Series 3 42 mm, Apple Watch Series 4 44 mm, Apple Watch Series 7 45 mm, Apple Watch Series 8 49 mm</param>
 <param name="Бренд">Различные</param>
@@ -153574,30 +154666,6 @@
 <param name="Бренд">Hoco</param>
 <param name="Автоаксессуары">Автотримачі</param>
 </offer>
-<offer id="ts000077453000025601" available="true">
-<url>https://kmt5.com.ua/car-holder-hoco-h20-mighty-onebutton-windshield-black</url>
-<price>222.0</price>
-<vendorprice>134.0</vendorprice>
-<vendorpricedoll>2.99</vendorpricedoll>
-<rrcdoll>4.94</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>29376332</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjQvOWIv0KYtMDAwMDc3NDUzXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmQvM2Mv0KYtMDAwMDc3NDUzXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzQvMzMv0KYtMDAwMDc3NDUzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzkvMjcv0KYtMDAwMDc3NDUzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjcvMmYv0KYtMDAwMDc3NDUzXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWIvN2Ev0KYtMDAwMDc3NDUzXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGQvNDUv0KYtMDAwMDc3NDUzXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODcvYzIv0KYtMDAwMDc3NDUzXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000077453</vendorCode>
-<code>774123</code>
-<name>Car Holder Hoco H20 Mighty one-button (windshield) — Black</name>
-<quantity_in_stock>50</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Автоаксессуары">Автотримачі</param>
-</offer>
 <offer id="ts000077464000025612" available="true">
 <url>https://kmt5.com.ua/car-holder-hoco-hw5-journey-wireless-fast-charging-center-console-black</url>
 <price>574.0</price>
@@ -154982,6 +156050,31 @@
 <name>Car Holder Hoco BH7 Plane magnetic in-car holder</name>
 <quantity_in_stock>220</quantity_in_stock>
 <param name="Бренд">Borofone</param>
+<param name="Автоаксессуары">Автотримачі</param>
+</offer>
+<offer id="ts000077435000025583" available="true">
+<url>https://kmt5.com.ua/car-holder-hoco-ca55-astute-series-windshield-blackgray</url>
+<price>318.0</price>
+<vendorprice>199.0</vendorprice>
+<vendorpricedoll>4.43</vendorpricedoll>
+<rrcdoll>7.07</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>83056549</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2QvNjgv0KYtMDAwMDc3NDM1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWEvOTkv0KYtMDAwMDc3NDM1XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWQvMDkv0KYtMDAwMDc3NDM1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjAvY2Yv0KYtMDAwMDc3NDM1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDkvMDQv0KYtMDAwMDc3NDM1XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjUvYmIv0KYtMDAwMDc3NDM1XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2IvNDkv0KYtMDAwMDc3NDM1XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzAvNGEv0KYtMDAwMDc3NDM1XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Hoco</vendor>
+<vendorCode>Ц-000077435</vendorCode>
+<code>774105</code>
+<name>Car Holder Hoco CA55 Astute series windshield — black＆gray</name>
+<description><![CDATA[Компания Hoco предлагает новую модель Hoco CA55 Intelligent Dashboard. Этот универсальный автомобильный магнитный держатель отлично подойдёт для Вашего смартфона и не габаритного планшета. Крепится аксессуар на торпеду автомобиля. Два магнитные пластины, идущие в комплекте, можно приклеить на смартфон, планшет или GPS-навигатор. Благодаря специальным магнитам, Ваше устройство будет надежно зафиксировано, а особый состав сплава не повлияет на работу и сигнал смартфона. Миниатюрный холдер станет надежным помощником для любого автомобилиста. Материал: PC / ABS / силикон Поверхность: рисунок под карбон Размер: 220*78*70мм Вес: 98г Совместимость: для всех мобильных телефонов (с магнитным стикером) Место крепления: ветровое стекло Универсальное вращение]]></description>
+<quantity_in_stock>7</quantity_in_stock>
+<param name="Бренд">Hoco</param>
 <param name="Автоаксессуары">Автотримачі</param>
 </offer>
 <offer id="ts000077438000025586" available="true">
@@ -156732,6 +157825,30 @@
 <param name="Способ установки">на повітропровід</param>
 <param name="Способ крепления">магнітний</param>
 <param name="Цвет">Black</param>
+</offer>
+<offer id="ts000073870000023743" available="true">
+<url>https://kmt5.com.ua/avtotrimach-magntniy-na-povtroprovd-hoco-h12-fine-jade-black</url>
+<price>268.0</price>
+<vendorprice>162.0</vendorprice>
+<vendorpricedoll>3.61</vendorpricedoll>
+<rrcdoll>5.96</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>83056549</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDcvMGQv0KYtMDAwMDczODcwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDcvOWEv0KYtMDAwMDczODcwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjQvZDEv0KYtMDAwMDczODcwXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDgvZWYv0KYtMDAwMDczODcwXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDkvZmYv0KYtMDAwMDczODcwXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Hoco</vendor>
+<vendorCode>Ц-000073870</vendorCode>
+<code>759655</code>
+<name>Автотримач магнітний на повітропровід Hoco H12 Fine jade — Black</name>
+<description><![CDATA[Особенности: Крепление в воздуховод с помощью крючка В основном предназначен для iPhone 12/13/14, так как они могут крепиться к держателю без дополнительных пластин. Подходит для других смартфонов, благодаря металлической пластине, идущей. Пластина клеится на чехол или даже под чехол телефона, и теперь ваш смартфон можно надежно закрепить к держателю При необходимости пластина легко снимается с телефона и не оставляет следов. Красивый и стильный дизайн Не мешает осмотру водителя Характеристики: Бренд: HOCO Место установки: воздуховод Материал: PC+ABS+алюминиевый сплав Подходит для мобильных телефонов 4,5-7 дюймов Размеры: 57*57*75 мм Вес: 50г Цвет: Черный]]></description>
+<quantity_in_stock>53</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Автоаксессуары">Автотримачі</param>
+<param name="Способ установки">на повітропровід</param>
+<param name="Способ крепления">магнітний</param>
 </offer>
 <offer id="ts000071963" available="true">
 <url>https://kmt5.com.ua/avtoderjatel-vcs0179-</url>
@@ -162758,6 +163875,24 @@
 <quantity_in_stock>30</quantity_in_stock>
 <param name="Бренд">Различные</param>
 </offer>
+<offer id="ts000081189000031082" available="true">
+<url>https://kmt5.com.ua/stayler-airwrap-complete-long-pink</url>
+<price>3201.0</price>
+<vendorprice>2634.0</vendorprice>
+<vendorpricedoll>58.71</vendorpricedoll>
+<rrcdoll>71.35</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>16918768</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjIvNzQv0KYtMDAwMDgxMTg5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzYvOGIv0KYtMDAwMDgxMTg5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGQvNzIv0KYtMDAwMDgxMTg5XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000081189</vendorCode>
+<code>789904</code>
+<name>Стайлер Airwrap complete long — Pink</name>
+<quantity_in_stock>5</quantity_in_stock>
+<param name="Бренд">Различные</param>
+</offer>
 <offer id="ts000079253" available="true">
 <url>https://kmt5.com.ua/ustroystvo-protiv-hrapa-m21</url>
 <price>121.0</price>
@@ -163910,6 +165045,23 @@
 <code>771094</code>
 <name>Підставка для телефону Ring With Magsafe ; Colorful — Gold</name>
 <quantity_in_stock>27</quantity_in_stock>
+<param name="Бренд">Различные</param>
+</offer>
+<offer id="ts000075737000024521" available="true">
+<url>https://kmt5.com.ua/pdstavka-dlya-telefonu-ring-with-magsafe-colorful-purple</url>
+<price>150.0</price>
+<vendorprice>65.0</vendorprice>
+<vendorpricedoll>1.44</vendorpricedoll>
+<rrcdoll>3.34</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>52765482</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzIvMTMv0KYtMDAwMDc1NzM3XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTUvOWUv0KYtMDAwMDc1NzM3XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000075737</vendorCode>
+<code>771096</code>
+<name>Підставка для телефону Ring With Magsafe ; Colorful — Purple</name>
+<quantity_in_stock>13</quantity_in_stock>
 <param name="Бренд">Различные</param>
 </offer>
 <offer id="ts000075737000024523" available="true">
