@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-18 07:40">
+<yml_catalog date="2026-09-18 13:13">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -8228,24 +8228,6 @@
 <param name="Форм фактор">Сумка</param>
 <param name="Бренд">Benks</param>
 <param name="Материал">Карбон &amp; Силикон</param>
-</offer>
-<offer id="ts000081846000031572" available="true">
-<url>https://kmt5.com.ua/trimachprisoska-dlya-telefonu-double-side-silicone-black-6510</url>
-<price>40.0</price>
-<vendorprice>19.0</vendorprice>
-<vendorpricedoll>0.41</vendorpricedoll>
-<rrcdoll>0.89</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>26128749</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjMvZWQv0KYtMDAwMDgxODQ2XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDUvYzMv0KYtMDAwMDgxODQ2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjIvNDcv0KYtMDAwMDgxODQ2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000081846</vendorCode>
-<code>790752</code>
-<name>Тримач-присоска для телефону Double Side Silicone — Black 6.5*10</name>
-<quantity_in_stock>234</quantity_in_stock>
-<param name="Бренд">Различные</param>
 </offer>
 <offer id="ts000081846000031568" available="true">
 <url>https://kmt5.com.ua/trimachprisoska-dlya-telefonu-double-side-silicone-blue-6510</url>
@@ -47023,35 +47005,6 @@
 <param name="Бренд">Apple</param>
 <param name="Материал">Силикон</param>
 </offer>
-<offer id="ts000079333000031689" available="true">
-<url>https://kmt5.com.ua/oc-matte-case-with-magsafe-iphone-13-pro-white</url>
-<price>181.0</price>
-<vendorprice>111.0</vendorprice>
-<vendorpricedoll>2.45</vendorpricedoll>
-<rrcdoll>4.01</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>70706401</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjUvYmYv0KYtMDAwMDc5MzMzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDEvOGYv0KYtMDAwMDc5MzMzXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGUvY2Ev0KYtMDAwMDc5MzMzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjEvNmYv0KYtMDAwMDc5MzMzXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDUvYmIv0KYtMDAwMDc5MzMzXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWEvYmMv0KYtMDAwMDc5MzMzXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmIvZTkv0KYtMDAwMDc5MzMzXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWEvMWYv0KYtMDAwMDc5MzMzXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjMvNzgv0KYtMDAwMDc5MzMzXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTcvMzYv0KYtMDAwMDc5MzMzXzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000079333</vendorCode>
-<code>791189</code>
-<name>OC Matte Case With MagSafe iPhone 13 Pro — White</name>
-<quantity_in_stock>12</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 13 Pro 6.1&quot;</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Силикон</param>
-</offer>
 <offer id="ts000079335000027154" available="true">
 <url>https://kmt5.com.ua/oc-matte-case-with-magsafe-iphone-14-pro-dark-blue</url>
 <price>181.0</price>
@@ -47290,28 +47243,6 @@
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Силикон</param>
-</offer>
-<offer id="ts000079336000027160" available="true">
-<url>https://kmt5.com.ua/oc-matte-case-with-magsafe-iphone-14-pro-max-black</url>
-<price>181.0</price>
-<vendorprice>111.0</vendorprice>
-<vendorpricedoll>2.45</vendorpricedoll>
-<rrcdoll>4.01</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>65522936</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzMvNDYv0KYtMDAwMDc5MzM2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjUvYzYv0KYtMDAwMDc5MzM2XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmEvMDcv0KYtMDAwMDc5MzM2XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000079336</vendorCode>
-<code>779046</code>
-<name>OC Matte Case With MagSafe — iPhone 14 Pro Max  — Black</name>
-<quantity_in_stock>18</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 14 Pro Max 6.7&quot;</param>
 <param name="Бренд">Apple</param>
 <param name="Материал">Силикон</param>
 </offer>
@@ -47665,28 +47596,6 @@
 <code>788093</code>
 <name>OC Matte Case With MagSafe — iPhone 17   — Dark Blue</name>
 <quantity_in_stock>8</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Силикон</param>
-</offer>
-<offer id="ts000082163000030230" available="true">
-<url>https://kmt5.com.ua/oc-matte-case-with-magsafe-iphone-17-gray</url>
-<price>178.0</price>
-<vendorprice>111.0</vendorprice>
-<vendorpricedoll>2.45</vendorpricedoll>
-<rrcdoll>3.95</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54622491</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzEvYjkv0KYtMDAwMDgyMTYzXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTQvODUv0KYtMDAwMDgyMTYzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmQvNmUv0KYtMDAwMDgyMTYzXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000082163</vendorCode>
-<code>788096</code>
-<name>OC Matte Case With MagSafe — iPhone 17   — Gray</name>
-<quantity_in_stock>5</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17</param>
@@ -84250,28 +84159,6 @@
 <param name="Бренд">Apple</param>
 <param name="Материал">Силикон</param>
 </offer>
-<offer id="ts000084027000031868" available="true">
-<url>https://kmt5.com.ua/wave-case-with-magsafe-iphone-1314-orange</url>
-<price>283.0</price>
-<vendorprice>162.0</vendorprice>
-<vendorpricedoll>3.61</vendorpricedoll>
-<rrcdoll>6.3</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>65522936</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGIvMjIv0KYtMDAwMDg0MDI3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2MvZmEv0KYtMDAwMDg0MDI3XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTgvZTcv0KYtMDAwMDg0MDI3XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000084027</vendorCode>
-<code>791549</code>
-<name>Wave Case with MagSafe iPhone 13/14  — Orange</name>
-<quantity_in_stock>4</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 13 6.1&quot;, Apple iPhone 14 6.1&quot;</param>
-<param name="Бренд">Apple</param>
-<param name="Материал">Силикон</param>
-</offer>
 <offer id="ts000084027000031871" available="true">
 <url>https://kmt5.com.ua/wave-case-with-magsafe-iphone-1314-sand</url>
 <price>283.0</price>
@@ -87548,26 +87435,6 @@
 <param name="Бренд">Wiwu</param>
 <param name="Материал">Ткань</param>
 <param name="Цвет">Multi Color</param>
-</offer>
-<offer id="ts000084090000032079" available="true">
-<url>https://kmt5.com.ua/sumka-14-wiwu-terrace-laptop-sleeve-black</url>
-<price>1336.0</price>
-<vendorprice>764.0</vendorprice>
-<vendorpricedoll>17.0</vendorpricedoll>
-<rrcdoll>29.75</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>71284098</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2IvNjkv0KYtMDAwMDg0MDkwXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2YvYmEv0KYtMDAwMDg0MDkwXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmIvMGMv0KYtMDAwMDg0MDkwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Wiwu</vendor>
-<vendorCode>Ц-000084090</vendorCode>
-<code>791822</code>
-<name>Сумка 14'' WiWU Terrace Laptop Sleeve — Black</name>
-<quantity_in_stock>20</quantity_in_stock>
-<param name="Форм фактор">Сумка</param>
-<param name="Бренд">Wiwu</param>
-<param name="Материал">Ткань</param>
 </offer>
 <offer id="ts000084090000032080" available="true">
 <url>https://kmt5.com.ua/sumka-14-wiwu-terrace-laptop-sleeve-light-grey</url>
@@ -133534,24 +133401,6 @@
 <description><![CDATA[Бездротові TWS-навушники з активним шумопоглинанням ANC (Bluetooth 5.3) Бездротові TWS-навушники серії ANC створені для комфортного прослуховування музики та зручного спілкування у будь-яких умовах. Завдяки активному шумоподавленню (ANC) навушники ефективно зменшують фонові шуми, дозволяючи повністю зосередитися на звуці. Стабільне з’єднання забезпечує Bluetooth 5.3, який гарантує низьку затримку та енергоефективну роботу. Сенсорне керування дозволяє легко керувати музикою та дзвінками без використання смартфона. Основні переваги Активне шумоподавлення ANC Сучасний стандарт Bluetooth 5.3 Сенсорне керування Вбудований мікрофон для дзвінків Компактний зарядний кейс з індикацією заряду Підтримка більшості пристроїв з Bluetooth Функціональні можливості Прослуховування музики Прийом та здійснення дзвінків Керування відтворенням і гучністю дотиками Робота в режимі шумоподавлення ANC Технічні характеристики Тип: бездротові TWS-навушники Серія: ANC Тип навушників: внутрішньоканальні Тип підключення: Bluetooth Версія Bluetooth: 5.3 Радіус дії: до 10 м Кодеки: SBC Керування: сенсорне Мікрофон: вбудований Підтримка дзвінків: так Тип живлення: вбудований акумулятор Автономність і зарядка Ємність акумулятора навушників: 35 мА·год (кожен) Ємність акумулятора кейса: 300 мА·год Час роботи навушників: до 5 годин Час роботи з ANC: до 4 годин Загальний час роботи з кейсом: до 20 годин Час зарядки: близько 1,5 години Розʼєм для зарядки: USB Type-C Індикація заряду: світлодіодна Сумісність і матеріали Матеріал корпусу: пластик Сумісність: Android, iOS, Windows та інші пристрої з Bluetooth]]></description>
 <quantity_in_stock>198</quantity_in_stock>
 <param name="Бренд">Hoco</param>
-<param name="Аудіо товари">Bluetooth гарнітура TWS</param>
-</offer>
-<offer id="ts000084088000032077" available="true">
-<url>https://kmt5.com.ua/bluetooth-garntura-tws-wiwu-o502-black</url>
-<price>1101.0</price>
-<vendorprice>768.0</vendorprice>
-<vendorpricedoll>17.1</vendorpricedoll>
-<rrcdoll>24.5</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54581499</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDAvNmYv0KYtMDAwMDg0MDg4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWQvNTYv0KYtMDAwMDg0MDg4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Wiwu</vendor>
-<vendorCode>Ц-000084088</vendorCode>
-<code>791818</code>
-<name>Bluetooth гарнітура TWS Wiwu O502 — Black</name>
-<quantity_in_stock>20</quantity_in_stock>
-<param name="Бренд">Wiwu</param>
 <param name="Аудіо товари">Bluetooth гарнітура TWS</param>
 </offer>
 <offer id="ts000084088000032078" available="true">
