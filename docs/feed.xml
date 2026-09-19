@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-18 17:58">
+<yml_catalog date="2026-09-19 07:36">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -97999,29 +97999,6 @@
 <param name="Толщина">0.3 mm</param>
 <param name="Цвет">Remax HD GL-27</param>
 </offer>
-<offer id="ts000082133" available="true">
-<url>https://kmt5.com.ua/zahisne-sklo-remax-hd-tempered-glass-gl27-iphone-17-pro-63</url>
-<price>186.0</price>
-<vendorprice>102.0</vendorprice>
-<vendorpricedoll>2.27</vendorpricedoll>
-<rrcdoll>4.14</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>60035090</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWMvMTEv0KYtMDAwMDgyMTMzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2IvOWUv0KYtMDAwMDgyMTMzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Remax</vendor>
-<vendorCode>Ц-000082133</vendorCode>
-<code>788039</code>
-<name>Захисне скло Remax HD Tempered Glass GL-27 iPhone 17 Pro 6.3&quot;</name>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro</param>
-<param name="Бренд">Remax</param>
-<param name="Виды защиты экрана">Захисне скло</param>
-<param name="Вид покрытия">Прозрачное стекло</param>
-<param name="Толщина">0.3 mm</param>
-<param name="Цвет">Remax HD GL-27</param>
-</offer>
 <offer id="ts000082132" available="true">
 <url>https://kmt5.com.ua/zahisne-sklo-remax-hd-tempered-glass-gl27-iphone-17-pro-max-69</url>
 <price>186.0</price>
@@ -98035,7 +98012,7 @@
 <vendor>Remax</vendor>
 <vendorCode>Ц-000082132</vendorCode>
 <code>788038</code>
-<name>Захисне скло Remax HD Tempered Glass GL-27 iPhone 17 Pro Max 6.9&quot;</name>
+<name>Захисне скло Remax HD Tempered Glass GL-27 iPhone 17 Pro Max/18 Pro Max 6.9&quot;</name>
 <quantity_in_stock>10</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max</param>
@@ -98045,31 +98022,28 @@
 <param name="Толщина">0.3 mm</param>
 <param name="Цвет">Remax HD GL-27</param>
 </offer>
-<offer id="ts000083823" available="true">
-<url>https://kmt5.com.ua/zahisne-sklo-remax-privacy-tempered-glass-es02-iphone-16-pro-17</url>
-<price>339.0</price>
-<vendorprice>175.0</vendorprice>
-<vendorpricedoll>3.88</vendorpricedoll>
-<rrcdoll>7.55</rrcdoll>
+<offer id="ts000082133" available="true">
+<url>https://kmt5.com.ua/zahisne-sklo-remax-hd-tempered-glass-gl27-iphone-17-pro-63</url>
+<price>186.0</price>
+<vendorprice>102.0</vendorprice>
+<vendorpricedoll>2.27</vendorpricedoll>
+<rrcdoll>4.14</rrcdoll>
 <currencyId>UAH</currencyId>
-<categoryId>6882026</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2QvZGUv0KYtMDAwMDgzODIzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDYvN2Qv0KYtMDAwMDgzODIzXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWQvNWQv0KYtMDAwMDgzODIzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2YvNjAv0KYtMDAwMDgzODIzXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGQvMTYv0KYtMDAwMDgzODIzXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<categoryId>60035090</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWMvMTEv0KYtMDAwMDgyMTMzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2IvOWUv0KYtMDAwMDgyMTMzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Remax</vendor>
-<vendorCode>Ц-000083823</vendorCode>
-<code>791164</code>
-<name>Захисне скло Remax Privacy Tempered Glass ES-02 iPhone 16 Pro ; 17</name>
-<quantity_in_stock>6</quantity_in_stock>
+<vendorCode>Ц-000082133</vendorCode>
+<code>788039</code>
+<name>Захисне скло Remax HD Tempered Glass GL-27 iPhone 17 Pro/18 Pro 6.3&quot;</name>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 16 Pro, Apple iPhone 17</param>
+<param name="Модель девайса">Apple iPhone 17 Pro</param>
 <param name="Бренд">Remax</param>
 <param name="Виды защиты экрана">Захисне скло</param>
 <param name="Вид покрытия">Прозрачное стекло</param>
 <param name="Толщина">0.3 mm</param>
-<param name="Цвет">Remax Privacy ES-02</param>
+<param name="Цвет">Remax HD GL-27</param>
 </offer>
 <offer id="ts000083826" available="true">
 <url>https://kmt5.com.ua/zahisne-sklo-remax-privacy-tempered-glass-es02-iphone-16-pro-max</url>
@@ -104682,26 +104656,6 @@
 <name>Battery 1200mAh — Hoco JA4 (2PCS)</name>
 <description><![CDATA[Набір акумуляторів HOCO JA4 (2 шт. типу AAА) HOCO JA4 — це сучасні перезаряджувані літій-іонні акумулятори формату AAА, створені для стабільного та довговічного живлення ваших пристроїв. Завдяки вбудованому роз’єму Type-C, їх можна заряджати без додаткових зарядних пристроїв — просто підключіть кабель напряму до батареї. Переваги: Зручне заряджання через Type-Cбез потреби в спеціальному зарядному пристрої Екологічне рішення — багаторазове використання Висока енергоефективність і стабільна робота при постійних навантаженнях Компактні та легкі — ідеальні для портативних гаджетів Характеристики: Бренд: HOCO Модель: JA4 Ємність: 320 mAh / 3,7 V / 1200 mWh Заряджання: Type-C (5 V / 250 mA) Час заряджання: приблизно 40 хв Тривалість розряджання: до 60 хвилин безперервної роботи Комплектація: 2 батареї в упаковці + зарядні дроти Розмір: 10.1 × 44.5 мм (діаметр × висота) Вага: 8 г]]></description>
 <quantity_in_stock>250</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-</offer>
-<offer id="ts000082547" available="true">
-<url>https://kmt5.com.ua/battery-3200mah-hoco-ja3-2pcs</url>
-<price>272.0</price>
-<vendorprice>175.0</vendorprice>
-<vendorpricedoll>3.88</vendorpricedoll>
-<rrcdoll>6.04</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>46114804</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGQvNDMv0KYtMDAwMDgyNTQ3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDMvMTAv0KYtMDAwMDgyNTQ3XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTYvY2Uv0KYtMDAwMDgyNTQ3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTAvMjQv0KYtMDAwMDgyNTQ3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000082547</vendorCode>
-<code>788801</code>
-<name>Battery 3200mAh — Hoco JA3 (2PCS)</name>
-<description><![CDATA[HOCO JA3 — це сучасні перезаряджувані літій-іонні акумулятори формату AA, створені для стабільного та довговічного живлення ваших пристроїв. Завдяки вбудованому роз’єму Type-C, їх можна заряджати без додаткових зарядних пристроїв — просто підключіть кабель напряму до акумулятора. Переваги: Зручне заряджання через Type-Cбез потреби в спеціальному зарядному пристрої Екологічне рішення — багаторазове використання Висока енергоефективність і стабільна робота при постійних навантаженнях Компактні та легкі — ідеальні для портативних гаджетів Характеристики: Бренд: HOCO Модель: JA3 Ємність: 860mAh / 3,7V / 3200mWh Заряджання: Type-C (5V / 450mA) Час заряджання: приблизно 120 хв Тривалість розряджання: до 60 хвилин безперервної роботи Комплектація: 2 акумулятора в упаковці + зарядні дроти Сумісність: іграшки, бездротові миші й клавіатури, невеликі вентилятори, радіоприймачі та інші пристрої Розмір: 14 × 50,5 мм (діаметр × висота) Вага: 18 г HOCO JA3 — це оптимальне поєднання якості, потужності та доступності для щоденного використання.]]></description>
-<quantity_in_stock>200</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 </offer>
 <offer id="ts000083198000031151" available="true">
@@ -112190,23 +112144,6 @@
 <param name="Бренд">Различные</param>
 <param name="Переходники">Adapter USB C To DP</param>
 </offer>
-<offer id="ts000080779" available="true">
-<url>https://kmt5.com.ua/adapter-usb-c-to-5521-65w-15m</url>
-<price>251.0</price>
-<vendorprice>72.0</vendorprice>
-<vendorpricedoll>1.6</vendorpricedoll>
-<rrcdoll>5.57</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>93325786</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGQvODQv0KYtMDAwMDgwNzc5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000080779</vendorCode>
-<code>785978</code>
-<name>Adapter USB C To 5521 65W 1.5M</name>
-<quantity_in_stock>98</quantity_in_stock>
-<param name="Бренд">Различные</param>
-<param name="Переходники">Adapter USB C To DP</param>
-</offer>
 <offer id="ts000080778" available="true">
 <url>https://kmt5.com.ua/adapter-usb-c-to-5525-65w-15m</url>
 <price>251.0</price>
@@ -116426,6 +116363,62 @@
 <param name="Переходники">Audio Splitter 3.5mm</param>
 <param name="Цвет">Black &amp; Red</param>
 </offer>
+<offer id="ts000080791" available="true">
+<url>https://kmt5.com.ua/adapter-usb-c-to-dc5521</url>
+<price>251.0</price>
+<vendorprice>102.0</vendorprice>
+<vendorpricedoll>2.27</vendorpricedoll>
+<rrcdoll>5.57</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>30757861</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTIvNGYv0KYtMDAwMDgwNzkxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000080791</vendorCode>
+<code>785990</code>
+<name>Adapter USB C To DC5521</name>
+<quantity_in_stock>27</quantity_in_stock>
+<param name="Бренд">Различные</param>
+<param name="Переходники">Adapter USB C To DP</param>
+</offer>
+<offer id="ts000080792" available="true">
+<url>https://kmt5.com.ua/adapter-usb-c-to-dc5525</url>
+<price>251.0</price>
+<vendorprice>102.0</vendorprice>
+<vendorpricedoll>2.27</vendorpricedoll>
+<rrcdoll>5.57</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>30757861</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTQvMGQv0KYtMDAwMDgwNzkyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000080792</vendorCode>
+<code>785991</code>
+<name>Adapter USB C To DC5525</name>
+<quantity_in_stock>38</quantity_in_stock>
+<param name="Бренд">Различные</param>
+<param name="Переходники">Adapter USB C To DP</param>
+</offer>
+<offer id="ts000077936" available="true">
+<url>https://kmt5.com.ua/kilimok-dlya-mish-veron-210x250-black</url>
+<price>101.0</price>
+<vendorprice>54.0</vendorprice>
+<vendorpricedoll>1.19</vendorpricedoll>
+<rrcdoll>2.23</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>48368747</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTkvOGYv0KYtMDAwMDc3OTM2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmIvYmMv0KYtMDAwMDc3OTM2XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjcvYjkv0KYtMDAwMDc3OTM2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODAvNjkv0KYtMDAwMDc3OTM2XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmQvZWYv0KYtMDAwMDc3OTM2XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>VERON</vendor>
+<vendorCode>Ц-000077936</vendorCode>
+<code>776684</code>
+<name>Килимок для миші Veron (210x250) Black</name>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">VERON</param>
+<param name="Компьютерные аксессуары">Коврики для мыши</param>
+<param name="Цвет">Black</param>
+</offer>
 <offer id="ts000083772" available="true">
 <url>https://kmt5.com.ua/adapter-usb-c-to-hdtv-acefast-c110</url>
 <price>600.0</price>
@@ -117638,40 +117631,6 @@
 <code>785989</code>
 <name>Adapter USB C To DC4530HP</name>
 <quantity_in_stock>60</quantity_in_stock>
-<param name="Бренд">Различные</param>
-<param name="Переходники">Adapter USB C To DP</param>
-</offer>
-<offer id="ts000080791" available="true">
-<url>https://kmt5.com.ua/adapter-usb-c-to-dc5521</url>
-<price>251.0</price>
-<vendorprice>102.0</vendorprice>
-<vendorpricedoll>2.27</vendorpricedoll>
-<rrcdoll>5.57</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>30757861</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTIvNGYv0KYtMDAwMDgwNzkxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000080791</vendorCode>
-<code>785990</code>
-<name>Adapter USB C To DC5521</name>
-<quantity_in_stock>27</quantity_in_stock>
-<param name="Бренд">Различные</param>
-<param name="Переходники">Adapter USB C To DP</param>
-</offer>
-<offer id="ts000080792" available="true">
-<url>https://kmt5.com.ua/adapter-usb-c-to-dc5525</url>
-<price>251.0</price>
-<vendorprice>102.0</vendorprice>
-<vendorpricedoll>2.27</vendorpricedoll>
-<rrcdoll>5.57</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>30757861</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTQvMGQv0KYtMDAwMDgwNzkyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000080792</vendorCode>
-<code>785991</code>
-<name>Adapter USB C To DC5525</name>
-<quantity_in_stock>38</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Переходники">Adapter USB C To DP</param>
 </offer>
@@ -122667,24 +122626,6 @@
 <param name="Компьютерные аксессуары">Переходники</param>
 <param name="Цвет">Black</param>
 </offer>
-<offer id="ts000081932" available="true">
-<url>https://kmt5.com.ua/perehodnik-hdmi-mm-adapter</url>
-<price>38.0</price>
-<vendorprice>20.0</vendorprice>
-<vendorpricedoll>0.43</vendorpricedoll>
-<rrcdoll>0.84</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>30757861</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODMvYjgv0KYtMDAwMDgxOTMyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000081932</vendorCode>
-<code>787768</code>
-<name>Переходник HDMI M-M Adapter</name>
-<quantity_in_stock>111</quantity_in_stock>
-<param name="Бренд">Различные</param>
-<param name="Компьютерные аксессуары">Переходники</param>
-<param name="Цвет">Black</param>
-</offer>
 <offer id="ts000081933" available="true">
 <url>https://kmt5.com.ua/perehodnik-hdmif-to-mini-hdmi-f-adapter</url>
 <price>33.0</price>
@@ -124456,6 +124397,29 @@
 <quantity_in_stock>24</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Студийное оборудование">Штативы</param>
+</offer>
+<offer id="ts000083192" available="true">
+<url>https://kmt5.com.ua/microphone-hoco-l25</url>
+<price>501.0</price>
+<vendorprice>347.0</vendorprice>
+<vendorpricedoll>7.73</vendorpricedoll>
+<rrcdoll>11.14</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>89410283</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzEvZjYv0KYtMDAwMDgzMTkyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDMvMjAv0KYtMDAwMDgzMTkyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGUvOTEv0KYtMDAwMDgzMTkyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjkvZmYv0KYtMDAwMDgzMTkyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmYvNmEv0KYtMDAwMDgzMTkyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2MvMDUv0KYtMDAwMDgzMTkyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDgvMTEv0KYtMDAwMDgzMTkyXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Hoco</vendor>
+<vendorCode>Ц-000083192</vendorCode>
+<code>790021</code>
+<name>Microphone Hoco L25</name>
+<quantity_in_stock>72</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Студийное оборудование">Микрофоны для телефона</param>
 </offer>
 <offer id="ts000078961" available="true">
 <url>https://kmt5.com.ua/monopod-large-tripod-c07-stainless-steels-201m</url>
@@ -126558,29 +126522,6 @@
 <param name="Максимальная высота">1.90m</param>
 <param name="Цвет">Black</param>
 </offer>
-<offer id="ts000081061" available="true">
-<url>https://kmt5.com.ua/tripod-stand-multifunctional-210m-neepho-np9988</url>
-<price>450.0</price>
-<vendorprice>259.0</vendorprice>
-<vendorpricedoll>5.77</vendorpricedoll>
-<rrcdoll>10.02</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>72282945</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2YvZTIv0KYtMDAwMDgxMDYxXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDAvMWUv0KYtMDAwMDgxMDYxXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODkvZjcv0KYtMDAwMDgxMDYxXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzUvNDkv0KYtMDAwMDgxMDYxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Neepho</vendor>
-<vendorCode>Ц-000081061</vendorCode>
-<code>786349</code>
-<name>Tripod Stand Multifunctional (2.10m) Neepho NP-9988</name>
-<description><![CDATA[осилений штатив Neepho NP-9988 тринога для професійної зйомки - це високоякісна конструкція, що забезпечує неймовірну міцність і стабільність, достатню для підтримання навіть найбільших смартфонів, відеокамер і фотообладнання. Верхня частина штатива Neepho NP-9988 оснащена стандартним гвинтом 1/4", який дає змогу легко прикріпити різноманітні аксесуари, як-от відеокамери, фотоапарати, відбивачі, кільцеві лампи, світлодіодні панелі, софтбокси та інше фотообладнання. Таким чином, ви отримуєте максимальну гнучкість під час роботи з Вашим обладнанням. Призначення штатива: Для фотоапаратів Для відеокамер Для телефону Для кільцевих ламп Для студійного освітлення Характеристики: Конструкція: трипод Тип: підлоговий Максимальна висота штатива: 210 см Максимальне навантаження: 8 кг Довжина в складеному стані: 72 см Гарантія: 3 місяці Комплектація: Штатив NeePho NP-9988 Інструкція]]></description>
-<quantity_in_stock>50</quantity_in_stock>
-<param name="Бренд">Neepho</param>
-<param name="Студийное оборудование">Трипод штатив</param>
-<param name="Максимальная высота">2.10m</param>
-<param name="Цвет">Black</param>
-</offer>
 <offer id="ts000081318" available="true">
 <url>https://kmt5.com.ua/tripod-stand-multifunctional-210m-a1588</url>
 <price>700.0</price>
@@ -126619,34 +126560,6 @@
 <code>748057</code>
 <name>Tripod Stand Multifunctional (2.10m) ¼ | BS42</name>
 <quantity_in_stock>1484</quantity_in_stock>
-<param name="Бренд">Различные</param>
-<param name="Студийное оборудование">Трипод штатив</param>
-<param name="Максимальная высота">2.10m</param>
-<param name="Цвет">Black</param>
-</offer>
-<offer id="ts000075549" available="true">
-<url>https://kmt5.com.ua/shtativ-210-sm-8806-pod-led-podsvetku</url>
-<price>371.0</price>
-<vendorprice>272.0</vendorprice>
-<vendorpricedoll>6.06</vendorpricedoll>
-<rrcdoll>8.25</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>3222</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjcvYWUv0KYtMDAwMDc1NTQ5XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDQvNzEv0KYtMDAwMDc1NTQ5XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWYvNGYv0KYtMDAwMDc1NTQ5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODAvZDAv0KYtMDAwMDc1NTQ5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTAvOTgv0KYtMDAwMDc1NTQ5XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWYvNmYv0KYtMDAwMDc1NTQ5XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjMvODgv0KYtMDAwMDc1NTQ5XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjEvNDAv0KYtMDAwMDc1NTQ5XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGEvNjQv0KYtMDAwMDc1NTQ5XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWMvNmEv0KYtMDAwMDc1NTQ5XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000075549</vendorCode>
-<code>770607</code>
-<name>Tripod Stand Multifunctional (2.10m) ¼ | Linco Zenit 8806</name>
-<quantity_in_stock>265</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Студийное оборудование">Трипод штатив</param>
 <param name="Максимальная высота">2.10m</param>
@@ -130084,31 +129997,6 @@
 <param name="Студийное оборудование">Кольцевые лампы</param>
 <param name="Количество светодиодов">416</param>
 <param name="Размер">46 cm</param>
-</offer>
-<offer id="ts000079538" available="true">
-<url>https://kmt5.com.ua/lampa-koltsevaya-led-fd640-ii</url>
-<price>7300.0</price>
-<vendorprice>6429.0</vendorprice>
-<vendorpricedoll>143.17</vendorpricedoll>
-<rrcdoll>162.58</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>22721647</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTQvNGYv0KYtMDAwMDc5NTM4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODgvYWMv0KYtMDAwMDc5NTM4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmEvNjAv0KYtMDAwMDc5NTM4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjgvY2Iv0KYtMDAwMDc5NTM4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2MvODYv0KYtMDAwMDc5NTM4XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGMvOTEv0KYtMDAwMDc5NTM4XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzUvYzMv0KYtMDAwMDc5NTM4XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>VERON</vendor>
-<vendorCode>Ц-000079538</vendorCode>
-<code>779391</code>
-<name>Лампа Кольцевая LED Veron FD-640 II 100W 3200-5500K white с зеркалом</name>
-<description><![CDATA[Кольцевая лампа 22 дюйма FD-640II для фотографирования, 100 Вт, двухцветная В комплект входит: 1 * Лампа 1 * Адаптер переменного тока 1 * Пульт дистанционного управления 1 * Зеркало 1 * Сумка 3 * Держателя для телефона Характеристики: Материал: высококачественный алюминиевый сплав Мощность: 100 Вт LED Цветовая температура: двухцветная (3200K-5600K) Размер: 22 дюйма в диаметре Вес: 2,2 кг Аксессуары: лампа, адаптер питания, пульт дистанционного управления, зеркало, штатив, сумка, 3 держателя для телефона Особенности: Светодиодное освещение для фотосъемки Освещение для YouTube Лучшая кольцевая лампа для компьютера]]></description>
-<quantity_in_stock>21</quantity_in_stock>
-<param name="Бренд">VERON</param>
-<param name="Студийное оборудование">Кольцевые лампы</param>
-<param name="Цвет">White</param>
 </offer>
 <offer id="ts000073802" available="true">
 <url>https://kmt5.com.ua/lampa-koltsevaya-led-45-cm-18-mj45-rgb-64-pcs-416-pcs-lights-with-remote-first-generation</url>
@@ -161059,54 +160947,6 @@
 <name>Фотоаппарат детский Y80 — Unicorn Pink</name>
 <quantity_in_stock>3</quantity_in_stock>
 <param name="Бренд">Различные</param>
-</offer>
-<offer id="ts000083790" available="true">
-<url>https://kmt5.com.ua/ekshn-kamera-acefast-x1</url>
-<price>4200.0</price>
-<vendorprice>3793.0</vendorprice>
-<vendorpricedoll>84.46</vendorpricedoll>
-<rrcdoll>93.54</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>22825303</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzkvOTIv0KYtMDAwMDgzNzkwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjYvYzIv0KYtMDAwMDgzNzkwXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmUvYWQv0KYtMDAwMDgzNzkwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzIvYTUv0KYtMDAwMDgzNzkwXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmIvMWYv0KYtMDAwMDgzNzkwXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjIvNTIv0KYtMDAwMDgzNzkwXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzAvNTcv0KYtMDAwMDgzNzkwXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTcvMDgv0KYtMDAwMDgzNzkwXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Acefast</vendor>
-<vendorCode>Ц-000083790</vendorCode>
-<code>791131</code>
-<name>Экшн камера Acefast X1</name>
-<quantity_in_stock>10</quantity_in_stock>
-<param name="Бренд">Acefast</param>
-<param name="Видео аксессуары">Экшн-камеры</param>
-</offer>
-<offer id="ts000083789" available="true">
-<url>https://kmt5.com.ua/ekshn-kamera-acefast-x2</url>
-<price>3400.0</price>
-<vendorprice>2498.0</vendorprice>
-<vendorpricedoll>55.62</vendorpricedoll>
-<rrcdoll>75.72</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>22825303</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTMvYzYv0KYtMDAwMDgzNzg5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTEvNTIv0KYtMDAwMDgzNzg5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2EvNzMv0KYtMDAwMDgzNzg5XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmMvMGMv0KYtMDAwMDgzNzg5XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTkvZTkv0KYtMDAwMDgzNzg5XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODgvNGIv0KYtMDAwMDgzNzg5XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWQvZGYv0KYtMDAwMDgzNzg5XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjAvNDIv0KYtMDAwMDgzNzg5XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Acefast</vendor>
-<vendorCode>Ц-000083789</vendorCode>
-<code>791130</code>
-<name>Экшн камера Acefast X2</name>
-<quantity_in_stock>20</quantity_in_stock>
-<param name="Бренд">Acefast</param>
-<param name="Видео аксессуары">Экшн-камеры</param>
 </offer>
 <offer id="ts000082684" available="true">
 <url>https://kmt5.com.ua/ekshn-kamera-hoco-dv105</url>
