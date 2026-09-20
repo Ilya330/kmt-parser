@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-19 17:32">
+<yml_catalog date="2026-09-20 06:02">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -71,8 +71,6 @@
 <category id="46479597" parentId="27119935">GPS Tracker</category>
 <category id="24338106" parentId="27119935">Аксесуари для IQOS</category>
 <category id="75032919" parentId="24338106">Чехлы для IQOS</category>
-<category id="52687104" parentId="27119935">Прикраси для телефону</category>
-<category id="28459303" parentId="52687104">Кольцо держатель</category>
 <category id="15419004" parentId="27119935">Сумки і Рюкзаки</category>
 <category id="10372040" parentId="15419004">Рюкзаки</category>
 <category id="71284098" parentId="15419004">Сумки</category>
@@ -187,9 +185,6 @@
 <category id="77077931" parentId="36225134">Роутери, точки доступу та WI-FI адаптери</category>
 <category id="8698087" parentId="36225134">Стілуси</category>
 <category id="44564650" parentId="36225134">Хаби</category>
-<category id="381280">Компьютерна переферія</category>
-<category id="32140670" parentId="381280">Мережеве обладнання</category>
-<category id="17121484" parentId="32140670">Мережеві кабелі</category>
 <category id="40002390">Краса та здоров'я</category>
 <category id="61823304" parentId="40002390">Hygiene appliances</category>
 <category id="1140505" parentId="40002390">Зубні щітки</category>
@@ -226,8 +221,6 @@
 <category id="4863332" parentId="29159238">Xiaomi Mi Band 9</category>
 <category id="78104130" parentId="29159238">Ремінець універсальний 20 mm</category>
 <category id="66318281" parentId="29159238">Ремінець універсальний 22 mm</category>
-<category id="6043889" parentId="49527981">Браслети (годинник)</category>
-<category id="96847083" parentId="6043889">Apple watch 42 mm / 44 mm / 45 mm</category>
 <category id="96903966" parentId="49527981">Зарядні пристрої</category>
 <category id="14409882" parentId="96903966">MIX</category>
 <category id="40243847" parentId="96903966">Xiaomi Mi Band</category>
@@ -2996,7 +2989,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzIvMTYv0KYtMDAwMDgzNzM4XzE4LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGMvNTAv0KYtMDAwMDgzNzM4XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzgvZTAv0KYtMDAwMDgzNzM4XzIxLmpwZzoxMDAwOjEwMDA=.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjQvYzEv0KYtMDAwMDgzNzM4XzIwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjgvYjIv0KYtMDAwMDgzNzM4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjcvODYv0KYtMDAwMDgzNzM4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -3021,7 +3014,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDcvODQv0KYtMDAwMDgzNzM4XzE2LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGMvNTAv0KYtMDAwMDgzNzM4XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzgvZTAv0KYtMDAwMDgzNzM4XzIxLmpwZzoxMDAwOjEwMDA=.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjQvYzEv0KYtMDAwMDgzNzM4XzIwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjgvYjIv0KYtMDAwMDgzNzM4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjcvODYv0KYtMDAwMDgzNzM4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -3046,7 +3039,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDcvZjMv0KYtMDAwMDgzNzM4XzE5LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGMvNTAv0KYtMDAwMDgzNzM4XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzgvZTAv0KYtMDAwMDgzNzM4XzIxLmpwZzoxMDAwOjEwMDA=.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjQvYzEv0KYtMDAwMDgzNzM4XzIwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjgvYjIv0KYtMDAwMDgzNzM4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjcvODYv0KYtMDAwMDgzNzM4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -3071,7 +3064,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDYvM2Uv0KYtMDAwMDgzNzM4XzE3LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGMvNTAv0KYtMDAwMDgzNzM4XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzgvZTAv0KYtMDAwMDgzNzM4XzIxLmpwZzoxMDAwOjEwMDA=.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjQvYzEv0KYtMDAwMDgzNzM4XzIwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjgvYjIv0KYtMDAwMDgzNzM4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjcvODYv0KYtMDAwMDgzNzM4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -3096,7 +3089,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjQvNWIv0KYtMDAwMDgzNzM4XzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGMvNTAv0KYtMDAwMDgzNzM4XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzgvZTAv0KYtMDAwMDgzNzM4XzIxLmpwZzoxMDAwOjEwMDA=.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjQvYzEv0KYtMDAwMDgzNzM4XzIwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjgvYjIv0KYtMDAwMDgzNzM4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjcvODYv0KYtMDAwMDgzNzM4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -3121,7 +3114,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2YvZjIv0KYtMDAwMDgzNzM4XzE1LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGMvNTAv0KYtMDAwMDgzNzM4XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzgvZTAv0KYtMDAwMDgzNzM4XzIxLmpwZzoxMDAwOjEwMDA=.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjQvYzEv0KYtMDAwMDgzNzM4XzIwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjgvYjIv0KYtMDAwMDgzNzM4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjcvODYv0KYtMDAwMDgzNzM4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -3146,7 +3139,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTQvYTgv0KYtMDAwMDgzNzM4XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGMvNTAv0KYtMDAwMDgzNzM4XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzgvZTAv0KYtMDAwMDgzNzM4XzIxLmpwZzoxMDAwOjEwMDA=.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjQvYzEv0KYtMDAwMDgzNzM4XzIwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjgvYjIv0KYtMDAwMDgzNzM4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjcvODYv0KYtMDAwMDgzNzM4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -3171,7 +3164,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDkvNDAv0KYtMDAwMDgzNzM4XzEyLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGMvNTAv0KYtMDAwMDgzNzM4XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzgvZTAv0KYtMDAwMDgzNzM4XzIxLmpwZzoxMDAwOjEwMDA=.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjQvYzEv0KYtMDAwMDgzNzM4XzIwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjgvYjIv0KYtMDAwMDgzNzM4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjcvODYv0KYtMDAwMDgzNzM4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -3196,7 +3189,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjkvNjkv0KYtMDAwMDgzNzM4XzEzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGMvNTAv0KYtMDAwMDgzNzM4XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzgvZTAv0KYtMDAwMDgzNzM4XzIxLmpwZzoxMDAwOjEwMDA=.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjQvYzEv0KYtMDAwMDgzNzM4XzIwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjgvYjIv0KYtMDAwMDgzNzM4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjcvODYv0KYtMDAwMDgzNzM4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -3221,6 +3214,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWQvZjEv0KYtMDAwMDgzOTg0XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGYvOTgv0KYtMDAwMDgzOTg0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000083984</vendorCode>
 <code>791418</code>
@@ -3237,6 +3231,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWMvMWMv0KYtMDAwMDgzOTg0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGYvOTgv0KYtMDAwMDgzOTg0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000083984</vendorCode>
 <code>791420</code>
@@ -3253,6 +3248,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2QvNjEv0KYtMDAwMDgzOTg0XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGYvOTgv0KYtMDAwMDgzOTg0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000083984</vendorCode>
 <code>791421</code>
@@ -3269,6 +3265,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmIvOWUv0KYtMDAwMDgzOTg0XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGYvOTgv0KYtMDAwMDgzOTg0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000083984</vendorCode>
 <code>791914</code>
@@ -3285,6 +3282,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmMvMGMv0KYtMDAwMDgzOTg0XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGYvOTgv0KYtMDAwMDgzOTg0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000083984</vendorCode>
 <code>791915</code>
@@ -3301,6 +3299,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTUvMTIv0KYtMDAwMDgzOTg0XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGYvOTgv0KYtMDAwMDgzOTg0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000083984</vendorCode>
 <code>791417</code>
@@ -3317,6 +3316,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzcvNjEv0KYtMDAwMDgzOTg0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGYvOTgv0KYtMDAwMDgzOTg0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000083984</vendorCode>
 <code>791913</code>
@@ -3333,6 +3333,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTMvZjAv0KYtMDAwMDgzOTg0XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGYvOTgv0KYtMDAwMDgzOTg0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000083984</vendorCode>
 <code>791419</code>
@@ -3451,6 +3452,8 @@
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTMvZDMv0KYtMDAwMDg0NDk5XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGUvNTcv0KYtMDAwMDg0NDk5XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjMvOWIv0KYtMDAwMDg0NDk5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000084499</vendorCode>
 <code>793345</code>
@@ -3466,12 +3469,9 @@
 <rrcdoll>1.81</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGMvYzEv0KYtMDAwMDg0NDk5XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGUvNTcv0KYtMDAwMDg0NDk5XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjMvOWIv0KYtMDAwMDg0NDk5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDAvYjMv0KYtMDAwMDg0NDk5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTkvMzYv0KYtMDAwMDg0NDk5XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWQvZWYv0KYtMDAwMDg0NDk5XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTMvZDMv0KYtMDAwMDg0NDk5XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGQvYTIv0KYtMDAwMDg0NDk5XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000084499</vendorCode>
 <code>793344</code>
@@ -3488,6 +3488,8 @@
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWQvZWYv0KYtMDAwMDg0NDk5XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGUvNTcv0KYtMDAwMDg0NDk5XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjMvOWIv0KYtMDAwMDg0NDk5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000084499</vendorCode>
 <code>792863</code>
@@ -3504,6 +3506,8 @@
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGQvYTIv0KYtMDAwMDg0NDk5XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGUvNTcv0KYtMDAwMDg0NDk5XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjMvOWIv0KYtMDAwMDg0NDk5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000084499</vendorCode>
 <code>792862</code>
@@ -3520,6 +3524,8 @@
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDAvYjMv0KYtMDAwMDg0NDk5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGUvNTcv0KYtMDAwMDg0NDk5XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjMvOWIv0KYtMDAwMDg0NDk5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000084499</vendorCode>
 <code>792864</code>
@@ -3536,6 +3542,8 @@
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTkvMzYv0KYtMDAwMDg0NDk5XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGUvNTcv0KYtMDAwMDg0NDk5XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjMvOWIv0KYtMDAwMDg0NDk5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000084499</vendorCode>
 <code>792861</code>
@@ -3552,6 +3560,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDUvYWIv0KYtMDAwMDg0NDk4XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWYvZjcv0KYtMDAwMDg0NDk4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000084498</vendorCode>
 <code>792854</code>
@@ -3567,12 +3576,14 @@
 <rrcdoll>1.87</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDUvYWIv0KYtMDAwMDg0NDk4XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWYvZjcv0KYtMDAwMDg0NDk4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2IvMGEv0KYtMDAwMDg0NDk4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGMvOGEv0KYtMDAwMDg0NDk4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjEvMzUv0KYtMDAwMDg0NDk4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDAvOWMv0KYtMDAwMDg0NDk4XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDUvYWIv0KYtMDAwMDg0NDk4XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjcvNDkv0KYtMDAwMDg0NDk4XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGEvZTIv0KYtMDAwMDg0NDk4XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000084498</vendorCode>
 <code>792859</code>
@@ -3589,6 +3600,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGMvOGEv0KYtMDAwMDg0NDk4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWYvZjcv0KYtMDAwMDg0NDk4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000084498</vendorCode>
 <code>792858</code>
@@ -3604,12 +3616,8 @@
 <rrcdoll>1.87</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjcvNDkv0KYtMDAwMDg0NDk4XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWYvZjcv0KYtMDAwMDg0NDk4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2IvMGEv0KYtMDAwMDg0NDk4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGMvOGEv0KYtMDAwMDg0NDk4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjEvMzUv0KYtMDAwMDg0NDk4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDAvOWMv0KYtMDAwMDg0NDk4XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDUvYWIv0KYtMDAwMDg0NDk4XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000084498</vendorCode>
 <code>792857</code>
@@ -3626,6 +3634,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2IvMGEv0KYtMDAwMDg0NDk4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWYvZjcv0KYtMDAwMDg0NDk4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000084498</vendorCode>
 <code>792853</code>
@@ -3642,6 +3651,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjEvMzUv0KYtMDAwMDg0NDk4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWYvZjcv0KYtMDAwMDg0NDk4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000084498</vendorCode>
 <code>792855</code>
@@ -3657,12 +3667,8 @@
 <rrcdoll>1.87</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGEvZTIv0KYtMDAwMDg0NDk4XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWYvZjcv0KYtMDAwMDg0NDk4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2IvMGEv0KYtMDAwMDg0NDk4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGMvOGEv0KYtMDAwMDg0NDk4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjEvMzUv0KYtMDAwMDg0NDk4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDAvOWMv0KYtMDAwMDg0NDk4XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDUvYWIv0KYtMDAwMDg0NDk4XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000084498</vendorCode>
 <code>792856</code>
@@ -3679,6 +3685,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDAvOWMv0KYtMDAwMDg0NDk4XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWYvZjcv0KYtMDAwMDg0NDk4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000084498</vendorCode>
 <code>792852</code>
@@ -3695,7 +3702,6 @@
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmEvZGIv0KYtMDAwMDgzOTgxXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTAvY2Ev0KYtMDAwMDgzOTgxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000083981</vendorCode>
 <code>791407</code>
@@ -3712,7 +3718,6 @@
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTkvNjYv0KYtMDAwMDgzOTgxXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTAvY2Ev0KYtMDAwMDgzOTgxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000083981</vendorCode>
 <code>791408</code>
@@ -3747,6 +3752,7 @@
 <categoryId>26128749</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTQvY2Qv0KYtMDAwMDgzOTg2XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTIvZTUv0KYtMDAwMDgzOTg2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDEvOWIv0KYtMDAwMDgzOTg2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000083986</vendorCode>
 <code>791429</code>
@@ -3764,6 +3770,7 @@
 <categoryId>26128749</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmMvYjkv0KYtMDAwMDgzOTg2XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTIvZTUv0KYtMDAwMDgzOTg2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDEvOWIv0KYtMDAwMDgzOTg2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000083986</vendorCode>
 <code>791917</code>
@@ -3781,6 +3788,7 @@
 <categoryId>26128749</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDUvYTUv0KYtMDAwMDgzOTg2XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTIvZTUv0KYtMDAwMDgzOTg2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDEvOWIv0KYtMDAwMDgzOTg2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000083986</vendorCode>
 <code>791432</code>
@@ -3798,6 +3806,7 @@
 <categoryId>26128749</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDIvNTIv0KYtMDAwMDgzOTg2XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTIvZTUv0KYtMDAwMDgzOTg2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDEvOWIv0KYtMDAwMDgzOTg2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000083986</vendorCode>
 <code>791430</code>
@@ -6182,6 +6191,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODQvYzgv0KYtMDAwMDgxMzcyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjUvZTIv0KYtMDAwMDgxMzcyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000081372</vendorCode>
 <code>786909</code>
@@ -6230,6 +6240,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjkvYzMv0KYtMDAwMDgxMzY2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzkvNzgv0KYtMDAwMDgxMzY2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000081366</vendorCode>
 <code>786903</code>
@@ -6246,6 +6257,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzkvZmMv0KYtMDAwMDgxMzY3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWEvNTIv0KYtMDAwMDgxMzY3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000081367</vendorCode>
 <code>786904</code>
@@ -6262,6 +6274,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWIvNGQv0KYtMDAwMDgxMzY4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTkvNGMv0KYtMDAwMDgxMzY4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000081368</vendorCode>
 <code>786905</code>
@@ -6278,6 +6291,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDMvZDgv0KYtMDAwMDgxMzY5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjcvOTYv0KYtMDAwMDgxMzY5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000081369</vendorCode>
 <code>786906</code>
@@ -6294,6 +6308,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjUvOWYv0KYtMDAwMDgxMzcwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzMvNzQv0KYtMDAwMDgxMzcwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000081370</vendorCode>
 <code>786907</code>
@@ -6310,6 +6325,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzAvMWQv0KYtMDAwMDgxMzcxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2IvMzUv0KYtMDAwMDgxMzcxXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000081371</vendorCode>
 <code>786908</code>
@@ -6493,8 +6509,8 @@
 <rrcdoll>5.57</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTIvMzAv0KYtMDAwMDgyNjM2XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWEvYmYv0KYtMDAwMDgyNjM2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTEvOTUv0KYtMDAwMDgyNjM2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000082636</vendorCode>
 <code>790096</code>
@@ -6510,8 +6526,8 @@
 <rrcdoll>5.57</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGYvNjUv0KYtMDAwMDgyNjM2XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWEvYmYv0KYtMDAwMDgyNjM2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTEvOTUv0KYtMDAwMDgyNjM2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000082636</vendorCode>
 <code>790093</code>
@@ -6527,8 +6543,8 @@
 <rrcdoll>5.57</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmIvYmQv0KYtMDAwMDgyNjM2XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWEvYmYv0KYtMDAwMDgyNjM2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTEvOTUv0KYtMDAwMDgyNjM2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000082636</vendorCode>
 <code>790097</code>
@@ -6544,8 +6560,8 @@
 <rrcdoll>5.57</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTcvMjQv0KYtMDAwMDgyNjM2XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWEvYmYv0KYtMDAwMDgyNjM2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTEvOTUv0KYtMDAwMDgyNjM2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000082636</vendorCode>
 <code>790094</code>
@@ -6561,8 +6577,8 @@
 <rrcdoll>5.57</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODMvYjgv0KYtMDAwMDgyNjM2XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWEvYmYv0KYtMDAwMDgyNjM2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTEvOTUv0KYtMDAwMDgyNjM2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000082636</vendorCode>
 <code>790095</code>
@@ -6578,14 +6594,9 @@
 <rrcdoll>4.45</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2QvMzEv0KYtMDAwMDgyNjM1XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGEvMjQv0KYtMDAwMDgyNjM1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDYvNWUv0KYtMDAwMDgyNjM1XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWMvMDEv0KYtMDAwMDgyNjM1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTgvZjUv0KYtMDAwMDgyNjM1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTIvNjMv0KYtMDAwMDgyNjM1XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2QvMzEv0KYtMDAwMDgyNjM1XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzMvNDIv0KYtMDAwMDgyNjM1XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTMvODIv0KYtMDAwMDgyNjM1XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000082635</vendorCode>
 <code>790101</code>
@@ -6601,14 +6612,9 @@
 <rrcdoll>4.45</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTIvNjMv0KYtMDAwMDgyNjM1XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGEvMjQv0KYtMDAwMDgyNjM1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDYvNWUv0KYtMDAwMDgyNjM1XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWMvMDEv0KYtMDAwMDgyNjM1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTgvZjUv0KYtMDAwMDgyNjM1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTIvNjMv0KYtMDAwMDgyNjM1XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2QvMzEv0KYtMDAwMDgyNjM1XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzMvNDIv0KYtMDAwMDgyNjM1XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTMvODIv0KYtMDAwMDgyNjM1XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000082635</vendorCode>
 <code>790099</code>
@@ -6624,14 +6630,9 @@
 <rrcdoll>4.45</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTMvODIv0KYtMDAwMDgyNjM1XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGEvMjQv0KYtMDAwMDgyNjM1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDYvNWUv0KYtMDAwMDgyNjM1XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWMvMDEv0KYtMDAwMDgyNjM1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTgvZjUv0KYtMDAwMDgyNjM1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTIvNjMv0KYtMDAwMDgyNjM1XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2QvMzEv0KYtMDAwMDgyNjM1XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzMvNDIv0KYtMDAwMDgyNjM1XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTMvODIv0KYtMDAwMDgyNjM1XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000082635</vendorCode>
 <code>790103</code>
@@ -6647,14 +6648,14 @@
 <rrcdoll>4.45</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzMvNDIv0KYtMDAwMDgyNjM1XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGEvMjQv0KYtMDAwMDgyNjM1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDYvNWUv0KYtMDAwMDgyNjM1XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWMvMDEv0KYtMDAwMDgyNjM1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTgvZjUv0KYtMDAwMDgyNjM1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTIvNjMv0KYtMDAwMDgyNjM1XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2QvMzEv0KYtMDAwMDgyNjM1XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzMvNDIv0KYtMDAwMDgyNjM1XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTMvODIv0KYtMDAwMDgyNjM1XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDYvNWUv0KYtMDAwMDgyNjM1XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000082635</vendorCode>
 <code>790105</code>
@@ -6670,14 +6671,9 @@
 <rrcdoll>4.45</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTgvZjUv0KYtMDAwMDgyNjM1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGEvMjQv0KYtMDAwMDgyNjM1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDYvNWUv0KYtMDAwMDgyNjM1XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWMvMDEv0KYtMDAwMDgyNjM1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTgvZjUv0KYtMDAwMDgyNjM1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTIvNjMv0KYtMDAwMDgyNjM1XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2QvMzEv0KYtMDAwMDgyNjM1XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzMvNDIv0KYtMDAwMDgyNjM1XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTMvODIv0KYtMDAwMDgyNjM1XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000082635</vendorCode>
 <code>790104</code>
@@ -6693,14 +6689,9 @@
 <rrcdoll>4.45</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWMvMDEv0KYtMDAwMDgyNjM1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGEvMjQv0KYtMDAwMDgyNjM1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDYvNWUv0KYtMDAwMDgyNjM1XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWMvMDEv0KYtMDAwMDgyNjM1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTgvZjUv0KYtMDAwMDgyNjM1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTIvNjMv0KYtMDAwMDgyNjM1XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2QvMzEv0KYtMDAwMDgyNjM1XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzMvNDIv0KYtMDAwMDgyNjM1XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTMvODIv0KYtMDAwMDgyNjM1XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000082635</vendorCode>
 <code>790102</code>
@@ -6717,7 +6708,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjQvZDAv0KYtMDAwMDgzOTgyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTgvY2Yv0KYtMDAwMDgzOTgyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTUvN2Ev0KYtMDAwMDgzOTgyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000083982</vendorCode>
 <code>791411</code>
@@ -6734,7 +6725,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzMvOWYv0KYtMDAwMDgzOTgyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTgvY2Yv0KYtMDAwMDgzOTgyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTUvN2Ev0KYtMDAwMDgzOTgyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000083982</vendorCode>
 <code>791410</code>
@@ -6751,7 +6742,6 @@
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDAvMGIv0KYtMDAwMDcwODc2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjkvN2Iv0KYtMDAwMDcwODc2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2UvYzEv0KYtMDAwMDcwODc2XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000070876</vendorCode>
@@ -6769,6 +6759,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmIvZDEv0KYtMDAwMDgzOTgwXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWEvNTUv0KYtMDAwMDgzOTgwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjkvZGEv0KYtMDAwMDgzOTgwXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000083980</vendorCode>
@@ -6786,6 +6777,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzMvNGYv0KYtMDAwMDgzOTgwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWEvNTUv0KYtMDAwMDgzOTgwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjkvZGEv0KYtMDAwMDgzOTgwXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000083980</vendorCode>
@@ -6802,7 +6794,8 @@
 <rrcdoll>3.34</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjIvNTIv0KYtMDAwMDgzOTg1XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTUvNDUv0KYtMDAwMDgzOTg1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmIvZTAv0KYtMDAwMDgzOTg1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000083985</vendorCode>
 <code>791423</code>
@@ -6819,6 +6812,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTMvMTIv0KYtMDAwMDgzOTg1XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmIvZTAv0KYtMDAwMDgzOTg1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000083985</vendorCode>
 <code>791427</code>
@@ -6835,6 +6829,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODMvOGEv0KYtMDAwMDgzOTg1XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmIvZTAv0KYtMDAwMDgzOTg1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000083985</vendorCode>
 <code>791426</code>
@@ -6851,6 +6846,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGEvYTAv0KYtMDAwMDgzOTg1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmIvZTAv0KYtMDAwMDgzOTg1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000083985</vendorCode>
 <code>791425</code>
@@ -6867,6 +6863,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>26128749</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjMvMDAv0KYtMDAwMDgzOTg1XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmIvZTAv0KYtMDAwMDgzOTg1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000083985</vendorCode>
 <code>791424</code>
@@ -7320,7 +7317,7 @@
 <vendorpricedoll>0.58</vendorpricedoll>
 <rrcdoll>1.11</rrcdoll>
 <currencyId>UAH</currencyId>
-<categoryId>28459303</categoryId>
+<categoryId>26128749</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDIvZmMv0KYtMDAwMDc3MTk5XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000077199</vendorCode>
@@ -12385,13 +12382,8 @@
 <rrcdoll>4.19</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>70706401</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTUvYWMv0KYtMDAwMDgxNDMwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzUvZDgv0KYtMDAwMDgxNDMwXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzQvZjAv0KYtMDAwMDgxNDMwXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzYvZjMv0KYtMDAwMDgxNDMwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDIvNTMv0KYtMDAwMDgxNDMwXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWMvMWYv0KYtMDAwMDgxNDMwXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGUvZWIv0KYtMDAwMDgxNDMwXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGYvMDAv0KYtMDAwMDgxNDMwXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Apple HQ</vendor>
 <vendorCode>Ц-000081430</vendorCode>
 <code>793346</code>
@@ -12432,16 +12424,8 @@
 <rrcdoll>4.19</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>65522936</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDIvMGYv0KYtMDAwMDgxNDMyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDAvYTQv0KYtMDAwMDgxNDMyXzEyLmpwZzoxMDAwOjEwMDA=.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2UvYzIv0KYtMDAwMDgxNDMyXzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmEvZTkv0KYtMDAwMDgxNDMyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmIvZGQv0KYtMDAwMDgxNDMyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjcvM2Qv0KYtMDAwMDgxNDMyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTAvNjEv0KYtMDAwMDgxNDMyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODMvZDAv0KYtMDAwMDgxNDMyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWIvNjcv0KYtMDAwMDgxNDMyXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWQvYTMv0KYtMDAwMDgxNDMyXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGYvOTkv0KYtMDAwMDgxNDMyXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Apple HQ</vendor>
 <vendorCode>Ц-000081432</vendorCode>
 <code>793347</code>
@@ -12629,16 +12613,8 @@
 <rrcdoll>4.19</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>65522936</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzAvYWYv0KYtMDAwMDgxNDM5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWIvNTYv0KYtMDAwMDgxNDM5XzEyLmpwZzoxMDAwOjEwMDA=.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWMvMzkv0KYtMDAwMDgxNDM5XzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmYvNGUv0KYtMDAwMDgxNDM5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTYvMzkv0KYtMDAwMDgxNDM5XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODkvNTAv0KYtMDAwMDgxNDM5XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWEvMDEv0KYtMDAwMDgxNDM5XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTUvNjMv0KYtMDAwMDgxNDM5XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmMvNmMv0KYtMDAwMDgxNDM5XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjUvZTkv0KYtMDAwMDgxNDM5XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmEvOTMv0KYtMDAwMDgxNDM5XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Apple HQ</vendor>
 <vendorCode>Ц-000081439</vendorCode>
 <code>792534</code>
@@ -12742,16 +12718,8 @@
 <rrcdoll>4.19</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>16203878</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmYvOTUv0KYtMDAwMDgxNDM0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGIvMWMv0KYtMDAwMDgxNDM0XzEyLmpwZzoxMDAwOjEwMDA=.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTAvNjQv0KYtMDAwMDgxNDM0XzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDgvNzQv0KYtMDAwMDgxNDM0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2IvZmEv0KYtMDAwMDgxNDM0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWQvNTcv0KYtMDAwMDgxNDM0XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODQvNzcv0KYtMDAwMDgxNDM0XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGMvZmQv0KYtMDAwMDgxNDM0XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmIvOGEv0KYtMDAwMDgxNDM0XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGYvMDMv0KYtMDAwMDgxNDM0XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGUvNGUv0KYtMDAwMDgxNDM0XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Apple HQ</vendor>
 <vendorCode>Ц-000081434</vendorCode>
 <code>793349</code>
@@ -12897,13 +12865,8 @@
 <rrcdoll>4.19</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>16203878</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWYvZjIv0KYtMDAwMDgxNDMzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzEvMTIv0KYtMDAwMDgxNDMzXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzQvYjYv0KYtMDAwMDgxNDMzXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGYvNzIv0KYtMDAwMDgxNDMzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTQvMzIv0KYtMDAwMDgxNDMzXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWYvNzYv0KYtMDAwMDgxNDMzXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWEvYzkv0KYtMDAwMDgxNDMzXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjIvNGUv0KYtMDAwMDgxNDMzXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Apple HQ</vendor>
 <vendorCode>Ц-000081433</vendorCode>
 <code>793348</code>
@@ -12944,16 +12907,8 @@
 <rrcdoll>4.19</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>60652165</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmQvYTUv0KYtMDAwMDgxNDM4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTQvNzQv0KYtMDAwMDgxNDM4XzEzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWMvNjUv0KYtMDAwMDgxNDM4XzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTUvYWMv0KYtMDAwMDgxNDM4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDAvMzMv0KYtMDAwMDgxNDM4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzgvYjAv0KYtMDAwMDgxNDM4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGMvOWQv0KYtMDAwMDgxNDM4XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmIvMDYv0KYtMDAwMDgxNDM4XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDkvN2Qv0KYtMDAwMDgxNDM4XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTkvMzIv0KYtMDAwMDgxNDM4XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjMvZGYv0KYtMDAwMDgxNDM4XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Apple HQ</vendor>
 <vendorCode>Ц-000081438</vendorCode>
 <code>793350</code>
@@ -13086,6 +13041,7 @@
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2MvMzkv0KYtMDAwMDgyNTAyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2EvMzAv0KYtMDAwMDgyNTAyXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjAvYzEv0KYtMDAwMDgyNTAyXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTcvYmYv0KYtMDAwMDgyNTAyXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Apple HQ</vendor>
 <vendorCode>Ц-000082502</vendorCode>
 <code>793352</code>
@@ -13113,6 +13069,7 @@
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2MvMzkv0KYtMDAwMDgyNTAyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2EvMzAv0KYtMDAwMDgyNTAyXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjAvYzEv0KYtMDAwMDgyNTAyXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTcvYmYv0KYtMDAwMDgyNTAyXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Apple HQ</vendor>
 <vendorCode>Ц-000082502</vendorCode>
 <code>789730</code>
@@ -13161,6 +13118,7 @@
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2MvMzkv0KYtMDAwMDgyNTAyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2EvMzAv0KYtMDAwMDgyNTAyXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjAvYzEv0KYtMDAwMDgyNTAyXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTcvYmYv0KYtMDAwMDgyNTAyXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Apple HQ</vendor>
 <vendorCode>Ц-000082502</vendorCode>
 <code>789729</code>
@@ -13210,6 +13168,7 @@
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmMvZDMv0KYtMDAwMDgyNTA0XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTMvMmMv0KYtMDAwMDgyNTA0XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjUvM2Iv0KYtMDAwMDgyNTA0XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzIvNGIv0KYtMDAwMDgyNTA0XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
 <vendor>Apple HQ</vendor>
 <vendorCode>Ц-000082504</vendorCode>
 <code>792537</code>
@@ -13259,6 +13218,7 @@
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmMvZDMv0KYtMDAwMDgyNTA0XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTMvMmMv0KYtMDAwMDgyNTA0XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjUvM2Iv0KYtMDAwMDgyNTA0XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzIvNGIv0KYtMDAwMDgyNTA0XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
 <vendor>Apple HQ</vendor>
 <vendorCode>Ц-000082504</vendorCode>
 <code>789724</code>
@@ -13323,6 +13283,7 @@
 <categoryId>54622491</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTMvMWQv0KYtMDAwMDgyMTk1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjkvMDEv0KYtMDAwMDgyMTk1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzYvZjYv0KYtMDAwMDgyMTk1XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Polo</vendor>
 <vendorCode>Ц-000082195</vendorCode>
 <code>788184</code>
@@ -65766,16 +65727,8 @@
 <rrcdoll>4.19</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>36174719</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTcvMTYv0KYtMDAwMDgxNDI4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTYvOWMv0KYtMDAwMDgxNDI4XzEyLmpwZzoxMDAwOjEwMDA=.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTQvOWIv0KYtMDAwMDgxNDI4XzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTYvNmEv0KYtMDAwMDgxNDI4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGIvMmQv0KYtMDAwMDgxNDI4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2MvMDYv0KYtMDAwMDgxNDI4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGMvMzMv0KYtMDAwMDgxNDI4XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGMvZjQv0KYtMDAwMDgxNDI4XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2IvYTAv0KYtMDAwMDgxNDI4XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWYvNTgv0KYtMDAwMDgxNDI4XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODgvZDUv0KYtMDAwMDgxNDI4XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Apple HQ</vendor>
 <vendorCode>Ц-000081428</vendorCode>
 <code>792532</code>
@@ -65921,16 +65874,8 @@
 <rrcdoll>4.19</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>65522936</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDgvYzkv0KYtMDAwMDgxNDMxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2YvNDAv0KYtMDAwMDgxNDMxXzEyLmpwZzoxMDAwOjEwMDA=.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjEvYzcv0KYtMDAwMDgxNDMxXzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGIvNjEv0KYtMDAwMDgxNDMxXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjEvYmQv0KYtMDAwMDgxNDMxXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTcvYmYv0KYtMDAwMDgxNDMxXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTUvNjMv0KYtMDAwMDgxNDMxXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDEvNDQv0KYtMDAwMDgxNDMxXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjEvYmEv0KYtMDAwMDgxNDMxXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODMvZmUv0KYtMDAwMDgxNDMxXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjIvMWMv0KYtMDAwMDgxNDMxXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Apple HQ</vendor>
 <vendorCode>Ц-000081431</vendorCode>
 <code>792533</code>
@@ -66034,16 +65979,10 @@
 <rrcdoll>4.19</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>16203878</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTUvNzEv0KYtMDAwMDgxNDM1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjkvYzUv0KYtMDAwMDgxNDM1XzE0LmpwZzoxMDAwOjEwMDA=.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTcvMWYv0KYtMDAwMDgxNDM1XzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGUvMmIv0KYtMDAwMDgxNDM1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDIvNWYv0KYtMDAwMDgxNDM1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWIvNjkv0KYtMDAwMDgxNDM1XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjIvMDAv0KYtMDAwMDgxNDM1XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjEvZmEv0KYtMDAwMDgxNDM1XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmEvOTgv0KYtMDAwMDgxNDM1XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2MvNDMv0KYtMDAwMDgxNDM1XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmQvODcv0KYtMDAwMDgxNDM1XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTkvYmMv0KYtMDAwMDgxNDM1XzEzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWEvNmQv0KYtMDAwMDgxNDM1XzE1LmpwZzoxMDAwOjEwMDA=.jpg</picture>
 <vendor>Apple HQ</vendor>
 <vendorCode>Ц-000081435</vendorCode>
 <code>792535</code>
@@ -66065,6 +66004,8 @@
 <categoryId>16203878</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmQvODcv0KYtMDAwMDgxNDM1XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTcvMWYv0KYtMDAwMDgxNDM1XzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTkvYmMv0KYtMDAwMDgxNDM1XzEzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWEvNmQv0KYtMDAwMDgxNDM1XzE1LmpwZzoxMDAwOjEwMDA=.jpg</picture>
 <vendor>Apple HQ</vendor>
 <vendorCode>Ц-000081435</vendorCode>
 <code>787077</code>
@@ -66086,6 +66027,8 @@
 <categoryId>16203878</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjAvOWMv0KYtMDAwMDgxNDM1XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTcvMWYv0KYtMDAwMDgxNDM1XzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTkvYmMv0KYtMDAwMDgxNDM1XzEzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWEvNmQv0KYtMDAwMDgxNDM1XzE1LmpwZzoxMDAwOjEwMDA=.jpg</picture>
 <vendor>Apple HQ</vendor>
 <vendorCode>Ц-000081435</vendorCode>
 <code>787078</code>
@@ -66105,8 +66048,10 @@
 <rrcdoll>4.19</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>16203878</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTkvYmMv0KYtMDAwMDgxNDM1XzEzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmYvZmMv0KYtMDAwMDgxNDM1XzEyLmpwZzoxMDAwOjEwMDA=.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTcvMWYv0KYtMDAwMDgxNDM1XzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTkvYmMv0KYtMDAwMDgxNDM1XzEzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWEvNmQv0KYtMDAwMDgxNDM1XzE1LmpwZzoxMDAwOjEwMDA=.jpg</picture>
 <vendor>Apple HQ</vendor>
 <vendorCode>Ц-000081435</vendorCode>
 <code>792536</code>
@@ -66128,6 +66073,8 @@
 <categoryId>16203878</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGUvMmIv0KYtMDAwMDgxNDM1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTcvMWYv0KYtMDAwMDgxNDM1XzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTkvYmMv0KYtMDAwMDgxNDM1XzEzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWEvNmQv0KYtMDAwMDgxNDM1XzE1LmpwZzoxMDAwOjEwMDA=.jpg</picture>
 <vendor>Apple HQ</vendor>
 <vendorCode>Ц-000081435</vendorCode>
 <code>787079</code>
@@ -66470,6 +66417,7 @@
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDMvY2Mv0KYtMDAwMDgyNTA1XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTUvNjYv0KYtMDAwMDgyNTA1XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmQvYzEv0KYtMDAwMDgyNTA1XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTYvODEv0KYtMDAwMDgyNTA1XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Apple HQ</vendor>
 <vendorCode>Ц-000082505</vendorCode>
 <code>789725</code>
@@ -66539,6 +66487,7 @@
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDMvY2Mv0KYtMDAwMDgyNTA1XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTUvNjYv0KYtMDAwMDgyNTA1XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmQvYzEv0KYtMDAwMDgyNTA1XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTYvODEv0KYtMDAwMDgyNTA1XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Apple HQ</vendor>
 <vendorCode>Ц-000082505</vendorCode>
 <code>789726</code>
@@ -66608,6 +66557,7 @@
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODMvNDYv0KYtMDAwMDgyNTAzXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGMvNjgv0KYtMDAwMDgyNTAzXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2MvNmIv0KYtMDAwMDgyNTAzXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWYvMDAv0KYtMDAwMDgyNTAzXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Apple HQ</vendor>
 <vendorCode>Ц-000082503</vendorCode>
 <code>789727</code>
@@ -66635,6 +66585,7 @@
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODMvNDYv0KYtMDAwMDgyNTAzXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGMvNjgv0KYtMDAwMDgyNTAzXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2MvNmIv0KYtMDAwMDgyNTAzXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWYvMDAv0KYtMDAwMDgyNTAzXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Apple HQ</vendor>
 <vendorCode>Ц-000082503</vendorCode>
 <code>792538</code>
@@ -66683,6 +66634,7 @@
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODMvNDYv0KYtMDAwMDgyNTAzXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGMvNjgv0KYtMDAwMDgyNTAzXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2MvNmIv0KYtMDAwMDgyNTAzXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWYvMDAv0KYtMDAwMDgyNTAzXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Apple HQ</vendor>
 <vendorCode>Ц-000082503</vendorCode>
 <code>789728</code>
@@ -76295,6 +76247,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>32288668</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmIvMDYv0KYtMDAwMDgwNjg3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmMvY2Iv0KYtMDAwMDgwNjg3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000080687</vendorCode>
 <code>785750</code>
@@ -76315,6 +76268,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>7649743</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjIvNjIv0KYtMDAwMDgwNjg1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDIvZDUv0KYtMDAwMDgwNjg1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000080685</vendorCode>
 <code>785748</code>
@@ -76335,6 +76289,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>7649743</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjcvYjkv0KYtMDAwMDgwNjg2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjYvOTgv0KYtMDAwMDgwNjg2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000080686</vendorCode>
 <code>785749</code>
@@ -76354,6 +76309,7 @@
 <rrcdoll>0.75</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>61954391</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGQvN2Mv0KYtMDAwMDgwNjk2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjgvZTQv0KYtMDAwMDgwNjk2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000080696</vendorCode>
@@ -76374,6 +76330,7 @@
 <rrcdoll>0.75</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>61954391</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmMvZTAv0KYtMDAwMDgwNjk2XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjgvZTQv0KYtMDAwMDgwNjk2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000080696</vendorCode>
@@ -76394,6 +76351,7 @@
 <rrcdoll>0.75</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>61954391</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2MvYWYv0KYtMDAwMDgwNjk2XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjgvZTQv0KYtMDAwMDgwNjk2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000080696</vendorCode>
@@ -76414,6 +76372,7 @@
 <rrcdoll>0.75</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>61954391</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmQvOTUv0KYtMDAwMDgwNjk1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmQvODMv0KYtMDAwMDgwNjk1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000080695</vendorCode>
@@ -76434,6 +76393,7 @@
 <rrcdoll>0.75</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>61954391</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDIvNzkv0KYtMDAwMDgwNjk1XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmQvODMv0KYtMDAwMDgwNjk1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000080695</vendorCode>
@@ -76454,6 +76414,7 @@
 <rrcdoll>0.75</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>61954391</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTUvOGQv0KYtMDAwMDgwNjk1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmQvODMv0KYtMDAwMDgwNjk1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000080695</vendorCode>
@@ -76474,6 +76435,7 @@
 <rrcdoll>0.75</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>61954391</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWQvYjgv0KYtMDAwMDgwNjk3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTQvNTcv0KYtMDAwMDgwNjk3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000080697</vendorCode>
@@ -76494,6 +76456,7 @@
 <rrcdoll>0.75</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>61954391</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzMvMDMv0KYtMDAwMDgwNjk3XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTQvNTcv0KYtMDAwMDgwNjk3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000080697</vendorCode>
@@ -76514,6 +76477,7 @@
 <rrcdoll>0.75</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>61954391</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDUvMTYv0KYtMDAwMDgwNjk3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTQvNTcv0KYtMDAwMDgwNjk3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000080697</vendorCode>
@@ -76534,6 +76498,7 @@
 <rrcdoll>0.75</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>71957840</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDcvNjAv0KYtMDAwMDgwNjk4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTEvNWQv0KYtMDAwMDgwNjk4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000080698</vendorCode>
@@ -76554,6 +76519,7 @@
 <rrcdoll>0.75</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>71957840</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDMvNTcv0KYtMDAwMDgwNjk4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTEvNWQv0KYtMDAwMDgwNjk4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000080698</vendorCode>
@@ -76574,6 +76540,7 @@
 <rrcdoll>0.75</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>71957840</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjgvYzMv0KYtMDAwMDgwNjk4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTEvNWQv0KYtMDAwMDgwNjk4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000080698</vendorCode>
@@ -76594,6 +76561,7 @@
 <rrcdoll>0.75</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>71957840</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjMvNGQv0KYtMDAwMDgwNzAwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzAvOTAv0KYtMDAwMDgwNzAwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000080700</vendorCode>
@@ -76614,6 +76582,7 @@
 <rrcdoll>0.75</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>71957840</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjAvYmIv0KYtMDAwMDgwNzAwXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzAvOTAv0KYtMDAwMDgwNzAwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000080700</vendorCode>
@@ -76634,6 +76603,7 @@
 <rrcdoll>0.75</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>71957840</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDAvMTIv0KYtMDAwMDgwNzAwXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzAvOTAv0KYtMDAwMDgwNzAwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000080700</vendorCode>
@@ -76654,6 +76624,7 @@
 <rrcdoll>0.75</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>71957840</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjMvZTcv0KYtMDAwMDgwNjk5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2IvYjMv0KYtMDAwMDgwNjk5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000080699</vendorCode>
@@ -76674,6 +76645,7 @@
 <rrcdoll>0.75</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>71957840</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTAvY2Uv0KYtMDAwMDgwNjk5XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2IvYjMv0KYtMDAwMDgwNjk5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000080699</vendorCode>
@@ -76694,6 +76666,7 @@
 <rrcdoll>0.75</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>71957840</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDEvY2Ev0KYtMDAwMDgwNjk5XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2IvYjMv0KYtMDAwMDgwNjk5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000080699</vendorCode>
@@ -76714,6 +76687,7 @@
 <rrcdoll>0.75</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>71957840</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjgvMDkv0KYtMDAwMDgwNzAxXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTAvY2Qv0KYtMDAwMDgwNzAxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000080701</vendorCode>
@@ -76734,6 +76708,7 @@
 <rrcdoll>0.75</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>71957840</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTAvM2Qv0KYtMDAwMDgwNzAxXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTAvY2Qv0KYtMDAwMDgwNzAxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000080701</vendorCode>
@@ -76754,6 +76729,7 @@
 <rrcdoll>0.75</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>71957840</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDgvZWEv0KYtMDAwMDgwNzAxXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTAvY2Qv0KYtMDAwMDgwNzAxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000080701</vendorCode>
@@ -76774,6 +76750,7 @@
 <rrcdoll>0.75</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>90750134</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGQvODAv0KYtMDAwMDgwNjg4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGUvYTcv0KYtMDAwMDgwNjg4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000080688</vendorCode>
@@ -76794,6 +76771,7 @@
 <rrcdoll>0.75</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>90750134</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjEvYjUv0KYtMDAwMDgwNjg4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGUvYTcv0KYtMDAwMDgwNjg4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000080688</vendorCode>
@@ -76814,6 +76792,7 @@
 <rrcdoll>0.75</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>90750134</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmMvYmMv0KYtMDAwMDgwNjg4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGUvYTcv0KYtMDAwMDgwNjg4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000080688</vendorCode>
@@ -76834,6 +76813,7 @@
 <rrcdoll>0.75</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>90750134</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWMvMjgv0KYtMDAwMDgwNjg5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTkvNjgv0KYtMDAwMDgwNjg5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000080689</vendorCode>
@@ -76854,6 +76834,7 @@
 <rrcdoll>0.75</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>90750134</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDkvYmMv0KYtMDAwMDgwNjg5XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTkvNjgv0KYtMDAwMDgwNjg5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000080689</vendorCode>
@@ -76874,6 +76855,7 @@
 <rrcdoll>0.75</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>90750134</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzUvMTcv0KYtMDAwMDgwNjg5XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTkvNjgv0KYtMDAwMDgwNjg5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000080689</vendorCode>
@@ -76894,6 +76876,7 @@
 <rrcdoll>0.75</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>90750134</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmUvOGUv0KYtMDAwMDgwNjkwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjMvMGYv0KYtMDAwMDgwNjkwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000080690</vendorCode>
@@ -76914,6 +76897,7 @@
 <rrcdoll>0.75</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>90750134</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDcvOGYv0KYtMDAwMDgwNjkwXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjMvMGYv0KYtMDAwMDgwNjkwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000080690</vendorCode>
@@ -76934,6 +76918,7 @@
 <rrcdoll>0.75</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>90750134</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODgvNWUv0KYtMDAwMDgwNjkwXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjMvMGYv0KYtMDAwMDgwNjkwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000080690</vendorCode>
@@ -76954,6 +76939,7 @@
 <rrcdoll>0.75</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>90750134</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGIvM2Ev0KYtMDAwMDgwNjkxXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzcvNWIv0KYtMDAwMDgwNjkxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000080691</vendorCode>
@@ -76974,6 +76960,7 @@
 <rrcdoll>0.75</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>90750134</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWEvODEv0KYtMDAwMDgwNjkxXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzcvNWIv0KYtMDAwMDgwNjkxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000080691</vendorCode>
@@ -76994,6 +76981,7 @@
 <rrcdoll>0.75</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>90750134</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmQvN2Mv0KYtMDAwMDgwNjkxXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzcvNWIv0KYtMDAwMDgwNjkxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000080691</vendorCode>
@@ -77014,6 +77002,7 @@
 <rrcdoll>0.75</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>47510345</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmYvMjgv0KYtMDAwMDgwNjkzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjIvYTgv0KYtMDAwMDgwNjkzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000080693</vendorCode>
@@ -77034,6 +77023,7 @@
 <rrcdoll>0.75</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>47510345</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWIvNDYv0KYtMDAwMDgwNjkzXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjIvYTgv0KYtMDAwMDgwNjkzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000080693</vendorCode>
@@ -77054,6 +77044,7 @@
 <rrcdoll>0.75</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>47510345</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTgvNjUv0KYtMDAwMDgwNjkyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTgvYzQv0KYtMDAwMDgwNjkyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000080692</vendorCode>
@@ -77074,6 +77065,7 @@
 <rrcdoll>0.75</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>47510345</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWEvMDUv0KYtMDAwMDgwNjkyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTgvYzQv0KYtMDAwMDgwNjkyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000080692</vendorCode>
@@ -95228,6 +95220,8 @@
 <currencyId>UAH</currencyId>
 <categoryId>2209499</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzcvMzMv0KYtMDAwMDc3MzQwXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2UvYmEv0KYtMDAwMDc3MzQwXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDkvMTEv0KYtMDAwMDc3MzQwXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDcvNmIv0KYtMDAwMDc3MzQwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzIvMjkv0KYtMDAwMDc3MzQwXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
@@ -98015,7 +98009,7 @@
 <name>Захисне скло Remax HD Tempered Glass GL-27 iPhone 17 Pro Max/18 Pro Max 6.9&quot;</name>
 <quantity_in_stock>10</quantity_in_stock>
 <param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro Max</param>
+<param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
 <param name="Бренд">Remax</param>
 <param name="Виды защиты экрана">Захисне скло</param>
 <param name="Вид покрытия">Прозрачное стекло</param>
@@ -98038,7 +98032,7 @@
 <name>Захисне скло Remax HD Tempered Glass GL-27 iPhone 17 Pro/18 Pro 6.3&quot;</name>
 <quantity_in_stock>1</quantity_in_stock>
 <param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro</param>
+<param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
 <param name="Бренд">Remax</param>
 <param name="Виды защиты экрана">Захисне скло</param>
 <param name="Вид покрытия">Прозрачное стекло</param>
@@ -104988,6 +104982,7 @@
 <vendorCode>Ц-000083678</vendorCode>
 <code>790987</code>
 <name>Power Bank 12000 mAh | 65W — WiWU T132 — White</name>
+<description><![CDATA[WiWU Power Plus T132 — компактний та потужний повербанк ємністю 12000 мАг із підтримкою швидкої зарядки Power Delivery до 65 Вт. Підходить для заряджання смартфонів, планшетів, ноутбуків та іншої портативної техніки. Вбудований кабель USB-C підтримує потужність до 65 Вт та одночасно слугує зручним ремінцем для перенесення. Додатковий USB-A забезпечує швидку зарядку до 22.5 Вт, а цифровий LED-дисплей дозволяє контролювати залишок заряду. Основні характеристики: ємність — 12000 мАг / 44.4 Wh; потужність USB-C — до 65 Вт; USB-A — до 22.5 Вт; вбудований кабель USB-C 65W; двостороння швидка зарядка PD; цифровий LED-дисплей; компактний корпус; підходить для перевезення в ручній поклажі.]]></description>
 <quantity_in_stock>15</quantity_in_stock>
 <param name="Бренд">Wiwu</param>
 <param name="Виды аккумуляторов">Power Bank</param>
@@ -105245,6 +105240,7 @@
 <vendorCode>Ц-000083680</vendorCode>
 <code>790989</code>
 <name>Power Bank 20000 mAh | 130W — WiWU PM301</name>
+<description><![CDATA[WiWU Power Mega PM301 — потужний повербанк ємністю 20000 мАг для швидкого заряджання смартфонів, планшетів, ноутбуків та іншої техніки. Загальна вихідна потужність досягає 130 Вт, що дозволяє одночасно заряджати кілька пристроїв. Вбудований кабель USB-C підтримує швидку зарядку до 100 Вт, а кольоровий TFT-дисплей відображає основні параметри роботи та залишок заряду. Основні характеристики: ємність — 20000 мАг / 72 Wh; загальна потужність — до 130 Вт; USB-C — до 100 Вт; вбудований кабель USB-C — до 100 Вт; USB-A — до 22.5 Вт; одночасне заряджання кількох пристроїв; кольоровий TFT-дисплей; підтримка Power Delivery;]]></description>
 <quantity_in_stock>14</quantity_in_stock>
 <param name="Бренд">Wiwu</param>
 <param name="Виды аккумуляторов">Power Bank</param>
@@ -116371,7 +116367,9 @@
 <rrcdoll>5.57</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>30757861</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjEvZGQv0KYtMDAwMDgwNzkxXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTIvNGYv0KYtMDAwMDgwNzkxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTAvYTMv0KYtMDAwMDgwNzkxXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000080791</vendorCode>
 <code>785990</code>
@@ -116388,6 +116386,7 @@
 <rrcdoll>5.57</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>30757861</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWMvNjgv0KYtMDAwMDgwNzkyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTQvMGQv0KYtMDAwMDgwNzkyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
 <vendorCode>Ц-000080792</vendorCode>
@@ -123603,7 +123602,7 @@
 <vendorpricedoll>0.84</vendorpricedoll>
 <rrcdoll>1.43</rrcdoll>
 <currencyId>UAH</currencyId>
-<categoryId>17121484</categoryId>
+<categoryId>30757861</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTYvNmIv0KYtMDAwMDAyMDM4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGMvYmUv0KYtMDAwMDAyMDM4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Различные</vendor>
@@ -133722,8 +133721,8 @@
 <currencyId>UAH</currencyId>
 <categoryId>94103709</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjIvZTcv0KYtMDAwMDc3Mzk0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTIvZDUv0KYtMDAwMDc3Mzk0XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTYvZmEv0KYtMDAwMDc3Mzk0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTIvZDUv0KYtMDAwMDc3Mzk0XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTIvMzAv0KYtMDAwMDc3Mzk0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Hoco</vendor>
 <vendorCode>Ц-000077394</vendorCode>
@@ -140869,16 +140868,14 @@
 <rrcdoll>24.5</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>57809396</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjMvMTIv0KYtMDAwMDgzNDQ2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODkvZmUv0KYtMDAwMDgzNDQ2XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmYvODkv0KYtMDAwMDgzNDQ2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTAvYTMv0KYtMDAwMDgzNDQ2XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWMvMDAv0KYtMDAwMDgzNDQ2XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDcvOGIv0KYtMDAwMDgzNDQ2XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODkvZmUv0KYtMDAwMDgzNDQ2XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTAvYTMv0KYtMDAwMDgzNDQ2XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmMvNGMv0KYtMDAwMDgzNDQ2XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzcvZmIv0KYtMDAwMDgzNDQ2XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDEvMWIv0KYtMDAwMDgzNDQ2XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWYvYTIv0KYtMDAwMDgzNDQ2XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGMvNWIv0KYtMDAwMDgzNDQ2XzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
 <vendor>Hoco</vendor>
 <vendorCode>Ц-000083446</vendorCode>
 <code>790665</code>
@@ -140895,16 +140892,14 @@
 <rrcdoll>24.5</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>57809396</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjMvMTIv0KYtMDAwMDgzNDQ2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWMvMDAv0KYtMDAwMDgzNDQ2XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODkvZmUv0KYtMDAwMDgzNDQ2XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmYvODkv0KYtMDAwMDgzNDQ2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTAvYTMv0KYtMDAwMDgzNDQ2XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWMvMDAv0KYtMDAwMDgzNDQ2XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDcvOGIv0KYtMDAwMDgzNDQ2XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmMvNGMv0KYtMDAwMDgzNDQ2XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzcvZmIv0KYtMDAwMDgzNDQ2XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDEvMWIv0KYtMDAwMDgzNDQ2XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWYvYTIv0KYtMDAwMDgzNDQ2XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGMvNWIv0KYtMDAwMDgzNDQ2XzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
 <vendor>Hoco</vendor>
 <vendorCode>Ц-000083446</vendorCode>
 <code>790666</code>
@@ -153734,7 +153729,7 @@
 <vendorpricedoll>1.18</vendorpricedoll>
 <rrcdoll>3.34</rrcdoll>
 <currencyId>UAH</currencyId>
-<categoryId>96847083</categoryId>
+<categoryId>59885727</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmQvYWQv0KYtMDAwMDU4MzQ1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzkvZDUv0KYtMDAwMDU4MzQ1XzEyLmpwZzoxMDAwOjEwMDA=.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDUvZWEv0KYtMDAwMDU4MzQ1XzI0LmpwZzoxMDAwOjEwMDA=.jpg</picture>
@@ -160007,6 +160002,7 @@
 <vendorCode>Ц-000081727</vendorCode>
 <code>787460</code>
 <name>Планшет 10.1&quot; HD, 4/64ГБ, Android 14, Wi-Fi, Dual Camera 2.0/5.0MP Hoco HI11</name>
+<description><![CDATA[Hoco HI11 — практичний планшет для навчання, роботи, перегляду відео, спілкування та щоденного використання. Великий 10,1-дюймовий HD-дисплей із роздільною здатністю 1280×800 забезпечує комфортний перегляд контенту, а 8-ядерний процесор Unisoc T606 та Android 14 — стабільну роботу системи. Планшет оснащений 4 ГБ оперативної та 64 ГБ вбудованої пам’яті з можливістю розширення картою пам’яті до 128 ГБ. Підтримує Wi-Fi 2.4/5 ГГц і Bluetooth 5.0. Для відеодзвінків та фото передбачені фронтальна камера 2 Мп і основна 5 Мп. Основні характеристики: дисплей — 10.1″ HD LCD, 1280×800; процесор — 8-ядерний Unisoc T606; операційна система — Android 14; пам’ять — 4/64 ГБ; підтримка карт пам’яті до 128 ГБ; Wi-Fi 2.4/5 ГГц; Bluetooth 5.0; камери — 2 Мп / 5 Мп; акумулятор — 5000 мАг; заряджання через USB Type-C; два динаміки; роз’єм 3.5 мм; вага — 472 г.]]></description>
 <quantity_in_stock>21</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 </offer>
@@ -160525,6 +160521,7 @@
 <vendorCode>Ц-000083645</vendorCode>
 <code>790933</code>
 <name>Планшет 10.95&quot; Hoco HI12</name>
+<description><![CDATA[Планшет Hoco HI12 10.95″, 4/64 ГБ, Android 14 Hoco HI12 — сучасний планшет із великим 10,95-дюймовим FHD-дисплеєм 1920×1200, який підійде для навчання, роботи, перегляду відео, спілкування та повсякденних завдань. Восьмиядерний процесор Unisoc T606 у поєднанні з Android 14 забезпечує комфортну роботу програм і мультимедіа. Основні характеристики: екран — 10.95″ FHD, 1920×1200; процесор — 8-ядерний Unisoc T606; ОС — Android 14; пам’ять — 4/64 ГБ; карта пам’яті — до 128 ГБ; основна камера — 13 Мп з автофокусом; фронтальна камера — 5 Мп; Wi-Fi 2.4/5 ГГц, Bluetooth 5.0; акумулятор — 8000 мАг; заряджання — USB Type-C; два динаміки та роз’єм 3.5 мм; металевий корпус; розміри — 257 × 169 × 7,3 мм; вага — 490 г.]]></description>
 <quantity_in_stock>18</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 </offer>
