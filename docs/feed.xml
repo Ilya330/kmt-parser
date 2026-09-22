@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-21 15:24">
+<yml_catalog date="2026-09-22 08:00">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -2216,8 +2216,8 @@
 <offer id="ts000081230" available="true">
 <url>https://kmt5.com.ua/portativnyiy-mini-ventilyator-hoco-hx61</url>
 <price>281.0</price>
-<vendorprice>167.0</vendorprice>
-<vendorpricedoll>3.7</vendorpricedoll>
+<vendorprice>197.0</vendorprice>
+<vendorpricedoll>4.38</vendorpricedoll>
 <rrcdoll>6.24</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>58682601</categoryId>
@@ -2566,8 +2566,8 @@
 <offer id="ts000081300" available="true">
 <url>https://kmt5.com.ua/portativnyiy-mini-ventilyator-wtf52</url>
 <price>850.0</price>
-<vendorprice>597.0</vendorprice>
-<vendorpricedoll>13.29</vendorpricedoll>
+<vendorprice>676.0</vendorprice>
+<vendorpricedoll>15.04</vendorpricedoll>
 <rrcdoll>18.93</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>58682601</categoryId>
@@ -2804,8 +2804,8 @@
 <offer id="ts000081272000029774" available="true">
 <url>https://kmt5.com.ua/portativnyiy-mini-ventilyator-wtl19-black</url>
 <price>300.0</price>
-<vendorprice>195.0</vendorprice>
-<vendorpricedoll>4.33</vendorpricedoll>
+<vendorprice>209.0</vendorprice>
+<vendorpricedoll>4.64</vendorpricedoll>
 <rrcdoll>6.68</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>58682601</categoryId>
@@ -2827,8 +2827,8 @@
 <offer id="ts000081272000029775" available="true">
 <url>https://kmt5.com.ua/portativnyiy-mini-ventilyator-wtl19-white</url>
 <price>300.0</price>
-<vendorprice>195.0</vendorprice>
-<vendorpricedoll>4.33</vendorpricedoll>
+<vendorprice>209.0</vendorprice>
+<vendorpricedoll>4.64</vendorpricedoll>
 <rrcdoll>6.68</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>58682601</categoryId>
@@ -91734,7 +91734,7 @@
 <param name="Бренд">Различные</param>
 <param name="Аудіо товари">Чехол для Airpods</param>
 </offer>
-<offer id="ts000075715000024467" available="true">
+<offer id="ts000075715" available="true">
 <url>https://kmt5.com.ua/airpods-case-12-microfiber-stone-23</url>
 <price>76.0</price>
 <vendorprice>42.0</vendorprice>
@@ -141045,8 +141045,8 @@
 <offer id="ts000083186000031139" available="true">
 <url>https://kmt5.com.ua/smart-sports-watch-borofone-bd16-black</url>
 <price>600.0</price>
-<vendorprice>394.0</vendorprice>
-<vendorpricedoll>8.76</vendorpricedoll>
+<vendorprice>380.0</vendorprice>
+<vendorpricedoll>8.45</vendorpricedoll>
 <rrcdoll>13.36</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>57809396</categoryId>
@@ -141064,8 +141064,8 @@
 <offer id="ts000083186000031140" available="true">
 <url>https://kmt5.com.ua/smart-sports-watch-borofone-bd16-silver</url>
 <price>600.0</price>
-<vendorprice>394.0</vendorprice>
-<vendorpricedoll>8.76</vendorpricedoll>
+<vendorprice>380.0</vendorprice>
+<vendorpricedoll>8.45</vendorpricedoll>
 <rrcdoll>13.36</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>57809396</categoryId>
