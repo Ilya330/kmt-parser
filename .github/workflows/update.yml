@@ -2,12 +2,13 @@ name: update-feed
 
 on:
   schedule:
-    # 3 раза в день (UTC): 03:00 — ночной прогон с точным остатком, 09:00 и 15:00 — цены/метки
+    # 3 раза в день (UTC). Ночной прогон (03:00) дополнительно пере-скрейпит
+    # карточки: РРЦ и характеристики живут только там, в листинге их нет.
     - cron: "0 3,9,15 * * *"
   workflow_dispatch:
     inputs:
-      qty:
-        description: "Замер точного остатка через корзину (1/0)"
+      refresh:
+        description: "Пере-скрейп всех карточек (1/0)"
         default: "0"
 
 concurrency:
@@ -30,31 +31,38 @@ jobs:
 
       - run: pip install -r requirements.txt
 
-      - name: Определить, нужен ли замер остатков
-        id: qty
+      - name: Определить, нужен ли пере-скрейп карточек
+        id: mode
         run: |
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            echo "qty=${{ github.event.inputs.qty }}" >> "$GITHUB_OUTPUT"
+            echo "refresh=${{ github.event.inputs.refresh }}" >> "$GITHUB_OUTPUT"
           elif [ "$(date -u +%H)" -lt 6 ]; then
-            echo "qty=1" >> "$GITHUB_OUTPUT"
+            echo "refresh=1" >> "$GITHUB_OUTPUT"
           else
-            echo "qty=0" >> "$GITHUB_OUTPUT"
+            echo "refresh=0" >> "$GITHUB_OUTPUT"
           fi
 
       - name: Запуск парсера
         env:
           KMT_EMAIL: ${{ secrets.KMT_EMAIL }}
           KMT_PASSWORD: ${{ secrets.KMT_PASSWORD }}
-          STEP_QTY: ${{ steps.qty.outputs.qty }}
+          REFRESH: ${{ steps.mode.outputs.refresh }}
         run: python run.py
 
       - name: Коммит результатов
         run: |
           git config user.name "kmt-bot"
           git config user.email "actions@github.com"
-          git add docs/feed.xml catalog.json qty.json their_ids.json
-          git checkout -- . 2>/dev/null || true
-          git diff --cached --quiet && echo "нет изменений" && exit 0
-          git commit -m "feed update $(date -u '+%Y-%m-%d %H:%M') UTC"
-          git pull --rebase -X theirs origin main
-          git push origin main
+          # Фид и кеши — генерируемые артефакты: их нельзя СЛИВАТЬ с чужой
+          # версией (построчный merge XML склеивает два фида в гибрид).
+          # Поэтому переносим свои файлы поверх свежего origin как есть.
+          for i in 1 2 3; do
+            git fetch origin main
+            git reset --soft origin/main
+            git add docs/feed.xml catalog.json meta.json their_ids.json their_codes.json
+            git diff --cached --quiet && echo "нет изменений" && exit 0
+            git commit -m "feed update $(date -u '+%Y-%m-%d %H:%M') UTC"
+            git push origin main && exit 0
+            echo "push отклонён, повтор $i"
+          done
+          exit 1

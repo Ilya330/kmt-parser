@@ -33,94 +33,70 @@ NON_CATEGORY = {
 # в конец очереди — сборные разделы (дедуп по product_id оставит первый источник)
 LAST = ("akcii", "novoe-postuplenie")
 
-RE_ITEM = re.compile(r'<div class="list-catalog_item">(.*?)</li>', re.S)
-RE_HREF = re.compile(r'<a href="(https://kmt5\.com\.ua/[^"]+)" class="list-catalog_thumb')
-RE_TITLE = re.compile(r'list-catalog_title">\s*<a href="[^"]+">([^<]+)</a>')
-RE_LABEL = re.compile(r'product__label[^"]*">([^<]*)<')
-RE_SKU = re.compile(r'box-code">([^<]+)<')
-RE_PID = re.compile(r'data-id="(\d+)"')
-RE_IMG = re.compile(r'data-src="(https://kmt5\.com\.ua/images/[^"]+)"')
-RE_TOTAL = re.compile(r'total__text">(\d+)')
-RE_OLD_PRICE = re.compile(r'<span class="price__old">.*?</span>', re.S)
+# --- новая вёрстка (редизайн 2026-09-23) ---
+# карточка листинга: <article class="pc" data-card="ID"> … </article>
+RE_ITEM = re.compile(r'<article class="pc" data-card="(\d+)">(.*?)</article>', re.S)
+RE_HREF = re.compile(r'<a class="pc-th" href="([^"]+)"')
+RE_TITLE = re.compile(r'<div class="pc-name"><a[^>]*>(.*?)</a>', re.S)
+RE_SKU = re.compile(r'<div class="pc-brand"><b>([^<]*)</b><span>([^<]+)</span>')
+RE_IMG = re.compile(r'<img class="ph a" src="([^"]+)"')
+RE_LABEL = re.compile(r'<span class="bg (ok|low|no)[^"]*">([^<]*)</span>')
+RE_STOCK = re.compile(r'<div class="qty" data-q="\d+" data-max="(\d+)"')
+# «Ваша цена»: <span class="opt" data-pdprice data-baseprice="4.00">$3.78</span>
+RE_PRICE = re.compile(r'class="opt" data-pdprice data-baseprice="([\d.]+)">\$?([\d.]+)<')
+# ступенчатые опт-цены: data-qty="5" data-price="3.52"
+RE_LADDER = re.compile(r'data-qty="(\d+)" data-price="([\d.]+)"')
+# «Показано с 1 по 100 из 3398 (всего 34 страниц)»
+RE_TOTAL = re.compile(r'Показано\s+с\s+\d+\s+по\s+\d+\s+из\s+(\d+)')
+RE_H1 = re.compile(r'<h1[^>]*>(.*?)</h1>', re.S)
+RE_CAT_LINK = re.compile(
+    r'href="(https://kmt5\.com\.ua/(?:[a-z0-9\-]+/|index\.php\?route=product/category&amp;path=\d+))"')
 
 
 def _num(s):
-    s = s.replace("\xa0", "").replace(" ", "").replace(",", ".")
     try:
-        return float(s)
+        return float(str(s).replace("\xa0", "").replace(" ", "").replace(",", "."))
     except ValueError:
         return None
 
 
-def price_pair(zone):
-    """Из фрагмента цены достать ($, грн). У акционных товаров внутри
-    price__old (зачёркнутая) и price__new — старую вырезаем."""
-    zone = RE_OLD_PRICE.sub("", zone)
-    mu = re.search(r'\$\s*([\d.,]+)', zone)
-    mh = re.search(r'([\d][\d\s.,]*)\s*грн', zone)
-    return (_num(mu.group(1)) if mu else None,
-            _num(mh.group(1)) if mh else None)
-
-
-def parse_prices(block):
-    """(«Ваша цена» $, грн, РРЦ $, грн) из блока листинга или карточки."""
-    out = [None, None, None, None]
-    my = re.search(r'box-price__name">Ваша цена</span>(.*?)'
-                   r'(?:box-price__name|$)', block, re.S)
-    if my:
-        out[0], out[1] = price_pair(my.group(1))
-    else:
-        # у товаров без РРЦ подписи нет — блок цены одиночный
-        mp = re.search(r'<div class="box-price[^"]*">(.*?)'
-                       r'(?:all-quantity-buy|collapse-card|</li>|$)', block, re.S)
-        if mp:
-            out[0], out[1] = price_pair(mp.group(1))
-    mr = re.search(r'box-price__name">РРЦ</span>(.*?)'
-                   r'(?:box-price__name|all-quantity-buy|collapse-card|$)', block, re.S)
-    if mr:
-        out[2], out[3] = price_pair(mr.group(1))
-    return out
-
-
-def parse_page(html, category):
+def parse_page(html_text, category):
+    """Товары со страницы листинга. Остаток берём прямо из data-max —
+    после редизайна сайт отдаёт точное число (сверено с корзиной)."""
     items = []
-    for m in RE_ITEM.finditer(html):
-        b = m.group(1)
-        href = RE_HREF.search(b)
-        sku = RE_SKU.search(b)
+    for m in RE_ITEM.finditer(html_text):
+        pid, b = m.group(1), m.group(2)
+        href, sku = RE_HREF.search(b), RE_SKU.search(b)
         if not href or not sku:
             continue
-        it = {
-            "url": href.group(1),
-            "sku": sku.group(1).strip(),
-            "category": category,
-        }
+        it = {"url": href.group(1), "sku": sku.group(2).strip(),
+              "product_id": pid, "category": category}
+        brand = sku.group(1).strip()
+        if brand:
+            it["brand"] = ihtml.unescape(brand)
         t = RE_TITLE.search(b)
-        it["name"] = ihtml.unescape(t.group(1)).strip() if t else ""
+        if t:
+            it["name"] = ihtml.unescape(re.sub(r'<[^>]+>', '', t.group(1))).strip()
         lab = RE_LABEL.search(b)
-        it["label"] = lab.group(1).strip() if lab else ""
-        pid = RE_PID.search(b)
-        if pid:
-            it["product_id"] = pid.group(1)
+        if lab:
+            it["label"] = lab.group(2).strip()
         img = RE_IMG.search(b)
         if img:
             it["image"] = img.group(1)
-        pu, ph, ru, rh = parse_prices(b)
-        if pu:
-            it["price_usd"] = pu
-        if ph:
-            it["price_uah"] = ph
-        if ru:
-            it["rrc_usd"] = ru
-        if rh:
-            it["rrc_uah"] = rh
+        st = RE_STOCK.search(b)
+        if st:
+            it["qty"] = int(st.group(1))
+        p = RE_PRICE.search(b)
+        if p:
+            it["price_usd"] = _num(p.group(2))
+            base = _num(p.group(1))
+            if base and base != it["price_usd"]:
+                it["price_usd_base"] = base
+        ladder = [(int(q), _num(pr)) for q, pr in RE_LADDER.findall(b)]
+        if ladder:
+            it["ladder"] = ladder
         items.append(it)
     return items
-
-
-RE_H1 = re.compile(r'<h1>(.*?)</h1>', re.S)
-RE_CAT_LINK = re.compile(
-    r'href="(https://kmt5\.com\.ua/(?:[a-z0-9\-]+/|index\.php\?route=product/category&amp;path=\d+))"')
 
 
 def discover_categories(cli):
@@ -173,53 +149,63 @@ def crawl_category(cli, cat_url, limit=100):
     return items
 
 
-RE_CARD_SKU = re.compile(r'Код товара:</span>\s*([^\s<]+)')
-RE_CARD_PID = re.compile(r'button-buy" data-id="(\d+)"')
-RE_CARD_H1 = re.compile(r'<h1>(.*?)</h1>', re.S)
+# карточка товара (новая вёрстка): «Арт. Ц-…», h1.p-title, цена в buybox
+RE_CARD_SKU = re.compile(r'<span class="art">\s*Арт\.\s*([^\s<]+)\s*</span>')
+RE_CARD_PID = re.compile(r'<button class="add" type="button" data-add="(\d+)"')
+RE_CARD_H1 = re.compile(r'<h1[^>]*class="p-title"[^>]*>(.*?)</h1>', re.S)
+RE_CARD_STOCK = re.compile(r'<div class="qty" data-q="\d+" data-max="(\d+)"')
+RE_CARD_BRAND = re.compile(r'<div class="p-sub">\s*<b>([^<]*)</b>')
 
 
 def parse_card_listing(html_text, url, category):
     """Собрать из карточки товара запись формата листинга (для товаров,
     которых нет в обходимых категориях)."""
-    it = {"url": url, "category": category}
     m = RE_CARD_SKU.search(html_text)
     if not m:
         return None
-    it["sku"] = m.group(1).strip()
+    it = {"url": url, "category": category, "sku": m.group(1).strip()}
     m = RE_CARD_PID.search(html_text)
     if m:
         it["product_id"] = m.group(1)
     m = RE_CARD_H1.search(html_text)
     if m:
         it["name"] = ihtml.unescape(re.sub(r'<[^>]+>', '', m.group(1))).strip()
-    i = html_text.find("product__price_list")
-    zone = html_text[i:i + 6000] if i > 0 else html_text
-    pu, ph, ru, rh = parse_prices(zone)
-    if pu:
-        it["price_usd"] = pu
-    if ph:
-        it["price_uah"] = ph
-    if ru:
-        it["rrc_usd"] = ru
-    if rh:
-        it["rrc_uah"] = rh
+    m = RE_CARD_BRAND.search(html_text)
+    if m and m.group(1).strip():
+        it["brand"] = ihtml.unescape(m.group(1).strip())
+    m = RE_CARD_STOCK.search(html_text)
+    if m:
+        it["qty"] = int(m.group(1))
+    i = html_text.find("bb-price")
+    zone = html_text[i:i + 3000] if i > 0 else html_text
+    p = RE_PRICE.search(zone)
+    if p:
+        it["price_usd"] = _num(p.group(2))
+        base = _num(p.group(1))
+        if base and base != it["price_usd"]:
+            it["price_usd_base"] = base
+    ladder = [(int(q), _num(pr)) for q, pr in RE_LADDER.findall(zone)]
+    if ladder:
+        it["ladder"] = ladder
     lab = RE_LABEL.search(html_text)
     if lab:
-        it["label"] = lab.group(1).strip()
+        it["label"] = lab.group(2).strip()
     return it
 
 
 def fetch_their_feed(cli):
-    """Скачать публичный фид сайта → ({url: offer_id}, {url: name})."""
+    """Скачать публичный фид сайта → ({url: offer_id}, {url: числовой код}).
+    Числовой «Код» после редизайна пропал с карточек, но остался в их фиде."""
     xml = cli.get(THEIR_FEED_URL, timeout=120)
-    ids, names = {}, {}
+    ids, codes = {}, {}
     for m in re.finditer(
             r'<offer id="([^"]+)"[^>]*>.*?<url>([^<]+)</url>(?:.*?<name>([^<]*)</name>)?.*?</offer>',
             xml, re.S):
         ids[m.group(2)] = m.group(1)
-        if m.group(3):
-            names[m.group(2)] = ihtml.unescape(m.group(3))
-    return ids, names
+        mc = re.search(r'<param name="Код">([^<]+)</param>', m.group(0))
+        if mc:
+            codes[m.group(2)] = mc.group(1).strip()
+    return ids, codes
 
 
 def main():
@@ -246,11 +232,13 @@ def main():
 
     # их публичный фид: offer id (ts…) + товары из скрытых категорий
     try:
-        their_ids, _ = fetch_their_feed(cli)
+        their_ids, their_codes = fetch_their_feed(cli)
     except Exception as e:
         print("Их фид не скачался (%s) — offer id будут фолбэчные" % e)
-        their_ids = {}
+        their_ids, their_codes = {}, {}
     save_json("their_ids.json", their_ids)
+    if their_codes:
+        save_json("their_codes.json", their_codes)
     have_urls = set(it["url"] for it in seen.values())
     extras = [u for u in their_ids if u not in have_urls]
     print("Их фид: %d офферов, вне наших категорий: %d" % (len(their_ids), len(extras)))
@@ -263,6 +251,7 @@ def main():
             return None
 
     added = 0
+    skipped_extra = 0
     with ThreadPoolExecutor(max_workers=6) as ex:
         for u, it in zip(extras, ex.map(fetch_extra, extras)):
             if it and it.get("price_usd"):
@@ -271,8 +260,10 @@ def main():
                     seen[key] = it
                     added += 1
             else:
-                print("  ПРОПУЩЕН extra (%s): %s"
-                      % ("нет цены" if it else "не распарсился", u))
+                skipped_extra += 1
+    if skipped_extra:
+        print("  extras без цены/непарсящихся: %d (их фид отстаёт от каталога)"
+              % skipped_extra)
     print("Добрано из их фида: %d" % added)
 
     out = list(seen.values())
@@ -282,6 +273,12 @@ def main():
         print("ПОДОЗРИТЕЛЬНО МАЛО ДАННЫХ — не сохраняю", file=sys.stderr)
         sys.exit(1)
     save_json("listings.json", out)
+    # курс доллара: цены на сайте теперь только в $, грн считаем сами
+    try:
+        save_json("meta.json", {"rate": cli.rate(),
+                                "updated": time.strftime("%Y-%m-%d %H:%M")})
+    except Exception as e:
+        print("Курс не сохранён: %s" % e)
     cli.save_cookies()
 
 

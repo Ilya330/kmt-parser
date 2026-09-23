@@ -1,10 +1,12 @@
 # -*- coding: utf-8 -*-
-"""Сборка YML-фида docs/feed.xml из listings.json + catalog.json + qty.json.
+"""Сборка YML-фида docs/feed.xml из listings.json + catalog.json + meta.json.
 
 Теги цен: <price> = РРЦ грн, <vendorprice> = «Ваша цена» грн,
-<vendorpricedoll> = «Ваша цена» $. Наличие: <quantity_in_stock> — точное
-число из qty.json, при отсутствии — оценка по метке
-(много=100, в наличии=10, мало=3).
+<vendorpricedoll> = «Ваша цена» $, <rrcdoll> = РРЦ $.
+После редизайна сайта (23.09.2026) цены на страницах только в долларах —
+гривну считаем сами по курсу из шапки сайта (meta.json).
+Наличие: <quantity_in_stock> — точное число из листинга (data-max),
+фолбэком старый замер qty.json, затем оценка по метке.
 """
 import html
 import re
@@ -13,7 +15,8 @@ import zlib
 
 from kmt import load_json, save_json
 
-LABEL_QTY = {"много": 100, "в наличии": 10, "мало": 3}
+LABEL_QTY = {"много": 100, "в наличии": 10, "мало": 3,
+             "в наявності": 10, "закінчується": 3, "багато": 100}
 
 
 def esc(s):
@@ -29,6 +32,14 @@ def main():
     catalog = load_json("catalog.json", {})
     qty = load_json("qty.json", {})
     their_ids = load_json("their_ids.json", {})
+    their_codes = load_json("their_codes.json", {})
+    rate = (load_json("meta.json", {}) or {}).get("rate")
+    if not rate:
+        raise SystemExit("meta.json без курса — гривну считать не из чего")
+    print("курс: %.2f грн/$" % rate)
+
+    def uah(usd):
+        return round(usd * rate) if usd else None
 
     # дерево категорий из хлебных крошек
     cats = {}  # (path...) -> id
@@ -36,8 +47,7 @@ def main():
     skipped = 0
     for it in listings:
         price_usd = it.get("price_usd")
-        price_uah = it.get("price_uah")
-        if not price_usd or not price_uah:
+        if not price_usd:
             skipped += 1
             continue
         card = catalog.get(it["url"], {})
@@ -49,7 +59,10 @@ def main():
             crumbs = crumbs[:-1] or [it.get("category", "Разное")]
         for i in range(1, len(crumbs) + 1):
             cats.setdefault(tuple(crumbs[:i]), None)
-        n = qty.get(str(it.get("product_id")))
+        # остаток: сайт сам отдаёт точное число в листинге (сверено с корзиной)
+        n = it.get("qty")
+        if n is None:
+            n = qty.get(str(it.get("product_id")))
         if n is None:
             n = LABEL_QTY.get(it.get("label", "").lower(), 10)
         offers.append((it, card, tuple(crumbs), name, n))
@@ -87,22 +100,27 @@ def main():
         used_ids.add(oid)
         w('<offer id="%s" available="%s">' % (esc(oid), "true" if n > 0 else "false"))
         w("<url>%s</url>" % esc(it["url"]))
-        w("<price>%s</price>" % (it.get("rrc_uah") or it["price_uah"]))
-        w("<vendorprice>%s</vendorprice>" % it["price_uah"])
-        w("<vendorpricedoll>%s</vendorpricedoll>" % it["price_usd"])
-        if it.get("rrc_usd"):
-            w("<rrcdoll>%s</rrcdoll>" % it["rrc_usd"])
+        # РРЦ живёт только на карточке (в листинге её больше нет) — из кеша
+        rrc_usd = card.get("rrc_usd")
+        price_usd = it["price_usd"]
+        w("<price>%s</price>" % (uah(rrc_usd) or uah(price_usd)))
+        w("<vendorprice>%s</vendorprice>" % uah(price_usd))
+        w("<vendorpricedoll>%s</vendorpricedoll>" % price_usd)
+        if rrc_usd:
+            w("<rrcdoll>%s</rrcdoll>" % rrc_usd)
         w("<currencyId>UAH</currencyId>")
         w("<categoryId>%d</categoryId>" % cats[path])
         pics = card.get("pictures") or ([it["image"]] if it.get("image") else [])
         for p in pics[:10]:
             w("<picture>%s</picture>" % esc(p))
-        vendor = next((v for a, v in card.get("attrs", []) if a == "Бренд"), None)
+        vendor = (it.get("brand") or card.get("brand")
+                  or next((v for a, v in card.get("attrs", []) if a == "Бренд"), None))
         if vendor:
             w("<vendor>%s</vendor>" % esc(vendor))
         w("<vendorCode>%s</vendorCode>" % esc(it["sku"]))
-        if card.get("code"):
-            w("<code>%s</code>" % esc(card["code"]))
+        code = card.get("code") or their_codes.get(it["url"])
+        if code:
+            w("<code>%s</code>" % esc(code))
         w("<name>%s</name>" % esc(name))
         if card.get("description"):
             w("<description><![CDATA[%s]]></description>"
@@ -110,6 +128,11 @@ def main():
         w("<quantity_in_stock>%d</quantity_in_stock>" % n)
         for a, v in card.get("attrs", []):
             w('<param name="%s">%s</param>' % (esc(a), esc(v)))
+        # ступенчатые опт-цены («от N шт — $X»), их отдаёт и листинг, и карточка
+        for q, pr in (it.get("ladder") or card.get("ladder") or []):
+            w('<param name="Опт від %d шт">$%s</param>' % (q, pr))
+        if card.get("drop_usd"):
+            w('<param name="Drop">$%s</param>' % card["drop_usd"])
         w("</offer>")
     w("</offers>")
     w("</shop>")
@@ -118,9 +141,10 @@ def main():
     xml = "\n".join(out)
     with open("docs/feed.xml", "w", encoding="utf-8") as f:
         f.write(xml)
-    with_qty = sum(1 for it, *_ in offers if str(it.get("product_id")) in qty)
-    print("feed.xml: %d офферов (%d с точным остатком, %d пропущено без цены), %.1f МБ"
-          % (len(offers), with_qty, skipped, len(xml.encode()) / 1e6))
+    with_qty = sum(1 for it, *_ in offers if it.get("qty") is not None)
+    with_rrc = sum(1 for _, c, *_ in offers if c.get("rrc_usd"))
+    print("feed.xml: %d офферов (%d с остатком от сайта, %d с РРЦ, %d без цены), %.1f МБ"
+          % (len(offers), with_qty, with_rrc, skipped, len(xml.encode()) / 1e6))
 
 
 if __name__ == "__main__":

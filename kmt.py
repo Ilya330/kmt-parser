@@ -3,6 +3,7 @@
 import http.cookiejar
 import json
 import os
+import re
 import ssl
 import sys
 import time
@@ -12,6 +13,7 @@ import urllib.request
 BASE = "https://kmt5.com.ua"
 UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/125.0 Safari/537.36")
+RE_RATE = re.compile(r'rate-badge">[^<]*<b>([\d.,]+)</b>')
 COOKIES_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "cookies.txt")
 
 
@@ -92,13 +94,11 @@ class Client:
         return json.loads(self.request(url, data=data, xhr=True, **kw))
 
     # --- авторизация ---
-    def is_logged_in(self):
-        """Залогинены = на карточке/каталоге видна «Ваша цена»."""
-        try:
-            h = self.get(BASE + "/my-account/")
-            return "box-entrance_text-2" not in h and ("Выйти" in h or "my-account" in h)
-        except Exception:
-            return False
+    def is_logged_in(self, html_text=None):
+        """Залогинены = в шапке есть бейдж курса «Курс: NN.NN грн».
+        У анонима весь сайт отдаёт заглушку «Доступ к сайту ограничен»."""
+        h = html_text if html_text is not None else self.get(BASE + "/")
+        return "rate-badge" in h
 
     def login(self, email=None, password=None):
         email = email or os.environ.get("KMT_EMAIL")
@@ -106,7 +106,6 @@ class Client:
         if not email or not password:
             print("KMT_EMAIL / KMT_PASSWORD не заданы", file=sys.stderr)
             sys.exit(1)
-        # выставить язык/валюту до логина
         self.get(BASE + "/")
         j = self.get_json(BASE + "/login/?ajax=1",
                           data={"email": email, "password": password})
@@ -116,15 +115,29 @@ class Client:
         return True
 
     def ensure_login(self):
-        """Проверить сессию по главной, при необходимости перелогиниться.
-        Маркер анонима — приглашение «Войдите в кабинет» в шапке
-        (не завязываемся на конкретную категорию: их слаги меняются)."""
-        if "Войдите в кабинет" not in self.get(BASE + "/"):
+        """Проверить сессию, при необходимости перелогиниться.
+        Не завязываемся ни на категорию, ни на текст в шапке: маркер —
+        бейдж курса, который виден только авторизованному."""
+        if self.is_logged_in():
             return
-        print("Сессия истекла, логинюсь заново...")
+        print("Сессия анонимная, логинюсь...")
         self.login()
-        if "Войдите в кабинет" in self.get(BASE + "/"):
-            raise RuntimeError("После логина шапка всё ещё анонимная")
+        h = self.get(BASE + "/")
+        if not self.is_logged_in(h):
+            raise RuntimeError("После логина сайт всё ещё отдаёт анонимную версию")
+        self._rate = None
+
+    _rate = None
+
+    def rate(self):
+        """Курс доллара из шапки (цены на сайте только в $)."""
+        if self._rate:
+            return self._rate
+        m = RE_RATE.search(self.get(BASE + "/"))
+        if not m:
+            raise RuntimeError("Курс не найден в шапке")
+        self._rate = float(m.group(1))
+        return self._rate
 
 
 def load_json(path, default):
