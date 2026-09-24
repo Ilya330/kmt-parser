@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-24 13:52">
+<yml_catalog date="2026-09-24 18:44">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -80411,30 +80411,6 @@
 <param name="Опт від 10 шт">$3.22</param>
 <param name="Drop">$3.85</param>
 </offer>
-<offer id="ts000084030" available="true">
-<url>https://kmt5.com.ua/wave-case-with-magsafe-iphone-15-pro-max-black</url>
-<price>284</price>
-<vendorprice>163</vendorprice>
-<vendorpricedoll>3.61</vendorpricedoll>
-<rrcdoll>6.3</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>16203878</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjcvMmQv0KYtMDAwMDg0MDMwXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTcvMTEv0KYtMDAwMDg0MDMwXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000084030</vendorCode>
-<name>Чохол Wave з MagSafe — iPhone 15 Pro Max — Black</name>
-<description><![CDATA[Чохол для iPhone 15 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 15 Pro Max</param>
-<param name="Бренд">Apple</param>
-<param name="Опт від 5 шт">$3.36</param>
-<param name="Опт від 7 шт">$3.29</param>
-<param name="Опт від 10 шт">$3.22</param>
-<param name="Drop">$3.85</param>
-</offer>
 <offer id="ts000084030000031895" available="true">
 <url>https://kmt5.com.ua/wave-case-with-magsafe-iphone-15-pro-max-brown</url>
 <price>284</price>
@@ -80450,7 +80426,7 @@
 <code>791579</code>
 <name>Чохол Wave з MagSafe — iPhone 15 Pro Max — Brown</name>
 <description><![CDATA[Чохол для iPhone 15 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro Max</param>
@@ -86498,7 +86474,7 @@
 <code>788536</code>
 <name>WiWU Defender захисний чохол — iPad 11''A16 (2025) / 10&quot; (2022) JD105 — Blue</name>
 <description><![CDATA[Чохол для iPad 11 для захисту корпусу планшета від подряпин і потертостей під час щоденного використання.]]></description>
-<quantity_in_stock>11</quantity_in_stock>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPad Air 11&quot; (2025), Apple iPad Air 10.9&quot; (2022)</param>
@@ -88057,7 +88033,7 @@
 <code>785874</code>
 <name>Чохол AirPods 4 — Microfiber — Black</name>
 <description><![CDATA[Чохол для AirPods для захисту зарядного кейса від подряпин, потертостей і щоденних пошкоджень.]]></description>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Airpods 4</param>
 <param name="Бренд">Различные</param>
@@ -108562,7 +108538,7 @@
 <code>791089</code>
 <name>Прозора накладка Crystal — MacBook Neo 13'' A3404 — Clear</name>
 <description><![CDATA[Захисна накладка для MacBook для щоденного захисту корпусу від подряпин, потертостей і слідів використання.]]></description>
-<quantity_in_stock>10</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Macbook Neo 13 A3404</param>
@@ -110539,7 +110515,7 @@
 <code>790939</code>
 <name>Power Bank Ansty AP-065, 50000 мА·год, 22,5 Вт, PD 20 Вт — Black</name>
 <description><![CDATA[Power Bank має ємність 50000 мА·год та підтримує заряджання потужністю до 22,5 Вт, зокрема PD 20 Вт. Серед особливостей: індикатор рівня заряду.]]></description>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <param name="Бренд">Ansty</param>
 <param name="Виды аккумуляторов">Power Bank</param>
 <param name="Опт від 2 шт">$27.36</param>
@@ -123649,7 +123625,7 @@
 <code>782461</code>
 <name>Силіконовий кабель USB-C 3 А (1 м) — Veron SC-X82 — Black</name>
 <description><![CDATA[Кабель USB-C для заряджання та підключення сумісних пристроїв. Довжина — 1 м; струм — до 3 А. Підтримує передавання даних. Силіконова оболонка підвищує зносостійкість.]]></description>
-<quantity_in_stock>554</quantity_in_stock>
+<quantity_in_stock>549</quantity_in_stock>
 <param name="Бренд">VERON</param>
 <param name="Разъем подключения">Cable USB to C</param>
 <param name="Опт від 5 шт">$0.92</param>
@@ -164129,7 +164105,7 @@
 <code>789659</code>
 <name>Ремінець Striped Magnetic Buckle Strap, магнітна застібка,  Apple Watch 42/44/45/49 мм — Wine red</name>
 <description><![CDATA[Ремінець Striped Magnetic Buckle Strap призначений для Apple Watch 42/44/45/49 мм. Основні характеристики: • Тип: ремінець для смарт-годинника • Сумісність: Apple Watch 42/44/45/49 мм • Конструкція: магнітна застібка • Призначення: заміна штатного ремінця та повсякденне носіння]]></description>
-<quantity_in_stock>7</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Watch Series 3 42 mm, Apple Watch Series 4 44 mm, Apple Watch Series 7 45 mm, Apple Watch Series 8 49 mm</param>
 <param name="Бренд">Различные</param>
@@ -184899,7 +184875,7 @@
 <code>792470</code>
 <name>Ремінець на руку для смартфона «Carabine» — Purple</name>
 <description><![CDATA[Ремінець на руку для смартфона «Carabine» дає змогу зручно носити смартфон і тримати його під рукою. Аксесуар підходить для щоденного використання, прогулянок і подорожей.]]></description>
-<quantity_in_stock>16</quantity_in_stock>
+<quantity_in_stock>17</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Опт від 3 шт">$1.1</param>
 <param name="Опт від 5 шт">$1.08</param>
@@ -188379,7 +188355,7 @@
 <code>790174</code>
 <name>Ремінець для телефона на шию «Knitting» — Red</name>
 <description><![CDATA[Ремінець для телефона на шию «Knitting» дає змогу зручно носити смартфон і тримати його під рукою. Аксесуар підходить для щоденного використання, прогулянок і подорожей.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Опт від 3 шт">$1.63</param>
 <param name="Опт від 5 шт">$1.6</param>
@@ -190384,7 +190360,7 @@
 <code>779518</code>
 <name>Тримач-кільце для смартфона «Color Metal» — Red</name>
 <description><![CDATA[Тримач-кільце для смартфона «Color Metal» покращує хват смартфона та зменшує ризик випадкового вислизання з руки. Аксесуар також можна використовувати як компактну підставку для перегляду контенту.]]></description>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Материал">Пластик</param>
 <param name="Украшения для Телефонов">Попсокет и Кольцо</param>
@@ -191030,7 +191006,7 @@
 <code>732190</code>
 <name>Тримач-кільце для смартфона «Ring Premium» — Design 2</name>
 <description><![CDATA[Тримач-кільце для смартфона «Ring Premium» підвищує надійність утримування смартфона під час використання однією рукою. Кільце обертається на 360° та може слугувати компактною підставкою для перегляду відео.]]></description>
-<quantity_in_stock>84</quantity_in_stock>
+<quantity_in_stock>82</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Опт від 3 шт">$0.53</param>
 <param name="Опт від 5 шт">$0.52</param>
