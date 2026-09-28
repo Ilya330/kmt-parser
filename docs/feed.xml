@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-28 09:01">
+<yml_catalog date="2026-09-28 17:24">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -69292,9 +69292,9 @@
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Plus</param>
 <param name="Бренд">Различные</param>
-<param name="Опт від 5 шт">$15.36</param>
-<param name="Опт від 7 шт">$15.04</param>
-<param name="Опт від 10 шт">$14.72</param>
+<param name="Опт від 5 шт">$11.52</param>
+<param name="Опт від 7 шт">$11.28</param>
+<param name="Опт від 10 шт">$11.04</param>
 <param name="Drop">$17.6</param>
 </offer>
 <offer id="ts000077660" available="true">
@@ -69318,9 +69318,9 @@
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro</param>
 <param name="Бренд">Различные</param>
-<param name="Опт від 5 шт">$15.36</param>
-<param name="Опт від 7 шт">$15.04</param>
-<param name="Опт від 10 шт">$14.72</param>
+<param name="Опт від 5 шт">$11.52</param>
+<param name="Опт від 7 шт">$11.28</param>
+<param name="Опт від 10 шт">$11.04</param>
 <param name="Drop">$17.6</param>
 </offer>
 <offer id="ts000080371" available="true">
@@ -69343,9 +69343,9 @@
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16 Pro</param>
 <param name="Бренд">Различные</param>
-<param name="Опт від 5 шт">$17.28</param>
-<param name="Опт від 7 шт">$16.92</param>
-<param name="Опт від 10 шт">$16.56</param>
+<param name="Опт від 5 шт">$11.52</param>
+<param name="Опт від 7 шт">$11.28</param>
+<param name="Опт від 10 шт">$11.04</param>
 <param name="Drop">$19.8</param>
 </offer>
 <offer id="ts000081452" available="true">
@@ -108407,9 +108407,6 @@
 <name>USB LED-лампа Power, 1 Вт, 6000 К</name>
 <description><![CDATA[USB LED-лампа Power, 1 Вт, 6000 К — джерело світла для локального або допоміжного освітлення. Основні характеристики: • Тип: LED-світильник • Потужність: 1 Вт • Світловий потік: 110 лм • Колірна температура: 6000 К • Живлення: USB, 5 В]]></description>
 <quantity_in_stock>369</quantity_in_stock>
-<param name="Опт від 3 шт">$0.13</param>
-<param name="Опт від 5 шт">$0.13</param>
-<param name="Опт від 7 шт">$0.13</param>
 <param name="Drop">$0.15</param>
 </offer>
 <offer id="ts000073272" available="true">
@@ -108915,9 +108912,9 @@
 <name>Безтіньова LED-лампа CS-T19, K</name>
 <description><![CDATA[Безтіньова LED-лампа для б’юті-майстрів, косметології, тату та зйомки контенту; забезпечує широке рівномірне освітлення робочої зони. Модель/виконання: CS-T19K.]]></description>
 <quantity_in_stock>8</quantity_in_stock>
-<param name="Опт від 2 шт">$33.5</param>
-<param name="Опт від 3 шт">$32.81</param>
-<param name="Опт від 5 шт">$32.11</param>
+<param name="Опт від 2 шт">$32.16</param>
+<param name="Опт від 3 шт">$31.49</param>
+<param name="Опт від 5 шт">$30.82</param>
 <param name="Drop">$36.85</param>
 </offer>
 <offer id="ts000073317" available="true">
@@ -116439,32 +116436,6 @@
 <param name="Опт від 7 шт">$0.51</param>
 <param name="Drop">$0.61</param>
 </offer>
-<offer id="ts000065583000006877" available="true">
-<url>https://kmt5.com.ua/koltso-derjatel-animals-design-2</url>
-<price>50</price>
-<vendorprice>26</vendorprice>
-<vendorpricedoll>0.58</vendorpricedoll>
-<rrcdoll>1.11</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>26128749</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzQvMmUv0KYtMDAwMDY1NTgzXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzIvNmUv0KYtMDAwMDY1NTgzXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWMvZDQv0KYtMDAwMDY1NTgzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTAvZTEv0KYtMDAwMDY1NTgzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Другие</vendor>
-<vendorCode>Ц-000065583</vendorCode>
-<code>726848</code>
-<name>Тримач-кільце для смартфона «Animals» — Design 2</name>
-<description><![CDATA[Тримач-кільце для смартфона «Animals» покращує хват смартфона та зменшує ризик випадкового вислизання з руки. Аксесуар також можна використовувати як компактну підставку для перегляду контенту.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
-<param name="Бренд">Различные</param>
-<param name="Материал">Пластик</param>
-<param name="Украшения для Телефонов">Попсокет и Кольцо</param>
-<param name="Опт від 3 шт">$0.53</param>
-<param name="Опт від 5 шт">$0.52</param>
-<param name="Опт від 7 шт">$0.51</param>
-<param name="Drop">$0.61</param>
-</offer>
 <offer id="ts000077204000027387" available="true">
 <url>https://kmt5.com.ua/koltso-derjatel-cat-ear-blue-silver</url>
 <price>80</price>
@@ -117886,9 +117857,9 @@
 <quantity_in_stock>1</quantity_in_stock>
 <param name="Бренд">Acefast</param>
 <param name="Виды аккумуляторов">Power Bank</param>
-<param name="Опт від 2 шт">$40.32</param>
-<param name="Опт від 3 шт">$39.48</param>
-<param name="Опт від 5 шт">$38.64</param>
+<param name="Опт від 2 шт">$41.58</param>
+<param name="Опт від 3 шт">$41.16</param>
+<param name="Опт від 5 шт">$40.74</param>
 <param name="Drop">$46.2</param>
 </offer>
 <offer id="ts000083635" available="true">
@@ -117907,9 +117878,9 @@
 <quantity_in_stock>58</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Виды аккумуляторов">Power Bank</param>
-<param name="Опт від 2 шт">$13.92</param>
-<param name="Опт від 3 шт">$13.63</param>
-<param name="Опт від 5 шт">$13.34</param>
+<param name="Опт від 2 шт">$14.36</param>
+<param name="Опт від 3 шт">$14.21</param>
+<param name="Опт від 5 шт">$14.07</param>
 <param name="Drop">$15.95</param>
 </offer>
 <offer id="ts000082546" available="true">
@@ -117930,9 +117901,9 @@
 <name>Акумуляторні батарейки HOCO JA4 1200 mWh (тип AAА - 2 шт)</name>
 <description><![CDATA[Ємність: 1200 мА·год; Напруга: 3,7 В; Упаковка: 2 шт; Заряджання через USB-C.]]></description>
 <quantity_in_stock>55</quantity_in_stock>
-<param name="Опт від 2 шт">$2.98</param>
-<param name="Опт від 3 шт">$2.91</param>
-<param name="Опт від 5 шт">$2.85</param>
+<param name="Опт від 2 шт">$3.07</param>
+<param name="Опт від 3 шт">$3.04</param>
+<param name="Опт від 5 шт">$3.01</param>
 <param name="Drop">$3.41</param>
 </offer>
 <offer id="ts000082549" available="true">
@@ -117951,9 +117922,9 @@
 <name>Батарейка Hoco JA1, 1,5 В, 10 шт.</name>
 <description><![CDATA[Напруга: 1,5 В; Тип: LR6, AA; Упаковка: 10 шт.]]></description>
 <quantity_in_stock>48</quantity_in_stock>
-<param name="Опт від 2 шт">$2.5</param>
-<param name="Опт від 3 шт">$2.44</param>
-<param name="Опт від 5 шт">$2.39</param>
+<param name="Опт від 2 шт">$2.57</param>
+<param name="Опт від 3 шт">$2.55</param>
+<param name="Опт від 5 шт">$2.52</param>
 <param name="Drop">$2.86</param>
 </offer>
 <offer id="ts000082548" available="true">
@@ -117972,9 +117943,9 @@
 <name>Батарейка Hoco JA2, 1,5 В, 10 шт.</name>
 <description><![CDATA[Напруга: 1,5 В; Упаковка: 10 шт.]]></description>
 <quantity_in_stock>24</quantity_in_stock>
-<param name="Опт від 2 шт">$1.73</param>
-<param name="Опт від 3 шт">$1.69</param>
-<param name="Опт від 5 шт">$1.66</param>
+<param name="Опт від 2 шт">$1.78</param>
+<param name="Опт від 3 шт">$1.76</param>
+<param name="Опт від 5 шт">$1.75</param>
 <param name="Drop">$1.98</param>
 </offer>
 <offer id="ts000083649000031624" available="true">
@@ -117995,9 +117966,9 @@
 <quantity_in_stock>8</quantity_in_stock>
 <param name="Бренд">Ansty</param>
 <param name="Виды аккумуляторов">Power Bank</param>
-<param name="Опт від 2 шт">$27.36</param>
-<param name="Опт від 3 шт">$26.79</param>
-<param name="Опт від 5 шт">$26.22</param>
+<param name="Опт від 2 шт">$28.22</param>
+<param name="Опт від 3 шт">$27.93</param>
+<param name="Опт від 5 шт">$27.65</param>
 <param name="Drop">$31.35</param>
 </offer>
 <offer id="ts000083652000031628" available="true">
@@ -118018,9 +117989,9 @@
 <quantity_in_stock>8</quantity_in_stock>
 <param name="Бренд">Ansty</param>
 <param name="Виды аккумуляторов">Power Bank</param>
-<param name="Опт від 2 шт">$24.0</param>
-<param name="Опт від 3 шт">$23.5</param>
-<param name="Опт від 5 шт">$23.0</param>
+<param name="Опт від 2 шт">$24.75</param>
+<param name="Опт від 3 шт">$24.5</param>
+<param name="Опт від 5 шт">$24.25</param>
 <param name="Drop">$27.5</param>
 </offer>
 <offer id="ts000083381000031540" available="true">
@@ -118041,9 +118012,9 @@
 <quantity_in_stock>10</quantity_in_stock>
 <param name="Бренд">Earldom</param>
 <param name="Виды аккумуляторов">Power Bank</param>
-<param name="Опт від 2 шт">$9.89</param>
-<param name="Опт від 3 шт">$9.68</param>
-<param name="Опт від 5 шт">$9.48</param>
+<param name="Опт від 2 шт">$10.2</param>
+<param name="Опт від 3 шт">$10.09</param>
+<param name="Опт від 5 шт">$9.99</param>
 <param name="Drop">$11.33</param>
 </offer>
 <offer id="ts000083381000031539" available="true">
@@ -118064,9 +118035,9 @@
 <quantity_in_stock>4</quantity_in_stock>
 <param name="Бренд">Earldom</param>
 <param name="Виды аккумуляторов">Power Bank</param>
-<param name="Опт від 2 шт">$9.89</param>
-<param name="Опт від 3 шт">$9.68</param>
-<param name="Опт від 5 шт">$9.48</param>
+<param name="Опт від 2 шт">$10.2</param>
+<param name="Опт від 3 шт">$10.09</param>
+<param name="Опт від 5 шт">$9.99</param>
 <param name="Drop">$11.33</param>
 </offer>
 <offer id="ts000082803" available="true">
@@ -118092,9 +118063,9 @@
 <quantity_in_stock>4</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Виды аккумуляторов">Power Bank</param>
-<param name="Опт від 2 шт">$12.0</param>
-<param name="Опт від 3 шт">$11.75</param>
-<param name="Опт від 5 шт">$11.5</param>
+<param name="Опт від 2 шт">$12.38</param>
+<param name="Опт від 3 шт">$12.25</param>
+<param name="Опт від 5 шт">$12.13</param>
 <param name="Drop">$13.75</param>
 </offer>
 <offer id="ts000083656000031631" available="true">
@@ -118117,9 +118088,9 @@
 <quantity_in_stock>30</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Виды аккумуляторов">Power Bank</param>
-<param name="Опт від 2 шт">$8.64</param>
-<param name="Опт від 3 шт">$8.46</param>
-<param name="Опт від 5 шт">$8.28</param>
+<param name="Опт від 2 шт">$8.91</param>
+<param name="Опт від 3 шт">$8.82</param>
+<param name="Опт від 5 шт">$8.73</param>
 <param name="Drop">$9.9</param>
 </offer>
 <offer id="ts000083656000031633" available="true">
@@ -118142,9 +118113,9 @@
 <quantity_in_stock>9</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Виды аккумуляторов">Power Bank</param>
-<param name="Опт від 2 шт">$8.64</param>
-<param name="Опт від 3 шт">$8.46</param>
-<param name="Опт від 5 шт">$8.28</param>
+<param name="Опт від 2 шт">$8.91</param>
+<param name="Опт від 3 шт">$8.82</param>
+<param name="Опт від 5 шт">$8.73</param>
 <param name="Drop">$9.9</param>
 </offer>
 <offer id="ts000083656000031634" available="true">
@@ -118167,9 +118138,9 @@
 <quantity_in_stock>3</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Виды аккумуляторов">Power Bank</param>
-<param name="Опт від 2 шт">$8.64</param>
-<param name="Опт від 3 шт">$8.46</param>
-<param name="Опт від 5 шт">$8.28</param>
+<param name="Опт від 2 шт">$8.91</param>
+<param name="Опт від 3 шт">$8.82</param>
+<param name="Опт від 5 шт">$8.73</param>
 <param name="Drop">$9.9</param>
 </offer>
 <offer id="ts000083654000031639" available="true">
@@ -118196,9 +118167,9 @@
 <quantity_in_stock>1</quantity_in_stock>
 <param name="Бренд">Imoshion</param>
 <param name="Виды аккумуляторов">Power Bank</param>
-<param name="Опт від 2 шт">$11.52</param>
-<param name="Опт від 3 шт">$11.28</param>
-<param name="Опт від 5 шт">$11.04</param>
+<param name="Опт від 2 шт">$11.88</param>
+<param name="Опт від 3 шт">$11.76</param>
+<param name="Опт від 5 шт">$11.64</param>
 <param name="Drop">$13.2</param>
 </offer>
 <offer id="ts000083654000031635" available="true">
@@ -118225,9 +118196,9 @@
 <quantity_in_stock>9</quantity_in_stock>
 <param name="Бренд">Imoshion</param>
 <param name="Виды аккумуляторов">Power Bank</param>
-<param name="Опт від 2 шт">$11.52</param>
-<param name="Опт від 3 шт">$11.28</param>
-<param name="Опт від 5 шт">$11.04</param>
+<param name="Опт від 2 шт">$11.88</param>
+<param name="Опт від 3 шт">$11.76</param>
+<param name="Опт від 5 шт">$11.64</param>
 <param name="Drop">$13.2</param>
 </offer>
 <offer id="ts000083654000031637" available="true">
@@ -118254,9 +118225,9 @@
 <quantity_in_stock>11</quantity_in_stock>
 <param name="Бренд">Imoshion</param>
 <param name="Виды аккумуляторов">Power Bank</param>
-<param name="Опт від 2 шт">$11.52</param>
-<param name="Опт від 3 шт">$11.28</param>
-<param name="Опт від 5 шт">$11.04</param>
+<param name="Опт від 2 шт">$11.88</param>
+<param name="Опт від 3 шт">$11.76</param>
+<param name="Опт від 5 шт">$11.64</param>
 <param name="Drop">$13.2</param>
 </offer>
 <offer id="ts000083654000031636" available="true">
@@ -118283,9 +118254,9 @@
 <quantity_in_stock>27</quantity_in_stock>
 <param name="Бренд">Imoshion</param>
 <param name="Виды аккумуляторов">Power Bank</param>
-<param name="Опт від 2 шт">$11.52</param>
-<param name="Опт від 3 шт">$11.28</param>
-<param name="Опт від 5 шт">$11.04</param>
+<param name="Опт від 2 шт">$11.88</param>
+<param name="Опт від 3 шт">$11.76</param>
+<param name="Опт від 5 шт">$11.64</param>
 <param name="Drop">$13.2</param>
 </offer>
 <offer id="ts000083661" available="true">
@@ -118308,9 +118279,9 @@
 <description><![CDATA[Power Bank має ємність 20000 мА·год і підходить для підзаряджання смартфонів, навушників та інших мобільних пристроїв. Серед особливостей: цифровий дисплей.]]></description>
 <quantity_in_stock>43</quantity_in_stock>
 <param name="Виды аккумуляторов">Power Bank</param>
-<param name="Опт від 2 шт">$11.52</param>
-<param name="Опт від 3 шт">$11.28</param>
-<param name="Опт від 5 шт">$11.04</param>
+<param name="Опт від 2 шт">$11.88</param>
+<param name="Опт від 3 шт">$11.76</param>
+<param name="Опт від 5 шт">$11.64</param>
 <param name="Drop">$13.2</param>
 </offer>
 <offer id="ts000073504" available="true">
@@ -118331,9 +118302,9 @@
 <quantity_in_stock>10</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Виды аккумуляторов">Power Bank</param>
-<param name="Опт від 2 шт">$6.72</param>
-<param name="Опт від 3 шт">$6.58</param>
-<param name="Опт від 5 шт">$6.44</param>
+<param name="Опт від 2 шт">$6.93</param>
+<param name="Опт від 3 шт">$6.86</param>
+<param name="Опт від 5 шт">$6.79</param>
 <param name="Drop">$7.7</param>
 </offer>
 <offer id="ts000083680" available="true">
@@ -118357,9 +118328,9 @@
 <description><![CDATA[Power Bank має ємність 20000 мА·год та підтримує заряджання потужністю до 130 Вт. Серед особливостей: цифровий дисплей; вбудовані кабелі USB-C, USB-A; роз'єми USB-C, USB-A.]]></description>
 <quantity_in_stock>1</quantity_in_stock>
 <param name="Бренд">Wiwu</param>
-<param name="Опт від 2 шт">$49.92</param>
-<param name="Опт від 3 шт">$48.88</param>
-<param name="Опт від 5 шт">$47.84</param>
+<param name="Опт від 2 шт">$51.48</param>
+<param name="Опт від 3 шт">$50.96</param>
+<param name="Опт від 5 шт">$50.44</param>
 <param name="Drop">$57.2</param>
 </offer>
 <offer id="ts000083681" available="true">
@@ -118385,9 +118356,9 @@
 <description><![CDATA[Power Bank має ємність 15000 мА·год та підтримує заряджання потужністю до 67 Вт. Зручний як резервне джерело живлення для щоденного використання, поїздок і подорожей.]]></description>
 <quantity_in_stock>2</quantity_in_stock>
 <param name="Бренд">Wiwu</param>
-<param name="Опт від 2 шт">$56.64</param>
-<param name="Опт від 3 шт">$55.46</param>
-<param name="Опт від 5 шт">$54.28</param>
+<param name="Опт від 2 шт">$58.41</param>
+<param name="Опт від 3 шт">$57.82</param>
+<param name="Опт від 5 шт">$57.23</param>
 <param name="Drop">$64.9</param>
 </offer>
 <offer id="ts000083678000031643" available="true">
@@ -118407,9 +118378,9 @@
 <description><![CDATA[Power Bank має ємність 12000 мА·год та підтримує заряджання потужністю до 65 Вт. Серед особливостей: цифровий дисплей; вбудовані кабелі USB-C; підтримка PD; роз'єми USB-C, USB-A.]]></description>
 <quantity_in_stock>2</quantity_in_stock>
 <param name="Бренд">Wiwu</param>
-<param name="Опт від 2 шт">$25.92</param>
-<param name="Опт від 3 шт">$25.38</param>
-<param name="Опт від 5 шт">$24.84</param>
+<param name="Опт від 2 шт">$26.73</param>
+<param name="Опт від 3 шт">$26.46</param>
+<param name="Опт від 5 шт">$26.19</param>
 <param name="Drop">$29.7</param>
 </offer>
 <offer id="ts000080333000028927" available="true">
@@ -118432,9 +118403,9 @@
 <description><![CDATA[Power Bank має ємність 10000 мА·год та підтримує заряджання потужністю до 22,5 Вт. Серед особливостей: підтримка PD; роз'єми USB-C, Lightning.]]></description>
 <quantity_in_stock>8</quantity_in_stock>
 <param name="Бренд">Wiwu</param>
-<param name="Опт від 2 шт">$17.76</param>
-<param name="Опт від 3 шт">$17.39</param>
-<param name="Опт від 5 шт">$17.02</param>
+<param name="Опт від 2 шт">$18.32</param>
+<param name="Опт від 3 шт">$18.13</param>
+<param name="Опт від 5 шт">$17.95</param>
 <param name="Drop">$20.35</param>
 </offer>
 <offer id="ts000080333000028928" available="true">
@@ -118457,9 +118428,9 @@
 <description><![CDATA[Power Bank має ємність 10000 мА·год та підтримує заряджання потужністю до 22,5 Вт. Серед особливостей: підтримка PD; роз'єми USB-C, Lightning.]]></description>
 <quantity_in_stock>3</quantity_in_stock>
 <param name="Бренд">Wiwu</param>
-<param name="Опт від 2 шт">$17.76</param>
-<param name="Опт від 3 шт">$17.39</param>
-<param name="Опт від 5 шт">$17.02</param>
+<param name="Опт від 2 шт">$18.32</param>
+<param name="Опт від 3 шт">$18.13</param>
+<param name="Опт від 5 шт">$17.95</param>
 <param name="Drop">$20.35</param>
 </offer>
 <offer id="ts000081196000029602" available="true">
@@ -118480,9 +118451,9 @@
 <description><![CDATA[Power Bank має ємність 10000 мА·год та підтримує заряджання потужністю до 22,5 Вт. Серед особливостей: бездротове заряджання; підставка; роз'єми USB-C, Lightning.]]></description>
 <quantity_in_stock>1</quantity_in_stock>
 <param name="Бренд">Wiwu</param>
-<param name="Опт від 2 шт">$17.76</param>
-<param name="Опт від 3 шт">$17.39</param>
-<param name="Опт від 5 шт">$17.02</param>
+<param name="Опт від 2 шт">$18.32</param>
+<param name="Опт від 3 шт">$18.13</param>
+<param name="Опт від 5 шт">$17.95</param>
 <param name="Drop">$20.35</param>
 </offer>
 <offer id="ts000073450000023389" available="true">
@@ -118507,9 +118478,9 @@
 <quantity_in_stock>10</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Виды аккумуляторов">Power Bank</param>
-<param name="Опт від 2 шт">$6.72</param>
-<param name="Опт від 3 шт">$6.58</param>
-<param name="Опт від 5 шт">$6.44</param>
+<param name="Опт від 2 шт">$6.93</param>
+<param name="Опт від 3 шт">$6.86</param>
+<param name="Опт від 5 шт">$6.79</param>
 <param name="Drop">$7.7</param>
 </offer>
 <offer id="ts000073449000023387" available="true">
@@ -118530,9 +118501,9 @@
 <quantity_in_stock>10</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Виды аккумуляторов">Power Bank</param>
-<param name="Опт від 2 шт">$6.72</param>
-<param name="Опт від 3 шт">$6.58</param>
-<param name="Опт від 5 шт">$6.44</param>
+<param name="Опт від 2 шт">$6.93</param>
+<param name="Опт від 3 шт">$6.86</param>
+<param name="Опт від 5 шт">$6.79</param>
 <param name="Drop">$7.7</param>
 </offer>
 <offer id="ts000039037000012411" available="true">
@@ -118556,9 +118527,9 @@
 <quantity_in_stock>10</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Виды аккумуляторов">Power Bank</param>
-<param name="Опт від 2 шт">$6.72</param>
-<param name="Опт від 3 шт">$6.58</param>
-<param name="Опт від 5 шт">$6.44</param>
+<param name="Опт від 2 шт">$6.93</param>
+<param name="Опт від 3 шт">$6.86</param>
+<param name="Опт від 5 шт">$6.79</param>
 <param name="Drop">$7.7</param>
 </offer>
 <offer id="ts000073448000023386" available="true">
@@ -118583,9 +118554,9 @@
 <quantity_in_stock>5</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Виды аккумуляторов">Power Bank</param>
-<param name="Опт від 2 шт">$6.72</param>
-<param name="Опт від 3 шт">$6.58</param>
-<param name="Опт від 5 шт">$6.44</param>
+<param name="Опт від 2 шт">$6.93</param>
+<param name="Опт від 3 шт">$6.86</param>
+<param name="Опт від 5 шт">$6.79</param>
 <param name="Drop">$7.7</param>
 </offer>
 <offer id="ts000066446" available="true">
@@ -118608,9 +118579,9 @@
 <quantity_in_stock>5</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Виды аккумуляторов">Power Bank</param>
-<param name="Опт від 2 шт">$6.72</param>
-<param name="Опт від 3 шт">$6.58</param>
-<param name="Опт від 5 шт">$6.44</param>
+<param name="Опт від 2 шт">$6.93</param>
+<param name="Опт від 3 шт">$6.86</param>
+<param name="Опт від 5 шт">$6.79</param>
 <param name="Drop">$7.7</param>
 </offer>
 <offer id="ts000078917" available="true">
@@ -118661,6 +118632,9 @@
 <param name="Модель девайса">Apple iPhone 6</param>
 <param name="Бренд">F</param>
 <param name="Виды аккумуляторов">Аккумулятор</param>
+<param name="Опт від 3 шт">$4.7</param>
+<param name="Опт від 5 шт">$4.61</param>
+<param name="Опт від 8 шт">$4.51</param>
 <param name="Drop">$5.39</param>
 </offer>
 <offer id="ts000045205" available="true">
@@ -118684,6 +118658,9 @@
 <param name="Бренд">F</param>
 <param name="Маркировка">(EB-425161LU) (B100AE)</param>
 <param name="Виды аккумуляторов">Аккумулятор</param>
+<param name="Опт від 3 шт">$2.4</param>
+<param name="Опт від 5 шт">$2.35</param>
+<param name="Опт від 8 шт">$2.3</param>
 <param name="Drop">$2.75</param>
 </offer>
 <offer id="ts000057787" available="true">
@@ -118707,6 +118684,9 @@
 <param name="Бренд">F</param>
 <param name="Маркировка">BM46</param>
 <param name="Виды аккумуляторов">Аккумулятор</param>
+<param name="Опт від 3 шт">$4.22</param>
+<param name="Опт від 5 шт">$4.14</param>
+<param name="Опт від 8 шт">$4.05</param>
 <param name="Drop">$4.84</param>
 </offer>
 <offer id="ts000035299" available="true">
@@ -118729,6 +118709,9 @@
 <param name="Бренд">Различные</param>
 <param name="Маркировка">(B150AC, B150AE, B150BE , EB425365LU)</param>
 <param name="Виды аккумуляторов">Аккумулятор</param>
+<param name="Опт від 3 шт">$2.54</param>
+<param name="Опт від 5 шт">$2.49</param>
+<param name="Опт від 8 шт">$2.44</param>
 <param name="Drop">$2.92</param>
 </offer>
 <offer id="ts000030015" available="true">
@@ -118752,6 +118735,9 @@
 <param name="Бренд">Различные</param>
 <param name="Маркировка">(EB-585157LU)</param>
 <param name="Виды аккумуляторов">Аккумулятор</param>
+<param name="Опт від 3 шт">$1.54</param>
+<param name="Опт від 5 шт">$1.5</param>
+<param name="Опт від 8 шт">$1.47</param>
 <param name="Drop">$1.76</param>
 </offer>
 <offer id="ts000026810" available="true">
@@ -118774,6 +118760,9 @@
 <param name="Бренд">Различные</param>
 <param name="Маркировка">(EB-L1F2HVU)</param>
 <param name="Виды аккумуляторов">Аккумулятор</param>
+<param name="Опт від 3 шт">$2.06</param>
+<param name="Опт від 5 шт">$2.02</param>
+<param name="Опт від 8 шт">$1.98</param>
 <param name="Drop">$2.37</param>
 </offer>
 <offer id="ts000081510" available="true">
@@ -118792,9 +118781,9 @@
 <name>Акумуляторні батарейки 18650, 2600 мА·год, USB-C, 2 шт.</name>
 <description><![CDATA[Ємність: 2600 мА·год; Тип: 18650; Упаковка: 2 шт; Заряджання через USB-C.]]></description>
 <quantity_in_stock>58</quantity_in_stock>
-<param name="Опт від 2 шт">$4.94</param>
-<param name="Опт від 3 шт">$4.84</param>
-<param name="Опт від 5 шт">$4.74</param>
+<param name="Опт від 2 шт">$5.1</param>
+<param name="Опт від 3 шт">$5.05</param>
+<param name="Опт від 5 шт">$5.0</param>
 <param name="Drop">$5.67</param>
 </offer>
 <offer id="ts000083575" available="true">
@@ -118814,9 +118803,9 @@
 <description><![CDATA[Енергоємність: 5 кВт·год; Акумулятор LiFePO4; BMS; Система: 51,2 В.]]></description>
 <quantity_in_stock>4</quantity_in_stock>
 <param name="Бренд">VERON</param>
-<param name="Опт від 2 шт">$835.2</param>
-<param name="Опт від 3 шт">$817.8</param>
-<param name="Опт від 5 шт">$800.4</param>
+<param name="Опт від 2 шт">$861.3</param>
+<param name="Опт від 3 шт">$852.6</param>
+<param name="Опт від 5 шт">$843.9</param>
 <param name="Drop">$957.0</param>
 </offer>
 <offer id="ts000083208" available="true">
@@ -118838,9 +118827,9 @@
 <name>Батарейка Hoco JA1A, 1,5 В, 2 шт.</name>
 <description><![CDATA[Напруга: 1,5 В; Упаковка: 2 шт.]]></description>
 <quantity_in_stock>99</quantity_in_stock>
-<param name="Опт від 2 шт">$0.57</param>
-<param name="Опт від 3 шт">$0.55</param>
-<param name="Опт від 5 шт">$0.54</param>
+<param name="Опт від 2 шт">$0.58</param>
+<param name="Опт від 3 шт">$0.58</param>
+<param name="Опт від 5 шт">$0.57</param>
 <param name="Drop">$0.65</param>
 </offer>
 <offer id="ts000083206" available="true">
@@ -118862,9 +118851,9 @@
 <name>Батарейка Hoco JA2A, AAA, 1,5 В, 2 шт.</name>
 <description><![CDATA[Напруга: 1,5 В; Тип: AAA; Упаковка: 2 шт.]]></description>
 <quantity_in_stock>66</quantity_in_stock>
-<param name="Опт від 2 шт">$0.45</param>
-<param name="Опт від 3 шт">$0.44</param>
-<param name="Опт від 5 шт">$0.43</param>
+<param name="Опт від 2 шт">$0.47</param>
+<param name="Опт від 3 шт">$0.46</param>
+<param name="Опт від 5 шт">$0.46</param>
 <param name="Drop">$0.52</param>
 </offer>
 <offer id="ts000083576" available="true">
@@ -118889,9 +118878,9 @@
 <name>Гібридний інвертор VR-5000 у корпусі на колесах без акумулятора LiFePO4</name>
 <description><![CDATA[Потужність: 5,1 кВт; MPPT-контролер; Сумісність з LiFePO4.]]></description>
 <quantity_in_stock>2</quantity_in_stock>
-<param name="Опт від 2 шт">$624.0</param>
-<param name="Опт від 3 шт">$611.0</param>
-<param name="Опт від 5 шт">$598.0</param>
+<param name="Опт від 2 шт">$643.5</param>
+<param name="Опт від 3 шт">$637.0</param>
+<param name="Опт від 5 шт">$630.5</param>
 <param name="Drop">$715.0</param>
 </offer>
 <offer id="ts000073387" available="true">
@@ -118913,9 +118902,9 @@
 <name>Сонячна панель Veron, 100 Вт</name>
 <description><![CDATA[Потужність: 100 Вт; Сонячна панель/заряджання.]]></description>
 <quantity_in_stock>3</quantity_in_stock>
-<param name="Опт від 2 шт">$86.4</param>
-<param name="Опт від 3 шт">$84.6</param>
-<param name="Опт від 5 шт">$82.8</param>
+<param name="Опт від 2 шт">$89.1</param>
+<param name="Опт від 3 шт">$88.2</param>
+<param name="Опт від 5 шт">$87.3</param>
 <param name="Drop">$99.0</param>
 </offer>
 <offer id="ts000072648" available="true">
@@ -118940,9 +118929,9 @@
 <name>Сонячна панель Yoobao, 100 Вт</name>
 <description><![CDATA[Потужність: 100 Вт; Інтерфейси: USB-A; Сонячна панель/заряджання.]]></description>
 <quantity_in_stock>1</quantity_in_stock>
-<param name="Опт від 2 шт">$86.4</param>
-<param name="Опт від 3 шт">$84.6</param>
-<param name="Опт від 5 шт">$82.8</param>
+<param name="Опт від 2 шт">$89.1</param>
+<param name="Опт від 3 шт">$88.2</param>
+<param name="Опт від 5 шт">$87.3</param>
 <param name="Drop">$99.0</param>
 </offer>
 <offer id="00000001835" available="true">
@@ -118965,6 +118954,9 @@
 <param name="Бренд">Различные</param>
 <param name="Маркировка">(BST1178S)</param>
 <param name="Виды аккумуляторов">Аккумулятор</param>
+<param name="Опт від 3 шт">$1.44</param>
+<param name="Опт від 5 шт">$1.41</param>
+<param name="Опт від 8 шт">$1.38</param>
 <param name="Drop">$1.65</param>
 </offer>
 <offer id="00000001856" available="true">
@@ -118987,6 +118979,9 @@
 <param name="Бренд">Различные</param>
 <param name="Маркировка">(BST0579NE)</param>
 <param name="Виды аккумуляторов">Аккумулятор</param>
+<param name="Опт від 3 шт">$1.34</param>
+<param name="Опт від 5 шт">$1.32</param>
+<param name="Опт від 8 шт">$1.29</param>
 <param name="Drop">$1.54</param>
 </offer>
 <offer id="00000001857" available="true">
@@ -119009,6 +119004,9 @@
 <param name="Бренд">Различные</param>
 <param name="Маркировка">(BST1999SE)</param>
 <param name="Виды аккумуляторов">Аккумулятор</param>
+<param name="Опт від 3 шт">$1.44</param>
+<param name="Опт від 5 шт">$1.41</param>
+<param name="Опт від 8 шт">$1.38</param>
 <param name="Drop">$1.65</param>
 </offer>
 <offer id="00000005644" available="true">
@@ -119031,6 +119029,9 @@
 <param name="Бренд">Различные</param>
 <param name="Маркировка">(BST0579NE)</param>
 <param name="Виды аккумуляторов">Аккумулятор</param>
+<param name="Опт від 3 шт">$0.89</param>
+<param name="Опт від 5 шт">$0.87</param>
+<param name="Опт від 8 шт">$0.86</param>
 <param name="Drop">$1.02</param>
 </offer>
 <offer id="00000005695" available="true">
@@ -119053,6 +119054,9 @@
 <param name="Бренд">Различные</param>
 <param name="Маркировка">(BST0687SE)</param>
 <param name="Виды аккумуляторов">Аккумулятор</param>
+<param name="Опт від 3 шт">$0.96</param>
+<param name="Опт від 5 шт">$0.94</param>
+<param name="Опт від 8 шт">$0.92</param>
 <param name="Drop">$1.1</param>
 </offer>
 <offer id="00000002206" available="true">
@@ -119075,6 +119079,9 @@
 <param name="Бренд">Различные</param>
 <param name="Маркировка">(AB-553850DE)</param>
 <param name="Виды аккумуляторов">Аккумулятор</param>
+<param name="Опт від 3 шт">$0.92</param>
+<param name="Опт від 5 шт">$0.9</param>
+<param name="Опт від 8 шт">$0.88</param>
 <param name="Drop">$1.06</param>
 </offer>
 <offer id="00000002085" available="true">
@@ -119097,6 +119104,9 @@
 <param name="Бренд">Различные</param>
 <param name="Маркировка">(BST2948SE)</param>
 <param name="Виды аккумуляторов">Аккумулятор</param>
+<param name="Опт від 3 шт">$0.89</param>
+<param name="Опт від 5 шт">$0.87</param>
+<param name="Опт від 8 шт">$0.86</param>
 <param name="Drop">$1.02</param>
 </offer>
 <offer id="00000002108" available="true">
@@ -119119,6 +119129,9 @@
 <param name="Бренд">Различные</param>
 <param name="Маркировка">(BST0579SE)</param>
 <param name="Виды аккумуляторов">Аккумулятор</param>
+<param name="Опт від 3 шт">$0.89</param>
+<param name="Опт від 5 шт">$0.87</param>
+<param name="Опт від 8 шт">$0.86</param>
 <param name="Drop">$1.02</param>
 </offer>
 <offer id="hu00000083" available="true">
@@ -119141,6 +119154,9 @@
 <param name="Бренд">Различные</param>
 <param name="Маркировка">BST39</param>
 <param name="Виды аккумуляторов">Аккумулятор</param>
+<param name="Опт від 3 шт">$0.96</param>
+<param name="Опт від 5 шт">$0.94</param>
+<param name="Опт від 8 шт">$0.92</param>
 <param name="Drop">$1.1</param>
 </offer>
 <offer id="hu00000200" available="true">
@@ -119163,6 +119179,9 @@
 <param name="Бренд">Различные</param>
 <param name="Маркировка">(BST4208S)</param>
 <param name="Виды аккумуляторов">Аккумулятор</param>
+<param name="Опт від 3 шт">$0.96</param>
+<param name="Опт від 5 шт">$0.94</param>
+<param name="Опт від 8 шт">$0.92</param>
 <param name="Drop">$1.1</param>
 </offer>
 <offer id="hu00000231" available="true">
@@ -119185,6 +119204,9 @@
 <param name="Бренд">Различные</param>
 <param name="Маркировка">(BST2938SE)</param>
 <param name="Виды аккумуляторов">Аккумулятор</param>
+<param name="Опт від 3 шт">$0.96</param>
+<param name="Опт від 5 шт">$0.94</param>
+<param name="Опт від 8 шт">$0.92</param>
 <param name="Drop">$1.1</param>
 </offer>
 <offer id="ts000083766" available="true">
@@ -120012,9 +120034,9 @@
 <param name="Бренд">Hoco</param>
 <param name="Колво USB портов">1 U | 1 C</param>
 <param name="Зарядные устройства">СЗУ &amp; Кабель Type C</param>
-<param name="Опт від 5 шт">$3.74</param>
-<param name="Опт від 7 шт">$3.67</param>
-<param name="Опт від 10 шт">$3.59</param>
+<param name="Опт від 5 шт">$3.38</param>
+<param name="Опт від 7 шт">$3.31</param>
+<param name="Опт від 10 шт">$3.24</param>
 <param name="Drop">$4.29</param>
 </offer>
 <offer id="ts000069754000016989" available="true">
@@ -123561,9 +123583,9 @@
 <param name="Колво USB портов">1 USB | 2 Type - C</param>
 <param name="Зарядные устройства">Home Chargers</param>
 <param name="Сила тока и Мощность">67W</param>
-<param name="Опт від 5 шт">$13.8</param>
-<param name="Опт від 7 шт">$13.6</param>
-<param name="Опт від 10 шт">$13.4</param>
+<param name="Опт від 5 шт">$13.43</param>
+<param name="Опт від 7 шт">$13.15</param>
+<param name="Опт від 10 шт">$12.87</param>
 <param name="Drop">$15.39</param>
 </offer>
 <offer id="ts000079239" available="true">
@@ -130051,9 +130073,9 @@
 <name>Набір для організації кабелів, 173 елементи</name>
 <description><![CDATA[Набір для організації кабелів, 173 елементи — практичний аксесуар для комп’ютерної техніки та сумісних пристроїв. Основні параметри й особливості наведені в назві товару.]]></description>
 <quantity_in_stock>18</quantity_in_stock>
-<param name="Опт від 3 шт">$7.39</param>
-<param name="Опт від 5 шт">$7.24</param>
-<param name="Опт від 7 шт">$7.08</param>
+<param name="Опт від 3 шт">$6.24</param>
+<param name="Опт від 5 шт">$6.11</param>
+<param name="Опт від 7 шт">$5.98</param>
 <param name="Drop">$8.47</param>
 </offer>
 <offer id="ts000082952" available="true">
@@ -130071,9 +130093,9 @@
 <name>Набір для організації кабелів, 204 елементи</name>
 <description><![CDATA[Набір для організації кабелів, 204 елементи — практичний аксесуар для комп’ютерної техніки та сумісних пристроїв. Основні параметри й особливості наведені в назві товару.]]></description>
 <quantity_in_stock>13</quantity_in_stock>
-<param name="Опт від 3 шт">$8.16</param>
-<param name="Опт від 5 шт">$7.99</param>
-<param name="Опт від 7 шт">$7.82</param>
+<param name="Опт від 3 шт">$6.43</param>
+<param name="Опт від 5 шт">$6.3</param>
+<param name="Опт від 7 шт">$6.16</param>
 <param name="Drop">$9.35</param>
 </offer>
 <offer id="ts000082953" available="true">
@@ -130091,9 +130113,9 @@
 <name>Набір для організації кабелів, 282 елементи</name>
 <description><![CDATA[Набір для організації кабелів, 282 елементи — практичний аксесуар для комп’ютерної техніки та сумісних пристроїв. Основні параметри й особливості наведені в назві товару.]]></description>
 <quantity_in_stock>20</quantity_in_stock>
-<param name="Опт від 3 шт">$8.83</param>
-<param name="Опт від 5 шт">$8.65</param>
-<param name="Опт від 7 шт">$8.46</param>
+<param name="Опт від 3 шт">$6.62</param>
+<param name="Опт від 5 шт">$6.49</param>
+<param name="Опт від 7 шт">$6.35</param>
 <param name="Drop">$10.12</param>
 </offer>
 <offer id="ts000075690000024447" available="true">
@@ -132234,9 +132256,9 @@
 <description><![CDATA[Bluetooth-адаптер BlueSoleil IVT 9.0 / 10.0, USB, Bluetooth 4.0 додає підтримку бездротового Bluetooth-з’єднання комп’ютеру або ноутбуку. Дає змогу підключати сумісні навушники, колонки, клавіатури, миші та інші пристрої.]]></description>
 <quantity_in_stock>20</quantity_in_stock>
 <param name="Бренд">Различные</param>
-<param name="Опт від 3 шт">$1.54</param>
-<param name="Опт від 5 шт">$1.5</param>
-<param name="Опт від 7 шт">$1.47</param>
+<param name="Опт від 3 шт">$1.39</param>
+<param name="Опт від 5 шт">$1.36</param>
+<param name="Опт від 7 шт">$1.33</param>
 <param name="Drop">$1.76</param>
 </offer>
 <offer id="ts000064385" available="true">
@@ -132256,9 +132278,9 @@
 <name>Bluetooth-адаптер Dongle, USB, Bluetooth 4.0</name>
 <description><![CDATA[Bluetooth-адаптер Dongle, USB, Bluetooth 4.0 дає змогу підключати до комп’ютера сумісні бездротові пристрої. Компактний USB-формат зручний для мишей, клавіатур, гарнітур та інших аксесуарів.]]></description>
 <quantity_in_stock>12</quantity_in_stock>
-<param name="Опт від 3 шт">$1.54</param>
-<param name="Опт від 5 шт">$1.5</param>
-<param name="Опт від 7 шт">$1.47</param>
+<param name="Опт від 3 шт">$1.39</param>
+<param name="Опт від 5 шт">$1.36</param>
+<param name="Опт від 7 шт">$1.33</param>
 <param name="Drop">$1.76</param>
 </offer>
 <offer id="ts000078144000026425" available="true">
@@ -132783,9 +132805,9 @@
 <quantity_in_stock>13</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Компьютерные аксессуары">Кардридеры</param>
-<param name="Опт від 3 шт">$2.11</param>
-<param name="Опт від 5 шт">$2.07</param>
-<param name="Опт від 7 шт">$2.02</param>
+<param name="Опт від 3 шт">$1.82</param>
+<param name="Опт від 5 шт">$1.79</param>
+<param name="Опт від 7 шт">$1.75</param>
 <param name="Drop">$2.42</param>
 </offer>
 <offer id="ts000077534" available="true">
@@ -133448,9 +133470,9 @@
 <description><![CDATA[Ігровий геймпад 600S забезпечує зручне керування в сумісних іграх. Тип підключення та сумісність залежать від моделі й зазначених у назві характеристик.]]></description>
 <quantity_in_stock>7</quantity_in_stock>
 <param name="Бренд">Различные</param>
-<param name="Опт від 3 шт">$6.05</param>
-<param name="Опт від 5 шт">$5.92</param>
-<param name="Опт від 7 шт">$5.8</param>
+<param name="Опт від 3 шт">$5.33</param>
+<param name="Опт від 5 шт">$5.22</param>
+<param name="Опт від 7 шт">$5.11</param>
 <param name="Drop">$6.93</param>
 </offer>
 <offer id="ts000081102" available="true">
@@ -133571,9 +133593,9 @@
 <description><![CDATA[Ігровий геймпад Ipega PG-9078 підтримує Bluetooth-підключення до Android та iOS, а також роботу зі смартфонами, планшетами, Smart TV, TV Box і ПК. Оснащений високоточними стиками та аналоговими тригерами L2/R2.]]></description>
 <quantity_in_stock>9</quantity_in_stock>
 <param name="Бренд">Различные</param>
-<param name="Опт від 3 шт">$10.46</param>
-<param name="Опт від 5 шт">$10.25</param>
-<param name="Опт від 7 шт">$10.03</param>
+<param name="Опт від 3 шт">$9.41</param>
+<param name="Опт від 5 шт">$9.21</param>
+<param name="Опт від 7 шт">$9.02</param>
 <param name="Drop">$11.99</param>
 </offer>
 <offer id="ts000081334" available="true">
@@ -135914,9 +135936,9 @@
 <description><![CDATA[Захисна накладка на клавіатуру Silicon Air M1 US, українська, російська та англійська розкладки захищає клавіші від пилу, вологи та повсякденних забруднень. Перед покупкою потрібно звірити модель і діагональ пристрою.]]></description>
 <quantity_in_stock>62</quantity_in_stock>
 <param name="Бренд">Различные</param>
-<param name="Опт від 3 шт">$0.76</param>
-<param name="Опт від 5 шт">$0.74</param>
-<param name="Опт від 7 шт">$0.73</param>
+<param name="Опт від 3 шт">$0.67</param>
+<param name="Опт від 5 шт">$0.66</param>
+<param name="Опт від 7 шт">$0.64</param>
 <param name="Drop">$0.87</param>
 </offer>
 <offer id="ts000082580" available="true">
@@ -135981,9 +136003,9 @@
 <quantity_in_stock>22</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Macbook Air 13</param>
-<param name="Опт від 3 шт">$3.17</param>
-<param name="Опт від 5 шт">$3.1</param>
-<param name="Опт від 7 шт">$3.04</param>
+<param name="Опт від 3 шт">$2.92</param>
+<param name="Опт від 5 шт">$2.86</param>
+<param name="Опт від 7 шт">$2.8</param>
 <param name="Drop">$3.63</param>
 </offer>
 <offer id="ts000072870" available="true">
@@ -136006,9 +136028,9 @@
 <quantity_in_stock>2</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Macbook Pro 13</param>
-<param name="Опт від 3 шт">$3.07</param>
-<param name="Опт від 5 шт">$3.01</param>
-<param name="Опт від 7 шт">$2.94</param>
+<param name="Опт від 3 шт">$2.78</param>
+<param name="Опт від 5 шт">$2.73</param>
+<param name="Опт від 7 шт">$2.67</param>
 <param name="Drop">$3.52</param>
 </offer>
 <offer id="ts000072872" available="true">
@@ -136031,9 +136053,9 @@
 <quantity_in_stock>20</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Macbook Pro 16.2, Apple Macbook Pro 13</param>
-<param name="Опт від 3 шт">$3.07</param>
-<param name="Опт від 5 шт">$3.01</param>
-<param name="Опт від 7 шт">$2.94</param>
+<param name="Опт від 3 шт">$2.78</param>
+<param name="Опт від 5 шт">$2.73</param>
+<param name="Опт від 7 шт">$2.67</param>
 <param name="Drop">$3.52</param>
 </offer>
 <offer id="ts000070908" available="true">
@@ -137884,9 +137906,9 @@
 <description><![CDATA[Наліпки на клавіатуру, українська розкладка допомагають оновити або додати потрібне маркування клавіш. Наносяться на очищену суху поверхню клавіатури.]]></description>
 <quantity_in_stock>96</quantity_in_stock>
 <param name="Бренд">Различные</param>
-<param name="Опт від 3 шт">$0.28</param>
-<param name="Опт від 5 шт">$0.27</param>
-<param name="Опт від 7 шт">$0.27</param>
+<param name="Опт від 3 шт">$0.29</param>
+<param name="Опт від 5 шт">$0.28</param>
+<param name="Опт від 7 шт">$0.28</param>
 <param name="Drop">$0.32</param>
 </offer>
 <offer id="ts000078201000026741" available="true">
@@ -137906,9 +137928,9 @@
 <description><![CDATA[Наліпки на клавіатуру, українська розкладка допомагають оновити або додати потрібне маркування клавіш. Наносяться на очищену суху поверхню клавіатури.]]></description>
 <quantity_in_stock>23</quantity_in_stock>
 <param name="Бренд">Различные</param>
-<param name="Опт від 3 шт">$0.38</param>
-<param name="Опт від 5 шт">$0.38</param>
-<param name="Опт від 7 шт">$0.37</param>
+<param name="Опт від 3 шт">$0.29</param>
+<param name="Опт від 5 шт">$0.28</param>
+<param name="Опт від 7 шт">$0.28</param>
 <param name="Drop">$0.44</param>
 </offer>
 <offer id="ts000078201000026739" available="true">
@@ -137928,9 +137950,9 @@
 <description><![CDATA[Наліпки на клавіатуру, українська розкладка допомагають оновити або додати потрібне маркування клавіш. Наносяться на очищену суху поверхню клавіатури.]]></description>
 <quantity_in_stock>12</quantity_in_stock>
 <param name="Бренд">Различные</param>
-<param name="Опт від 3 шт">$0.38</param>
-<param name="Опт від 5 шт">$0.38</param>
-<param name="Опт від 7 шт">$0.37</param>
+<param name="Опт від 3 шт">$0.29</param>
+<param name="Опт від 5 шт">$0.28</param>
+<param name="Опт від 7 шт">$0.28</param>
 <param name="Drop">$0.44</param>
 </offer>
 <offer id="ts000078201000027287" available="true">
@@ -137950,9 +137972,9 @@
 <description><![CDATA[Наліпки на клавіатуру, українська розкладка допомагають оновити або додати потрібне маркування клавіш. Наносяться на очищену суху поверхню клавіатури.]]></description>
 <quantity_in_stock>31</quantity_in_stock>
 <param name="Бренд">Различные</param>
-<param name="Опт від 3 шт">$0.38</param>
-<param name="Опт від 5 шт">$0.38</param>
-<param name="Опт від 7 шт">$0.37</param>
+<param name="Опт від 3 шт">$0.29</param>
+<param name="Опт від 5 шт">$0.28</param>
+<param name="Опт від 7 шт">$0.28</param>
 <param name="Drop">$0.44</param>
 </offer>
 <offer id="ts000079087" available="true">
@@ -142523,9 +142545,9 @@
 <name>Безтіньова LED-лампа F-623, 25 Вт, 54 × 28 см — Black</name>
 <description><![CDATA[Безтіньова LED-лампа для б’юті-майстрів, косметології, тату та зйомки контенту; забезпечує широке рівномірне освітлення робочої зони. Ключові характеристики: потужність 25 Вт, розмір 54×28 см, пульт ДК.]]></description>
 <quantity_in_stock>3</quantity_in_stock>
-<param name="Опт від 2 шт">$19.2</param>
-<param name="Опт від 3 шт">$18.8</param>
-<param name="Опт від 5 шт">$18.4</param>
+<param name="Опт від 2 шт">$14.4</param>
+<param name="Опт від 3 шт">$14.1</param>
+<param name="Опт від 5 шт">$13.8</param>
 <param name="Drop">$16.5</param>
 </offer>
 <offer id="ts000077663000025895" available="true">
@@ -142547,9 +142569,9 @@
 <name>Безтіньова LED-лампа F-623, 25 Вт, 54 × 28 см — Pink</name>
 <description><![CDATA[Безтіньова LED-лампа для б’юті-майстрів, косметології, тату та зйомки контенту; забезпечує широке рівномірне освітлення робочої зони. Ключові характеристики: потужність 25 Вт, розмір 54×28 см, пульт ДК.]]></description>
 <quantity_in_stock>2</quantity_in_stock>
-<param name="Опт від 2 шт">$19.2</param>
-<param name="Опт від 3 шт">$18.8</param>
-<param name="Опт від 5 шт">$18.4</param>
+<param name="Опт від 2 шт">$14.4</param>
+<param name="Опт від 3 шт">$14.1</param>
+<param name="Опт від 5 шт">$13.8</param>
 <param name="Drop">$16.5</param>
 </offer>
 <offer id="ts000077663000025896" available="true">
@@ -142571,9 +142593,9 @@
 <name>Безтіньова LED-лампа F-623, 25 Вт, 54 × 28 см — White</name>
 <description><![CDATA[Безтіньова LED-лампа для б’юті-майстрів, косметології, тату та зйомки контенту; забезпечує широке рівномірне освітлення робочої зони. Ключові характеристики: потужність 25 Вт, розмір 54×28 см, пульт ДК.]]></description>
 <quantity_in_stock>5</quantity_in_stock>
-<param name="Опт від 2 шт">$19.2</param>
-<param name="Опт від 3 шт">$18.8</param>
-<param name="Опт від 5 шт">$18.4</param>
+<param name="Опт від 2 шт">$14.4</param>
+<param name="Опт від 3 шт">$14.1</param>
+<param name="Опт від 5 шт">$13.8</param>
 <param name="Drop">$16.5</param>
 </offer>
 <offer id="ts000077662000025892" available="true">
@@ -142596,9 +142618,9 @@
 <name>Безтіньова LED-лампа F-624, 30 Вт, 72 × 36 см — Pink</name>
 <description><![CDATA[Безтіньова LED-лампа для б’юті-майстрів, косметології, тату та зйомки контенту; забезпечує широке рівномірне освітлення робочої зони. Ключові характеристики: потужність 30 Вт, розмір 72×36 см, пульт ДК.]]></description>
 <quantity_in_stock>1</quantity_in_stock>
-<param name="Опт від 2 шт">$23.04</param>
-<param name="Опт від 3 шт">$22.56</param>
-<param name="Опт від 5 шт">$22.08</param>
+<param name="Опт від 2 шт">$18.24</param>
+<param name="Опт від 3 шт">$17.86</param>
+<param name="Опт від 5 шт">$17.48</param>
 <param name="Drop">$20.9</param>
 </offer>
 <offer id="ts000081407000029853" available="true">
@@ -142621,9 +142643,9 @@
 <description><![CDATA[Безтіньова LED-лампа для б’юті-майстрів, косметології, тату та зйомки контенту; забезпечує широке рівномірне освітлення робочої зони. Ключові характеристики: потужність 20 Вт, CRI 95+, розмір 34 см, адаптер/блок живлення.]]></description>
 <quantity_in_stock>2</quantity_in_stock>
 <param name="Бренд">Различные</param>
-<param name="Опт від 2 шт">$27.36</param>
-<param name="Опт від 3 шт">$26.79</param>
-<param name="Опт від 5 шт">$26.22</param>
+<param name="Опт від 2 шт">$24.0</param>
+<param name="Опт від 3 шт">$23.5</param>
+<param name="Опт від 5 шт">$23.0</param>
 <param name="Drop">$27.5</param>
 </offer>
 <offer id="ts000078992" available="true">
@@ -142650,10 +142672,40 @@
 <description><![CDATA[Безтіньова LED-лампа для б’юті-майстрів, косметології, тату та зйомки контенту; забезпечує широке рівномірне освітлення робочої зони. Ключові характеристики: потужність 40 Вт, колірна температура 3200–5600 K, 320 LED.]]></description>
 <quantity_in_stock>2</quantity_in_stock>
 <param name="Бренд">Различные</param>
-<param name="Опт від 2 шт">$26.88</param>
-<param name="Опт від 3 шт">$26.32</param>
-<param name="Опт від 5 шт">$25.76</param>
+<param name="Опт від 2 шт">$24.0</param>
+<param name="Опт від 3 шт">$23.5</param>
+<param name="Опт від 5 шт">$23.0</param>
 <param name="Drop">$27.5</param>
+</offer>
+<offer id="ts000079804" available="true">
+<url>https://kmt5.com.ua/beztnova-ledlampa-hdm40x-36-vt-145187-sm-chorniy-kolrna-temperatura-32005600-k-50-sm-svtlo238-golovka-lampi-z-splavu-metaleva-opora</url>
+<price>3136</price>
+<vendorprice>2307</vendorprice>
+<vendorpricedoll>51.29</vendorpricedoll>
+<rrcdoll>69.74</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>22721647</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTAvMGIv0KYtMDAwMDc5ODA0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2YvZjAv0KYtMDAwMDc5ODA0XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTkvYWUv0KYtMDAwMDc5ODA0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmUvZjkv0KYtMDAwMDc5ODA0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWQvZWEv0KYtMDAwMDc5ODA0XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGQvZGIv0KYtMDAwMDc5ODA0XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzAvOGQv0KYtMDAwMDc5ODA0XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGIvNDcv0KYtMDAwMDc5ODA0XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWYvNmIv0KYtMDAwMDc5ODA0XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Все</vendor>
+<vendorCode>Ц-000079804</vendorCode>
+<code>780101</code>
+<name>Безтіньова LED-лампа HD-M40X, 36 Вт, 145-187 см, чорний колірна температура 3200-5600 K, 50 см, світло:238 головка лампи зі сплаву + металева опора</name>
+<description><![CDATA[Безтіньова LED-лампа для б’юті-майстрів, косметології, тату та зйомки контенту; забезпечує широке рівномірне освітлення робочої зони. Ключові характеристики: потужність 36 Вт, колірна температура 3200–5600 K, 238 LED, регулювання 145–187 см, пульт ДК, адаптер/блок живлення, металева конструкція.]]></description>
+<quantity_in_stock>1</quantity_in_stock>
+<param name="Бренд">Различные</param>
+<param name="Кнопки управления">Дистанционный пульт</param>
+<param name="Опт від 2 шт">$47.81</param>
+<param name="Опт від 3 шт">$46.81</param>
+<param name="Опт від 5 шт">$45.82</param>
+<param name="Drop">$54.78</param>
 </offer>
 <offer id="ts000079674000027611" available="true">
 <url>https://kmt5.com.ua/lampa-videosvet-led-hdm6x-36w-color-3000k6000k-80x20-300-lights-black</url>
@@ -142756,9 +142808,9 @@
 <description><![CDATA[Безтіньова LED-лампа для б’юті-майстрів, косметології, тату та зйомки контенту; забезпечує широке рівномірне освітлення робочої зони. Ключові характеристики: потужність 20 Вт, колірна температура 3200–5600 K, 208 LED, адаптер/блок живлення, металева конструкція, пластикові/ABS елементи.]]></description>
 <quantity_in_stock>2</quantity_in_stock>
 <param name="Бренд">Различные</param>
-<param name="Опт від 2 шт">$18.24</param>
-<param name="Опт від 3 шт">$17.86</param>
-<param name="Опт від 5 шт">$17.48</param>
+<param name="Опт від 2 шт">$14.4</param>
+<param name="Опт від 3 шт">$14.1</param>
+<param name="Опт від 5 шт">$13.8</param>
 <param name="Drop">$16.5</param>
 </offer>
 <offer id="ts000078990" available="true">
@@ -142784,9 +142836,9 @@
 <description><![CDATA[Безтіньова LED-лампа для б’юті-майстрів, косметології, тату та зйомки контенту; забезпечує широке рівномірне освітлення робочої зони. Ключові характеристики: потужність 20 Вт, колірна температура 3200–5600 K, 208 LED, сенсорне керування.]]></description>
 <quantity_in_stock>4</quantity_in_stock>
 <param name="Бренд">Различные</param>
-<param name="Опт від 2 шт">$18.24</param>
-<param name="Опт від 3 шт">$17.86</param>
-<param name="Опт від 5 шт">$17.48</param>
+<param name="Опт від 2 шт">$14.4</param>
+<param name="Опт від 3 шт">$14.1</param>
+<param name="Опт від 5 шт">$13.8</param>
 <param name="Drop">$16.5</param>
 </offer>
 <offer id="ts000078989" available="true">
@@ -142810,9 +142862,9 @@
 <description><![CDATA[Безтіньова LED-лампа у формі півмісяця підходить для манікюру, нарощування вій, перманентного макіяжу та візажу. Потужність 25 Вт, ширина 55 см, регулювання яскравості й колірної температури, керування з пульта.]]></description>
 <quantity_in_stock>4</quantity_in_stock>
 <param name="Бренд">Различные</param>
-<param name="Опт від 2 шт">$18.24</param>
-<param name="Опт від 3 шт">$17.86</param>
-<param name="Опт від 5 шт">$17.48</param>
+<param name="Опт від 2 шт">$16.51</param>
+<param name="Опт від 3 шт">$16.17</param>
+<param name="Опт від 5 шт">$15.82</param>
 <param name="Drop">$18.92</param>
 </offer>
 <offer id="ts000079159" available="true">
@@ -157387,6 +157439,9 @@
 <param name="Модель девайса">Watch 7 Ultra, Watch 8 Ultra</param>
 <param name="Бренд">Различные</param>
 <param name="Материал">Силикон</param>
+<param name="Опт від 3 шт">$1.9</param>
+<param name="Опт від 5 шт">$1.86</param>
+<param name="Опт від 7 шт">$1.82</param>
 </offer>
 <offer id="ts000084428000032418" available="true">
 <url>https://kmt5.com.ua/remnets-ocean-band-watch-ultra-7-ultra-8-dark-green</url>
@@ -157408,6 +157463,9 @@
 <param name="Модель девайса">Watch 7 Ultra, Watch 8 Ultra</param>
 <param name="Бренд">Различные</param>
 <param name="Материал">Силикон</param>
+<param name="Опт від 3 шт">$1.9</param>
+<param name="Опт від 5 шт">$1.86</param>
+<param name="Опт від 7 шт">$1.82</param>
 </offer>
 <offer id="ts000084428000032417" available="true">
 <url>https://kmt5.com.ua/remnets-ocean-band-watch-ultra-7-ultra-8-hot-blue</url>
@@ -157429,6 +157487,9 @@
 <param name="Модель девайса">Watch 7 Ultra, Watch 8 Ultra</param>
 <param name="Бренд">Различные</param>
 <param name="Материал">Силикон</param>
+<param name="Опт від 3 шт">$1.9</param>
+<param name="Опт від 5 шт">$1.86</param>
+<param name="Опт від 7 шт">$1.82</param>
 </offer>
 <offer id="ts000084428000032419" available="true">
 <url>https://kmt5.com.ua/remnets-ocean-band-watch-ultra-7-ultra-8-mint</url>
@@ -157450,6 +157511,9 @@
 <param name="Модель девайса">Watch 7 Ultra, Watch 8 Ultra</param>
 <param name="Бренд">Различные</param>
 <param name="Материал">Силикон</param>
+<param name="Опт від 3 шт">$1.9</param>
+<param name="Опт від 5 шт">$1.86</param>
+<param name="Опт від 7 шт">$1.82</param>
 </offer>
 <offer id="ts000084428000032421" available="true">
 <url>https://kmt5.com.ua/remnets-ocean-band-watch-ultra-7-ultra-8-orange</url>
@@ -157471,6 +157535,9 @@
 <param name="Модель девайса">Watch 7 Ultra, Watch 8 Ultra</param>
 <param name="Бренд">Различные</param>
 <param name="Материал">Силикон</param>
+<param name="Опт від 3 шт">$1.9</param>
+<param name="Опт від 5 шт">$1.86</param>
+<param name="Опт від 7 шт">$1.82</param>
 </offer>
 <offer id="ts000084428000032422" available="true">
 <url>https://kmt5.com.ua/remnets-ocean-band-watch-ultra-7-ultra-8-white</url>
@@ -157492,6 +157559,9 @@
 <param name="Модель девайса">Watch 7 Ultra, Watch 8 Ultra</param>
 <param name="Бренд">Различные</param>
 <param name="Материал">Силикон</param>
+<param name="Опт від 3 шт">$1.9</param>
+<param name="Опт від 5 шт">$1.86</param>
+<param name="Опт від 7 шт">$1.82</param>
 </offer>
 <offer id="ts000084427000032414" available="true">
 <url>https://kmt5.com.ua/remnets-perforation-band-watch-ultra-7-ultra-8-black</url>
@@ -157513,6 +157583,9 @@
 <param name="Модель девайса">Watch 7 Ultra, Watch 8 Ultra</param>
 <param name="Бренд">Различные</param>
 <param name="Материал">Силикон</param>
+<param name="Опт від 3 шт">$1.9</param>
+<param name="Опт від 5 шт">$1.86</param>
+<param name="Опт від 7 шт">$1.82</param>
 </offer>
 <offer id="ts000084427000032415" available="true">
 <url>https://kmt5.com.ua/remnets-perforation-band-watch-ultra-7-ultra-8-dark-green</url>
@@ -157534,6 +157607,9 @@
 <param name="Модель девайса">Watch 7 Ultra, Watch 8 Ultra</param>
 <param name="Бренд">Различные</param>
 <param name="Материал">Силикон</param>
+<param name="Опт від 3 шт">$1.9</param>
+<param name="Опт від 5 шт">$1.86</param>
+<param name="Опт від 7 шт">$1.82</param>
 </offer>
 <offer id="ts000084427000032413" available="true">
 <url>https://kmt5.com.ua/remnets-perforation-band-watch-ultra-7-ultra-8-grey</url>
@@ -157555,6 +157631,9 @@
 <param name="Модель девайса">Watch 7 Ultra, Watch 8 Ultra</param>
 <param name="Бренд">Различные</param>
 <param name="Материал">Силикон</param>
+<param name="Опт від 3 шт">$1.9</param>
+<param name="Опт від 5 шт">$1.86</param>
+<param name="Опт від 7 шт">$1.82</param>
 </offer>
 <offer id="ts000084427000032416" available="true">
 <url>https://kmt5.com.ua/remnets-perforation-band-watch-ultra-7-ultra-8-orange</url>
@@ -157576,6 +157655,9 @@
 <param name="Модель девайса">Watch 7 Ultra, Watch 8 Ultra</param>
 <param name="Бренд">Различные</param>
 <param name="Материал">Силикон</param>
+<param name="Опт від 3 шт">$1.9</param>
+<param name="Опт від 5 шт">$1.86</param>
+<param name="Опт від 7 шт">$1.82</param>
 </offer>
 <offer id="ts000084426000032408" available="true">
 <url>https://kmt5.com.ua/remnets-silicone-band-watch-ultra-7-ultra-8-black</url>
@@ -157598,6 +157680,9 @@
 <param name="Модель девайса">Watch 7 Ultra, Watch 8 Ultra</param>
 <param name="Бренд">Различные</param>
 <param name="Материал">Силикон</param>
+<param name="Опт від 3 шт">$2.15</param>
+<param name="Опт від 5 шт">$2.11</param>
+<param name="Опт від 7 шт">$2.06</param>
 </offer>
 <offer id="ts000084426000032410" available="true">
 <url>https://kmt5.com.ua/remnets-silicone-band-watch-ultra-7-ultra-8-dark-blue</url>
@@ -157620,6 +157705,9 @@
 <param name="Модель девайса">Watch 7 Ultra, Watch 8 Ultra</param>
 <param name="Бренд">Различные</param>
 <param name="Материал">Силикон</param>
+<param name="Опт від 3 шт">$2.15</param>
+<param name="Опт від 5 шт">$2.11</param>
+<param name="Опт від 7 шт">$2.06</param>
 </offer>
 <offer id="ts000084426000032412" available="true">
 <url>https://kmt5.com.ua/remnets-silicone-band-watch-ultra-7-ultra-8-dark-green</url>
@@ -157642,6 +157730,9 @@
 <param name="Модель девайса">Watch 7 Ultra, Watch 8 Ultra</param>
 <param name="Бренд">Различные</param>
 <param name="Материал">Силикон</param>
+<param name="Опт від 3 шт">$2.15</param>
+<param name="Опт від 5 шт">$2.11</param>
+<param name="Опт від 7 шт">$2.06</param>
 </offer>
 <offer id="ts000084426000032409" available="true">
 <url>https://kmt5.com.ua/remnets-silicone-band-watch-ultra-7-ultra-8-dark-grey</url>
@@ -157664,6 +157755,9 @@
 <param name="Модель девайса">Watch 7 Ultra, Watch 8 Ultra</param>
 <param name="Бренд">Различные</param>
 <param name="Материал">Силикон</param>
+<param name="Опт від 3 шт">$2.15</param>
+<param name="Опт від 5 шт">$2.11</param>
+<param name="Опт від 7 шт">$2.06</param>
 </offer>
 <offer id="ts000084426000032411" available="true">
 <url>https://kmt5.com.ua/remnets-silicone-band-watch-ultra-7-ultra-8-orange</url>
@@ -157686,6 +157780,9 @@
 <param name="Модель девайса">Watch 7 Ultra, Watch 8 Ultra</param>
 <param name="Бренд">Различные</param>
 <param name="Материал">Силикон</param>
+<param name="Опт від 3 шт">$2.15</param>
+<param name="Опт від 5 шт">$2.11</param>
+<param name="Опт від 7 шт">$2.06</param>
 </offer>
 <offer id="ts000043037000013026" available="true">
 <url>https://kmt5.com.ua/remnets-silicone-sport-band-xiaomi-mi-band-2-black</url>
@@ -159719,9 +159816,9 @@
 <description><![CDATA[Смарт-годинник Borofone BD17 використовується для сповіщень, контролю активності та роботи з функціями підключеного смартфона. Основні характеристики: • Тип: смарт-годинник • Функції: сповіщення зі смартфона]]></description>
 <quantity_in_stock>7</quantity_in_stock>
 <param name="Бренд">Borofone</param>
-<param name="Опт від 3 шт">$12.0</param>
-<param name="Опт від 5 шт">$11.75</param>
-<param name="Опт від 7 шт">$11.5</param>
+<param name="Опт від 3 шт">$11.42</param>
+<param name="Опт від 5 шт">$11.19</param>
+<param name="Опт від 7 шт">$10.95</param>
 <param name="Drop">$13.75</param>
 </offer>
 <offer id="ts000081697000030003" available="true">
@@ -159866,9 +159963,9 @@
 <description><![CDATA[Смарт-годинник WiWU SW07 використовується для сповіщень, контролю активності та роботи з функціями підключеного смартфона. Основні характеристики: • Тип: смарт-годинник • Дисплей: AMOLED, 1,32″ • Підключення: Bluetooth 5,4 • Акумулятор: 220 мА·год • Автономність: 150 днів • Захист: IP68 • Заряджання: магнітне / бездротове • Розміри: 138 × 147 × 33 мм • Вага: 0,23 кг • Функції: відображення сповіщень і контроль активності]]></description>
 <quantity_in_stock>3</quantity_in_stock>
 <param name="Бренд">Wiwu</param>
-<param name="Опт від 3 шт">$26.4</param>
-<param name="Опт від 5 шт">$25.85</param>
-<param name="Опт від 7 шт">$25.3</param>
+<param name="Опт від 3 шт">$24.96</param>
+<param name="Опт від 5 шт">$24.44</param>
+<param name="Опт від 7 шт">$23.92</param>
 <param name="Drop">$30.25</param>
 </offer>
 <offer id="ts000082751000030697" available="true">
@@ -159890,9 +159987,9 @@
 <description><![CDATA[Смарт-годинник WiWU SW07 використовується для сповіщень, контролю активності та роботи з функціями підключеного смартфона. Основні характеристики: • Тип: смарт-годинник • Дисплей: AMOLED, 1,32″ • Підключення: Bluetooth 5,4 • Акумулятор: 220 мА·год • Автономність: 150 днів • Захист: IP68 • Заряджання: магнітне / бездротове • Розміри: 138 × 147 × 33 мм • Вага: 0,23 кг • Функції: відображення сповіщень і контроль активності]]></description>
 <quantity_in_stock>5</quantity_in_stock>
 <param name="Бренд">Wiwu</param>
-<param name="Опт від 3 шт">$26.4</param>
-<param name="Опт від 5 шт">$25.85</param>
-<param name="Опт від 7 шт">$25.3</param>
+<param name="Опт від 3 шт">$24.96</param>
+<param name="Опт від 5 шт">$24.44</param>
+<param name="Опт від 7 шт">$23.92</param>
 <param name="Drop">$30.25</param>
 </offer>
 <offer id="ts000080826" available="true">
@@ -171821,9 +171918,9 @@
 <description><![CDATA[Смарт-годинник Borofone BD13, Дзвінки використовується для сповіщень, контролю активності та роботи з функціями підключеного смартфона. Основні характеристики: • Тип: смарт-годинник • Дисплей: TFT, 1,83″ • Роздільна здатність: 240 × 284 • Підключення: Bluetooth 5,0 • Акумулятор: 230 мА·год • Функції: Bluetooth-дзвінки, сповіщення зі смартфона, моніторинг сну, крокомір, спортивні режими, відображення погоди]]></description>
 <quantity_in_stock>2</quantity_in_stock>
 <param name="Бренд">Borofone</param>
-<param name="Опт від 3 шт">$9.89</param>
-<param name="Опт від 5 шт">$9.68</param>
-<param name="Опт від 7 шт">$9.48</param>
+<param name="Опт від 3 шт">$9.5</param>
+<param name="Опт від 5 шт">$9.31</param>
+<param name="Опт від 7 шт">$9.11</param>
 <param name="Drop">$11.33</param>
 </offer>
 <offer id="ts000082860000030783" available="true">
@@ -172029,9 +172126,9 @@
 <description><![CDATA[Смарт-годинник Earldom ET-SW15 використовується для сповіщень, контролю активності та роботи з функціями підключеного смартфона. Основні характеристики: • Тип: смарт-годинник • Функції: сповіщення зі смартфона]]></description>
 <quantity_in_stock>3</quantity_in_stock>
 <param name="Бренд">Earldom</param>
-<param name="Опт від 3 шт">$25.44</param>
-<param name="Опт від 5 шт">$24.91</param>
-<param name="Опт від 7 шт">$24.38</param>
+<param name="Опт від 3 шт">$21.12</param>
+<param name="Опт від 5 шт">$20.68</param>
+<param name="Опт від 7 шт">$20.24</param>
 <param name="Drop">$29.15</param>
 </offer>
 <offer id="ts000083415" available="true">
@@ -172058,9 +172155,9 @@
 <description><![CDATA[Смарт-годинник Earldom ET-SW17 використовується для сповіщень, контролю активності та роботи з функціями підключеного смартфона. Основні характеристики: • Тип: смарт-годинник • Функції: сповіщення зі смартфона]]></description>
 <quantity_in_stock>3</quantity_in_stock>
 <param name="Бренд">Earldom</param>
-<param name="Опт від 3 шт">$22.94</param>
-<param name="Опт від 5 шт">$22.47</param>
-<param name="Опт від 7 шт">$21.99</param>
+<param name="Опт від 3 шт">$18.24</param>
+<param name="Опт від 5 шт">$17.86</param>
+<param name="Опт від 7 шт">$17.48</param>
 <param name="Drop">$26.29</param>
 </offer>
 <offer id="ts000083414" available="true">
@@ -172087,9 +172184,9 @@
 <description><![CDATA[Смарт-годинник Earldom ET-SW19 використовується для сповіщень, контролю активності та роботи з функціями підключеного смартфона. Основні характеристики: • Тип: смарт-годинник • Функції: сповіщення зі смартфона]]></description>
 <quantity_in_stock>3</quantity_in_stock>
 <param name="Бренд">Earldom</param>
-<param name="Опт від 3 шт">$25.73</param>
-<param name="Опт від 5 шт">$25.19</param>
-<param name="Опт від 7 шт">$24.66</param>
+<param name="Опт від 3 шт">$21.12</param>
+<param name="Опт від 5 шт">$20.68</param>
+<param name="Опт від 7 шт">$20.24</param>
 <param name="Drop">$29.48</param>
 </offer>
 <offer id="ts000083413" available="true">
@@ -172109,9 +172206,9 @@
 <description><![CDATA[Смарт-годинник Earldom ET-SW22 використовується для сповіщень, контролю активності та роботи з функціями підключеного смартфона. Основні характеристики: • Тип: смарт-годинник • Функції: сповіщення зі смартфона]]></description>
 <quantity_in_stock>1</quantity_in_stock>
 <param name="Бренд">Earldom</param>
-<param name="Опт від 3 шт">$30.72</param>
-<param name="Опт від 5 шт">$30.08</param>
-<param name="Опт від 7 шт">$29.44</param>
+<param name="Опт від 3 шт">$27.84</param>
+<param name="Опт від 5 шт">$27.26</param>
+<param name="Опт від 7 шт">$26.68</param>
 <param name="Drop">$35.2</param>
 </offer>
 <offer id="ts000080905000029525" available="true">
@@ -172207,9 +172304,9 @@
 <description><![CDATA[Смарт-годинник Hoco Y30, Дзвінки використовується для сповіщень, контролю активності та роботи з функціями підключеного смартфона. Основні характеристики: • Тип: смарт-годинник • Дисплей: 1,5″ • Роздільна здатність: 240 × 240 • Підключення: Bluetooth 5,3 • Акумулятор: 220 мА·год • Функції: Bluetooth-дзвінки, GPS-позиціонування]]></description>
 <quantity_in_stock>8</quantity_in_stock>
 <param name="Бренд">Hoco</param>
-<param name="Опт від 3 шт">$15.07</param>
-<param name="Опт від 5 шт">$14.76</param>
-<param name="Опт від 7 шт">$14.44</param>
+<param name="Опт від 3 шт">$14.3</param>
+<param name="Опт від 5 шт">$14.01</param>
+<param name="Опт від 7 шт">$13.71</param>
 <param name="Drop">$17.27</param>
 </offer>
 <offer id="ts000082485000030460" available="true">
@@ -172362,9 +172459,9 @@
 <description><![CDATA[Смарт-годинник Hoco Y40, Дзвінки використовується для сповіщень, контролю активності та роботи з функціями підключеного смартфона. Основні характеристики: • Тип: смарт-годинник • Функції: Bluetooth-дзвінки, сповіщення зі смартфона]]></description>
 <quantity_in_stock>27</quantity_in_stock>
 <param name="Бренд">Hoco</param>
-<param name="Опт від 3 шт">$16.13</param>
-<param name="Опт від 5 шт">$15.79</param>
-<param name="Опт від 7 шт">$15.46</param>
+<param name="Опт від 3 шт">$14.3</param>
+<param name="Опт від 5 шт">$14.01</param>
+<param name="Опт від 7 шт">$13.71</param>
 <param name="Drop">$18.48</param>
 </offer>
 <offer id="ts000083230000031154" available="true">
@@ -172386,9 +172483,9 @@
 <description><![CDATA[Смарт-годинник Hoco Y41, Дзвінки використовується для сповіщень, контролю активності та роботи з функціями підключеного смартфона. Основні характеристики: • Тип: смарт-годинник • Дисплей: TFT • Роздільна здатність: 320 × 386 • Підключення: Bluetooth 5,3 • Акумулятор: 300 мА·год • Автономність: 3–5 дні • Захист: IP67 • Застосунок: FitcloudPro • Функції: Bluetooth-дзвінки, вимірювання пульсу, вимірювання SpO₂, відображення погоди]]></description>
 <quantity_in_stock>19</quantity_in_stock>
 <param name="Бренд">Hoco</param>
-<param name="Опт від 3 шт">$15.84</param>
-<param name="Опт від 5 шт">$15.51</param>
-<param name="Опт від 7 шт">$15.18</param>
+<param name="Опт від 3 шт">$13.34</param>
+<param name="Опт від 5 шт">$13.07</param>
+<param name="Опт від 7 шт">$12.79</param>
 <param name="Drop">$18.15</param>
 </offer>
 <offer id="ts000083230000031155" available="true">
@@ -172410,9 +172507,9 @@
 <description><![CDATA[Смарт-годинник Hoco Y41, Дзвінки використовується для сповіщень, контролю активності та роботи з функціями підключеного смартфона. Основні характеристики: • Тип: смарт-годинник • Дисплей: TFT • Роздільна здатність: 320 × 386 • Підключення: Bluetooth 5,3 • Акумулятор: 300 мА·год • Автономність: 3–5 дні • Захист: IP67 • Застосунок: FitcloudPro • Функції: Bluetooth-дзвінки, вимірювання пульсу, вимірювання SpO₂, відображення погоди]]></description>
 <quantity_in_stock>1</quantity_in_stock>
 <param name="Бренд">Hoco</param>
-<param name="Опт від 3 шт">$15.84</param>
-<param name="Опт від 5 шт">$15.51</param>
-<param name="Опт від 7 шт">$15.18</param>
+<param name="Опт від 3 шт">$13.34</param>
+<param name="Опт від 5 шт">$13.07</param>
+<param name="Опт від 7 шт">$12.79</param>
 <param name="Drop">$18.15</param>
 </offer>
 <offer id="ts000083446000031546" available="true">
@@ -172438,9 +172535,9 @@
 <description><![CDATA[Смарт-годинник Hoco Y42 Ultra, Дзвінки використовується для сповіщень, контролю активності та роботи з функціями підключеного смартфона. Основні характеристики: • Тип: смарт-годинник • Функції: Bluetooth-дзвінки, сповіщення зі смартфона]]></description>
 <quantity_in_stock>3</quantity_in_stock>
 <param name="Бренд">Hoco</param>
-<param name="Опт від 3 шт">$15.17</param>
-<param name="Опт від 5 шт">$14.85</param>
-<param name="Опт від 7 шт">$14.54</param>
+<param name="Опт від 3 шт">$14.3</param>
+<param name="Опт від 5 шт">$14.01</param>
+<param name="Опт від 7 шт">$13.71</param>
 <param name="Drop">$17.38</param>
 </offer>
 <offer id="ts000083446000031547" available="true">
@@ -172466,9 +172563,9 @@
 <description><![CDATA[Смарт-годинник Hoco Y42 Ultra, Дзвінки використовується для сповіщень, контролю активності та роботи з функціями підключеного смартфона. Основні характеристики: • Тип: смарт-годинник • Функції: Bluetooth-дзвінки, сповіщення зі смартфона]]></description>
 <quantity_in_stock>6</quantity_in_stock>
 <param name="Бренд">Hoco</param>
-<param name="Опт від 3 шт">$15.17</param>
-<param name="Опт від 5 шт">$14.85</param>
-<param name="Опт від 7 шт">$14.54</param>
+<param name="Опт від 3 шт">$14.3</param>
+<param name="Опт від 5 шт">$14.01</param>
+<param name="Опт від 7 шт">$13.71</param>
 <param name="Drop">$17.38</param>
 </offer>
 <offer id="ts000083191000031147" available="true">
@@ -172575,9 +172672,9 @@
 <description><![CDATA[Смарт-годинник WiWU SW08 використовується для сповіщень, контролю активності та роботи з функціями підключеного смартфона. Основні характеристики: • Тип: смарт-годинник • Дисплей: AMOLED, 1,92″ • Підключення: Bluetooth 5,4 • Акумулятор: 300 мА·год • Автономність: 150 днів • Захист: IP68 • Заряджання: магнітне / бездротове • Розміри: 138 × 147 × 33 мм • Функції: відображення сповіщень і контроль активності]]></description>
 <quantity_in_stock>1</quantity_in_stock>
 <param name="Бренд">Wiwu</param>
-<param name="Опт від 3 шт">$27.36</param>
-<param name="Опт від 5 шт">$26.79</param>
-<param name="Опт від 7 шт">$26.22</param>
+<param name="Опт від 3 шт">$26.4</param>
+<param name="Опт від 5 шт">$25.85</param>
+<param name="Опт від 7 шт">$25.3</param>
 <param name="Drop">$31.35</param>
 </offer>
 <offer id="ts000082542000030559" available="true">
@@ -172600,9 +172697,9 @@
 <description><![CDATA[Смарт-годинник WiWU SW09 використовується для сповіщень, контролю активності та роботи з функціями підключеного смартфона. Основні характеристики: • Тип: смарт-годинник • Дисплей: 1,83″ • Роздільна здатність: 240 × 284 • Підключення: Bluetooth 5,4 • Акумулятор: 280 мА·год • Автономність: 10–15 днів • Заряджання: магнітне • Функції: відображення сповіщень і контроль активності]]></description>
 <quantity_in_stock>13</quantity_in_stock>
 <param name="Бренд">Wiwu</param>
-<param name="Опт від 3 шт">$13.34</param>
-<param name="Опт від 5 шт">$13.07</param>
-<param name="Опт від 7 шт">$12.79</param>
+<param name="Опт від 3 шт">$12.67</param>
+<param name="Опт від 5 шт">$12.41</param>
+<param name="Опт від 7 шт">$12.14</param>
 <param name="Drop">$15.29</param>
 </offer>
 <offer id="ts000082542000030560" available="true">
@@ -172625,9 +172722,9 @@
 <description><![CDATA[Смарт-годинник WiWU SW09 використовується для сповіщень, контролю активності та роботи з функціями підключеного смартфона. Основні характеристики: • Тип: смарт-годинник • Дисплей: 1,83″ • Роздільна здатність: 240 × 284 • Підключення: Bluetooth 5,4 • Акумулятор: 280 мА·год • Автономність: 10–15 днів • Заряджання: магнітне • Функції: відображення сповіщень і контроль активності]]></description>
 <quantity_in_stock>9</quantity_in_stock>
 <param name="Бренд">Wiwu</param>
-<param name="Опт від 3 шт">$13.34</param>
-<param name="Опт від 5 шт">$13.07</param>
-<param name="Опт від 7 шт">$12.79</param>
+<param name="Опт від 3 шт">$12.67</param>
+<param name="Опт від 5 шт">$12.41</param>
+<param name="Опт від 7 шт">$12.14</param>
 <param name="Drop">$15.29</param>
 </offer>
 <offer id="ts000074094000024068" available="true">
@@ -184942,6 +185039,9 @@
 <description><![CDATA[Набір прецизійних викруток Hoco UT10 зі змінними бітами для ремонту електроніки. Конфігурація — 32 в 1.]]></description>
 <quantity_in_stock>25</quantity_in_stock>
 <param name="Бренд">Hoco</param>
+<param name="Опт від 3 шт">$3.72</param>
+<param name="Опт від 6 шт">$3.65</param>
+<param name="Опт від 10 шт">$3.57</param>
 <param name="Drop">$4.27</param>
 </offer>
 <offer id="ts000083440" available="true">
@@ -184963,6 +185063,9 @@
 <description><![CDATA[Набір прецизійних викруток Hoco UT11 для роботи з кріпленнями електроніки. Конфігурація — 31 в 1, викрутка зі змінними бітами.]]></description>
 <quantity_in_stock>17</quantity_in_stock>
 <param name="Бренд">Hoco</param>
+<param name="Опт від 3 шт">$6.6</param>
+<param name="Опт від 6 шт">$6.47</param>
+<param name="Опт від 10 шт">$6.33</param>
 <param name="Drop">$7.57</param>
 </offer>
 <offer id="ts000082675" available="true">
@@ -190551,6 +190654,29 @@
 <param name="Опт від 7 шт">$0.33</param>
 <param name="Опт від 10 шт">$0.32</param>
 <param name="Drop">$0.39</param>
+</offer>
+<offer id="ts000065583000006877" available="true">
+<url>https://kmt5.com.ua/koltso-derjatel-animals-design-2</url>
+<price>50</price>
+<vendorprice>26</vendorprice>
+<vendorpricedoll>0.58</vendorpricedoll>
+<rrcdoll>1.11</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>26128749</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzQvMmUv0KYtMDAwMDY1NTgzXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzIvNmUv0KYtMDAwMDY1NTgzXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWMvZDQv0KYtMDAwMDY1NTgzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTAvZTEv0KYtMDAwMDY1NTgzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Другие</vendor>
+<vendorCode>Ц-000065583</vendorCode>
+<code>726848</code>
+<name>Тримач-кільце для смартфона «Animals» — Design 2</name>
+<description><![CDATA[Тримач-кільце для смартфона «Animals» покращує хват смартфона та зменшує ризик випадкового вислизання з руки. Аксесуар також можна використовувати як компактну підставку для перегляду контенту.]]></description>
+<quantity_in_stock>3</quantity_in_stock>
+<param name="Бренд">Различные</param>
+<param name="Материал">Пластик</param>
+<param name="Украшения для Телефонов">Попсокет и Кольцо</param>
+<param name="Drop">$0.61</param>
 </offer>
 </offers>
 </shop>
