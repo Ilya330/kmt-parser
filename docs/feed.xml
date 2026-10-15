@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-15 13:45">
+<yml_catalog date="2026-10-15 18:45">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -417,7 +417,7 @@
 <code>792282</code>
 <name>TPU-чохол Rock Crystal Armor Series Anti-Yellowing з MagSafe — iPhone 18 Pro Max — Black</name>
 <description><![CDATA[Чохол для iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. TPU-матеріал поєднує гнучкість і зносостійкість.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>15</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 18 Pro Max</param>
@@ -444,6 +444,32 @@
 <name>TPU-чохол Rock Crystal Armor Series Anti-Yellowing з MagSafe — iPhone 18 Pro Max — Blue</name>
 <description><![CDATA[Чохол для iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. TPU-матеріал поєднує гнучкість і зносостійкість.]]></description>
 <quantity_in_stock>8</quantity_in_stock>
+<param name="Форм-фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 18 Pro Max</param>
+<param name="Бренд">Rock</param>
+<param name="Матеріал">Пластик &amp; TPU</param>
+<param name="Опт від 5 шт">$7.58</param>
+<param name="Опт від 7 шт">$7.43</param>
+<param name="Опт від 10 шт">$7.27</param>
+<param name="Drop">$8.69</param>
+</offer>
+<offer id="ts000084358000032278" available="true">
+<url>https://kmt5.com.ua/tpuchohol-rock-crystal-armor-series-antiyellowing-z-magsafe-iphone-18-pro-max-transparent</url>
+<price>640</price>
+<vendorprice>368</vendorprice>
+<vendorpricedoll>8.14</vendorpricedoll>
+<rrcdoll>14.16</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>16060343</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWMvMDAv0KYtMDAwMDg0MzU4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWQvMDUv0KYtMDAwMDg0MzU4XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000084358</vendorCode>
+<code>792285</code>
+<name>TPU-чохол Rock Crystal Armor Series Anti-Yellowing з MagSafe — iPhone 18 Pro Max — Transparent</name>
+<description><![CDATA[Чохол для iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. TPU-матеріал поєднує гнучкість і зносостійкість.]]></description>
+<quantity_in_stock>9</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 18 Pro Max</param>
@@ -545,7 +571,7 @@
 <code>792302</code>
 <name>TPU-чохол Rock Crystal накладка Anti-drop Series з MagSafe — iPhone 18 Pro Max — Blue</name>
 <description><![CDATA[Накладка для iPhone 18 Pro Max для захисту задньої панелі та бокових граней смартфона від подряпин і потертостей. Сумісний із магнітними аксесуарами MagSafe. TPU-матеріал поєднує гнучкість і зносостійкість.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 18 Pro Max</param>
@@ -570,12 +596,37 @@
 <code>792303</code>
 <name>TPU-чохол Rock Crystal накладка Anti-drop Series з MagSafe — iPhone 18 Pro Max — Red</name>
 <description><![CDATA[Накладка для iPhone 18 Pro Max для захисту задньої панелі та бокових граней смартфона від подряпин і потертостей. Сумісний із магнітними аксесуарами MagSafe. TPU-матеріал поєднує гнучкість і зносостійкість.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 18 Pro Max</param>
 <param name="Бренд">Rock</param>
 <param name="Матеріал">Пластик &amp; TPU</param>
+<param name="Опт від 5 шт">$8.93</param>
+<param name="Опт від 7 шт">$8.74</param>
+<param name="Опт від 10 шт">$8.56</param>
+<param name="Drop">$10.23</param>
+</offer>
+<offer id="ts000084361000032290" available="true">
+<url>https://kmt5.com.ua/tpuchohol-rock-crystal-nakladka-antidrop-series-z-magsafe-iphone-18-pro-black</url>
+<price>755</price>
+<vendorprice>433</vendorprice>
+<vendorpricedoll>9.58</vendorpricedoll>
+<rrcdoll>16.71</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>16060343</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGUvY2Yv0KYtMDAwMDg0MzYxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000084361</vendorCode>
+<code>792300</code>
+<name>TPU-чохол Rock Crystal накладка Anti-drop Series з MagSafe — iPhone 18 Pro — Black</name>
+<description><![CDATA[Накладка для iPhone 18 Pro для захисту задньої панелі та бокових граней смартфона від подряпин і потертостей. Сумісний із магнітними аксесуарами MagSafe. TPU-матеріал поєднує гнучкість і зносостійкість.]]></description>
+<quantity_in_stock>5</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 18 Pro</param>
+<param name="Бренд">Rock</param>
+<param name="Материал">Пластик &amp; TPU</param>
 <param name="Опт від 5 шт">$8.93</param>
 <param name="Опт від 7 шт">$8.74</param>
 <param name="Опт від 10 шт">$8.56</param>
@@ -671,10 +722,34 @@
 <code>792265</code>
 <name>TPU-чохол Rock Guard Series з MagSafe — iPhone 18 Pro Max — Blue</name>
 <description><![CDATA[Чохол для iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. TPU-матеріал поєднує гнучкість і зносостійкість.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 18 Pro Max</param>
+<param name="Бренд">Rock</param>
+<param name="Опт від 5 шт">$5.66</param>
+<param name="Опт від 7 шт">$5.55</param>
+<param name="Опт від 10 шт">$5.43</param>
+<param name="Drop">$6.49</param>
+</offer>
+<offer id="ts000084353000032258" available="true">
+<url>https://kmt5.com.ua/tpuchohol-rock-guard-series-z-magsafe-iphone-18-pro-blue</url>
+<price>479</price>
+<vendorprice>275</vendorprice>
+<vendorpricedoll>6.08</vendorpricedoll>
+<rrcdoll>10.6</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>16060343</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODEvODcv0KYtMDAwMDg0MzUzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000084353</vendorCode>
+<code>792260</code>
+<name>TPU-чохол Rock Guard Series з MagSafe — iPhone 18 Pro — Blue</name>
+<description><![CDATA[Чохол для iPhone 18 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. TPU-матеріал поєднує гнучкість і зносостійкість.]]></description>
+<quantity_in_stock>3</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 18 Pro</param>
 <param name="Бренд">Rock</param>
 <param name="Опт від 5 шт">$5.66</param>
 <param name="Опт від 7 шт">$5.55</param>
@@ -746,7 +821,7 @@
 <code>792295</code>
 <name>TPU-чохол Rock Iridescent Series з MagSafe — iPhone 18 Pro Max — White</name>
 <description><![CDATA[Чохол для iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. TPU-матеріал поєднує гнучкість і зносостійкість.]]></description>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>14</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 18 Pro Max</param>
@@ -781,6 +856,31 @@
 <param name="Опт від 10 шт">$7.73</param>
 <param name="Drop">$9.24</param>
 </offer>
+<offer id="ts000084359000032282" available="true">
+<url>https://kmt5.com.ua/tpuchohol-rock-iridescent-series-z-magsafe-iphone-18-pro-white</url>
+<price>682</price>
+<vendorprice>391</vendorprice>
+<vendorpricedoll>8.65</vendorpricedoll>
+<rrcdoll>15.09</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>16060343</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmYvMmYv0KYtMDAwMDg0MzU5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWEvN2Qv0KYtMDAwMDg0MzU5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000084359</vendorCode>
+<code>792290</code>
+<name>TPU-чохол Rock Iridescent Series з MagSafe — iPhone 18 Pro — White</name>
+<description><![CDATA[Чохол для iPhone 18 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. TPU-матеріал поєднує гнучкість і зносостійкість.]]></description>
+<quantity_in_stock>6</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 18 Pro</param>
+<param name="Бренд">Rock</param>
+<param name="Опт від 5 шт">$8.06</param>
+<param name="Опт від 7 шт">$7.9</param>
+<param name="Опт від 10 шт">$7.73</param>
+<param name="Drop">$9.24</param>
+</offer>
 <offer id="ts000084356000032266" available="true">
 <url>https://kmt5.com.ua/magntniy-zahist-chohol-rock-guard-touch-metaleviy-lens-frame-iphone-18-pro-max-black</url>
 <price>681</price>
@@ -800,7 +900,7 @@
 <code>792271</code>
 <name>Магнітний захист чохол Rock Guard Touch (металевий Lens Frame) — iPhone 18 Pro Max — Black</name>
 <description><![CDATA[Чохол для iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>9</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 18 Pro Max</param>
@@ -825,7 +925,32 @@
 <code>792274</code>
 <name>Магнітний захист чохол Rock Guard Touch (металевий Lens Frame) — iPhone 18 Pro Max — Gray</name>
 <description><![CDATA[Чохол для iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень.]]></description>
-<quantity_in_stock>7</quantity_in_stock>
+<quantity_in_stock>17</quantity_in_stock>
+<param name="Форм-фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 18 Pro Max</param>
+<param name="Бренд">Rock</param>
+<param name="Опт від 5 шт">$8.06</param>
+<param name="Опт від 7 шт">$7.9</param>
+<param name="Опт від 10 шт">$7.73</param>
+<param name="Drop">$9.24</param>
+</offer>
+<offer id="ts000084356000032270" available="true">
+<url>https://kmt5.com.ua/magntniy-zahist-chohol-rock-guard-touch-metaleviy-lens-frame-iphone-18-pro-max-white</url>
+<price>681</price>
+<vendorprice>391</vendorprice>
+<vendorpricedoll>8.65</vendorpricedoll>
+<rrcdoll>15.06</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>16060343</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDYvODIv0KYtMDAwMDg0MzU2XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTEvZTAv0KYtMDAwMDg0MzU2XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000084356</vendorCode>
+<code>792275</code>
+<name>Магнітний захист чохол Rock Guard Touch (металевий Lens Frame) — iPhone 18 Pro Max — White</name>
+<description><![CDATA[Чохол для iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень.]]></description>
+<quantity_in_stock>15</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 18 Pro Max</param>
@@ -26303,6 +26428,38 @@
 <param name="Опт від 10 шт">$7.27</param>
 <param name="Drop">$8.69</param>
 </offer>
+<offer id="ts000082091000030171" available="true">
+<url>https://kmt5.com.ua/rock-armor-matte-series-tpu-case-with-magsafe-iphone-17-pro-max-black</url>
+<price>592</price>
+<vendorprice>368</vendorprice>
+<vendorpricedoll>8.14</vendorpricedoll>
+<rrcdoll>13.09</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>54622491</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzAvMzUv0KYtMDAwMDgyMDkxXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjIvNDIv0KYtMDAwMDgyMDkxXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWUvNGEv0KYtMDAwMDgyMDkxXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjkvN2Iv0KYtMDAwMDgyMDkxXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2IvMzAv0KYtMDAwMDgyMDkxXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTcvZGYv0KYtMDAwMDgyMDkxXzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGYvZDkv0KYtMDAwMDgyMDkxXzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGUvNTgv0KYtMDAwMDgyMDkxXzEyLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDAvMjUv0KYtMDAwMDgyMDkxXzEzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000082091</vendorCode>
+<code>787966</code>
+<name>TPU-чохол Rock Armor матовий Series з MagSafe — iPhone 17 Pro Max/iPhone 18 Pro Max — Black</name>
+<description><![CDATA[Чохол для iPhone 17 Pro Max/iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. TPU-матеріал поєднує гнучкість і зносостійкість. Матова поверхня має стриманий вигляд і менш помітні сліди дотиків.]]></description>
+<quantity_in_stock>2</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
+<param name="Бренд">Rock</param>
+<param name="Опт від 5 шт">$7.58</param>
+<param name="Опт від 7 шт">$7.43</param>
+<param name="Опт від 10 шт">$7.27</param>
+<param name="Drop">$8.69</param>
+</offer>
 <offer id="ts000082091000030173" available="true">
 <url>https://kmt5.com.ua/rock-armor-matte-series-tpu-case-with-magsafe-iphone-17-pro-max-light-blue</url>
 <price>590</price>
@@ -29258,6 +29415,30 @@
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Xiaomi</param>
 <param name="Модель девайса">Xiaomi Redmi 10C 4G</param>
+<param name="Бренд">Различные</param>
+<param name="Опт від 5 шт">$0.77</param>
+<param name="Опт від 7 шт">$0.75</param>
+<param name="Опт від 10 шт">$0.74</param>
+<param name="Drop">$0.88</param>
+</offer>
+<offer id="ts000077609000025743" available="true">
+<url>https://kmt5.com.ua/soft-touch-tpu-case-xiaomi-redmi-12-black</url>
+<price>60</price>
+<vendorprice>37</vendorprice>
+<vendorpricedoll>0.82</vendorpricedoll>
+<rrcdoll>1.32</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>61954391</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDcvYWEv0KYtMDAwMDc3NjA5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Все</vendor>
+<vendorCode>Ц-000077609</vendorCode>
+<code>775725</code>
+<name>TPU-чохол Soft Touch — Xiaomi Redmi 12 — Black</name>
+<description><![CDATA[Чохол для Xiaomi Redmi 12 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. TPU-матеріал поєднує гнучкість і зносостійкість.]]></description>
+<quantity_in_stock>5</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Xiaomi</param>
+<param name="Модель девайса">Xiaomi Redmi 12</param>
 <param name="Бренд">Различные</param>
 <param name="Опт від 5 шт">$0.77</param>
 <param name="Опт від 7 шт">$0.75</param>
@@ -48376,7 +48557,7 @@
 <code>782547</code>
 <name>Силіконовий чохол з MagSafe — iPhone 16 Pro Max — Black</name>
 <description><![CDATA[Чохол для iPhone 16 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>30</quantity_in_stock>
+<quantity_in_stock>29</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16 Pro Max</param>
@@ -48400,7 +48581,7 @@
 <code>782552</code>
 <name>Силіконовий чохол з MagSafe — iPhone 16 Pro Max — Fuchsia</name>
 <description><![CDATA[Чохол для iPhone 16 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16 Pro Max</param>
@@ -72568,6 +72749,37 @@
 <param name="Опт від 10 шт">$2.74</param>
 <param name="Drop">$3.28</param>
 </offer>
+<offer id="ts000083279000031469" available="true">
+<url>https://kmt5.com.ua/smoky-case-with-magsafe-iphone-15-pro-max-cherry-red</url>
+<price>233</price>
+<vendorprice>139</vendorprice>
+<vendorpricedoll>3.07</vendorpricedoll>
+<rrcdoll>5.16</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>16203878</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmQvNzcv0KYtMDAwMDgzMjc5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDcvMTgv0KYtMDAwMDgzMjc5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjYvZjMv0KYtMDAwMDgzMjc5XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGUvYzgv0KYtMDAwMDgzMjc5XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2QvNmYv0KYtMDAwMDgzMjc5XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjMvYTgv0KYtMDAwMDgzMjc5XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTgvZjcv0KYtMDAwMDgzMjc5XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmUvN2Yv0KYtMDAwMDgzMjc5XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Все</vendor>
+<vendorCode>Ц-000083279</vendorCode>
+<code>790427</code>
+<name>Чохол Smoky з MagSafe — iPhone 15 Pro Max — Cherry Red</name>
+<description><![CDATA[Чохол для iPhone 15 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
+<quantity_in_stock>5</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 15 Pro Max</param>
+<param name="Бренд">Apple</param>
+<param name="Опт від 5 шт">$2.86</param>
+<param name="Опт від 7 шт">$2.8</param>
+<param name="Опт від 10 шт">$2.74</param>
+<param name="Drop">$3.28</param>
+</offer>
 <offer id="ts000083279000031468" available="true">
 <url>https://kmt5.com.ua/smoky-case-with-magsafe-iphone-15-pro-max-coffee-brown</url>
 <price>233</price>
@@ -72608,7 +72820,7 @@
 <code>790428</code>
 <name>Чохол Smoky з MagSafe — iPhone 15 Pro Max — Dark Blue</name>
 <description><![CDATA[Чохол для iPhone 15 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro Max</param>
@@ -72666,6 +72878,31 @@
 <description><![CDATA[Чохол для iPhone 15 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
 <quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 15 Pro Max</param>
+<param name="Бренд">Apple</param>
+<param name="Опт від 5 шт">$2.86</param>
+<param name="Опт від 7 шт">$2.8</param>
+<param name="Опт від 10 шт">$2.74</param>
+<param name="Drop">$3.28</param>
+</offer>
+<offer id="ts000083279000031467" available="true">
+<url>https://kmt5.com.ua/smoky-case-with-magsafe-iphone-15-pro-max-pale-purple</url>
+<price>233</price>
+<vendorprice>139</vendorprice>
+<vendorpricedoll>3.07</vendorpricedoll>
+<rrcdoll>5.16</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>16203878</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmUvN2Yv0KYtMDAwMDgzMjc5XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDcvMTgv0KYtMDAwMDgzMjc5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Все</vendor>
+<vendorCode>Ц-000083279</vendorCode>
+<code>790425</code>
+<name>Чохол Smoky з MagSafe — iPhone 15 Pro Max — Pale Purple</name>
+<description><![CDATA[Чохол для iPhone 15 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
+<quantity_in_stock>5</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro Max</param>
 <param name="Бренд">Apple</param>
@@ -72822,6 +73059,37 @@
 <description><![CDATA[Чохол для iPhone 15 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
 <quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 15 Pro</param>
+<param name="Бренд">Apple</param>
+<param name="Опт від 5 шт">$2.86</param>
+<param name="Опт від 7 шт">$2.8</param>
+<param name="Опт від 10 шт">$2.74</param>
+<param name="Drop">$3.28</param>
+</offer>
+<offer id="ts000083277000031450" available="true">
+<url>https://kmt5.com.ua/smoky-case-with-magsafe-iphone-15-pro-pale-cyan</url>
+<price>233</price>
+<vendorprice>139</vendorprice>
+<vendorpricedoll>3.07</vendorpricedoll>
+<rrcdoll>5.16</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>16203878</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTQvZjUv0KYtMDAwMDgzMjc3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzAvNzkv0KYtMDAwMDgzMjc3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmIvMmEv0KYtMDAwMDgzMjc3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjUvOTcv0KYtMDAwMDgzMjc3XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGYvOTUv0KYtMDAwMDgzMjc3XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTYvYTYv0KYtMDAwMDgzMjc3XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzUvNzcv0KYtMDAwMDgzMjc3XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzUvZjYv0KYtMDAwMDgzMjc3XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Все</vendor>
+<vendorCode>Ц-000083277</vendorCode>
+<code>790406</code>
+<name>Чохол Smoky з MagSafe — iPhone 15 Pro — Pale Cyan</name>
+<description><![CDATA[Чохол для iPhone 15 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
+<quantity_in_stock>4</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro</param>
 <param name="Бренд">Apple</param>
@@ -76014,7 +76282,7 @@
 <code>788548</code>
 <name>Чохол Titanium з MagSafe MCC-702 — iPhone 17 Pro/iPhone 18 Pro — Transparent</name>
 <description><![CDATA[Чохол для iPhone 17 Pro/iPhone 18 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
@@ -117823,30 +118091,6 @@
 <param name="Опт від 10 шт">$2.67</param>
 <param name="Drop">$3.19</param>
 </offer>
-<offer id="ts000073893000023782" available="true">
-<url>https://kmt5.com.ua/home-charger-20w-pd-2-qc30-lightning-cable-1m-borofone-ba70a-white</url>
-<price>301</price>
-<vendorprice>177</vendorprice>
-<vendorpricedoll>3.91</vendorpricedoll>
-<rrcdoll>6.65</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>36418036</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmIvNjMv0KYtMDAwMDczODkzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2IvNTMv0KYtMDAwMDczODkzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000073893</vendorCode>
-<code>759717</code>
-<name>Зарядний пристрій Borofone BA70A, 20 Вт, PD, 2 QC3.0, кабель Lightning (1 м) — White</name>
-<description><![CDATA[Мережевий зарядний пристрій Borofone BA70A для заряджання сумісних смартфонів та інших гаджетів від розетки. Потужність — 20 Вт. Роз’єми: USB-C + USB-A. Підтримує швидке заряджання Power Delivery. Підтримує QC 3.0. У комплекті зазначено кабель Lightning 1 м.]]></description>
-<quantity_in_stock>11</quantity_in_stock>
-<param name="Бренд">Borofone</param>
-<param name="Кількість USB портів">1 USB | 2 Type - C</param>
-<param name="Зарядні пристрої">СЗУ &amp; Кабель Lightning</param>
-<param name="Опт від 5 шт">$3.65</param>
-<param name="Опт від 7 шт">$3.57</param>
-<param name="Опт від 10 шт">$3.5</param>
-<param name="Drop">$4.18</param>
-</offer>
 <offer id="ts000073994000023901" available="true">
 <url>https://kmt5.com.ua/szu-i-kabel-lightning-hoco-ba71a-power-pd20w-type-c-to-lightning-eu-white</url>
 <price>250</price>
@@ -118236,7 +118480,7 @@
 <code>755734</code>
 <name>Зарядний пристрій Hoco C106A, 2.1A, QC3.0 — White</name>
 <description><![CDATA[Мережевий зарядний пристрій Hoco C106A для заряджання сумісних смартфонів та інших гаджетів від розетки. Зазначений вихідний струм — 2,1 А. Роз’єми: USB-A. Підтримує QC 3.0.]]></description>
-<quantity_in_stock>39</quantity_in_stock>
+<quantity_in_stock>27</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Кількість USB портів">1 USB</param>
 <param name="Зарядні пристрої">Home Chargers</param>
@@ -118500,7 +118744,7 @@
 <code>734110</code>
 <name>Зарядний пристрій Hoco C72A, 2.1A, USB-A — White</name>
 <description><![CDATA[Мережевий зарядний пристрій Hoco C72A для заряджання сумісних смартфонів та інших гаджетів від розетки. Зазначений вихідний струм — 2,1 А. Роз’єми: USB-A.]]></description>
-<quantity_in_stock>52</quantity_in_stock>
+<quantity_in_stock>43</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Кількість USB портів">1 U</param>
 <param name="Зарядні пристрої">Home Chargers</param>
@@ -121486,7 +121730,7 @@
 <code>777120</code>
 <name>OTG-адаптер USB-C — USB-A — Hoco UA17 016 — Black</name>
 <description><![CDATA[Компактний перехідник для з’єднання пристроїв та аксесуарів із зазначеними в назві інтерфейсами.]]></description>
-<quantity_in_stock>59</quantity_in_stock>
+<quantity_in_stock>46</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Опт від 5 шт">$0.82</param>
 <param name="Опт від 7 шт">$0.8</param>
@@ -121617,7 +121861,7 @@
 <code>777114</code>
 <name>Адаптер 2-в-1 Lightning/UCB C — USB 2.0 — Hoco UA17 303 — Black</name>
 <description><![CDATA[Компактний перехідник для з’єднання пристроїв та аксесуарів із зазначеними в назві інтерфейсами.]]></description>
-<quantity_in_stock>18</quantity_in_stock>
+<quantity_in_stock>13</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Адаптери">Адаптер Lightning To USB</param>
 <param name="Опт від 5 шт">$2.4</param>
@@ -123316,7 +123560,7 @@
 <code>725358</code>
 <name>Кабель Lightning 2 А (1,2 м) — Hoco UPL11 L-shape чорний — Black</name>
 <description><![CDATA[Кабель Lightning для заряджання та підключення сумісних пристроїв. Довжина — 1,2 м; струм — до 2 А.]]></description>
-<quantity_in_stock>33</quantity_in_stock>
+<quantity_in_stock>26</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Роз'єм підключення">Cable USB to Lightning</param>
 <param name="Опт від 5 шт">$1.06</param>
@@ -123371,7 +123615,7 @@
 <code>755032</code>
 <name>Кабель Lightning 2,4 А (1 м) — Borofone BX48 — Black</name>
 <description><![CDATA[Кабель Lightning для заряджання та підключення сумісних пристроїв. Довжина — 1 м; струм — до 2,4 А.]]></description>
-<quantity_in_stock>25</quantity_in_stock>
+<quantity_in_stock>15</quantity_in_stock>
 <param name="Бренд">Borofone</param>
 <param name="Роз'єм підключення">Cable USB to Lightning</param>
 <param name="Опт від 5 шт">$0.76</param>
@@ -123408,35 +123652,6 @@
 <param name="Опт від 10 шт">$0.73</param>
 <param name="Drop">$0.87</param>
 </offer>
-<offer id="ts000072699000022992" available="true">
-<url>https://kmt5.com.ua/kabel-borofone-bx80-lightning-white</url>
-<price>50</price>
-<vendorprice>33</vendorprice>
-<vendorpricedoll>0.74</vendorpricedoll>
-<rrcdoll>1.11</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>23161731</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDgvZTMv0KYtMDAwMDcyNjk5XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzkvZWQv0KYtMDAwMDcyNjk5XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGUvMzMv0KYtMDAwMDcyNjk5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTcvNDkv0KYtMDAwMDcyNjk5XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmUvYTgv0KYtMDAwMDcyNjk5XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2IvZmYv0KYtMDAwMDcyNjk5XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODEvYmQv0KYtMDAwMDcyNjk5XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2MvYjMv0KYtMDAwMDcyNjk5XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000072699</vendorCode>
-<code>755135</code>
-<name>Кабель Lightning 2,4 А (1 м) — Borofone BX80 — White</name>
-<description><![CDATA[Кабель Lightning для заряджання та підключення сумісних пристроїв. Довжина — 1 м; струм — до 2,4 А.]]></description>
-<quantity_in_stock>4</quantity_in_stock>
-<param name="Бренд">Borofone</param>
-<param name="Роз'єм підключення">Cable USB to Lightning</param>
-<param name="Опт від 5 шт">$0.67</param>
-<param name="Опт від 7 шт">$0.66</param>
-<param name="Опт від 10 шт">$0.64</param>
-<param name="Drop">$0.77</param>
-</offer>
 <offer id="ts000072695000022846" available="true">
 <url>https://kmt5.com.ua/kabel-borofone-bx81-goodway-lightning-black</url>
 <price>50</price>
@@ -123458,7 +123673,7 @@
 <code>754841</code>
 <name>Кабель Lightning 2,4 А (1 м) — Borofone BX81 — Black</name>
 <description><![CDATA[Кабель Lightning для заряджання та підключення сумісних пристроїв. Довжина — 1 м; струм — до 2,4 А. Силіконова оболонка підвищує зносостійкість.]]></description>
-<quantity_in_stock>191</quantity_in_stock>
+<quantity_in_stock>175</quantity_in_stock>
 <param name="Бренд">Borofone</param>
 <param name="Роз'єм підключення">Cable USB to Lightning</param>
 <param name="Опт від 5 шт">$0.86</param>
@@ -123536,7 +123751,7 @@
 <code>749990</code>
 <name>Кабель Lightning 2,4 А (1 м) — Hoco X52 магнітний — Black</name>
 <description><![CDATA[Кабель Lightning для заряджання та підключення сумісних пристроїв. Довжина — 1 м; струм — до 2,4 А. Передавання даних не підтримується.]]></description>
-<quantity_in_stock>99</quantity_in_stock>
+<quantity_in_stock>97</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Роз'єм підключення">Cable USB to Lightning</param>
 <param name="Опт від 5 шт">$1.1</param>
@@ -123591,7 +123806,7 @@
 <code>785188</code>
 <name>Кабель Lightning 2,4 А (1 м) — Hoco X88 — Black</name>
 <description><![CDATA[Кабель Lightning для заряджання та підключення сумісних пристроїв. Довжина — 1 м; струм — до 2,4 А.]]></description>
-<quantity_in_stock>506</quantity_in_stock>
+<quantity_in_stock>480</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Роз'єм підключення">Cable USB to Lightning</param>
 <param name="Опт від 5 шт">$0.51</param>
@@ -123766,7 +123981,7 @@
 <code>750046</code>
 <name>Кабель Lightning 3 А (1 м) — Hoco X37 — White</name>
 <description><![CDATA[Кабель Lightning для заряджання та підключення сумісних пристроїв. Довжина — 1 м; струм — до 3 А.]]></description>
-<quantity_in_stock>100</quantity_in_stock>
+<quantity_in_stock>95</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Роз'єм підключення">Cable USB to Lightning</param>
 <param name="Опт від 5 шт">$0.57</param>
@@ -124403,7 +124618,7 @@
 <code>785826</code>
 <name>Кабель USB-C 2,4 А (1 м) — Hoco X113 — Gray</name>
 <description><![CDATA[Кабель USB-C для заряджання та підключення сумісних пристроїв. Довжина — 1 м; струм — до 2,4 А.]]></description>
-<quantity_in_stock>16</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Роз'єм підключення">Cable USB to C</param>
 <param name="Опт від 5 шт">$0.67</param>
@@ -124472,7 +124687,7 @@
 <code>788609</code>
 <name>Кабель USB-C 2,4 А (1 м) — Hoco X124 — Black</name>
 <description><![CDATA[Кабель USB-C для заряджання та підключення сумісних пристроїв. Довжина — 1 м; струм — до 2,4 А.]]></description>
-<quantity_in_stock>40</quantity_in_stock>
+<quantity_in_stock>29</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Роз'єм підключення">Cable USB to C</param>
 <param name="Опт від 5 шт">$1.34</param>
@@ -124495,7 +124710,7 @@
 <code>785195</code>
 <name>Кабель USB-C 2,4 А (1 м) — Hoco X88 — White</name>
 <description><![CDATA[Кабель USB-C для заряджання та підключення сумісних пристроїв. Довжина — 1 м; струм — до 2,4 А.]]></description>
-<quantity_in_stock>369</quantity_in_stock>
+<quantity_in_stock>343</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Роз'єм підключення">Cable USB to C</param>
 <param name="Опт від 5 шт">$0.55</param>
@@ -124542,7 +124757,7 @@
 <code>790083</code>
 <name>Кабель USB-C 3 А (1 м) — Borofone BX123 — Black</name>
 <description><![CDATA[Кабель USB-C для заряджання та підключення сумісних пристроїв. Довжина — 1 м; струм — до 3 А.]]></description>
-<quantity_in_stock>396</quantity_in_stock>
+<quantity_in_stock>374</quantity_in_stock>
 <param name="Бренд">Borofone</param>
 <param name="Роз'єм підключення">Cable USB to C</param>
 <param name="Опт від 5 шт">$0.72</param>
@@ -124566,7 +124781,7 @@
 <code>790084</code>
 <name>Кабель USB-C 3 А (1 м) — Borofone BX123 — White</name>
 <description><![CDATA[Кабель USB-C для заряджання та підключення сумісних пристроїв. Довжина — 1 м; струм — до 3 А.]]></description>
-<quantity_in_stock>232</quantity_in_stock>
+<quantity_in_stock>216</quantity_in_stock>
 <param name="Бренд">Borofone</param>
 <param name="Роз'єм підключення">Cable USB to C</param>
 <param name="Опт від 5 шт">$0.72</param>
@@ -124792,7 +125007,7 @@
 <code>781941</code>
 <name>Кабель USB-C — Lightning 20 Вт PD (1 м) — Hoco X59 Victory — Black</name>
 <description><![CDATA[Кабель USB-C — Lightning для заряджання та підключення сумісних пристроїв. Довжина — 1 м; потужність — до 20 Вт. Нейлонове обплетення підвищує зносостійкість.]]></description>
-<quantity_in_stock>61</quantity_in_stock>
+<quantity_in_stock>51</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Роз'єм підключення">Cable USB C To Lightning</param>
 <param name="Опт від 5 шт">$1.63</param>
@@ -124820,7 +125035,7 @@
 <code>750252</code>
 <name>Кабель USB-C — Lightning 20 Вт PD (2 м) — Hoco X14 Double Speed — Black</name>
 <description><![CDATA[Кабель USB-C — Lightning для заряджання та підключення сумісних пристроїв. Довжина — 2 м; потужність — до 20 Вт. Нейлонове обплетення підвищує зносостійкість.]]></description>
-<quantity_in_stock>15</quantity_in_stock>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Роз'єм підключення">Cable USB C To Lightning</param>
 <param name="Опт від 5 шт">$1.82</param>
@@ -124961,7 +125176,7 @@
 <code>788605</code>
 <name>Кабель USB-C — Lightning 27 Вт PD (1 м) — Hoco X124 — White</name>
 <description><![CDATA[Кабель USB-C — Lightning для заряджання та підключення сумісних пристроїв. Довжина — 1 м; потужність — до 27 Вт.]]></description>
-<quantity_in_stock>53</quantity_in_stock>
+<quantity_in_stock>34</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Роз'єм підключення">Cable USB C To Lightning</param>
 <param name="Опт від 5 шт">$1.49</param>
@@ -124985,7 +125200,7 @@
 <code>790077</code>
 <name>Кабель USB-C — Lightning 30 Вт (1 м) — Borofone BX123 — Black</name>
 <description><![CDATA[Кабель USB-C — Lightning для заряджання та підключення сумісних пристроїв. Довжина — 1 м; потужність — до 30 Вт.]]></description>
-<quantity_in_stock>62</quantity_in_stock>
+<quantity_in_stock>50</quantity_in_stock>
 <param name="Бренд">Borofone</param>
 <param name="Роз'єм підключення">Cable USB C To Lightning</param>
 <param name="Опт від 5 шт">$0.94</param>
@@ -125079,7 +125294,7 @@
 <code>789253</code>
 <name>Кабель USB-C — Lightning 30 Вт PD (1 м) — Hoco X125 — Black</name>
 <description><![CDATA[Кабель USB-C — Lightning для заряджання та підключення сумісних пристроїв. Довжина — 1 м; потужність — до 30 Вт. Підтримує передавання даних. Нейлонове обплетення підвищує зносостійкість.]]></description>
-<quantity_in_stock>25</quantity_in_stock>
+<quantity_in_stock>18</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Роз'єм підключення">Cable USB C To Lightning</param>
 <param name="Опт від 5 шт">$1.68</param>
@@ -125133,7 +125348,7 @@
 <code>789249</code>
 <name>Кабель USB-C — USB-C 60 Вт (0,35 м) — Hoco X126 — Black</name>
 <description><![CDATA[Кабель USB-C — USB-C для заряджання та підключення сумісних пристроїв. Довжина — 0,35 м; потужність — до 60 Вт. Нейлонове обплетення підвищує зносостійкість.]]></description>
-<quantity_in_stock>13</quantity_in_stock>
+<quantity_in_stock>9</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Роз'єм підключення">Cable USB C to C</param>
 <param name="Опт від 5 шт">$1.44</param>
@@ -125157,7 +125372,7 @@
 <code>790080</code>
 <name>Кабель USB-C — USB-C 60 Вт (1 м) — Borofone BX123 — Black</name>
 <description><![CDATA[Кабель USB-C — USB-C для заряджання та підключення сумісних пристроїв. Довжина — 1 м; потужність — до 60 Вт.]]></description>
-<quantity_in_stock>78</quantity_in_stock>
+<quantity_in_stock>70</quantity_in_stock>
 <param name="Бренд">Borofone</param>
 <param name="Роз'єм підключення">Cable USB C to C</param>
 <param name="Опт від 5 шт">$0.91</param>
@@ -125181,7 +125396,7 @@
 <code>790081</code>
 <name>Кабель USB-C — USB-C 60 Вт (1 м) — Borofone BX123 — White</name>
 <description><![CDATA[Кабель USB-C — USB-C для заряджання та підключення сумісних пристроїв. Довжина — 1 м; потужність — до 60 Вт.]]></description>
-<quantity_in_stock>50</quantity_in_stock>
+<quantity_in_stock>41</quantity_in_stock>
 <param name="Бренд">Borofone</param>
 <param name="Разъем подключения">Cable USB C to C</param>
 <param name="Опт від 5 шт">$0.91</param>
@@ -125329,7 +125544,7 @@
 <code>788607</code>
 <name>Кабель USB-C — USB-C 60 Вт (1 м) — Hoco X124 — Black</name>
 <description><![CDATA[Кабель USB-C — USB-C для заряджання та підключення сумісних пристроїв. Довжина — 1 м; потужність — до 60 Вт.]]></description>
-<quantity_in_stock>22</quantity_in_stock>
+<quantity_in_stock>19</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Роз'єм підключення">Cable USB C to C</param>
 <param name="Опт від 5 шт">$1.42</param>
@@ -125353,7 +125568,7 @@
 <code>789255</code>
 <name>Кабель USB-C — USB-C 60 Вт (1 м) — Hoco X125 — Black</name>
 <description><![CDATA[Кабель USB-C — USB-C для заряджання та підключення сумісних пристроїв. Довжина — 1 м; потужність — до 60 Вт. Підтримує передавання даних. Нейлонове обплетення підвищує зносостійкість.]]></description>
-<quantity_in_stock>40</quantity_in_stock>
+<quantity_in_stock>30</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Роз'єм підключення">Cable USB C to C</param>
 <param name="Опт від 5 шт">$1.42</param>
@@ -125850,7 +126065,7 @@
 <code>770985</code>
 <name>Нейлоновий кабель USB-C — USB-C 3 А PD (1 м) — Veron CC09 — Black</name>
 <description><![CDATA[Кабель USB-C — USB-C для заряджання та підключення сумісних пристроїв. Довжина — 1 м; потужність — до 18 Вт. Підтримує передавання даних. Нейлонове обплетення підвищує зносостійкість.]]></description>
-<quantity_in_stock>194</quantity_in_stock>
+<quantity_in_stock>187</quantity_in_stock>
 <param name="Бренд">VERON</param>
 <param name="Роз'єм підключення">Cable USB C to C</param>
 <param name="Опт від 5 шт">$1.06</param>
@@ -125962,7 +126177,7 @@
 <code>752918</code>
 <name>Силіконовий кабель Lightning 2,4 А (1 м) — Hoco X82 — White</name>
 <description><![CDATA[Кабель Lightning для заряджання та підключення сумісних пристроїв. Довжина — 1 м; струм — до 2,4 А. Силіконова оболонка підвищує зносостійкість.]]></description>
-<quantity_in_stock>315</quantity_in_stock>
+<quantity_in_stock>297</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Роз'єм підключення">Cable USB to Lightning</param>
 <param name="Опт від 5 шт">$1.1</param>
@@ -126034,7 +126249,7 @@
 <code>782464</code>
 <name>Силіконовий кабель Lightning 27 Вт (1 м) — Veron SL-X82 — Black</name>
 <description><![CDATA[Кабель Lightning для заряджання та підключення сумісних пристроїв. Довжина — 1 м; потужність — до 27 Вт. Силіконова оболонка підвищує зносостійкість.]]></description>
-<quantity_in_stock>81</quantity_in_stock>
+<quantity_in_stock>70</quantity_in_stock>
 <param name="Бренд">VERON</param>
 <param name="Роз'єм підключення">Cable USB to Lightning</param>
 <param name="Опт від 5 шт">$1.06</param>
@@ -126059,7 +126274,7 @@
 <code>782465</code>
 <name>Силіконовий кабель Lightning 27 Вт (1 м) — Veron SL-X82 — White</name>
 <description><![CDATA[Кабель Lightning для заряджання та підключення сумісних пристроїв. Довжина — 1 м; потужність — до 27 Вт. Силіконова оболонка підвищує зносостійкість.]]></description>
-<quantity_in_stock>173</quantity_in_stock>
+<quantity_in_stock>165</quantity_in_stock>
 <param name="Бренд">VERON</param>
 <param name="Роз'єм підключення">Cable USB to Lightning</param>
 <param name="Опт від 5 шт">$1.06</param>
@@ -126167,7 +126382,7 @@
 <code>752915</code>
 <name>Силіконовий кабель USB-C 3 А (1 м) — Hoco X82 — White</name>
 <description><![CDATA[Кабель USB-C для заряджання та підключення сумісних пристроїв. Довжина — 1 м; струм — до 3 А. Силіконова оболонка підвищує зносостійкість.]]></description>
-<quantity_in_stock>49</quantity_in_stock>
+<quantity_in_stock>31</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Роз'єм підключення">Cable USB to C</param>
 <param name="Опт від 5 шт">$0.94</param>
@@ -126191,7 +126406,7 @@
 <code>782461</code>
 <name>Силіконовий кабель USB-C 3 А (1 м) — Veron SC-X82 — Black</name>
 <description><![CDATA[Кабель USB-C для заряджання та підключення сумісних пристроїв. Довжина — 1 м; струм — до 3 А. Підтримує передавання даних. Силіконова оболонка підвищує зносостійкість.]]></description>
-<quantity_in_stock>528</quantity_in_stock>
+<quantity_in_stock>526</quantity_in_stock>
 <param name="Бренд">VERON</param>
 <param name="Роз'єм підключення">Cable USB to C</param>
 <param name="Опт від 5 шт">$0.92</param>
@@ -126215,7 +126430,7 @@
 <code>782462</code>
 <name>Силіконовий кабель USB-C 3 А (1 м) — Veron SC-X82 — White</name>
 <description><![CDATA[Кабель USB-C для заряджання та підключення сумісних пристроїв. Довжина — 1 м; струм — до 3 А. Підтримує передавання даних. Силіконова оболонка підвищує зносостійкість.]]></description>
-<quantity_in_stock>277</quantity_in_stock>
+<quantity_in_stock>274</quantity_in_stock>
 <param name="Бренд">VERON</param>
 <param name="Роз'єм підключення">Cable USB to C</param>
 <param name="Опт від 5 шт">$0.92</param>
@@ -126285,7 +126500,7 @@
 <code>782458</code>
 <name>Силіконовий кабель USB-C — Lightning 27 Вт PD (1 м) — Veron CL-X82 — Black</name>
 <description><![CDATA[Кабель USB-C — Lightning для заряджання та підключення сумісних пристроїв. Довжина — 1 м; потужність — до 27 Вт. Силіконова оболонка підвищує зносостійкість.]]></description>
-<quantity_in_stock>54</quantity_in_stock>
+<quantity_in_stock>45</quantity_in_stock>
 <param name="Бренд">VERON</param>
 <param name="Роз'єм підключення">Cable USB C To Lightning</param>
 <param name="Опт від 5 шт">$1.06</param>
@@ -126431,7 +126646,7 @@
 <code>775080</code>
 <name>Силіконовий кабель USB-C — USB-C 60 Вт (1 м) — Hoco X90 Cool — Black</name>
 <description><![CDATA[Кабель USB-C — USB-C для заряджання та підключення сумісних пристроїв. Довжина — 1 м; потужність — до 60 Вт. Силіконова оболонка підвищує зносостійкість.]]></description>
-<quantity_in_stock>47</quantity_in_stock>
+<quantity_in_stock>42</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Роз'єм підключення">Cable USB C to C</param>
 <param name="Опт від 5 шт">$1.34</param>
@@ -126455,7 +126670,7 @@
 <code>782455</code>
 <name>Силіконовий кабель USB-C — USB-C 60 Вт PD (1 м) — Veron CC- X82 — Black</name>
 <description><![CDATA[Кабель USB-C — USB-C для заряджання та підключення сумісних пристроїв. Довжина — 1 м; потужність — до 60 Вт. Силіконова оболонка підвищує зносостійкість.]]></description>
-<quantity_in_stock>194</quantity_in_stock>
+<quantity_in_stock>191</quantity_in_stock>
 <param name="Бренд">VERON</param>
 <param name="Роз'єм підключення">Cable USB C to C</param>
 <param name="Опт від 5 шт">$0.92</param>
@@ -148394,32 +148609,6 @@
 <param name="Опт від 5 шт">$8.92</param>
 <param name="Drop">$10.67</param>
 </offer>
-<offer id="ts000072798000022210" available="true">
-<url>https://kmt5.com.ua/naushniki-bluetooth-hoco-ew26-true-white</url>
-<price>451</price>
-<vendorprice>316</vendorprice>
-<vendorpricedoll>7.0</vendorpricedoll>
-<rrcdoll>9.97</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54581499</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDgvMmEv0KYtMDAwMDcyNzk4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzEvMDQv0KYtMDAwMDcyNzk4XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTkvYjEv0KYtMDAwMDcyNzk4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTcvOGMv0KYtMDAwMDcyNzk4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzAvYWMv0KYtMDAwMDcyNzk4XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmMvMTIv0KYtMDAwMDcyNzk4XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000072798</vendorCode>
-<code>753860</code>
-<name>Бездротові TWS-навушники Hoco EW26 — White</name>
-<description><![CDATA[Бездротові TWS-навушники Hoco EW26 — компактна бездротова гарнітура для музики та дзвінків. Навушники підключаються через Bluetooth і зберігаються у зарядному кейсі. Основні характеристики: Bluetooth — 5.3; дальність з’єднання — до 10 м; діапазон частот — 20 Гц-20 кГц; час роботи — до 4 год; у режимі очікування — до 150 год; роз’єм — Lightning.]]></description>
-<quantity_in_stock>6</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Опт від 2 шт">$6.53</param>
-<param name="Опт від 3 шт">$6.39</param>
-<param name="Опт від 5 шт">$6.26</param>
-<param name="Drop">$7.48</param>
-</offer>
 <offer id="ts000073434000023384" available="true">
 <url>https://kmt5.com.ua/bluetooth-garntura-tws-hoco-ew28-magic-black</url>
 <price>851</price>
@@ -149249,34 +149438,6 @@
 <param name="Опт від 5 шт">$0.97</param>
 <param name="Drop">$1.16</param>
 </offer>
-<offer id="ts000072769000022638" available="true">
-<url>https://kmt5.com.ua/naushniki-s-mikrofonom-borofone-bm39-refined-white</url>
-<price>100</price>
-<vendorprice>50</vendorprice>
-<vendorpricedoll>1.11</vendorpricedoll>
-<rrcdoll>2.22</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>72062147</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzAvMzQv0KYtMDAwMDcyNzY5XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWMvYjcv0KYtMDAwMDcyNzY5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjIvYTIv0KYtMDAwMDcyNzY5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjEvMTIv0KYtMDAwMDcyNzY5XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzAvYTgv0KYtMDAwMDcyNzY5XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTkvYjYv0KYtMDAwMDcyNzY5XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTUvYmIv0KYtMDAwMDcyNzY5XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000072769</vendorCode>
-<code>754543</code>
-<name>Дротові навушники Borofone BM39 Refined, 3.5 мм, з мікрофоном — White</name>
-<description><![CDATA[Дротові навушники Borofone BM39 Refined, 3.5 мм, з мікрофоном призначені для прослуховування музики та телефонних розмов. Дротове підключення забезпечує стабільну передачу звуку без потреби заряджати навушники. Вбудований у кабель мікрофон дає змогу відповідати на дзвінки. Основні характеристики: роз’єм — Ø3.5мм; довжина кабелю — 1.2м; маса — 10 г; мікрофон — пульт з мікрофоном.]]></description>
-<quantity_in_stock>17</quantity_in_stock>
-<param name="Бренд">Borofone</param>
-<param name="Аудіо товари">Навушники з мікрофоном 3.5mm</param>
-<param name="Опт від 2 шт">$1.01</param>
-<param name="Опт від 3 шт">$0.99</param>
-<param name="Опт від 5 шт">$0.97</param>
-<param name="Drop">$1.16</param>
-</offer>
 <offer id="ts000073886000023775" available="true">
 <url>https://kmt5.com.ua/navushniki-z-mkrofonom-35mm-borofone-bm82-art-music-black</url>
 <price>130</price>
@@ -149399,34 +149560,6 @@
 <param name="Опт від 3 шт">$1.68</param>
 <param name="Опт від 5 шт">$1.65</param>
 <param name="Drop">$1.97</param>
-</offer>
-<offer id="ts000077406000025566" available="true">
-<url>https://kmt5.com.ua/35mm-earphones-with-mic-hoco-m106-silver</url>
-<price>100</price>
-<vendorprice>51</vendorprice>
-<vendorpricedoll>1.13</vendorpricedoll>
-<rrcdoll>2.22</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>72062147</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTUvODQv0KYtMDAwMDc3NDA2XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGQvYmUv0KYtMDAwMDc3NDA2XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWIvN2Yv0KYtMDAwMDc3NDA2XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzAvNDQv0KYtMDAwMDc3NDA2XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjkvMTkv0KYtMDAwMDc3NDA2XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjkvZGEv0KYtMDAwMDc3NDA2XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmIvZTEv0KYtMDAwMDc3NDA2XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000077406</vendorCode>
-<code>774088</code>
-<name>Дротові навушники Hoco M106, 3.5 мм, з мікрофоном — Silver</name>
-<description><![CDATA[Дротові навушники Hoco M106 для прослуховування аудіо на сумісних пристроях. Підключаються через 3.5 мм. Вбудований мікрофон підходить для голосового спілкування та дзвінків.]]></description>
-<quantity_in_stock>4</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Аудіо товари">Навушники з мікрофоном 3.5mm</param>
-<param name="Опт від 2 шт">$1.06</param>
-<param name="Опт від 3 шт">$1.03</param>
-<param name="Опт від 5 шт">$1.01</param>
-<param name="Drop">$1.21</param>
 </offer>
 <offer id="ts000083096000031064" available="true">
 <url>https://kmt5.com.ua/35mm-earphones-with-mic-hoco-m117-black</url>
