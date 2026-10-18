@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-18 05:42">
+<yml_catalog date="2026-10-18 07:29">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -1114,31 +1114,6 @@
 <param name="Опт від 7 шт">$5.08</param>
 <param name="Опт від 10 шт">$4.97</param>
 <param name="Drop">$5.94</param>
-</offer>
-<offer id="ts000084394000032314" available="true">
-<url>https://kmt5.com.ua/magntniy-chohol-yind-iphone-18-pro-max-black</url>
-<price>356</price>
-<vendorprice>205</vendorprice>
-<vendorpricedoll>4.53</vendorpricedoll>
-<rrcdoll>7.88</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>16060343</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTkvYTYv0KYtMDAwMDg0Mzk0XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzIvZDkv0KYtMDAwMDg0Mzk0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000084394</vendorCode>
-<code>792357</code>
-<name>Магнітний чохол Yind — iPhone 18 Pro Max — Black</name>
-<description><![CDATA[Чохол для iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм-фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 18 Pro Max</param>
-<param name="Бренд">Dux Ducis</param>
-<param name="Опт від 5 шт">$4.22</param>
-<param name="Опт від 7 шт">$4.14</param>
-<param name="Опт від 10 шт">$4.05</param>
-<param name="Drop">$4.84</param>
 </offer>
 <offer id="ts000084394000032315" available="true">
 <url>https://kmt5.com.ua/magntniy-chohol-yind-iphone-18-pro-max-grey</url>
@@ -14140,7 +14115,7 @@
 <code>787956</code>
 <name>Rock Guard Touch магнітний захист чохол (металевий Lens Frame) — iPhone 17 Pro Max/iPhone 18 Pro Max — Gold</name>
 <description><![CDATA[Чохол для iPhone 17 Pro Max/iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень.]]></description>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
@@ -21085,7 +21060,7 @@
 <code>790254</code>
 <name>TPU-чохол Creative — iPhone 17 Pro Max/iPhone 18 Pro Max — Orange</name>
 <description><![CDATA[Чохол для iPhone 17 Pro Max/iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. TPU-матеріал поєднує гнучкість і зносостійкість.]]></description>
-<quantity_in_stock>11</quantity_in_stock>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
@@ -26499,7 +26474,7 @@
 <code>787962</code>
 <name>TPU-чохол Rock Armor матовий Series з MagSafe — iPhone 17 Pro/iPhone 18 Pro — Beige</name>
 <description><![CDATA[Чохол для iPhone 17 Pro/iPhone 18 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. TPU-матеріал поєднує гнучкість і зносостійкість. Матова поверхня має стриманий вигляд і менш помітні сліди дотиків.]]></description>
-<quantity_in_stock>7</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
@@ -32602,7 +32577,7 @@
 <code>788995</code>
 <name>UAG Adventure магнітний чохол — iPhone 17 Pro Max/iPhone 18 Pro Max — Blue</name>
 <description><![CDATA[Чохол для iPhone 17 Pro Max/iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
@@ -42295,34 +42270,6 @@
 <param name="Опт від 10 шт">$9.11</param>
 <param name="Drop">$10.89</param>
 </offer>
-<offer id="ts000082510000030529" available="true">
-<url>https://kmt5.com.ua/original-techwoven-case-iphone-17-purple</url>
-<price>784</price>
-<vendorprice>461</vendorprice>
-<vendorpricedoll>10.2</vendorpricedoll>
-<rrcdoll>17.35</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54622491</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2YvYzUv0KYtMDAwMDgyNTEwXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTcvZWYv0KYtMDAwMDgyNTEwXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2QvODQv0KYtMDAwMDgyNTEwXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjUvZDQv0KYtMDAwMDgyNTEwXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODEvZGIv0KYtMDAwMDgyNTEwXzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000082510</vendorCode>
-<code>788733</code>
-<name>Оригінальний TechWoven чохол — iPhone 17 — Purple</name>
-<description><![CDATA[Чохол для iPhone 17 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм-фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17</param>
-<param name="Бренд">Apple</param>
-<param name="Опт від 5 шт">$9.5</param>
-<param name="Опт від 7 шт">$9.31</param>
-<param name="Опт від 10 шт">$9.11</param>
-<param name="Drop">$10.89</param>
-</offer>
 <offer id="ts000070526000021505" available="true">
 <url>https://kmt5.com.ua/original-silicone-cover-case-samsung-a02s-antique-white</url>
 <price>211</price>
@@ -46187,7 +46134,7 @@
 <code>790674</code>
 <name>Силіконовий чохол Polo Augus з MagSafe — iPhone 17 Pro/iPhone 18 Pro — Orange</name>
 <description><![CDATA[Чохол для iPhone 17 Pro/iPhone 18 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
@@ -50498,7 +50445,7 @@
 <code>788694</code>
 <name>Силіконовий чохол оригінальний HC з MagSafe — iPhone 17 Pro Max/iPhone 18 Pro Max — Black (18)</name>
 <description><![CDATA[Чохол для iPhone 17 Pro Max/iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
@@ -50530,56 +50477,6 @@
 <code>793352</code>
 <name>Силіконовий чохол оригінальний HC з MagSafe — iPhone 17 Pro Max/iPhone 18 Pro Max — Light Gray</name>
 <description><![CDATA[Чохол для iPhone 17 Pro Max/iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>4</quantity_in_stock>
-<param name="Форм-фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
-<param name="Бренд">Apple HQ</param>
-<param name="Опт від 5 шт">$2.4</param>
-<param name="Опт від 7 шт">$2.35</param>
-<param name="Опт від 10 шт">$2.3</param>
-<param name="Drop">$2.75</param>
-</offer>
-<offer id="ts000082502000030498" available="true">
-<url>https://kmt5.com.ua/silicone-case-hc-with-magsafe-iphone-17-pro-max-pink-sand</url>
-<price>190</price>
-<vendorprice>117</vendorprice>
-<vendorpricedoll>2.58</vendorpricedoll>
-<rrcdoll>4.21</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54622491</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmQvM2Qv0KYtMDAwMDgyNTAyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTcvNmEv0KYtMDAwMDgyNTAyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000082502</vendorCode>
-<code>788695</code>
-<name>Силіконовий чохол оригінальний HC з MagSafe — iPhone 17 Pro Max/iPhone 18 Pro Max — Pink Sand</name>
-<description><![CDATA[Чохол для iPhone 17 Pro Max/iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм-фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
-<param name="Бренд">Apple HQ</param>
-<param name="Опт від 5 шт">$2.4</param>
-<param name="Опт від 7 шт">$2.35</param>
-<param name="Опт від 10 шт">$2.3</param>
-<param name="Drop">$2.75</param>
-</offer>
-<offer id="ts000082502000030499" available="true">
-<url>https://kmt5.com.ua/silicone-case-hc-with-magsafe-iphone-17-pro-max-white-9</url>
-<price>190</price>
-<vendorprice>117</vendorprice>
-<vendorpricedoll>2.58</vendorpricedoll>
-<rrcdoll>4.21</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54622491</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2EvMzAv0KYtMDAwMDgyNTAyXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTcvNmEv0KYtMDAwMDgyNTAyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000082502</vendorCode>
-<code>788696</code>
-<name>Силіконовий чохол оригінальний HC з MagSafe — iPhone 17 Pro Max/iPhone 18 Pro Max — White (9)</name>
-<description><![CDATA[Чохол для iPhone 17 Pro Max/iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
 <quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
@@ -50605,7 +50502,7 @@
 <code>788702</code>
 <name>Силіконовий чохол оригінальний HC з MagSafe — iPhone 17 Pro/iPhone 18 Pro — Black (18)</name>
 <description><![CDATA[Чохол для iPhone 17 Pro/iPhone 18 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>17</quantity_in_stock>
+<quantity_in_stock>16</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
@@ -50662,7 +50559,7 @@
 <code>788703</code>
 <name>Силіконовий чохол оригінальний HC з MagSafe — iPhone 17 Pro/iPhone 18 Pro — Pink Sand</name>
 <description><![CDATA[Чохол для iPhone 17 Pro/iPhone 18 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>14</quantity_in_stock>
+<quantity_in_stock>13</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
@@ -50835,7 +50732,7 @@
 <code>788712</code>
 <name>Силіконовий чохол оригінальний HC з MagSafe — iPhone 17 — White (9)</name>
 <description><![CDATA[Чохол для iPhone 17 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17</param>
@@ -55711,7 +55608,7 @@
 <code>788301</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 17 Pro/iPhone 18 Pro — Neon Pink (47)</name>
 <description><![CDATA[Чохол для iPhone 17 Pro/iPhone 18 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
@@ -60325,40 +60222,7 @@
 <code>788650</code>
 <name>Чохол Armor Pro з MagSafe FGG-012 — iPhone 17 Pro Max/iPhone 18 Pro Max — Gold</name>
 <description><![CDATA[Чохол для iPhone 17 Pro Max/iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>10</quantity_in_stock>
-<param name="Форм-фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
-<param name="Бренд">Wiwu</param>
-<param name="Опт від 5 шт">$5.47</param>
-<param name="Опт від 7 шт">$5.36</param>
-<param name="Опт від 10 шт">$5.24</param>
-<param name="Drop">$6.27</param>
-</offer>
-<offer id="ts000082487000031598" available="true">
-<url>https://kmt5.com.ua/armor-pro-case-with-magsafe-fgg012-iphone-17-pro-max-orange</url>
-<price>433</price>
-<vendorprice>265</vendorprice>
-<vendorpricedoll>5.87</vendorpricedoll>
-<rrcdoll>9.59</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54622491</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODIvNjAv0KYtMDAwMDgyNDg3XzI1LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDgvMGIv0KYtMDAwMDgyNDg3XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmEvZTEv0KYtMDAwMDgyNDg3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzYvOTEv0KYtMDAwMDgyNDg3XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDUvODgv0KYtMDAwMDgyNDg3XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTQvOGMv0KYtMDAwMDgyNDg3XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmQvNjYv0KYtMDAwMDgyNDg3XzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2QvNzcv0KYtMDAwMDgyNDg3XzEyLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDIvYmMv0KYtMDAwMDgyNDg3XzEzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTIvOGQv0KYtMDAwMDgyNDg3XzE0LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000082487</vendorCode>
-<code>790845</code>
-<name>Чохол Armor Pro з MagSafe FGG-012 — iPhone 17 Pro Max/iPhone 18 Pro Max — Orange</name>
-<description><![CDATA[Чохол для iPhone 17 Pro Max/iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
@@ -60386,7 +60250,7 @@
 <code>788645</code>
 <name>Чохол Armor Pro з MagSafe FGG-012 — iPhone 17 Pro/iPhone 18 Pro — Gold</name>
 <description><![CDATA[Чохол для iPhone 17 Pro/iPhone 18 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>11</quantity_in_stock>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
@@ -60414,7 +60278,7 @@
 <code>788644</code>
 <name>Чохол Armor Pro з MagSafe FGG-012 — iPhone 17 Pro/iPhone 18 Pro — Grey</name>
 <description><![CDATA[Чохол для iPhone 17 Pro/iPhone 18 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>6</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
@@ -61279,7 +61143,7 @@
 <code>790325</code>
 <name>Чохол Bling World Bobi з MagSafe — iPhone 17 Air — Black</name>
 <description><![CDATA[Чохол для iPhone 17 Air для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Air</param>
@@ -61329,7 +61193,7 @@
 <code>790328</code>
 <name>Чохол Bling World Bobi з MagSafe — iPhone 17 Air — Champagne</name>
 <description><![CDATA[Чохол для iPhone 17 Air для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Air</param>
@@ -61454,7 +61318,7 @@
 <code>790342</code>
 <name>Чохол Bling World Bobi з MagSafe — iPhone 17 Pro Max/iPhone 18 Pro Max — Black</name>
 <description><![CDATA[Чохол для iPhone 17 Pro Max/iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
@@ -62868,7 +62732,7 @@
 <code>790273</code>
 <name>Чохол Bling World Rock з MagSafe — iPhone 17 — Silver</name>
 <description><![CDATA[Чохол для iPhone 17 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17</param>
@@ -62893,7 +62757,7 @@
 <code>790276</code>
 <name>Чохол Bling World Rock з MagSafe — iPhone 17 — White</name>
 <description><![CDATA[Чохол для iPhone 17 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17</param>
@@ -64460,7 +64324,7 @@
 <code>789356</code>
 <name>Чохол Colorful з MagSafe — iPhone 17 Pro/iPhone 18 Pro  — Orange</name>
 <description><![CDATA[Чохол для iPhone 17 Pro/iPhone 18 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
@@ -64535,7 +64399,7 @@
 <code>788657</code>
 <name>Чохол Colorful з MagSafe — iPhone 17 — Grey</name>
 <description><![CDATA[Чохол для iPhone 17 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17</param>
@@ -73236,7 +73100,7 @@
 <code>790454</code>
 <name>Чохол Smoky з MagSafe — iPhone 16 Pro Max — Cherry Red</name>
 <description><![CDATA[Чохол для iPhone 16 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16 Pro Max</param>
@@ -74113,31 +73977,6 @@
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
-<param name="Бренд">Apple</param>
-<param name="Опт від 5 шт">$2.86</param>
-<param name="Опт від 7 шт">$2.8</param>
-<param name="Опт від 10 шт">$2.74</param>
-<param name="Drop">$3.28</param>
-</offer>
-<offer id="ts000083285000031514" available="true">
-<url>https://kmt5.com.ua/smoky-case-with-magsafe-iphone-17-pro-black</url>
-<price>232</price>
-<vendorprice>139</vendorprice>
-<vendorpricedoll>3.07</vendorpricedoll>
-<rrcdoll>5.14</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54622491</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGEvMmUv0KYtMDAwMDgzMjg1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2EvYTMv0KYtMDAwMDgzMjg1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000083285</vendorCode>
-<code>790478</code>
-<name>Чохол Smoky з MagSafe — iPhone 17 Pro/iPhone 18 Pro — Black</name>
-<description><![CDATA[Чохол для iPhone 17 Pro/iPhone 18 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм-фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
 <param name="Бренд">Apple</param>
 <param name="Опт від 5 шт">$2.86</param>
 <param name="Опт від 7 шт">$2.8</param>
@@ -77749,7 +77588,7 @@
 <code>792098</code>
 <name>Чохол Vibe з MagSafe — iPhone 17 Pro Max/iPhone 18 Pro Max — Orange</name>
 <description><![CDATA[Чохол для iPhone 17 Pro Max/iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
@@ -77824,7 +77663,7 @@
 <code>792092</code>
 <name>Чохол Vibe з MagSafe — iPhone 17 Pro/iPhone 18 Pro — Orange</name>
 <description><![CDATA[Чохол для iPhone 17 Pro/iPhone 18 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
@@ -78833,7 +78672,7 @@
 <code>791620</code>
 <name>Чохол Wave з MagSafe — iPhone 17 Pro/iPhone 18 Pro — Brown</name>
 <description><![CDATA[Чохол для iPhone 17 Pro/iPhone 18 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
@@ -78858,7 +78697,7 @@
 <code>791616</code>
 <name>Чохол Wave з MagSafe — iPhone 17 Pro/iPhone 18 Pro — Grey</name>
 <description><![CDATA[Чохол для iPhone 17 Pro/iPhone 18 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
@@ -78883,7 +78722,7 @@
 <code>791614</code>
 <name>Чохол Wave з MagSafe — iPhone 17 Pro/iPhone 18 Pro — Orange</name>
 <description><![CDATA[Чохол для iPhone 17 Pro/iPhone 18 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
@@ -78908,7 +78747,7 @@
 <code>791617</code>
 <name>Чохол Wave з MagSafe — iPhone 17 Pro/iPhone 18 Pro — Sand</name>
 <description><![CDATA[Чохол для iPhone 17 Pro/iPhone 18 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
@@ -78934,59 +78773,7 @@
 <code>791611</code>
 <name>Чохол Wave з MagSafe — iPhone 17 — Brown</name>
 <description><![CDATA[Чохол для iPhone 17 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>4</quantity_in_stock>
-<param name="Форм-фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17</param>
-<param name="Бренд">Apple</param>
-<param name="Опт від 5 шт">$3.36</param>
-<param name="Опт від 7 шт">$3.29</param>
-<param name="Опт від 10 шт">$3.22</param>
-<param name="Drop">$3.85</param>
-</offer>
-<offer id="ts000084034000031920" available="true">
-<url>https://kmt5.com.ua/wave-case-with-magsafe-iphone-17-sand</url>
-<price>283</price>
-<vendorprice>163</vendorprice>
-<vendorpricedoll>3.61</vendorpricedoll>
-<rrcdoll>6.26</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54622491</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmEvZmEv0KYtMDAwMDg0MDM0XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzIvYTgv0KYtMDAwMDg0MDM0XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGIvYmMv0KYtMDAwMDg0MDM0XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000084034</vendorCode>
-<code>791608</code>
-<name>Чохол Wave з MagSafe — iPhone 17 — Sand</name>
-<description><![CDATA[Чохол для iPhone 17 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм-фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17</param>
-<param name="Бренд">Apple</param>
-<param name="Опт від 5 шт">$3.36</param>
-<param name="Опт від 7 шт">$3.29</param>
-<param name="Опт від 10 шт">$3.22</param>
-<param name="Drop">$3.85</param>
-</offer>
-<offer id="ts000084034000031924" available="true">
-<url>https://kmt5.com.ua/wave-case-with-magsafe-iphone-17-white</url>
-<price>283</price>
-<vendorprice>163</vendorprice>
-<vendorpricedoll>3.61</vendorpricedoll>
-<rrcdoll>6.26</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54622491</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWUvYTgv0KYtMDAwMDg0MDM0XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzIvYTgv0KYtMDAwMDg0MDM0XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGIvYmMv0KYtMDAwMDg0MDM0XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000084034</vendorCode>
-<code>791612</code>
-<name>Чохол Wave з MagSafe — iPhone 17 — White</name>
-<description><![CDATA[Чохол для iPhone 17 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17</param>
@@ -79237,7 +79024,7 @@
 <code>788464</code>
 <name>Чохол Yind з MagSafe — iPhone 17 Pro/iPhone 18 Pro — Black</name>
 <description><![CDATA[Чохол для iPhone 17 Pro/iPhone 18 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>8</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
@@ -80448,7 +80235,7 @@
 <code>788183</code>
 <name>Шкіряний чохол Polo Aristo — iPhone 17 Pro Max/iPhone 18 Pro Max — Black</name>
 <description><![CDATA[Чохол для iPhone 17 Pro Max/iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Шкіряне оздоблення надає чохлу стриманого класичного вигляду.]]></description>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
@@ -81028,7 +80815,7 @@
 <code>788141</code>
 <name>Шкіряний чохол Polo Knight — iPhone 17 Pro/iPhone 18 Pro  — Titanium Grey</name>
 <description><![CDATA[Чохол для iPhone 17 Pro/iPhone 18 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Шкіряне оздоблення надає чохлу стриманого класичного вигляду.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
@@ -81057,7 +80844,7 @@
 <code>788138</code>
 <name>Шкіряний чохол Polo Knight — iPhone 17 — Titanium Grey</name>
 <description><![CDATA[Чохол для iPhone 17 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Шкіряне оздоблення надає чохлу стриманого класичного вигляду.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17</param>
@@ -81184,7 +80971,7 @@
 <code>788148</code>
 <name>Шкіряний чохол Polo Lucas — iPhone 17 Pro Max/iPhone 18 Pro Max — Grey</name>
 <description><![CDATA[Чохол для iPhone 17 Pro Max/iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Шкіряне оздоблення надає чохлу стриманого класичного вигляду.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
@@ -81213,7 +81000,7 @@
 <code>788149</code>
 <name>Шкіряний чохол Polo Lucas — iPhone 17 Pro Max/iPhone 18 Pro Max — Silver</name>
 <description><![CDATA[Чохол для iPhone 17 Pro Max/iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Шкіряне оздоблення надає чохлу стриманого класичного вигляду.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
@@ -81243,7 +81030,7 @@
 <code>788146</code>
 <name>Шкіряний чохол Polo Lucas — iPhone 17 Pro/iPhone 18 Pro — Grey</name>
 <description><![CDATA[Чохол для iPhone 17 Pro/iPhone 18 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Шкіряне оздоблення надає чохлу стриманого класичного вигляду.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
@@ -81450,68 +81237,10 @@
 <code>788134</code>
 <name>Шкіряний чохол Polo Primo — iPhone 17 Pro Max/iPhone 18 Pro Max — Black</name>
 <description><![CDATA[Чохол для iPhone 17 Pro Max/iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Шкіряне оздоблення надає чохлу стриманого класичного вигляду.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
-<param name="Бренд">Polo</param>
-<param name="Опт від 5 шт">$12.29</param>
-<param name="Опт від 7 шт">$12.03</param>
-<param name="Опт від 10 шт">$11.78</param>
-<param name="Drop">$14.08</param>
-</offer>
-<offer id="ts000082178000030255" available="true">
-<url>https://kmt5.com.ua/polo-primo-leather-case-iphone-17-pro-max-titanium-grey</url>
-<price>974</price>
-<vendorprice>596</vendorprice>
-<vendorpricedoll>13.18</vendorpricedoll>
-<rrcdoll>21.54</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54622491</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWMvNTAv0KYtMDAwMDgyMTc4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjIvM2Mv0KYtMDAwMDgyMTc4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDUvNjMv0KYtMDAwMDgyMTc4XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzEvZjQv0KYtMDAwMDgyMTc4XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjAvMzYv0KYtMDAwMDgyMTc4XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTQvOTMv0KYtMDAwMDgyMTc4XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000082178</vendorCode>
-<code>788135</code>
-<name>Шкіряний чохол Polo Primo — iPhone 17 Pro Max/iPhone 18 Pro Max — Titanium Grey</name>
-<description><![CDATA[Чохол для iPhone 17 Pro Max/iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Шкіряне оздоблення надає чохлу стриманого класичного вигляду.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм-фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
-<param name="Бренд">Polo</param>
-<param name="Опт від 5 шт">$12.29</param>
-<param name="Опт від 7 шт">$12.03</param>
-<param name="Опт від 10 шт">$11.78</param>
-<param name="Drop">$14.08</param>
-</offer>
-<offer id="ts000082177000030252" available="true">
-<url>https://kmt5.com.ua/polo-primo-leather-case-iphone-17-pro-black</url>
-<price>974</price>
-<vendorprice>596</vendorprice>
-<vendorpricedoll>13.18</vendorpricedoll>
-<rrcdoll>21.54</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54622491</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDcvZGMv0KYtMDAwMDgyMTc3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmEvNTQv0KYtMDAwMDgyMTc3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWEvMjcv0KYtMDAwMDgyMTc3XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjIvYzAv0KYtMDAwMDgyMTc3XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjcvYTQv0KYtMDAwMDgyMTc3XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmMvY2Qv0KYtMDAwMDgyMTc3XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000082177</vendorCode>
-<code>788131</code>
-<name>Шкіряний чохол Polo Primo — iPhone 17 Pro/iPhone 18 Pro — Black</name>
-<description><![CDATA[Чохол для iPhone 17 Pro/iPhone 18 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Шкіряне оздоблення надає чохлу стриманого класичного вигляду.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм-фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
 <param name="Бренд">Polo</param>
 <param name="Опт від 5 шт">$12.29</param>
 <param name="Опт від 7 шт">$12.03</param>
@@ -81537,7 +81266,7 @@
 <code>788132</code>
 <name>Шкіряний чохол Polo Primo — iPhone 17 Pro/iPhone 18 Pro — Titanium Grey</name>
 <description><![CDATA[Чохол для iPhone 17 Pro/iPhone 18 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Шкіряне оздоблення надає чохлу стриманого класичного вигляду.]]></description>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
@@ -81567,7 +81296,7 @@
 <code>788129</code>
 <name>Шкіряний чохол Polo Primo — iPhone 17 — Black</name>
 <description><![CDATA[Чохол для iPhone 17 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Шкіряне оздоблення надає чохлу стриманого класичного вигляду.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17</param>
@@ -81963,31 +81692,6 @@
 <param name="Опт від 10 шт">$9.66</param>
 <param name="Drop">$11.55</param>
 </offer>
-<offer id="ts000082184000030265" available="true">
-<url>https://kmt5.com.ua/polo-savanna-leather-case-iphone-17-pro-wolf</url>
-<price>886</price>
-<vendorprice>554</vendorprice>
-<vendorpricedoll>12.26</vendorpricedoll>
-<rrcdoll>19.6</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54622491</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTIvMzEv0KYtMDAwMDgyMTg0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjcvOWIv0KYtMDAwMDgyMTg0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000082184</vendorCode>
-<code>788151</code>
-<name>Шкіряний чохол Polo Savanna — iPhone 17 Pro/iPhone 18 Pro — Wolf</name>
-<description><![CDATA[Чохол для iPhone 17 Pro/iPhone 18 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Шкіряне оздоблення надає чохлу стриманого класичного вигляду.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм-фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
-<param name="Бренд">Polo</param>
-<param name="Опт від 5 шт">$11.42</param>
-<param name="Опт від 7 шт">$11.19</param>
-<param name="Опт від 10 шт">$10.95</param>
-<param name="Drop">$13.09</param>
-</offer>
 <offer id="ts000083021000031053" available="true">
 <url>https://kmt5.com.ua/polo-simon-leather-case-with-magsafe-iphone-17-pro-max-beige</url>
 <price>915</price>
@@ -82002,7 +81706,7 @@
 <code>789760</code>
 <name>Шкіряний чохол Polo Simon з MagSafe — iPhone 17 Pro Max/iPhone 18 Pro Max — Beige</name>
 <description><![CDATA[Чохол для iPhone 17 Pro Max/iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Шкіряне оздоблення надає чохлу стриманого класичного вигляду.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
@@ -82026,7 +81730,7 @@
 <code>789762</code>
 <name>Шкіряний чохол Polo Simon з MagSafe — iPhone 17 Pro Max/iPhone 18 Pro Max — Orange</name>
 <description><![CDATA[Чохол для iPhone 17 Pro Max/iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Шкіряне оздоблення надає чохлу стриманого класичного вигляду.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
@@ -82050,31 +81754,7 @@
 <code>789756</code>
 <name>Шкіряний чохол Polo Simon з MagSafe — iPhone 17 Pro/iPhone 18 Pro — Beige</name>
 <description><![CDATA[Чохол для iPhone 17 Pro/iPhone 18 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Шкіряне оздоблення надає чохлу стриманого класичного вигляду.]]></description>
-<quantity_in_stock>4</quantity_in_stock>
-<param name="Форм-фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
-<param name="Бренд">Polo</param>
-<param name="Опт від 5 шт">$11.04</param>
-<param name="Опт від 7 шт">$10.81</param>
-<param name="Опт від 10 шт">$10.58</param>
-<param name="Drop">$12.65</param>
-</offer>
-<offer id="ts000083020000031051" available="true">
-<url>https://kmt5.com.ua/polo-simon-leather-case-with-magsafe-iphone-17-pro-black</url>
-<price>915</price>
-<vendorprice>536</vendorprice>
-<vendorpricedoll>11.85</vendorpricedoll>
-<rrcdoll>20.24</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54622491</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTMvZTgv0KYtMDAwMDgzMDIwXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000083020</vendorCode>
-<code>789757</code>
-<name>Шкіряний чохол Polo Simon з MagSafe — iPhone 17 Pro/iPhone 18 Pro — Black</name>
-<description><![CDATA[Чохол для iPhone 17 Pro/iPhone 18 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Шкіряне оздоблення надає чохлу стриманого класичного вигляду.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
@@ -82126,7 +81806,7 @@
 <code>788191</code>
 <name>Шкіряний чохол Polo Vallen — iPhone 17 Pro Max/iPhone 18 Pro Max — Outer Space</name>
 <description><![CDATA[Чохол для iPhone 17 Pro Max/iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Шкіряне оздоблення надає чохлу стриманого класичного вигляду.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
@@ -82176,7 +81856,7 @@
 <code>788188</code>
 <name>Шкіряний чохол Polo Vallen — iPhone 17 Pro/iPhone 18 Pro — Outer Space</name>
 <description><![CDATA[Чохол для iPhone 17 Pro/iPhone 18 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Шкіряне оздоблення надає чохлу стриманого класичного вигляду.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
@@ -83111,7 +82791,7 @@
 <code>790239</code>
 <name>Шкіряний чохол з MagSafe — iPhone 17 Pro/iPhone 18 Pro — Orange</name>
 <description><![CDATA[Чохол для iPhone 17 Pro/iPhone 18 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Шкіряне оздоблення надає чохлу стриманого класичного вигляду.]]></description>
-<quantity_in_stock>10</quantity_in_stock>
+<quantity_in_stock>9</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
@@ -117984,7 +117664,7 @@
 <code>785192</code>
 <name>Кабель Micro-USB 2,4 А (1 м) — Hoco X88 — White</name>
 <description><![CDATA[Кабель Micro-USB для заряджання та підключення сумісних пристроїв. Довжина — 1 м; струм — до 2,4 А.]]></description>
-<quantity_in_stock>30</quantity_in_stock>
+<quantity_in_stock>27</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Роз'єм підключення">Cable USB to Micro</param>
 <param name="Опт від 5 шт">$0.48</param>
