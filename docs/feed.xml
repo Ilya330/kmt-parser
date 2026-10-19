@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-19 08:09">
+<yml_catalog date="2026-10-19 15:56">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -699,7 +699,7 @@
 <code>792254</code>
 <name>TPU-чохол Rock Crystal Shield Series — iPhone 18 Pro</name>
 <description><![CDATA[Чохол для iPhone 18 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. TPU-матеріал поєднує гнучкість і зносостійкість.]]></description>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 18 Pro</param>
@@ -1155,7 +1155,7 @@
 <code>792275</code>
 <name>Магнітний захист чохол Rock Guard Touch (металевий Lens Frame) — iPhone 18 Pro Max — White</name>
 <description><![CDATA[Чохол для iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень.]]></description>
-<quantity_in_stock>15</quantity_in_stock>
+<quantity_in_stock>14</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 18 Pro Max</param>
@@ -1180,7 +1180,7 @@
 <code>792268</code>
 <name>Магнітний захист чохол Rock Guard Touch (металевий Lens Frame) — iPhone 18 Pro — Blue</name>
 <description><![CDATA[Чохол для iPhone 18 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 18 Pro</param>
@@ -31888,31 +31888,6 @@
 <param name="Опт від 10 шт">$3.31</param>
 <param name="Drop">$3.96</param>
 </offer>
-<offer id="ts000077301000028451" available="true">
-<url>https://kmt5.com.ua/uag-adventure-magnetic-case-iphone-14-61-black</url>
-<price>292</price>
-<vendorprice>168</vendorprice>
-<vendorpricedoll>3.71</vendorpricedoll>
-<rrcdoll>6.46</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>65522936</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDkvOWEv0KYtMDAwMDc3MzAxXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTEvZDgv0KYtMDAwMDc3MzAxXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000077301</vendorCode>
-<code>782148</code>
-<name>UAG Adventure магнітний чохол — iPhone 14 6.1&quot; — Black</name>
-<description><![CDATA[Чохол для iPhone 14 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм-фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 14 6.1&quot;</param>
-<param name="Бренд">Различные</param>
-<param name="Опт від 5 шт">$3.46</param>
-<param name="Опт від 7 шт">$3.38</param>
-<param name="Опт від 10 шт">$3.31</param>
-<param name="Drop">$3.96</param>
-</offer>
 <offer id="ts000077301000025307" available="true">
 <url>https://kmt5.com.ua/uag-adventure-magnetic-case-iphone-14-61-camouflage-green</url>
 <price>292</price>
@@ -37807,31 +37782,6 @@
 <param name="Опт від 10 шт">$3.04</param>
 <param name="Drop">$3.63</param>
 </offer>
-<offer id="ts000075409000024138" available="true">
-<url>https://kmt5.com.ua/protective-camera-clear-case-with-magsafe-iphone-14-pro-max-deep-purple</url>
-<price>245</price>
-<vendorprice>154</vendorprice>
-<vendorpricedoll>3.4</vendorpricedoll>
-<rrcdoll>5.43</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>65522936</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDcvYzUv0KYtMDAwMDc1NDA5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzcvZjIv0KYtMDAwMDc1NDA5XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000075409</vendorCode>
-<code>770404</code>
-<name>Захисний камери прозорий чохол з MagSafe — iPhone 14 Pro Max — Deep Purple</name>
-<description><![CDATA[Чохол для iPhone 14 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Прозорий дизайн залишає видимим оригінальний колір пристрою. Конструкція передбачає додатковий захист зони камери.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм-фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 14 Pro Max 6.7&quot;</param>
-<param name="Бренд">Apple</param>
-<param name="Опт від 5 шт">$3.17</param>
-<param name="Опт від 7 шт">$3.1</param>
-<param name="Опт від 10 шт">$3.04</param>
-<param name="Drop">$3.63</param>
-</offer>
 <offer id="ts000075408000024135" available="true">
 <url>https://kmt5.com.ua/protective-camera-clear-case-with-magsafe-iphone-14-pro-pink</url>
 <price>245</price>
@@ -40664,7 +40614,7 @@
 <code>788350</code>
 <name>Карбоновий чохол з MagSafe — iPhone 14 Pro</name>
 <description><![CDATA[Чохол для iPhone 14 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>7</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 Pro 6.1&quot;</param>
@@ -62158,7 +62108,7 @@
 <code>790261</code>
 <name>Чохол Bling World Rock з MagSafe — iPhone 16 Pro — Pink</name>
 <description><![CDATA[Чохол для iPhone 16 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16 Pro</param>
@@ -76989,7 +76939,7 @@
 <code>792041</code>
 <name>Чохол Vibe з MagSafe — iPhone 14 Pro — Black</name>
 <description><![CDATA[Чохол для iPhone 14 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>10</quantity_in_stock>
+<quantity_in_stock>9</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 Pro 6.1&quot;</param>
@@ -78247,7 +78197,7 @@
 <code>791564</code>
 <name>Чохол Wave з MagSafe — iPhone 14 Pro — White</name>
 <description><![CDATA[Чохол для iPhone 14 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 Pro 6.1&quot;</param>
@@ -81530,7 +81480,7 @@
 <code>788166</code>
 <name>Шкіряний чохол Polo San Francisco Fortune — iPhone 17 Pro/iPhone 18 Pro — Golden State Bear</name>
 <description><![CDATA[Чохол для iPhone 17 Pro/iPhone 18 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Шкіряне оздоблення надає чохлу стриманого класичного вигляду.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
@@ -81605,7 +81555,7 @@
 <code>789760</code>
 <name>Шкіряний чохол Polo Simon з MagSafe — iPhone 17 Pro Max/iPhone 18 Pro Max — Beige</name>
 <description><![CDATA[Чохол для iPhone 17 Pro Max/iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Шкіряне оздоблення надає чохлу стриманого класичного вигляду.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
@@ -93327,7 +93277,7 @@
 <code>791154</code>
 <name>Захисне скло Remax HD ES-01 для iPhone 17 Pro Max/iPhone 18 Pro Max</name>
 <description><![CDATA[Захисне скло для iPhone 17 Pro Max/iPhone 18 Pro Max допомагає захистити дисплей від подряпин, потертостей і дрібних ударів під час щоденного використання.]]></description>
-<quantity_in_stock>45</quantity_in_stock>
+<quantity_in_stock>43</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
 <param name="Бренд">Remax</param>
@@ -101676,7 +101626,7 @@
 <code>788829</code>
 <name>Захисна накладка TPU+PC HardShell — MacBook Air 13.3&quot; A1932 / A2179 / A2337 — Gray</name>
 <description><![CDATA[Захисна накладка для MacBook для щоденного захисту корпусу від подряпин, потертостей і слідів використання.]]></description>
-<quantity_in_stock>7</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Macbook Air 13.3 A1932/A2179/A2337</param>
@@ -114185,6 +114135,104 @@
 <param name="Опт від 7 шт">$0.64</param>
 <param name="Drop">$0.77</param>
 </offer>
+<offer id="ts000082124" available="true">
+<url>https://kmt5.com.ua/cable-aux-to-typec-1m-hoco-upa33b-typec</url>
+<price>250</price>
+<vendorprice>88</vendorprice>
+<vendorpricedoll>1.94</vendorpricedoll>
+<rrcdoll>5.53</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>39270253</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGMvMmMv0KYtMDAwMDgyMTI0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmUvZjEv0KYtMDAwMDgyMTI0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Все</vendor>
+<vendorCode>Ц-000082124</vendorCode>
+<code>788030</code>
+<name>AUX-кабель 3,5 мм — USB-C (1 м) — Hoco UPA33B USB-C</name>
+<description><![CDATA[Аудіокабель для підключення смартфона або планшета до сумісної аудіосистеми. Довжина — 1 м.]]></description>
+<quantity_in_stock>2</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Роз'єм підключення">Cable Aux</param>
+<param name="Опт від 5 шт">$1.8</param>
+<param name="Опт від 7 шт">$1.77</param>
+<param name="Опт від 10 шт">$1.73</param>
+<param name="Drop">$2.07</param>
+</offer>
+<offer id="ts000078134000026415" available="true">
+<url>https://kmt5.com.ua/adapter-usb-a-to-35-hoco-ls36-black</url>
+<price>251</price>
+<vendorprice>77</vendorprice>
+<vendorpricedoll>1.7</vendorpricedoll>
+<rrcdoll>5.56</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>39270253</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2QvNDUv0KYtMDAwMDc4MTM0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTkvM2Iv0KYtMDAwMDc4MTM0XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2MvZWIv0KYtMDAwMDc4MTM0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzEvY2Mv0KYtMDAwMDc4MTM0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmQvZTUv0KYtMDAwMDc4MTM0XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzkvZGIv0KYtMDAwMDc4MTM0XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Hoco</vendor>
+<vendorCode>Ц-000078134</vendorCode>
+<code>777090</code>
+<name>Адаптер USB-A — 3.5 — Hoco LS36 — Black</name>
+<description><![CDATA[Компактний перехідник для з’єднання пристроїв та аксесуарів із зазначеними в назві інтерфейсами.]]></description>
+<quantity_in_stock>1</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Опт від 5 шт">$1.58</param>
+<param name="Опт від 7 шт">$1.55</param>
+<param name="Опт від 10 шт">$1.52</param>
+<param name="Drop">$1.82</param>
+</offer>
+<offer id="ts000080589000029224" available="true">
+<url>https://kmt5.com.ua/kabel-lightning-24a-1m-hoco-x96-white</url>
+<price>50</price>
+<vendorprice>40</vendorprice>
+<vendorpricedoll>0.88</vendorpricedoll>
+<rrcdoll>1.11</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>23161731</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTQvMjcv0KYtMDAwMDgwNTg5XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDgvYjkv0KYtMDAwMDgwNTg5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Все</vendor>
+<vendorCode>Ц-000080589</vendorCode>
+<code>785183</code>
+<name>Кабель Lightning 2,4 А (1 м) — Hoco X96 — White</name>
+<description><![CDATA[Кабель Lightning для заряджання та підключення сумісних пристроїв. Довжина — 1 м; струм — до 2,4 А.]]></description>
+<quantity_in_stock>24</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Роз'єм підключення">Cable USB to Lightning</param>
+<param name="Опт від 5 шт">$0.82</param>
+<param name="Опт від 7 шт">$0.8</param>
+<param name="Опт від 10 шт">$0.78</param>
+<param name="Drop">$0.94</param>
+</offer>
+<offer id="ts000077560000025707" available="true">
+<url>https://kmt5.com.ua/kabel-micro-24a-1m-hoco-x90-cool-silicone-black</url>
+<price>50</price>
+<vendorprice>44</vendorprice>
+<vendorpricedoll>0.98</vendorpricedoll>
+<rrcdoll>1.11</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>25375421</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzAvZmIv0KYtMDAwMDc3NTYwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzEvODEv0KYtMDAwMDc3NTYwXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWEvY2Mv0KYtMDAwMDc3NTYwXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzIvZTgv0KYtMDAwMDc3NTYwXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTEvYmMv0KYtMDAwMDc3NTYwXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Все</vendor>
+<vendorCode>Ц-000077560</vendorCode>
+<code>775086</code>
+<name>Силіконовий кабель Micro-USB 2,4 А (1 м) — Hoco X90 Cool — Black</name>
+<description><![CDATA[Кабель Micro-USB для заряджання та підключення сумісних пристроїв. Довжина — 1 м; струм — до 2,4 А. Силіконова оболонка підвищує зносостійкість.]]></description>
+<quantity_in_stock>10</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Роз'єм підключення">Cable USB to Micro</param>
+<param name="Опт від 5 шт">$0.91</param>
+<param name="Опт від 7 шт">$0.89</param>
+<param name="Опт від 10 шт">$0.87</param>
+<param name="Drop">$1.05</param>
+</offer>
 <offer id="ts000082836" available="true">
 <url>https://kmt5.com.ua/cable-aux-1m-borofone-bl25</url>
 <price>50</price>
@@ -114733,29 +114781,6 @@
 <param name="Опт від 7 шт">$1.32</param>
 <param name="Опт від 10 шт">$1.29</param>
 <param name="Drop">$1.54</param>
-</offer>
-<offer id="ts000082124" available="true">
-<url>https://kmt5.com.ua/cable-aux-to-typec-1m-hoco-upa33b-typec</url>
-<price>250</price>
-<vendorprice>88</vendorprice>
-<vendorpricedoll>1.94</vendorpricedoll>
-<rrcdoll>5.53</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>39270253</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGMvMmMv0KYtMDAwMDgyMTI0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmUvZjEv0KYtMDAwMDgyMTI0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000082124</vendorCode>
-<code>788030</code>
-<name>AUX-кабель 3,5 мм — USB-C (1 м) — Hoco UPA33B USB-C</name>
-<description><![CDATA[Аудіокабель для підключення смартфона або планшета до сумісної аудіосистеми. Довжина — 1 м.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Роз'єм підключення">Cable Aux</param>
-<param name="Опт від 5 шт">$1.8</param>
-<param name="Опт від 7 шт">$1.77</param>
-<param name="Опт від 10 шт">$1.73</param>
-<param name="Drop">$2.07</param>
 </offer>
 <offer id="ts000078117000026398" available="true">
 <url>https://kmt5.com.ua/cable-aux-male-to-female-2m-hoco-upa20-metal-gray</url>
@@ -117035,29 +117060,6 @@
 <param name="Опт від 7 шт">$0.5</param>
 <param name="Опт від 10 шт">$0.49</param>
 <param name="Drop">$0.58</param>
-</offer>
-<offer id="ts000080589000029224" available="true">
-<url>https://kmt5.com.ua/kabel-lightning-24a-1m-hoco-x96-white</url>
-<price>50</price>
-<vendorprice>40</vendorprice>
-<vendorpricedoll>0.88</vendorpricedoll>
-<rrcdoll>1.11</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>23161731</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTQvMjcv0KYtMDAwMDgwNTg5XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDgvYjkv0KYtMDAwMDgwNTg5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000080589</vendorCode>
-<code>785183</code>
-<name>Кабель Lightning 2,4 А (1 м) — Hoco X96 — White</name>
-<description><![CDATA[Кабель Lightning для заряджання та підключення сумісних пристроїв. Довжина — 1 м; струм — до 2,4 А.]]></description>
-<quantity_in_stock>24</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Роз'єм підключення">Cable USB to Lightning</param>
-<param name="Опт від 5 шт">$0.82</param>
-<param name="Опт від 7 шт">$0.8</param>
-<param name="Опт від 10 шт">$0.78</param>
-<param name="Drop">$0.94</param>
 </offer>
 <offer id="ts000042036000009279" available="true">
 <url>https://kmt5.com.ua/momax-elite-link-pro-leather-dl2-lightning-usb-cable-1m-gold-gold</url>
@@ -119457,32 +119459,6 @@
 <param name="Опт від 10 шт">$1.61</param>
 <param name="Drop">$1.93</param>
 </offer>
-<offer id="ts000077560000025707" available="true">
-<url>https://kmt5.com.ua/kabel-micro-24a-1m-hoco-x90-cool-silicone-black</url>
-<price>50</price>
-<vendorprice>44</vendorprice>
-<vendorpricedoll>0.98</vendorpricedoll>
-<rrcdoll>1.11</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>25375421</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzAvZmIv0KYtMDAwMDc3NTYwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzEvODEv0KYtMDAwMDc3NTYwXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWEvY2Mv0KYtMDAwMDc3NTYwXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzIvZTgv0KYtMDAwMDc3NTYwXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTEvYmMv0KYtMDAwMDc3NTYwXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000077560</vendorCode>
-<code>775086</code>
-<name>Силіконовий кабель Micro-USB 2,4 А (1 м) — Hoco X90 Cool — Black</name>
-<description><![CDATA[Кабель Micro-USB для заряджання та підключення сумісних пристроїв. Довжина — 1 м; струм — до 2,4 А. Силіконова оболонка підвищує зносостійкість.]]></description>
-<quantity_in_stock>10</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Роз'єм підключення">Cable USB to Micro</param>
-<param name="Опт від 5 шт">$0.91</param>
-<param name="Опт від 7 шт">$0.89</param>
-<param name="Опт від 10 шт">$0.87</param>
-<param name="Drop">$1.05</param>
-</offer>
 <offer id="ts000072298000021772" available="true">
 <url>https://kmt5.com.ua/kabel-usb-c-3a-1m-hoco-x82-silicone-black</url>
 <price>50</price>
@@ -119921,6 +119897,27 @@
 <param name="Опт від 10 шт">$0.74</param>
 <param name="Drop">$0.88</param>
 </offer>
+<offer id="ts000082549" available="true">
+<url>https://kmt5.com.ua/battery-15v-hoco-ja1-10pcs</url>
+<price>174</price>
+<vendorprice>128</vendorprice>
+<vendorpricedoll>2.83</vendorpricedoll>
+<rrcdoll>3.85</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>46114804</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmIvOWYv0KYtMDAwMDgyNTQ5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzgvYzUv0KYtMDAwMDgyNTQ5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Другие</vendor>
+<vendorCode>Ц-000082549</vendorCode>
+<code>788803</code>
+<name>Батарейка Hoco JA1, 1,5 В, 10 шт.</name>
+<description><![CDATA[Напруга: 1,5 В; Тип: LR6, AA; Упаковка: 10 шт.]]></description>
+<quantity_in_stock>26</quantity_in_stock>
+<param name="Опт від 2 шт">$2.57</param>
+<param name="Опт від 3 шт">$2.55</param>
+<param name="Опт від 5 шт">$2.52</param>
+<param name="Drop">$3.03</param>
+</offer>
 <offer id="ts000084717" available="true">
 <url>https://kmt5.com.ua/dbj-dlya-routera-ta-modema-10400-magod-wgp-dc-ups</url>
 <price>1392</price>
@@ -119960,7 +119957,6 @@
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODcvNTEv0KYtMDAwMDg0NzE4XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <vendor>Другие</vendor>
 <vendorCode>Ц-000084718</vendorCode>
-<code>793456</code>
 <name>ДБЖ для роутера та модема, 13500 мА·год  (27 Watt) WGP OPTIMA DC UPS</name>
 <description><![CDATA[Ємність: 13500 мА·год; Потужність: 27 Вт; Інтерфейси: AC 220 В, USB; Вихід: 12 В.]]></description>
 <quantity_in_stock>29</quantity_in_stock>
@@ -120389,27 +120385,6 @@
 <param name="Опт від 5 шт">$843.9</param>
 <param name="Drop">$957.0</param>
 </offer>
-<offer id="ts000082549" available="true">
-<url>https://kmt5.com.ua/battery-15v-hoco-ja1-10pcs</url>
-<price>174</price>
-<vendorprice>128</vendorprice>
-<vendorpricedoll>2.83</vendorpricedoll>
-<rrcdoll>3.85</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>46114804</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmIvOWYv0KYtMDAwMDgyNTQ5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzgvYzUv0KYtMDAwMDgyNTQ5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Другие</vendor>
-<vendorCode>Ц-000082549</vendorCode>
-<code>788803</code>
-<name>Батарейка Hoco JA1, 1,5 В, 10 шт.</name>
-<description><![CDATA[Напруга: 1,5 В; Тип: LR6, AA; Упаковка: 10 шт.]]></description>
-<quantity_in_stock>26</quantity_in_stock>
-<param name="Опт від 2 шт">$2.57</param>
-<param name="Опт від 3 шт">$2.55</param>
-<param name="Опт від 5 шт">$2.52</param>
-<param name="Drop">$3.03</param>
-</offer>
 <offer id="ts000083208" available="true">
 <url>https://kmt5.com.ua/battery-15v-hoco-ja1a-2pcs</url>
 <price>39</price>
@@ -120811,6 +120786,32 @@
 <param name="Опт від 8 шт">$0.92</param>
 <param name="Drop">$1.1</param>
 </offer>
+<offer id="ts000083444000031544" available="true">
+<url>https://kmt5.com.ua/home-charger-20w-pd-qc30-c-to-c-cable-1m-borofone-bas83a-black</url>
+<price>250</price>
+<vendorprice>112</vendorprice>
+<vendorpricedoll>2.47</vendorpricedoll>
+<rrcdoll>5.53</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>1099827</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGQvMGMv0KYtMDAwMDgzNDQ0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjkvOGMv0KYtMDAwMDgzNDQ0XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDYvZGQv0KYtMDAwMDgzNDQ0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTEvYmQv0KYtMDAwMDgzNDQ0XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Все</vendor>
+<vendorCode>Ц-000083444</vendorCode>
+<code>790661</code>
+<name>Зарядний пристрій Borofone BAS83A, 20 Вт, PD, QC3.0, кабель USB-C – USB-C (1 м) — Black</name>
+<description><![CDATA[Мережевий зарядний пристрій Borofone BAS83A для заряджання сумісних смартфонів та інших гаджетів від розетки. Потужність — 20 Вт. Роз’єми: USB-C + USB-A. Підтримує швидке заряджання Power Delivery. Підтримує QC 3.0. У комплекті зазначено кабель USB-C—USB-C 1 м.]]></description>
+<quantity_in_stock>2</quantity_in_stock>
+<param name="Бренд">Borofone</param>
+<param name="Кількість USB портів">1 U | 1 C</param>
+<param name="Зарядні пристрої">СЗУ &amp; Кабель Type C</param>
+<param name="Опт від 5 шт">$2.3</param>
+<param name="Опт від 7 шт">$2.26</param>
+<param name="Опт від 10 шт">$2.21</param>
+<param name="Drop">$2.64</param>
+</offer>
 <offer id="ts000075667" available="true">
 <url>https://kmt5.com.ua/home-charger-20w-pd-qc30-veron-tc099</url>
 <price>250</price>
@@ -120964,7 +120965,7 @@
 <code>790587</code>
 <name>Автомобільний інвертор Earldom ET-LT01</name>
 <description><![CDATA[Автомобільний інвертор Earldom ET-LT01 перетворює напругу бортової мережі на змінну напругу для живлення сумісних електроприладів. Основні характеристики: • Тип: автомобільний інвертор]]></description>
-<quantity_in_stock>13</quantity_in_stock>
+<quantity_in_stock>12</quantity_in_stock>
 <param name="Бренд">Earldom</param>
 <param name="Опт від 3 шт">$18.14</param>
 <param name="Опт від 7 шт">$17.77</param>
@@ -125513,6 +125514,28 @@
 <param name="Опт від 10 шт">$3.68</param>
 <param name="Drop">$4.4</param>
 </offer>
+<offer id="ts000082849" available="true">
+<url>https://kmt5.com.ua/kilimok-dlya-mish-borofone-bg8-200240-mm</url>
+<price>100</price>
+<vendorprice>35</vendorprice>
+<vendorpricedoll>0.77</vendorpricedoll>
+<rrcdoll>2.21</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>48368747</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzcvYTMv0KYtMDAwMDgyODQ5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGQvM2Yv0KYtMDAwMDgyODQ5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Все</vendor>
+<vendorCode>Ц-000082849</vendorCode>
+<code>789309</code>
+<name>Килимок для миші Borofone BG8 200 × 240 мм</name>
+<description><![CDATA[Килимок для миші Borofone BG8 200 × 240 мм створює рівну поверхню для точного й плавного переміщення миші. Розмір та додаткові особливості вказані в назві.]]></description>
+<quantity_in_stock>27</quantity_in_stock>
+<param name="Бренд">Borofone</param>
+<param name="Опт від 3 шт">$0.72</param>
+<param name="Опт від 5 шт">$0.71</param>
+<param name="Опт від 7 шт">$0.69</param>
+<param name="Drop">$0.83</param>
+</offer>
 <offer id="ts000079769" available="true">
 <url>https://kmt5.com.ua/usb-flash-drive-64gb-veron-30-usb-type-c-metal-seies-104</url>
 <price>750</price>
@@ -128414,7 +128437,7 @@
 <code>782955</code>
 <name>Адаптер USB-C, 100 Вт, DC with 10 adapters</name>
 <description><![CDATA[Перехідник USB-C на DC with 10 adapters, 100 Вт призначений для з’єднання сумісних пристроїв через зазначені типи роз’ємів.]]></description>
-<quantity_in_stock>104</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Опт від 5 шт">$4.03</param>
 <param name="Опт від 7 шт">$3.95</param>
@@ -130365,7 +130388,7 @@
 <code>790974</code>
 <name>Кабель питания DC — 2xDC штекер-штекер 5,5x2,1 мм</name>
 <description><![CDATA[Кабель для заряджання та підключення сумісних пристроїв.]]></description>
-<quantity_in_stock>1400</quantity_in_stock>
+<quantity_in_stock>1200</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Роз'єм підключення">Кабель живлення DC</param>
 <param name="Довжина кабелю">1m</param>
@@ -130789,28 +130812,6 @@
 <param name="Опт від 5 шт">$3.15</param>
 <param name="Опт від 7 шт">$3.08</param>
 <param name="Drop">$3.69</param>
-</offer>
-<offer id="ts000082849" available="true">
-<url>https://kmt5.com.ua/kilimok-dlya-mish-borofone-bg8-200240-mm</url>
-<price>100</price>
-<vendorprice>35</vendorprice>
-<vendorpricedoll>0.77</vendorpricedoll>
-<rrcdoll>2.21</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>48368747</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzcvYTMv0KYtMDAwMDgyODQ5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGQvM2Yv0KYtMDAwMDgyODQ5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000082849</vendorCode>
-<code>789309</code>
-<name>Килимок для миші Borofone BG8 200 × 240 мм</name>
-<description><![CDATA[Килимок для миші Borofone BG8 200 × 240 мм створює рівну поверхню для точного й плавного переміщення миші. Розмір та додаткові особливості вказані в назві.]]></description>
-<quantity_in_stock>27</quantity_in_stock>
-<param name="Бренд">Borofone</param>
-<param name="Опт від 3 шт">$0.72</param>
-<param name="Опт від 5 шт">$0.71</param>
-<param name="Опт від 7 шт">$0.69</param>
-<param name="Drop">$0.83</param>
 </offer>
 <offer id="ts000083422" available="true">
 <url>https://kmt5.com.ua/kilimok-dlya-mish-earldom-etmp01</url>
@@ -133390,6 +133391,61 @@
 <param name="Опт від 7 шт">$0.63</param>
 <param name="Drop">$0.76</param>
 </offer>
+<offer id="ts000077574" available="true">
+<url>https://kmt5.com.ua/lampa-koltsevaya-led-35-cm-14-192-lights-rl14-original</url>
+<price>1449</price>
+<vendorprice>1066</vendorprice>
+<vendorpricedoll>23.59</vendorpricedoll>
+<rrcdoll>32.06</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>55912833</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGIvYTAv0KYtMDAwMDc3NTc0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGUvZWQv0KYtMDAwMDc3NTc0XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzcvMGEv0KYtMDAwMDc3NTc0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjcvZDgv0KYtMDAwMDc3NTc0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzYvZmQv0KYtMDAwMDc3NTc0XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTgvNGIv0KYtMDAwMDc3NTc0XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Все</vendor>
+<vendorCode>Ц-000077574</vendorCode>
+<code>775109</code>
+<name>Кільцева LED-лампа RL-14, Original 36 см, 36 Вт, 192 світлодіодів, пульт ДК, 3 м cable with plug, 3 holder, handle bag</name>
+<description><![CDATA[Кільцева LED-лампа для фото, відео, б’юті-процедур і створення контенту; дає рівномірне фронтальне освітлення та допомагає зменшити різкі тіні. Ключові характеристики: потужність 36 Вт, 192 LED, висота/довжина до 3 м, діаметр 36 см, пульт ДК, 3 тримачі.]]></description>
+<quantity_in_stock>9</quantity_in_stock>
+<param name="Бренд">Различные</param>
+<param name="Кнопки керування">Дистанційний пульт</param>
+<param name="Студійне обладнання">Кільцеві лампи</param>
+<param name="Опт від 2 шт">$18.72</param>
+<param name="Опт від 3 шт">$18.33</param>
+<param name="Опт від 5 шт">$17.94</param>
+<param name="Drop">$25.19</param>
+</offer>
+<offer id="ts000069277" available="true">
+<url>https://kmt5.com.ua/lampa-koltsevaya-led-46-cm-18-rl18-bez-shtativa-416-pcs-lights</url>
+<price>1740</price>
+<vendorprice>1281</vendorprice>
+<vendorpricedoll>28.33</vendorpricedoll>
+<rrcdoll>38.5</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>55912833</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDcvNTUv0KYtMDAwMDY5Mjc3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWIvYmMv0KYtMDAwMDY5Mjc3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjkvNzMv0KYtMDAwMDY5Mjc3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTQvYmYv0KYtMDAwMDY5Mjc3XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTMvZDQv0KYtMDAwMDY5Mjc3XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDEvMmEv0KYtMDAwMDY5Mjc3XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Все</vendor>
+<vendorCode>Ц-000069277</vendorCode>
+<code>737341</code>
+<name>Кільцева LED-лампа RL-18, ** Original 46 см, 55 Вт, 416 світлодіодів, пульт ДК, 3 м cable with plug, 3 holder I</name>
+<description><![CDATA[Кільцева LED-лампа для фото, відео, б’юті-процедур і створення контенту; дає рівномірне фронтальне освітлення та допомагає зменшити різкі тіні. Ключові характеристики: потужність 55 Вт, 416 LED, висота/довжина до 3 м, діаметр 46 см, пульт ДК, 3 тримачі.]]></description>
+<quantity_in_stock>1</quantity_in_stock>
+<param name="Бренд">Различные</param>
+<param name="Кнопки керування">Дистанційний пульт</param>
+<param name="Особливості">З пультом</param>
+<param name="Студійне обладнання">Кільцеві лампи</param>
+<param name="Кількість світлодіодів">416</param>
+<param name="Drop">$30.25</param>
+</offer>
 <offer id="ts000064116000006159" available="true">
 <url>https://kmt5.com.ua/bluetooth-remote-control-for-selfie-stick-black</url>
 <price>31</price>
@@ -133946,7 +134002,7 @@
 <code>756467</code>
 <name>LED-відеосвітло PL-26, USB 23 × 16 см, 240 світлодіодів, 3200 K-5600 K, пульт ДК</name>
 <description><![CDATA[LED-відеосвітло для фото- й відеозйомки, стримів та предметного контенту; підходить як основне або заповнювальне джерело світла. Ключові характеристики: колірна температура 3200–5600 K, 240 LED, розмір 23×16 см, пульт ДК, живлення/підключення USB.]]></description>
-<quantity_in_stock>31</quantity_in_stock>
+<quantity_in_stock>30</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Особливості">З пультом</param>
 <param name="Студійне обладнання">Лампа відеосвітло</param>
@@ -136498,7 +136554,7 @@
 <code>778712</code>
 <name>Блок живлення YongNuo FJ, для ламп, 12 В, 2 А, 24 Вт</name>
 <description><![CDATA[Блок живлення для LED-відеосвітла та сумісного обладнання, призначений для стабільної роботи від електромережі. Ключові характеристики: потужність 24 Вт, адаптер/блок живлення, напруга 12 В, струм 2 А.]]></description>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <param name="Опт від 2 шт">$5.66</param>
 <param name="Опт від 3 шт">$5.55</param>
 <param name="Опт від 5 шт">$5.43</param>
@@ -136947,8 +137003,8 @@
 <offer id="ts000075445" available="true">
 <url>https://kmt5.com.ua/lampa-koltsevaya-led-codn539b-145cm-tripod-stand</url>
 <price>1000</price>
-<vendorprice>647</vendorprice>
-<vendorpricedoll>14.32</vendorpricedoll>
+<vendorprice>601</vendorprice>
+<vendorpricedoll>13.29</vendorpricedoll>
 <rrcdoll>22.12</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>50049047</categoryId>
@@ -138496,7 +138552,7 @@
 <code>781502</code>
 <name>Монопод Tripod Hoco K22, Bluetooth-кнопка, Dual Clamps, 2 світлодіодів, 1,75 м</name>
 <description><![CDATA[Монопод-трипод для смартфона, зручний для селфі, відео, стримів і групових кадрів; може використовуватися як ручний монопод або підставка. Ключові характеристики: висота/довжина до 1,75 м, пульт ДК, Bluetooth, металева конструкція, пластикові/ABS елементи.]]></description>
-<quantity_in_stock>49</quantity_in_stock>
+<quantity_in_stock>48</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Опт від 2 шт">$14.59</param>
 <param name="Опт від 3 шт">$14.29</param>
@@ -138521,7 +138577,7 @@
 <vendor>Все</vendor>
 <vendorCode>Ц-000082683</vendorCode>
 <code>789021</code>
-<name>Монопод Tripod Hoco K27 Pro, 0,75 м</name>
+<name>Монопод Tripod Hoco K27 Pro, 0,48 м</name>
 <description><![CDATA[Монопод-трипод для смартфона, зручний для селфі, відео, стримів і групових кадрів; може використовуватися як ручний монопод або підставка. Ключові характеристики: висота/довжина до 0,75 м, магнітне кріплення.]]></description>
 <quantity_in_stock>16</quantity_in_stock>
 <param name="Бренд">Hoco</param>
@@ -138548,7 +138604,7 @@
 <vendor>Все</vendor>
 <vendorCode>Ц-000081795</vendorCode>
 <code>787575</code>
-<name>Монопод Tripod Hoco K27, 0,75 м — Black</name>
+<name>Монопод Tripod Hoco K27, 0,48 м — Black</name>
 <description><![CDATA[Монопод-трипод для смартфона, зручний для селфі, відео, стримів і групових кадрів; може використовуватися як ручний монопод або підставка. Ключові характеристики: висота/довжина до 0,75 м, пульт ДК, Bluetooth, металева конструкція, пластикові/ABS елементи.]]></description>
 <quantity_in_stock>23</quantity_in_stock>
 <param name="Бренд">Hoco</param>
@@ -139996,8 +140052,8 @@
 <offer id="ts000078534" available="true">
 <url>https://kmt5.com.ua/lampa-videosvet-led-ay96jssr</url>
 <price>183</price>
-<vendorprice>135</vendorprice>
-<vendorpricedoll>2.99</vendorpricedoll>
+<vendorprice>126</vendorprice>
+<vendorpricedoll>2.78</vendorpricedoll>
 <rrcdoll>4.05</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>32434601</categoryId>
@@ -140031,8 +140087,8 @@
 <offer id="ts000080364" available="true">
 <url>https://kmt5.com.ua/nakamernyiy-videosvet-led-rgb-c03</url>
 <price>161</price>
-<vendorprice>119</vendorprice>
-<vendorpricedoll>2.63</vendorpricedoll>
+<vendorprice>114</vendorprice>
+<vendorpricedoll>2.52</vendorpricedoll>
 <rrcdoll>3.56</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>32434601</categoryId>
@@ -140100,8 +140156,8 @@
 <offer id="ts000081065" available="true">
 <url>https://kmt5.com.ua/nakamernyiy-videosvet-led-d12s</url>
 <price>670</price>
-<vendorprice>396</vendorprice>
-<vendorpricedoll>8.76</vendorpricedoll>
+<vendorprice>344</vendorprice>
+<vendorpricedoll>7.62</vendorpricedoll>
 <rrcdoll>14.82</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>32434601</categoryId>
@@ -140178,8 +140234,8 @@
 <offer id="ts000080365" available="true">
 <url>https://kmt5.com.ua/nakamernyiy-videosvet-led-rgb-m19</url>
 <price>670</price>
-<vendorprice>396</vendorprice>
-<vendorpricedoll>8.76</vendorpricedoll>
+<vendorprice>335</vendorprice>
+<vendorpricedoll>7.42</vendorpricedoll>
 <rrcdoll>14.82</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>32434601</categoryId>
@@ -140211,8 +140267,8 @@
 <offer id="ts000080366" available="true">
 <url>https://kmt5.com.ua/nakamernyiy-videosvet-led-rgb-m20</url>
 <price>770</price>
-<vendorprice>480</vendorprice>
-<vendorpricedoll>10.61</vendorpricedoll>
+<vendorprice>410</vendorprice>
+<vendorpricedoll>9.06</vendorpricedoll>
 <rrcdoll>17.04</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>32434601</categoryId>
@@ -140463,8 +140519,8 @@
 <offer id="ts000079139000026995" available="true">
 <url>https://kmt5.com.ua/lampa-videosvet-led-yn60-rgb-ii-black</url>
 <price>757</price>
-<vendorprice>559</vendorprice>
-<vendorpricedoll>12.36</vendorpricedoll>
+<vendorprice>447</vendorprice>
+<vendorpricedoll>9.89</vendorpricedoll>
 <rrcdoll>16.74</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>32434601</categoryId>
@@ -140497,8 +140553,8 @@
 <offer id="ts000079139000026996" available="true">
 <url>https://kmt5.com.ua/lampa-videosvet-led-yn60-rgb-ii-white</url>
 <price>757</price>
-<vendorprice>559</vendorprice>
-<vendorpricedoll>12.36</vendorpricedoll>
+<vendorprice>447</vendorprice>
+<vendorpricedoll>9.89</vendorpricedoll>
 <rrcdoll>16.74</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>32434601</categoryId>
@@ -141195,8 +141251,8 @@
 <offer id="ts000081408000029854" available="true">
 <url>https://kmt5.com.ua/selfi-vspyishka-f662-black</url>
 <price>700</price>
-<vendorprice>456</vendorprice>
-<vendorpricedoll>10.09</vendorpricedoll>
+<vendorprice>368</vendorprice>
+<vendorpricedoll>8.14</vendorpricedoll>
 <rrcdoll>15.49</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>85826677</categoryId>
@@ -141247,8 +141303,8 @@
 <offer id="ts000078946" available="true">
 <url>https://kmt5.com.ua/selfi-vspyishka-m11</url>
 <price>435</price>
-<vendorprice>321</vendorprice>
-<vendorpricedoll>7.11</vendorpricedoll>
+<vendorprice>289</vendorprice>
+<vendorpricedoll>6.39</vendorpricedoll>
 <rrcdoll>9.63</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>85826677</categoryId>
@@ -141301,8 +141357,8 @@
 <offer id="ts000080817" available="true">
 <url>https://kmt5.com.ua/selfi-vspyishka-m17</url>
 <price>700</price>
-<vendorprice>438</vendorprice>
-<vendorpricedoll>9.68</vendorpricedoll>
+<vendorprice>410</vendorprice>
+<vendorpricedoll>9.06</vendorpricedoll>
 <rrcdoll>15.49</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>85826677</categoryId>
@@ -141328,8 +141384,8 @@
 <offer id="ts000080822" available="true">
 <url>https://kmt5.com.ua/selfi-vspyishka-m88</url>
 <price>280</price>
-<vendorprice>156</vendorprice>
-<vendorpricedoll>3.45</vendorpricedoll>
+<vendorprice>117</vendorprice>
+<vendorpricedoll>2.58</vendorpricedoll>
 <rrcdoll>6.2</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>85826677</categoryId>
@@ -141378,8 +141434,8 @@
 <offer id="ts000075448" available="true">
 <url>https://kmt5.com.ua/svetodiodnyiy-projektor-f610a</url>
 <price>473</price>
-<vendorprice>349</vendorprice>
-<vendorpricedoll>7.73</vendorpricedoll>
+<vendorprice>335</vendorprice>
+<vendorpricedoll>7.42</vendorpricedoll>
 <rrcdoll>10.47</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>85826677</categoryId>
@@ -142206,7 +142262,7 @@
 <code>778693</code>
 <name>Студійний LED-прожектор YN216 + AKБ и зарядний пристрій</name>
 <description><![CDATA[Студійне LED-світло для фото- та відеозйомки з потужним керованим освітленням; підходить для студії, контенту й предметної зйомки. Ключові характеристики: потужність 24 Вт, розмір 16,5×14×16,5 см, пульт ДК, Bluetooth, бездротове керування.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Опт від 2 шт">$41.28</param>
 <param name="Опт від 3 шт">$40.42</param>
@@ -144048,6 +144104,239 @@
 <param name="Опт від 5 шт">$5.98</param>
 <param name="Drop">$7.15</param>
 </offer>
+<offer id="ts000078476000026683" available="true">
+<url>https://kmt5.com.ua/bluetooth-headphones-hoco-w35-air-triumph-green</url>
+<price>700</price>
+<vendorprice>452</vendorprice>
+<vendorpricedoll>9.99</vendorpricedoll>
+<rrcdoll>15.49</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>22933428</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTEvNDcv0KYtMDAwMDc4NDc2XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDEvM2Uv0KYtMDAwMDc4NDc2XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmMvN2Yv0KYtMDAwMDc4NDc2XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWYvYTkv0KYtMDAwMDc4NDc2XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTgvNTUv0KYtMDAwMDc4NDc2XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Все</vendor>
+<vendorCode>Ц-000078476</vendorCode>
+<code>777696</code>
+<name>Бездротові Bluetooth-навушники Hoco W35 Air Triumph, накладні — Green</name>
+<description><![CDATA[Бездротові Bluetooth-навушники Hoco W35 Air Triumph, накладні призначені для прослуховування музики та дзвінків без дротів. Підключення через Bluetooth забезпечує сумісність зі смартфонами, планшетами та іншими аудіопристроями. Основні характеристики: Bluetooth — JL7006F4; час розмов — 45 год; акумулятор — 400 мА·год.]]></description>
+<quantity_in_stock>8</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Аудіо товари">Навушники Bluetooth</param>
+<param name="Опт від 2 шт">$9.31</param>
+<param name="Опт від 3 шт">$9.12</param>
+<param name="Опт від 5 шт">$8.92</param>
+<param name="Drop">$10.67</param>
+</offer>
+<offer id="ts000077413000026677" available="true">
+<url>https://kmt5.com.ua/bluetooth-headphones-hoco-w46-brown</url>
+<price>400</price>
+<vendorprice>261</vendorprice>
+<vendorpricedoll>5.77</vendorpricedoll>
+<rrcdoll>8.85</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>22933428</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjYvNTYv0KYtMDAwMDc3NDEzXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzEvY2Iv0KYtMDAwMDc3NDEzXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODgvMDIv0KYtMDAwMDc3NDEzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDIvZTMv0KYtMDAwMDc3NDEzXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Все</vendor>
+<vendorCode>Ц-000077413</vendorCode>
+<code>777689</code>
+<name>Бездротові Bluetooth-навушники Hoco W46, накладні — Brown</name>
+<description><![CDATA[Бездротові Bluetooth-навушники Hoco W46, накладні призначені для прослуховування музики та дзвінків без дротів. Підключення через Bluetooth забезпечує сумісність зі смартфонами, планшетами та іншими аудіопристроями. Основні характеристики: Bluetooth — Blue trum AB5656; акумулятор — 200 мА·год.]]></description>
+<quantity_in_stock>2</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Аудіо товари">Навушники Bluetooth</param>
+<param name="Опт від 2 шт">$5.38</param>
+<param name="Опт від 3 шт">$5.26</param>
+<param name="Опт від 5 шт">$5.15</param>
+<param name="Drop">$6.16</param>
+</offer>
+<offer id="ts000077413000026678" available="true">
+<url>https://kmt5.com.ua/bluetooth-headphones-hoco-w46-milky-white</url>
+<price>400</price>
+<vendorprice>261</vendorprice>
+<vendorpricedoll>5.77</vendorpricedoll>
+<rrcdoll>8.85</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>22933428</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzAvNjgv0KYtMDAwMDc3NDEzXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWMvZjUv0KYtMDAwMDc3NDEzXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODgvMDIv0KYtMDAwMDc3NDEzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDIvZTMv0KYtMDAwMDc3NDEzXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Все</vendor>
+<vendorCode>Ц-000077413</vendorCode>
+<code>777690</code>
+<name>Бездротові Bluetooth-навушники Hoco W46, накладні — Milky White</name>
+<description><![CDATA[Бездротові Bluetooth-навушники Hoco W46, накладні призначені для прослуховування музики та дзвінків без дротів. Підключення через Bluetooth забезпечує сумісність зі смартфонами, планшетами та іншими аудіопристроями. Основні характеристики: Bluetooth — Blue trum AB5656; акумулятор — 200 мА·год.]]></description>
+<quantity_in_stock>1</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Аудіо товари">Навушники Bluetooth</param>
+<param name="Опт від 2 шт">$5.38</param>
+<param name="Опт від 3 шт">$5.26</param>
+<param name="Опт від 5 шт">$5.15</param>
+<param name="Drop">$6.16</param>
+</offer>
+<offer id="ts000080117000028384" available="true">
+<url>https://kmt5.com.ua/bluetooth-headphones-hoco-w55-pink</url>
+<price>850</price>
+<vendorprice>536</vendorprice>
+<vendorpricedoll>11.85</vendorpricedoll>
+<rrcdoll>18.81</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>22933428</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjEvZTcv0KYtMDAwMDgwMTE3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWQvYmQv0KYtMDAwMDgwMTE3XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzYvNDcv0KYtMDAwMDgwMTE3XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjEvNzUv0KYtMDAwMDgwMTE3XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTMvYzYv0KYtMDAwMDgwMTE3XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDUvNTgv0KYtMDAwMDgwMTE3XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Все</vendor>
+<vendorCode>Ц-000080117</vendorCode>
+<code>781926</code>
+<name>Бездротові Bluetooth-навушники Hoco W55, накладні — Pink</name>
+<description><![CDATA[Бездротові Bluetooth-навушники Hoco W55, накладні призначені для прослуховування музики та дзвінків без дротів. Підключення через Bluetooth забезпечує сумісність зі смартфонами, планшетами та іншими аудіопристроями. Основні характеристики: Bluetooth — JL JL7006F4; акумулятор — 800 мА·год.]]></description>
+<quantity_in_stock>3</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Аудіо товари">Навушники Bluetooth</param>
+<param name="Опт від 2 шт">$11.04</param>
+<param name="Опт від 3 шт">$10.81</param>
+<param name="Опт від 5 шт">$10.58</param>
+<param name="Drop">$12.65</param>
+</offer>
+<offer id="ts000080117000028382" available="true">
+<url>https://kmt5.com.ua/bluetooth-headphones-hoco-w55-sky-blue</url>
+<price>850</price>
+<vendorprice>536</vendorprice>
+<vendorpricedoll>11.85</vendorpricedoll>
+<rrcdoll>18.81</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>22933428</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTAvZWQv0KYtMDAwMDgwMTE3XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDYvMWMv0KYtMDAwMDgwMTE3XzEzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzYvNDcv0KYtMDAwMDgwMTE3XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjEvNzUv0KYtMDAwMDgwMTE3XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTMvYzYv0KYtMDAwMDgwMTE3XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDUvNTgv0KYtMDAwMDgwMTE3XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Все</vendor>
+<vendorCode>Ц-000080117</vendorCode>
+<code>781924</code>
+<name>Бездротові Bluetooth-навушники Hoco W55, накладні — Sky blue</name>
+<description><![CDATA[Бездротові Bluetooth-навушники Hoco W55, накладні призначені для прослуховування музики та дзвінків без дротів. Підключення через Bluetooth забезпечує сумісність зі смартфонами, планшетами та іншими аудіопристроями. Основні характеристики: Bluetooth — JL JL7006F4; акумулятор — 800 мА·год.]]></description>
+<quantity_in_stock>1</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Аудіо товари">Навушники Bluetooth</param>
+<param name="Опт від 2 шт">$11.04</param>
+<param name="Опт від 3 шт">$10.81</param>
+<param name="Опт від 5 шт">$10.58</param>
+<param name="Drop">$12.65</param>
+</offer>
+<offer id="ts000080113000028377" available="true">
+<url>https://kmt5.com.ua/bluetooth-headphones-hoco-w56-black</url>
+<price>650</price>
+<vendorprice>402</vendorprice>
+<vendorpricedoll>8.9</vendorpricedoll>
+<rrcdoll>14.38</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>22933428</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTAvMmYv0KYtMDAwMDgwMTEzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmEvMWUv0KYtMDAwMDgwMTEzXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWMvZWMv0KYtMDAwMDgwMTEzXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmYvODcv0KYtMDAwMDgwMTEzXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODYvNzUv0KYtMDAwMDgwMTEzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Все</vendor>
+<vendorCode>Ц-000080113</vendorCode>
+<code>781915</code>
+<name>Бездротові Bluetooth-навушники Hoco W56, накладні — Black</name>
+<description><![CDATA[Бездротові Bluetooth-навушники Hoco W56, накладні призначені для прослуховування музики та дзвінків без дротів. Підключення через Bluetooth забезпечує сумісність зі смартфонами, планшетами та іншими аудіопристроями. Основні характеристики: Bluetooth — JL JL7003F4; акумулятор — 250 мА·год.]]></description>
+<quantity_in_stock>4</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Аудіо товари">Навушники Bluetooth</param>
+<param name="Опт від 2 шт">$8.29</param>
+<param name="Опт від 3 шт">$8.12</param>
+<param name="Опт від 5 шт">$7.95</param>
+<param name="Drop">$9.5</param>
+</offer>
+<offer id="ts000080731" available="true">
+<url>https://kmt5.com.ua/bluetooth-garntura-tws-hoco-ew81</url>
+<price>780</price>
+<vendorprice>475</vendorprice>
+<vendorpricedoll>10.51</vendorpricedoll>
+<rrcdoll>17.26</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>54581499</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2UvMTkv0KYtMDAwMDgwNzMxXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjYvZDYv0KYtMDAwMDgwNzMxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2QvNjYv0KYtMDAwMDgwNzMxXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTkvYWIv0KYtMDAwMDgwNzMxXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Все</vendor>
+<vendorCode>Ц-000080731</vendorCode>
+<code>785853</code>
+<name>Бездротові TWS-навушники Hoco EW81</name>
+<description><![CDATA[Особливості та переваги Інтелектуальний сенсорний екран Навушники оснащені LED сенсорним екраном, який відображає точну інформацію про поточний заряд і дозволяє зручно керувати багатьма функціями прямо із зарядного кейсу. Тривала автономність Вбудований акумулятор із ємністю 30 mAh забезпечує до 4 годин роботи без підзарядки, а зарядний кейс може збільшити цей час. Легкість та компактність Вага всього 50 г і компактні розміри (54.5×46.5×23 мм) роблять ці навушники зручними для повсякденного використання та комфортного носіння у будь-якому місці. Технічні характеристики Bluetooth версія: 5.4 Чіп: JL AC6983D4 Ємність акумулятора зарядного кейсу: 300 mAh Ємність акумулятора навушників: 30 mAh Час роботи без підзарядки: до 4 годин Матеріал: ABS-пластик Розмір навушників: 54.5×46.5×23 мм Вага навушників: 50 г Комплектація Бездротові навушники HOCO EW81 Зарядний кейс Кабель для заряджання Інструкція Упаковка]]></description>
+<quantity_in_stock>1</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Опт від 2 шт">$9.79</param>
+<param name="Опт від 3 шт">$9.59</param>
+<param name="Опт від 5 шт">$9.38</param>
+<param name="Drop">$11.22</param>
+</offer>
+<offer id="ts000079743000027686" available="true">
+<url>https://kmt5.com.ua/navushniki-type-c-z-mkrofonom-hoco-m101-black</url>
+<price>150</price>
+<vendorprice>83</vendorprice>
+<vendorpricedoll>1.84</vendorpricedoll>
+<rrcdoll>3.32</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>16127759</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDMvMzIv0KYtMDAwMDc5NzQzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWMvOGYv0KYtMDAwMDc5NzQzXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzcvYmEv0KYtMDAwMDc5NzQzXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWEvODYv0KYtMDAwMDc5NzQzXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTAvZDEv0KYtMDAwMDc5NzQzXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Все</vendor>
+<vendorCode>Ц-000079743</vendorCode>
+<code>779969</code>
+<name>Дротові навушники Hoco M101, Type-C, з мікрофоном — Black</name>
+<description><![CDATA[Дротові навушники Hoco M101, Type-C, з мікрофоном призначені для прослуховування музики та телефонних розмов. Дротове підключення забезпечує стабільну передачу звуку без потреби заряджати навушники. Вбудований у кабель мікрофон дає змогу відповідати на дзвінки. Основні характеристики: динамік — 14 мм.]]></description>
+<quantity_in_stock>20</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Аудіо товари">Навушники USB C</param>
+<param name="Опт від 2 шт">$1.72</param>
+<param name="Опт від 3 шт">$1.68</param>
+<param name="Опт від 5 шт">$1.65</param>
+<param name="Drop">$1.97</param>
+</offer>
+<offer id="ts000071109000019814" available="true">
+<url>https://kmt5.com.ua/navushniki-z-mkrofonom-35mm-hoco-m60-perfect-sound-universal-black</url>
+<price>130</price>
+<vendorprice>56</vendorprice>
+<vendorpricedoll>1.24</vendorpricedoll>
+<rrcdoll>2.88</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>72062147</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODgvNTMv0KYtMDAwMDcxMTA5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzkvNGIv0KYtMDAwMDcxMTA5XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2IvYTAv0KYtMDAwMDcxMTA5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjgvYmYv0KYtMDAwMDcxMTA5XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjAvYmMv0KYtMDAwMDcxMTA5XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Все</vendor>
+<vendorCode>Ц-000071109</vendorCode>
+<code>749599</code>
+<name>Дротові навушники Hoco M60 Perfect sound universal, 3.5 мм, з мікрофоном — Black</name>
+<description><![CDATA[Дротові навушники Hoco M60 Perfect sound universal, 3.5 мм, з мікрофоном призначені для прослуховування музики та телефонних розмов. Дротове підключення забезпечує стабільну передачу звуку без потреби заряджати навушники. Вбудований у кабель мікрофон дає змогу відповідати на дзвінки. Основні характеристики: динамік — 10 мм; маса — 13 г; роз’єм — Ø3, 5 мм; мікрофон — контролер з мікрофоном.]]></description>
+<quantity_in_stock>30</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Довжина кабелю">1.2m</param>
+<param name="Аудіо товари">Навушники з мікрофоном 3.5mm</param>
+<param name="Опт від 2 шт">$1.15</param>
+<param name="Опт від 3 шт">$1.13</param>
+<param name="Опт від 5 шт">$1.1</param>
+<param name="Drop">$1.32</param>
+</offer>
 <offer id="ts000071742000021491" available="true">
 <url>https://kmt5.com.ua/garnitura-bluetooth-borofone-bc36-lucky-business-black</url>
 <price>200</price>
@@ -145352,32 +145641,6 @@
 <param name="Опт від 5 шт">$8.65</param>
 <param name="Drop">$9.68</param>
 </offer>
-<offer id="ts000078476000026683" available="true">
-<url>https://kmt5.com.ua/bluetooth-headphones-hoco-w35-air-triumph-green</url>
-<price>700</price>
-<vendorprice>452</vendorprice>
-<vendorpricedoll>9.99</vendorpricedoll>
-<rrcdoll>15.49</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>22933428</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTEvNDcv0KYtMDAwMDc4NDc2XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDEvM2Uv0KYtMDAwMDc4NDc2XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmMvN2Yv0KYtMDAwMDc4NDc2XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWYvYTkv0KYtMDAwMDc4NDc2XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTgvNTUv0KYtMDAwMDc4NDc2XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000078476</vendorCode>
-<code>777696</code>
-<name>Бездротові Bluetooth-навушники Hoco W35 Air Triumph, накладні — Green</name>
-<description><![CDATA[Бездротові Bluetooth-навушники Hoco W35 Air Triumph, накладні призначені для прослуховування музики та дзвінків без дротів. Підключення через Bluetooth забезпечує сумісність зі смартфонами, планшетами та іншими аудіопристроями. Основні характеристики: Bluetooth — JL7006F4; час розмов — 45 год; акумулятор — 400 мА·год.]]></description>
-<quantity_in_stock>8</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Аудіо товари">Навушники Bluetooth</param>
-<param name="Опт від 2 шт">$9.31</param>
-<param name="Опт від 3 шт">$9.12</param>
-<param name="Опт від 5 шт">$8.92</param>
-<param name="Drop">$10.67</param>
-</offer>
 <offer id="ts000078713000026923" available="true">
 <url>https://kmt5.com.ua/bluetooth-headphones-hoco-w35-max-joy-silver</url>
 <price>850</price>
@@ -145427,56 +145690,6 @@
 <param name="Опт від 3 шт">$18.33</param>
 <param name="Опт від 5 шт">$17.94</param>
 <param name="Drop">$21.45</param>
-</offer>
-<offer id="ts000077413000026677" available="true">
-<url>https://kmt5.com.ua/bluetooth-headphones-hoco-w46-brown</url>
-<price>400</price>
-<vendorprice>261</vendorprice>
-<vendorpricedoll>5.77</vendorpricedoll>
-<rrcdoll>8.85</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>22933428</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjYvNTYv0KYtMDAwMDc3NDEzXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzEvY2Iv0KYtMDAwMDc3NDEzXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODgvMDIv0KYtMDAwMDc3NDEzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDIvZTMv0KYtMDAwMDc3NDEzXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000077413</vendorCode>
-<code>777689</code>
-<name>Бездротові Bluetooth-навушники Hoco W46, накладні — Brown</name>
-<description><![CDATA[Бездротові Bluetooth-навушники Hoco W46, накладні призначені для прослуховування музики та дзвінків без дротів. Підключення через Bluetooth забезпечує сумісність зі смартфонами, планшетами та іншими аудіопристроями. Основні характеристики: Bluetooth — Blue trum AB5656; акумулятор — 200 мА·год.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Аудіо товари">Навушники Bluetooth</param>
-<param name="Опт від 2 шт">$5.38</param>
-<param name="Опт від 3 шт">$5.26</param>
-<param name="Опт від 5 шт">$5.15</param>
-<param name="Drop">$6.16</param>
-</offer>
-<offer id="ts000077413000026678" available="true">
-<url>https://kmt5.com.ua/bluetooth-headphones-hoco-w46-milky-white</url>
-<price>400</price>
-<vendorprice>261</vendorprice>
-<vendorpricedoll>5.77</vendorpricedoll>
-<rrcdoll>8.85</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>22933428</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzAvNjgv0KYtMDAwMDc3NDEzXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWMvZjUv0KYtMDAwMDc3NDEzXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODgvMDIv0KYtMDAwMDc3NDEzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDIvZTMv0KYtMDAwMDc3NDEzXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000077413</vendorCode>
-<code>777690</code>
-<name>Бездротові Bluetooth-навушники Hoco W46, накладні — Milky White</name>
-<description><![CDATA[Бездротові Bluetooth-навушники Hoco W46, накладні призначені для прослуховування музики та дзвінків без дротів. Підключення через Bluetooth забезпечує сумісність зі смартфонами, планшетами та іншими аудіопристроями. Основні характеристики: Bluetooth — Blue trum AB5656; акумулятор — 200 мА·год.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Аудіо товари">Навушники Bluetooth</param>
-<param name="Опт від 2 шт">$5.38</param>
-<param name="Опт від 3 шт">$5.26</param>
-<param name="Опт від 5 шт">$5.15</param>
-<param name="Drop">$6.16</param>
 </offer>
 <offer id="ts000078711000026918" available="true">
 <url>https://kmt5.com.ua/bluetooth-headphones-hoco-w48-blue</url>
@@ -145610,86 +145823,6 @@
 <param name="Опт від 3 шт">$14.57</param>
 <param name="Опт від 5 шт">$14.26</param>
 <param name="Drop">$17.05</param>
-</offer>
-<offer id="ts000080117000028384" available="true">
-<url>https://kmt5.com.ua/bluetooth-headphones-hoco-w55-pink</url>
-<price>850</price>
-<vendorprice>536</vendorprice>
-<vendorpricedoll>11.85</vendorpricedoll>
-<rrcdoll>18.81</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>22933428</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjEvZTcv0KYtMDAwMDgwMTE3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWQvYmQv0KYtMDAwMDgwMTE3XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzYvNDcv0KYtMDAwMDgwMTE3XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjEvNzUv0KYtMDAwMDgwMTE3XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTMvYzYv0KYtMDAwMDgwMTE3XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDUvNTgv0KYtMDAwMDgwMTE3XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000080117</vendorCode>
-<code>781926</code>
-<name>Бездротові Bluetooth-навушники Hoco W55, накладні — Pink</name>
-<description><![CDATA[Бездротові Bluetooth-навушники Hoco W55, накладні призначені для прослуховування музики та дзвінків без дротів. Підключення через Bluetooth забезпечує сумісність зі смартфонами, планшетами та іншими аудіопристроями. Основні характеристики: Bluetooth — JL JL7006F4; акумулятор — 800 мА·год.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Аудіо товари">Навушники Bluetooth</param>
-<param name="Опт від 2 шт">$11.04</param>
-<param name="Опт від 3 шт">$10.81</param>
-<param name="Опт від 5 шт">$10.58</param>
-<param name="Drop">$12.65</param>
-</offer>
-<offer id="ts000080117000028382" available="true">
-<url>https://kmt5.com.ua/bluetooth-headphones-hoco-w55-sky-blue</url>
-<price>850</price>
-<vendorprice>536</vendorprice>
-<vendorpricedoll>11.85</vendorpricedoll>
-<rrcdoll>18.81</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>22933428</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTAvZWQv0KYtMDAwMDgwMTE3XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDYvMWMv0KYtMDAwMDgwMTE3XzEzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzYvNDcv0KYtMDAwMDgwMTE3XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjEvNzUv0KYtMDAwMDgwMTE3XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTMvYzYv0KYtMDAwMDgwMTE3XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDUvNTgv0KYtMDAwMDgwMTE3XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000080117</vendorCode>
-<code>781924</code>
-<name>Бездротові Bluetooth-навушники Hoco W55, накладні — Sky blue</name>
-<description><![CDATA[Бездротові Bluetooth-навушники Hoco W55, накладні призначені для прослуховування музики та дзвінків без дротів. Підключення через Bluetooth забезпечує сумісність зі смартфонами, планшетами та іншими аудіопристроями. Основні характеристики: Bluetooth — JL JL7006F4; акумулятор — 800 мА·год.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Аудіо товари">Навушники Bluetooth</param>
-<param name="Опт від 2 шт">$11.04</param>
-<param name="Опт від 3 шт">$10.81</param>
-<param name="Опт від 5 шт">$10.58</param>
-<param name="Drop">$12.65</param>
-</offer>
-<offer id="ts000080113000028377" available="true">
-<url>https://kmt5.com.ua/bluetooth-headphones-hoco-w56-black</url>
-<price>650</price>
-<vendorprice>402</vendorprice>
-<vendorpricedoll>8.9</vendorpricedoll>
-<rrcdoll>14.38</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>22933428</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTAvMmYv0KYtMDAwMDgwMTEzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmEvMWUv0KYtMDAwMDgwMTEzXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWMvZWMv0KYtMDAwMDgwMTEzXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmYvODcv0KYtMDAwMDgwMTEzXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODYvNzUv0KYtMDAwMDgwMTEzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000080113</vendorCode>
-<code>781915</code>
-<name>Бездротові Bluetooth-навушники Hoco W56, накладні — Black</name>
-<description><![CDATA[Бездротові Bluetooth-навушники Hoco W56, накладні призначені для прослуховування музики та дзвінків без дротів. Підключення через Bluetooth забезпечує сумісність зі смартфонами, планшетами та іншими аудіопристроями. Основні характеристики: Bluetooth — JL JL7003F4; акумулятор — 250 мА·год.]]></description>
-<quantity_in_stock>4</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Аудіо товари">Навушники Bluetooth</param>
-<param name="Опт від 2 шт">$8.29</param>
-<param name="Опт від 3 шт">$8.12</param>
-<param name="Опт від 5 шт">$7.95</param>
-<param name="Drop">$9.5</param>
 </offer>
 <offer id="ts000080856000029497" available="true">
 <url>https://kmt5.com.ua/bluetooth-headphones-hoco-w62-brown</url>
@@ -146981,30 +147114,6 @@
 <param name="Опт від 5 шт">$11.04</param>
 <param name="Drop">$12.65</param>
 </offer>
-<offer id="ts000080731" available="true">
-<url>https://kmt5.com.ua/bluetooth-garntura-tws-hoco-ew81</url>
-<price>780</price>
-<vendorprice>475</vendorprice>
-<vendorpricedoll>10.51</vendorpricedoll>
-<rrcdoll>17.26</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54581499</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2UvMTkv0KYtMDAwMDgwNzMxXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjYvZDYv0KYtMDAwMDgwNzMxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2QvNjYv0KYtMDAwMDgwNzMxXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTkvYWIv0KYtMDAwMDgwNzMxXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000080731</vendorCode>
-<code>785853</code>
-<name>Бездротові TWS-навушники Hoco EW81</name>
-<description><![CDATA[Особливості та переваги Інтелектуальний сенсорний екран Навушники оснащені LED сенсорним екраном, який відображає точну інформацію про поточний заряд і дозволяє зручно керувати багатьма функціями прямо із зарядного кейсу. Тривала автономність Вбудований акумулятор із ємністю 30 mAh забезпечує до 4 годин роботи без підзарядки, а зарядний кейс може збільшити цей час. Легкість та компактність Вага всього 50 г і компактні розміри (54.5×46.5×23 мм) роблять ці навушники зручними для повсякденного використання та комфортного носіння у будь-якому місці. Технічні характеристики Bluetooth версія: 5.4 Чіп: JL AC6983D4 Ємність акумулятора зарядного кейсу: 300 mAh Ємність акумулятора навушників: 30 mAh Час роботи без підзарядки: до 4 годин Матеріал: ABS-пластик Розмір навушників: 54.5×46.5×23 мм Вага навушників: 50 г Комплектація Бездротові навушники HOCO EW81 Зарядний кейс Кабель для заряджання Інструкція Упаковка]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Опт від 2 шт">$9.79</param>
-<param name="Опт від 3 шт">$9.59</param>
-<param name="Опт від 5 шт">$9.38</param>
-<param name="Drop">$11.22</param>
-</offer>
 <offer id="ts000080730" available="true">
 <url>https://kmt5.com.ua/bluetooth-garntura-tws-hoco-ew82</url>
 <price>700</price>
@@ -147833,32 +147942,6 @@
 <param name="Опт від 5 шт">$0.46</param>
 <param name="Drop">$0.55</param>
 </offer>
-<offer id="ts000079743000027686" available="true">
-<url>https://kmt5.com.ua/navushniki-type-c-z-mkrofonom-hoco-m101-black</url>
-<price>150</price>
-<vendorprice>83</vendorprice>
-<vendorpricedoll>1.84</vendorpricedoll>
-<rrcdoll>3.32</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>16127759</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDMvMzIv0KYtMDAwMDc5NzQzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWMvOGYv0KYtMDAwMDc5NzQzXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzcvYmEv0KYtMDAwMDc5NzQzXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWEvODYv0KYtMDAwMDc5NzQzXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTAvZDEv0KYtMDAwMDc5NzQzXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000079743</vendorCode>
-<code>779969</code>
-<name>Дротові навушники Hoco M101, Type-C, з мікрофоном — Black</name>
-<description><![CDATA[Дротові навушники Hoco M101, Type-C, з мікрофоном призначені для прослуховування музики та телефонних розмов. Дротове підключення забезпечує стабільну передачу звуку без потреби заряджати навушники. Вбудований у кабель мікрофон дає змогу відповідати на дзвінки. Основні характеристики: динамік — 14 мм.]]></description>
-<quantity_in_stock>20</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Аудіо товари">Навушники USB C</param>
-<param name="Опт від 2 шт">$1.72</param>
-<param name="Опт від 3 шт">$1.68</param>
-<param name="Опт від 5 шт">$1.65</param>
-<param name="Drop">$1.97</param>
-</offer>
 <offer id="ts000083096000031064" available="true">
 <url>https://kmt5.com.ua/35mm-earphones-with-mic-hoco-m117-black</url>
 <price>130</price>
@@ -148000,33 +148083,6 @@
 <param name="Опт від 3 шт">$1.03</param>
 <param name="Опт від 5 шт">$1.01</param>
 <param name="Drop">$1.21</param>
-</offer>
-<offer id="ts000071109000019814" available="true">
-<url>https://kmt5.com.ua/navushniki-z-mkrofonom-35mm-hoco-m60-perfect-sound-universal-black</url>
-<price>130</price>
-<vendorprice>56</vendorprice>
-<vendorpricedoll>1.24</vendorpricedoll>
-<rrcdoll>2.88</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>72062147</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODgvNTMv0KYtMDAwMDcxMTA5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzkvNGIv0KYtMDAwMDcxMTA5XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2IvYTAv0KYtMDAwMDcxMTA5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjgvYmYv0KYtMDAwMDcxMTA5XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjAvYmMv0KYtMDAwMDcxMTA5XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000071109</vendorCode>
-<code>749599</code>
-<name>Дротові навушники Hoco M60 Perfect sound universal, 3.5 мм, з мікрофоном — Black</name>
-<description><![CDATA[Дротові навушники Hoco M60 Perfect sound universal, 3.5 мм, з мікрофоном призначені для прослуховування музики та телефонних розмов. Дротове підключення забезпечує стабільну передачу звуку без потреби заряджати навушники. Вбудований у кабель мікрофон дає змогу відповідати на дзвінки. Основні характеристики: динамік — 10 мм; маса — 13 г; роз’єм — Ø3, 5 мм; мікрофон — контролер з мікрофоном.]]></description>
-<quantity_in_stock>30</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Довжина кабелю">1.2m</param>
-<param name="Аудіо товари">Навушники з мікрофоном 3.5mm</param>
-<param name="Опт від 2 шт">$1.15</param>
-<param name="Опт від 3 шт">$1.13</param>
-<param name="Опт від 5 шт">$1.1</param>
-<param name="Drop">$1.32</param>
 </offer>
 <offer id="ts000072687000022189" available="true">
 <url>https://kmt5.com.ua/naushniki-bluetooth-hoco-w36-cat-ear-dream-blue</url>
@@ -169821,6 +169877,34 @@
 <param name="Опт від 5 шт">$1.43</param>
 <param name="Drop">$1.71</param>
 </offer>
+<offer id="ts000077435000025583" available="true">
+<url>https://kmt5.com.ua/car-holder-hoco-ca55-astute-series-windshield-blackgray</url>
+<price>380</price>
+<vendorprice>200</vendorprice>
+<vendorpricedoll>4.43</vendorpricedoll>
+<rrcdoll>8.41</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>83056549</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2QvNjgv0KYtMDAwMDc3NDM1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWEvOTkv0KYtMDAwMDc3NDM1XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWQvMDkv0KYtMDAwMDc3NDM1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjAvY2Yv0KYtMDAwMDc3NDM1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDkvMDQv0KYtMDAwMDc3NDM1XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjUvYmIv0KYtMDAwMDc3NDM1XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2IvNDkv0KYtMDAwMDc3NDM1XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzAvNGEv0KYtMDAwMDc3NDM1XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Все</vendor>
+<vendorCode>Ц-000077435</vendorCode>
+<code>774105</code>
+<name>Магнітний автотримач Hoco CA55, на присосці — black＆gray</name>
+<description><![CDATA[Магнітний автотримач Hoco CA55, на присосці призначений для фіксації смартфона в салоні автомобіля. Основні характеристики: • Тип: магнітний автомобільний тримач • Кріплення в автомобілі: вакуумна присоска • Матеріали: ABS-пластик, полікарбонат, силікон • Особливості: магнітна фіксація смартфона]]></description>
+<quantity_in_stock>2</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Опт від 3 шт">$4.13</param>
+<param name="Опт від 7 шт">$4.04</param>
+<param name="Опт від 10 шт">$3.96</param>
+<param name="Drop">$4.73</param>
+</offer>
 <offer id="ts000082841" available="true">
 <url>https://kmt5.com.ua/bluetooth-audio-receiver-borofone-bc35</url>
 <price>300</price>
@@ -169965,7 +170049,7 @@
 <code>786255</code>
 <name>Bluetooth-аудіоприймач Earldom ET-BR08</name>
 <description><![CDATA[Bluetooth-аудіоприймач Earldom ET-BR08 додає бездротове відтворення аудіо системам із сумісним аудіовходом. Основні характеристики: • Тип: Bluetooth-аудіоприймач • Підключення: Bluetooth • Призначення: автомобільна або домашня аудіосистема]]></description>
-<quantity_in_stock>21</quantity_in_stock>
+<quantity_in_stock>18</quantity_in_stock>
 <param name="Бренд">Earldom</param>
 <param name="Автоаксесуари">Bluetooth Car Adapter</param>
 <param name="Опт від 3 шт">$2.16</param>
@@ -170083,7 +170167,7 @@
 <code>790584</code>
 <name>Bluetooth-аудіоприймач Earldom ET-BR27</name>
 <description><![CDATA[Bluetooth-аудіоприймач Earldom ET-BR27 додає бездротове відтворення аудіо системам із сумісним аудіовходом. Основні характеристики: • Тип: Bluetooth-аудіоприймач • Підключення: Bluetooth • Призначення: автомобільна або домашня аудіосистема]]></description>
-<quantity_in_stock>19</quantity_in_stock>
+<quantity_in_stock>18</quantity_in_stock>
 <param name="Бренд">Earldom</param>
 <param name="Автоаксесуари">Bluetooth Car Adapter</param>
 <param name="Опт від 3 шт">$2.35</param>
@@ -173043,34 +173127,6 @@
 <param name="Опт від 7 шт">$3.65</param>
 <param name="Опт від 10 шт">$3.57</param>
 <param name="Drop">$4.27</param>
-</offer>
-<offer id="ts000077435000025583" available="true">
-<url>https://kmt5.com.ua/car-holder-hoco-ca55-astute-series-windshield-blackgray</url>
-<price>380</price>
-<vendorprice>200</vendorprice>
-<vendorpricedoll>4.43</vendorpricedoll>
-<rrcdoll>8.41</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>83056549</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2QvNjgv0KYtMDAwMDc3NDM1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWEvOTkv0KYtMDAwMDc3NDM1XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWQvMDkv0KYtMDAwMDc3NDM1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjAvY2Yv0KYtMDAwMDc3NDM1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDkvMDQv0KYtMDAwMDc3NDM1XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjUvYmIv0KYtMDAwMDc3NDM1XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2IvNDkv0KYtMDAwMDc3NDM1XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzAvNGEv0KYtMDAwMDc3NDM1XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000077435</vendorCode>
-<code>774105</code>
-<name>Магнітний автотримач Hoco CA55, на присосці — black＆gray</name>
-<description><![CDATA[Магнітний автотримач Hoco CA55, на присосці призначений для фіксації смартфона в салоні автомобіля. Основні характеристики: • Тип: магнітний автомобільний тримач • Кріплення в автомобілі: вакуумна присоска • Матеріали: ABS-пластик, полікарбонат, силікон • Особливості: магнітна фіксація смартфона]]></description>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Опт від 3 шт">$4.13</param>
-<param name="Опт від 7 шт">$4.04</param>
-<param name="Опт від 10 шт">$3.96</param>
-<param name="Drop">$4.73</param>
 </offer>
 <offer id="ts000077438000025586" available="true">
 <url>https://kmt5.com.ua/car-holder-hoco-ca67-sagittarius-series-stretch-magnetic-black</url>
@@ -179956,6 +180012,28 @@
 <param name="Опт від 10 шт">$11.87</param>
 <param name="Drop">$14.19</param>
 </offer>
+<offer id="ts000083909" available="true">
+<url>https://kmt5.com.ua/mashinka-dlya-strijki-volos-hoco-hp300</url>
+<price>841</price>
+<vendorprice>619</vendorprice>
+<vendorpricedoll>13.7</vendorpricedoll>
+<rrcdoll>18.6</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>39317560</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWIvZjMv0KYtMDAwMDgzOTA5XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmYvOTMv0KYtMDAwMDgzOTA5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTcvYzYv0KYtMDAwMDgzOTA5XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Все</vendor>
+<vendorCode>Ц-000083909</vendorCode>
+<code>791328</code>
+<name>Машинка для стрижки волосся Hoco HP300</name>
+<description><![CDATA[Машинка для стрижки волосся та створення акуратних контурів. Підходить для домашнього та професійного догляду.]]></description>
+<quantity_in_stock>5</quantity_in_stock>
+<param name="Опт від 2 шт">$13.34</param>
+<param name="Опт від 3 шт">$13.07</param>
+<param name="Опт від 5 шт">$12.79</param>
+<param name="Drop">$14.63</param>
+</offer>
 <offer id="ts000083128" available="true">
 <url>https://kmt5.com.ua/instrument-dlya-chistki-ushey-s-kameroy-hoco-hp65</url>
 <price>480</price>
@@ -180847,28 +180925,6 @@
 <param name="Опт від 3 шт">$8.27</param>
 <param name="Опт від 5 шт">$8.1</param>
 <param name="Drop">$9.68</param>
-</offer>
-<offer id="ts000083909" available="true">
-<url>https://kmt5.com.ua/mashinka-dlya-strijki-volos-hoco-hp300</url>
-<price>841</price>
-<vendorprice>619</vendorprice>
-<vendorpricedoll>13.7</vendorpricedoll>
-<rrcdoll>18.6</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>39317560</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWIvZjMv0KYtMDAwMDgzOTA5XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmYvOTMv0KYtMDAwMDgzOTA5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTcvYzYv0KYtMDAwMDgzOTA5XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000083909</vendorCode>
-<code>791328</code>
-<name>Машинка для стрижки волосся Hoco HP300</name>
-<description><![CDATA[Машинка для стрижки волосся та створення акуратних контурів. Підходить для домашнього та професійного догляду.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
-<param name="Опт від 2 шт">$13.34</param>
-<param name="Опт від 3 шт">$13.07</param>
-<param name="Опт від 5 шт">$12.79</param>
-<param name="Drop">$14.63</param>
 </offer>
 <offer id="ts000079291000027076" available="true">
 <url>https://kmt5.com.ua/mashinka-dlya-strijki-volos-hoco-hp33-metal-gray</url>
