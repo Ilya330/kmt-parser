@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-21 14:12">
+<yml_catalog date="2026-10-21 19:01">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -131702,29 +131702,6 @@
 <param name="Опт від 7 шт">$0.32</param>
 <param name="Drop">$0.39</param>
 </offer>
-<offer id="ts000072586" available="true">
-<url>https://kmt5.com.ua/nakleyki-na-klaviaturu-chernaya-s-ukrainskim-alfavitom</url>
-<price>27</price>
-<vendorprice>14</vendorprice>
-<vendorpricedoll>0.31</vendorpricedoll>
-<rrcdoll>0.6</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>14334054</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDMvMTEv0KYtMDAwMDcyNTg2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWMvMmIv0KYtMDAwMDcyNTg2XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTUvY2Yv0KYtMDAwMDcyNTg2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000072586</vendorCode>
-<code>753521</code>
-<name>Наліпки на клавіатуру, українська розкладка — Black</name>
-<description><![CDATA[Наліпки на клавіатуру, українська розкладка допомагають оновити або додати потрібне маркування клавіш. Наносяться на очищену суху поверхню клавіатури.]]></description>
-<quantity_in_stock>19</quantity_in_stock>
-<param name="Бренд">Различные</param>
-<param name="Опт від 3 шт">$0.29</param>
-<param name="Опт від 5 шт">$0.28</param>
-<param name="Опт від 7 шт">$0.28</param>
-<param name="Drop">$0.33</param>
-</offer>
 <offer id="ts000078201000026741" available="true">
 <url>https://kmt5.com.ua/nalpka-na-klavaturu-z-ukranskoyu-abetkoyu-orange</url>
 <price>27</price>
@@ -164345,6 +164322,28 @@
 <param name="Опт від 7 шт">$7.82</param>
 <param name="Drop">$9.35</param>
 </offer>
+<offer id="ts000082860000030784" available="true">
+<url>https://kmt5.com.ua/smart-sports-watch-call-version-borofone-bd14-plus-silver</url>
+<price>601</price>
+<vendorprice>397</vendorprice>
+<vendorpricedoll>8.76</vendorpricedoll>
+<rrcdoll>13.27</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>57809396</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTkvYzkv0KYtMDAwMDgyODYwXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2IvMTAv0KYtMDAwMDgyODYwXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Другие</vendor>
+<vendorCode>Ц-000082860</vendorCode>
+<code>789335</code>
+<name>Смарт-годинник Borofone BD14 Plus, Дзвінки — Silver</name>
+<description><![CDATA[Смарт-годинник Borofone BD14 Plus, Дзвінки використовується для сповіщень, контролю активності та роботи з функціями підключеного смартфона. Основні характеристики: • Тип: смарт-годинник • Дисплей: TFT, 2,01″ • Роздільна здатність: 240 × 280 • Підключення: Bluetooth 5,3 • Захист: IP54 • Матеріал корпусу: цинковий сплав • Функції: Bluetooth-дзвінки]]></description>
+<quantity_in_stock>17</quantity_in_stock>
+<param name="Бренд">Borofone</param>
+<param name="Опт від 3 шт">$8.16</param>
+<param name="Опт від 5 шт">$7.99</param>
+<param name="Опт від 7 шт">$7.82</param>
+<param name="Drop">$9.35</param>
+</offer>
 <offer id="ts000081700000030009" available="true">
 <url>https://kmt5.com.ua/smart-sports-watch-call-version-borofone-bd14-silver</url>
 <price>601</price>
@@ -164367,28 +164366,6 @@
 <param name="Опт від 5 шт">$7.43</param>
 <param name="Опт від 7 шт">$7.27</param>
 <param name="Drop">$8.69</param>
-</offer>
-<offer id="ts000082860000030784" available="true">
-<url>https://kmt5.com.ua/smart-sports-watch-call-version-borofone-bd14-plus-silver</url>
-<price>601</price>
-<vendorprice>397</vendorprice>
-<vendorpricedoll>8.76</vendorpricedoll>
-<rrcdoll>13.27</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>57809396</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTkvYzkv0KYtMDAwMDgyODYwXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2IvMTAv0KYtMDAwMDgyODYwXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Другие</vendor>
-<vendorCode>Ц-000082860</vendorCode>
-<code>789335</code>
-<name>Смарт-годинник Borofone BD14 Plus, Дзвінки — Silver</name>
-<description><![CDATA[Смарт-годинник Borofone BD14 Plus, Дзвінки використовується для сповіщень, контролю активності та роботи з функціями підключеного смартфона. Основні характеристики: • Тип: смарт-годинник • Дисплей: TFT, 2,01″ • Роздільна здатність: 240 × 280 • Підключення: Bluetooth 5,3 • Захист: IP54 • Матеріал корпусу: цинковий сплав • Функції: Bluetooth-дзвінки]]></description>
-<quantity_in_stock>17</quantity_in_stock>
-<param name="Бренд">Borofone</param>
-<param name="Опт від 3 шт">$8.16</param>
-<param name="Опт від 5 шт">$7.99</param>
-<param name="Опт від 7 шт">$7.82</param>
-<param name="Drop">$9.35</param>
 </offer>
 <offer id="ts000082861000030786" available="true">
 <url>https://kmt5.com.ua/smart-sports-watch-call-version-borofone-bd14-ultra-titanium-gold</url>
@@ -183413,6 +183390,29 @@
 <param name="Опт від 7 шт">$0.33</param>
 <param name="Опт від 10 шт">$0.32</param>
 <param name="Drop">$0.39</param>
+</offer>
+<offer id="ts000072586" available="true">
+<url>https://kmt5.com.ua/nakleyki-na-klaviaturu-chernaya-s-ukrainskim-alfavitom</url>
+<price>27</price>
+<vendorprice>14</vendorprice>
+<vendorpricedoll>0.31</vendorpricedoll>
+<rrcdoll>0.6</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>14334054</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDMvMTEv0KYtMDAwMDcyNTg2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWMvMmIv0KYtMDAwMDcyNTg2XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTUvY2Yv0KYtMDAwMDcyNTg2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Различные</vendor>
+<vendorCode>Ц-000072586</vendorCode>
+<code>753521</code>
+<name>Наліпки на клавіатуру, українська розкладка — Black</name>
+<description><![CDATA[Наліпки на клавіатуру, українська розкладка допомагають оновити або додати потрібне маркування клавіш. Наносяться на очищену суху поверхню клавіатури.]]></description>
+<quantity_in_stock>19</quantity_in_stock>
+<param name="Бренд">Различные</param>
+<param name="Опт від 3 шт">$0.29</param>
+<param name="Опт від 5 шт">$0.28</param>
+<param name="Опт від 7 шт">$0.28</param>
+<param name="Drop">$0.33</param>
 </offer>
 </offers>
 </shop>
