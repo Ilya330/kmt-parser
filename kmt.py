@@ -7,6 +7,7 @@ import re
 import ssl
 import sys
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
 
@@ -65,7 +66,12 @@ class Client:
         except Exception:
             pass
 
-    def request(self, url, data=None, xhr=False, retries=3, timeout=30):
+    # пауза перед повтором: сайт поставщика временами отвечает по минуте
+    # (30.10.2026 утром таймаутили десятки запросов подряд) — короткие
+    # повторы сыплются в тот же провал, длинные его переживают
+    BACKOFF = (3, 10, 30)
+
+    def request(self, url, data=None, xhr=False, retries=4, timeout=40):
         headers = {"User-Agent": UA}
         if xhr:
             headers["X-Requested-With"] = "XMLHttpRequest"
@@ -79,9 +85,15 @@ class Client:
                 req = urllib.request.Request(url, data=body, headers=headers)
                 with self.opener.open(req, timeout=timeout) as r:
                     return r.read().decode("utf-8", "ignore")
+            except urllib.error.HTTPError as e:
+                # 4xx (кроме 429) — ответ окончательный, повтор не поможет
+                if 400 <= e.code < 500 and e.code != 429:
+                    raise
+                last = e
             except Exception as e:
                 last = e
-                time.sleep(1.5 * (attempt + 1))
+            if attempt < retries - 1:
+                time.sleep(self.BACKOFF[min(attempt, len(self.BACKOFF) - 1)])
         raise last
 
     def get(self, url, **kw):

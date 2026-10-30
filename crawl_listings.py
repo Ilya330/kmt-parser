@@ -144,8 +144,8 @@ def crawl_category(cli, cat_url, limit=100):
                 items.extend(got)
     print("  %s [%s]: total=%d, собрано=%d"
           % (title, cat_url.rsplit("/", 1)[-1][:28], total, len(items)))
-    if total and len(items) < total * 0.9:
-        print("    ВНИМАНИЕ: собрано меньше 90%% от заявленного")
+    if total and len(items) < total * 0.95:
+        raise RuntimeError("собрано %d из %d заявленных" % (len(items), total))
     return items
 
 
@@ -208,6 +208,21 @@ def fetch_their_feed(cli):
     return ids, codes
 
 
+def previous_feed_count(path="docs/feed.xml"):
+    """Сколько офферов в последнем опубликованном фиде (0, если его нет)."""
+    try:
+        with open(path, encoding="utf-8") as f:
+            return f.read().count("<offer ")
+    except OSError:
+        return 0
+
+
+def abort(msg):
+    """Не сохранять ничего: прежний фид остаётся опубликованным как есть."""
+    print("ОТМЕНА: %s. Фид НЕ обновлён — остаётся прежний." % msg, file=sys.stderr)
+    sys.exit(1)
+
+
 def main():
     cli = Client()
     cli.ensure_login()
@@ -216,32 +231,60 @@ def main():
     cat_urls = discover_categories(cli)
     print("Категорий в меню: %d" % len(cat_urls))
     if len(cat_urls) < 8:
-        print("Меню отдало подозрительно мало категорий", file=sys.stderr)
-        sys.exit(1)
-    seen = {}
+        abort("меню отдало подозрительно мало категорий (%d)" % len(cat_urls))
+
+    # Каждая категория обязана собраться целиком: упавшая = пропавшие товары.
+    # 30.10.2026 сайт таймаутил, 10 из 26 категорий не собрались, а 5967 SKU
+    # прошли старый порог «≥3000» — фид чуть не вышел без ~1600 товаров.
+    results = {}
+    failed = []
     for cat_url in cat_urls:
         try:
-            found = crawl_category(cli, cat_url)
+            results[cat_url] = crawl_category(cli, cat_url)
         except Exception as e:
             print("  ERR категория %s: %s" % (cat_url, e))
-            continue
-        for it in found:
+            failed.append(cat_url)
+    if failed:
+        print("Повтор %d категорий через 60 с..." % len(failed))
+        time.sleep(60)
+        still = []
+        for cat_url in failed:
+            try:
+                results[cat_url] = crawl_category(cli, cat_url)
+            except Exception as e:
+                print("  ERR повторно %s: %s" % (cat_url, e))
+                still.append(cat_url)
+        if still:
+            abort("сайт не отдал %d из %d категорий" % (len(still), len(cat_urls)))
+
+    seen = {}
+    for cat_url in cat_urls:  # порядок меню: акции/новинки последними
+        for it in results[cat_url]:
             key = it.get("product_id") or it["url"]
             if key not in seen:
                 seen[key] = it
 
-    # их публичный фид: offer id (ts…) + товары из скрытых категорий
+    # их публичный фид: offer id (ts…) + числовые коды + товары вне меню.
+    # Не скачался — оставляем прежние their_ids/their_codes: перезапись
+    # пустыми сменила бы offer id у всего каталога (маркетплейс увидит
+    # «новые» товары вместо обновления старых).
+    their_ids = {}
     try:
         their_ids, their_codes = fetch_their_feed(cli)
     except Exception as e:
-        print("Их фид не скачался (%s) — offer id будут фолбэчные" % e)
-        their_ids, their_codes = {}, {}
-    save_json("their_ids.json", their_ids)
-    if their_codes:
-        save_json("their_codes.json", their_codes)
+        print("Их фид не скачался (%s) — оставляю прежние their_ids/their_codes" % e)
+    if their_ids:
+        save_json("their_ids.json", their_ids)
+        if their_codes:
+            save_json("their_codes.json", their_codes)
     have_urls = set(it["url"] for it in seen.values())
     extras = [u for u in their_ids if u not in have_urls]
     print("Их фид: %d офферов, вне наших категорий: %d" % (len(their_ids), len(extras)))
+    if len(extras) > 1000:
+        # столько товаров вне меню — значит сайт что-то перестроил; поштучный
+        # добор занял бы полчаса впустую (так было 23.09.2026)
+        print("  extras слишком много — поштучный добор пропущен")
+        extras = []
 
     def fetch_extra(u):
         try:
@@ -270,15 +313,27 @@ def main():
     with_price = sum(1 for x in out if x.get("price_usd"))
     print("Уникальных SKU: %d, с ценой: %d" % (len(out), with_price))
     if len(out) < 3000 or with_price < len(out) * 0.5:
-        print("ПОДОЗРИТЕЛЬНО МАЛО ДАННЫХ — не сохраняю", file=sys.stderr)
-        sys.exit(1)
+        abort("подозрительно мало данных")
+    # Страховка от неполного сбора, который не поймали проверки выше:
+    # резкое падение против прошлого фида допустимо, только если его
+    # подтверждает собственный фид поставщика (реальное сокращение каталога).
+    prev = previous_feed_count()
+    if prev and len(out) < prev * 0.85:
+        if their_ids and len(out) >= len(their_ids) * 0.9:
+            print("Каталог сократился %d → %d, фид поставщика подтверждает (%d)"
+                  % (prev, len(out), len(their_ids)))
+        elif os.environ.get("ALLOW_SHRINK") == "1":
+            print("Каталог сократился %d → %d, разрешено ALLOW_SHRINK=1" % (prev, len(out)))
+        else:
+            abort("собрано %d при %d в прошлом фиде (−%d%%), подтверждения нет"
+                  % (len(out), prev, round(100 - 100 * len(out) / prev)))
     save_json("listings.json", out)
     # курс доллара: цены на сайте теперь только в $, грн считаем сами
     try:
         save_json("meta.json", {"rate": cli.rate(),
                                 "updated": time.strftime("%Y-%m-%d %H:%M")})
     except Exception as e:
-        print("Курс не сохранён: %s" % e)
+        print("Курс не сохранён (останется прежний): %s" % e)
     cli.save_cookies()
 
 

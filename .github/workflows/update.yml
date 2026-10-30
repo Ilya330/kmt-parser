@@ -2,9 +2,13 @@ name: update-feed
 
 on:
   schedule:
-    # 3 раза в день (UTC). Ночной прогон (03:00) дополнительно пере-скрейпит
+    # 3 раза в день (UTC). Первый прогон дня дополнительно пере-скрейпит
     # карточки: РРЦ и характеристики живут только там, в листинге их нет.
-    - cron: "0 3,9,15 * * *"
+    # Отдельной строкой — режим определяем по ней, а не по часу старта:
+    # GitHub запускает расписание с опозданием в часы (03:00 стартует в 07–09),
+    # и прежняя проверка «час < 6» за 60 прогонов не сработала ни разу.
+    - cron: "0 3 * * *"
+    - cron: "0 9,15 * * *"
   workflow_dispatch:
     inputs:
       refresh:
@@ -36,7 +40,7 @@ jobs:
         run: |
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             echo "refresh=${{ github.event.inputs.refresh }}" >> "$GITHUB_OUTPUT"
-          elif [ "$(date -u +%H)" -lt 6 ]; then
+          elif [ "${{ github.event.schedule }}" = "0 3 * * *" ]; then
             echo "refresh=1" >> "$GITHUB_OUTPUT"
           else
             echo "refresh=0" >> "$GITHUB_OUTPUT"
@@ -47,7 +51,14 @@ jobs:
           KMT_EMAIL: ${{ secrets.KMT_EMAIL }}
           KMT_PASSWORD: ${{ secrets.KMT_PASSWORD }}
           REFRESH: ${{ steps.mode.outputs.refresh }}
-        run: python run.py
+        # Сайт поставщика временами недоступен по нескольку минут. Один повтор
+        # через 10 минут переживает такой провал; если сайт лежит дольше —
+        # прогон падает (письмо), а прежний фид остаётся опубликованным.
+        run: |
+          python run.py && exit 0
+          echo "::warning::Прогон не удался, повтор через 10 минут"
+          sleep 600
+          python run.py
 
       - name: Коммит результатов
         run: |
