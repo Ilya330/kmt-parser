@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-30 14:26">
+<yml_catalog date="2026-10-30 19:53">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -22511,7 +22511,7 @@
 <code>788057</code>
 <name>TPU-чохол Creative — iPhone 17 Pro Max/iPhone 18 Pro Max — Transparent</name>
 <description><![CDATA[Чохол для iPhone 17 Pro Max/iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. TPU-матеріал поєднує гнучкість і зносостійкість.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
@@ -85920,30 +85920,6 @@
 <name>Чохол AirPods 4 — шкіряний Ring — Dark Green</name>
 <description><![CDATA[Чохол для AirPods для захисту зарядного кейса від подряпин, потертостей і щоденних пошкоджень.]]></description>
 <quantity_in_stock>2</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Airpods 4</param>
-<param name="Бренд">Различные</param>
-<param name="Опт від 5 шт">$1.82</param>
-<param name="Опт від 7 шт">$1.79</param>
-<param name="Опт від 10 шт">$1.75</param>
-<param name="Drop">$2.09</param>
-</offer>
-<offer id="ts000080657000029283" available="true">
-<url>https://kmt5.com.ua/airpods-4-case-leather-lock-gray</url>
-<price>163</price>
-<vendorprice>91</vendorprice>
-<vendorpricedoll>1.96</vendorpricedoll>
-<rrcdoll>3.5</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>19314331</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjIvZTQv0KYtMDAwMDgwNjU3XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGMvNzEv0KYtMDAwMDgwNjU3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000080657</vendorCode>
-<code>785308</code>
-<name>Чохол AirPods 4 — шкіряний Ring — Gray</name>
-<description><![CDATA[Чохол для AirPods для захисту зарядного кейса від подряпин, потертостей і щоденних пошкоджень.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Airpods 4</param>
 <param name="Бренд">Различные</param>
