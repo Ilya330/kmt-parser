@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-01 07:36">
+<yml_catalog date="2026-11-01 10:34">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -81323,7 +81323,7 @@
 <code>789975</code>
 <name>Чохол Yind — Samsung A37 — Dark Blue</name>
 <description><![CDATA[Чохол для Samsung A37 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень.]]></description>
-<quantity_in_stock>16</quantity_in_stock>
+<quantity_in_stock>15</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Samsung</param>
 <param name="Модель девайса">Samsung A37</param>
@@ -120076,7 +120076,7 @@
 <code>782465</code>
 <name>Силіконовий кабель Lightning 27 Вт (1 м) — Veron SL-X82 — White</name>
 <description><![CDATA[Кабель Lightning для заряджання та підключення сумісних пристроїв. Довжина — 1 м; потужність — до 27 Вт. Силіконова оболонка підвищує зносостійкість.]]></description>
-<quantity_in_stock>79</quantity_in_stock>
+<quantity_in_stock>78</quantity_in_stock>
 <param name="Бренд">VERON</param>
 <param name="Роз'єм підключення">Cable USB to Lightning</param>
 <param name="Опт від 5 шт">$1.06</param>
@@ -124245,7 +124245,7 @@
 <code>753844</code>
 <name>Зарядний пристрій Hoco C102A, 28.5 Вт, 4×USB-A, QC3.0 — White</name>
 <description><![CDATA[Мережевий зарядний пристрій Hoco C102A для заряджання сумісних смартфонів та інших гаджетів від розетки. Потужність — 28,5 Вт. Роз’єми: 4×USB-A. Підтримує QC 3.0.]]></description>
-<quantity_in_stock>13</quantity_in_stock>
+<quantity_in_stock>11</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Кількість USB портів">4 USB</param>
 <param name="Опт від 5 шт">$3.07</param>
@@ -133811,30 +133811,6 @@
 <param name="Опт від 3 шт">$6.86</param>
 <param name="Опт від 5 шт">$6.72</param>
 <param name="Drop">$8.03</param>
-</offer>
-<offer id="ts000083190000031145" available="true">
-<url>https://kmt5.com.ua/bluetooth-speaker-hoco-hc47-black</url>
-<price>1680</price>
-<vendorprice>1203</vendorprice>
-<vendorpricedoll>25.75</vendorpricedoll>
-<rrcdoll>35.97</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>31204796</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWUvNDUv0KYtMDAwMDgzMTkwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODEvYTMv0KYtMDAwMDgzMTkwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGMvMDUv0KYtMDAwMDgzMTkwXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWUvZDkv0KYtMDAwMDgzMTkwXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000083190</vendorCode>
-<code>790016</code>
-<name>Портативна Bluetooth-колонка Hoco HC47 — Black</name>
-<description><![CDATA["1. Матеріал: ABS; Розмір: 264 * 166 * 89 мм; Вага: 1209 г 2. Bluetooth 6.0; Чіп: Jelly AC6965C 3. Ємність акумулятора: 2400 мАг; Час заряджання: 3 години 4. Час використання: 3 години 5. Динамік: 66 мм * 2; Потужність: 15 Вт * 2 6. Підтримує Bluetooth, FM, TF-карту, USB-флешку, AUX, TWS та інші режими"]]></description>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Опт від 2 шт">$24.0</param>
-<param name="Опт від 3 шт">$23.5</param>
-<param name="Опт від 5 шт">$23.0</param>
-<param name="Drop">$27.5</param>
 </offer>
 <offer id="ts000083531000031595" available="true">
 <url>https://kmt5.com.ua/bluetooth-speaker-hoco-hc49-black</url>
@@ -147764,54 +147740,6 @@
 <param name="Опт від 5 шт">$10.3</param>
 <param name="Drop">$12.32</param>
 </offer>
-<offer id="ts000083187000031141" available="true">
-<url>https://kmt5.com.ua/navushniki-bluetooth-hoco-w73-graceful-black</url>
-<price>603</price>
-<vendorprice>428</vendorprice>
-<vendorpricedoll>9.17</vendorpricedoll>
-<rrcdoll>12.92</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>22933428</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2MvZGYv0KYtMDAwMDgzMTg3XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmIvNGQv0KYtMDAwMDgzMTg3XzEyLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTMvODIv0KYtMDAwMDgzMTg3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000083187</vendorCode>
-<code>790009</code>
-<name>Бездротові Bluetooth-навушники Hoco W73 Graceful, накладні — Black</name>
-<description><![CDATA[Бездротові Bluetooth-навушники Hoco W73 Graceful призначені для бездротового прослуховування музики та спілкування. Накладна конструкція підходить для тривалого прослуховування.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Аудіо товари">Навушники Bluetooth</param>
-<param name="Опт від 2 шт">$9.41</param>
-<param name="Опт від 3 шт">$9.21</param>
-<param name="Опт від 5 шт">$9.02</param>
-<param name="Drop">$9.79</param>
-</offer>
-<offer id="ts000083187000031142" available="true">
-<url>https://kmt5.com.ua/navushniki-bluetooth-hoco-w73-graceful-silver</url>
-<price>603</price>
-<vendorprice>428</vendorprice>
-<vendorpricedoll>9.17</vendorpricedoll>
-<rrcdoll>12.92</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>22933428</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzUvMjAv0KYtMDAwMDgzMTg3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTMvODIv0KYtMDAwMDgzMTg3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzAvMzEv0KYtMDAwMDgzMTg3XzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000083187</vendorCode>
-<code>790010</code>
-<name>Бездротові Bluetooth-навушники Hoco W73 Graceful, накладні — Silver</name>
-<description><![CDATA[Бездротові Bluetooth-навушники Hoco W73 Graceful призначені для бездротового прослуховування музики та спілкування. Накладна конструкція підходить для тривалого прослуховування.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Аудіо товари">Навушники Bluetooth</param>
-<param name="Опт від 2 шт">$9.41</param>
-<param name="Опт від 3 шт">$9.21</param>
-<param name="Опт від 5 шт">$9.02</param>
-<param name="Drop">$9.79</param>
-</offer>
 <offer id="ts000075837000024652" available="true">
 <url>https://kmt5.com.ua/navushniki-bluetooth-k81-black</url>
 <price>350</price>
@@ -160949,7 +160877,7 @@
 <code>792480</code>
 <name>Ремінець Silicone band, силіконовий,  Samsung Galaxy Watch Ultra 7/8 — Black</name>
 <description><![CDATA[Ремінець Silicone band призначений для Samsung Galaxy Watch Ultra 7/8. Основні характеристики: • Тип: ремінець для смарт-годинника • Сумісність: Samsung Galaxy Watch Ultra 7/8 • Матеріал: силікон • Призначення: заміна штатного ремінця та повсякденне носіння]]></description>
-<quantity_in_stock>12</quantity_in_stock>
+<quantity_in_stock>11</quantity_in_stock>
 <param name="Марка">Samsung</param>
 <param name="Модель девайса">Watch 7 Ultra, Watch 8 Ultra</param>
 <param name="Бренд">Различные</param>
@@ -160976,7 +160904,7 @@
 <code>792482</code>
 <name>Ремінець Silicone band, силіконовий,  Samsung Galaxy Watch Ultra 7/8 — Dark Blue</name>
 <description><![CDATA[Ремінець Silicone band призначений для Samsung Galaxy Watch Ultra 7/8. Основні характеристики: • Тип: ремінець для смарт-годинника • Сумісність: Samsung Galaxy Watch Ultra 7/8 • Матеріал: силікон • Призначення: заміна штатного ремінця та повсякденне носіння]]></description>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <param name="Марка">Samsung</param>
 <param name="Модель девайса">Watch 7 Ultra, Watch 8 Ultra</param>
 <param name="Бренд">Различные</param>
@@ -161003,7 +160931,7 @@
 <code>792484</code>
 <name>Ремінець Silicone band, силіконовий,  Samsung Galaxy Watch Ultra 7/8 — Dark Green</name>
 <description><![CDATA[Ремінець Silicone band призначений для Samsung Galaxy Watch Ultra 7/8. Основні характеристики: • Тип: ремінець для смарт-годинника • Сумісність: Samsung Galaxy Watch Ultra 7/8 • Матеріал: силікон • Призначення: заміна штатного ремінця та повсякденне носіння]]></description>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <param name="Марка">Samsung</param>
 <param name="Модель девайса">Watch 7 Ultra, Watch 8 Ultra</param>
 <param name="Бренд">Различные</param>
@@ -161030,7 +160958,7 @@
 <code>792481</code>
 <name>Ремінець Silicone band, силіконовий,  Samsung Galaxy Watch Ultra 7/8 — Dark Grey</name>
 <description><![CDATA[Ремінець Silicone band призначений для Samsung Galaxy Watch Ultra 7/8. Основні характеристики: • Тип: ремінець для смарт-годинника • Сумісність: Samsung Galaxy Watch Ultra 7/8 • Матеріал: силікон • Призначення: заміна штатного ремінця та повсякденне носіння]]></description>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <param name="Марка">Samsung</param>
 <param name="Модель девайса">Watch 7 Ultra, Watch 8 Ultra</param>
 <param name="Бренд">Различные</param>
@@ -161057,7 +160985,7 @@
 <code>792483</code>
 <name>Ремінець Silicone band, силіконовий,  Samsung Galaxy Watch Ultra 7/8 — Orange</name>
 <description><![CDATA[Ремінець Silicone band призначений для Samsung Galaxy Watch Ultra 7/8. Основні характеристики: • Тип: ремінець для смарт-годинника • Сумісність: Samsung Galaxy Watch Ultra 7/8 • Матеріал: силікон • Призначення: заміна штатного ремінця та повсякденне носіння]]></description>
-<quantity_in_stock>8</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <param name="Марка">Samsung</param>
 <param name="Модель девайса">Watch 7 Ultra, Watch 8 Ultra</param>
 <param name="Бренд">Различные</param>
@@ -161082,7 +161010,7 @@
 <code>773090</code>
 <name>Ремінець Silicone Band, силіконовий,  Samsung Galaxy Watch4/5 — Midnight Blue</name>
 <description><![CDATA[Ремінець Silicone Band призначений для Samsung Galaxy Watch4/5. Основні характеристики: • Тип: ремінець для смарт-годинника • Сумісність: Samsung Galaxy Watch4/5 • Матеріал: силікон • Призначення: заміна штатного ремінця та повсякденне носіння]]></description>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <param name="Марка">Samsung</param>
 <param name="Модель девайса">Samsung Galaxy Watch 4, Samsung Galaxy Watch 5</param>
 <param name="Бренд">Различные</param>
@@ -161107,7 +161035,7 @@
 <code>773091</code>
 <name>Ремінець Silicone Band, силіконовий,  Samsung Galaxy Watch4/5 — Starlight</name>
 <description><![CDATA[Ремінець Silicone Band призначений для Samsung Galaxy Watch4/5. Основні характеристики: • Тип: ремінець для смарт-годинника • Сумісність: Samsung Galaxy Watch4/5 • Матеріал: силікон • Призначення: заміна штатного ремінця та повсякденне носіння]]></description>
-<quantity_in_stock>7</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <param name="Марка">Samsung</param>
 <param name="Модель девайса">Samsung Galaxy Watch 4, Samsung Galaxy Watch 5</param>
 <param name="Бренд">Различные</param>
@@ -161132,7 +161060,7 @@
 <code>773087</code>
 <name>Ремінець Silicone Band, силіконовий,  Samsung Galaxy Watch4/5 — White</name>
 <description><![CDATA[Ремінець Silicone Band призначений для Samsung Galaxy Watch4/5. Основні характеристики: • Тип: ремінець для смарт-годинника • Сумісність: Samsung Galaxy Watch4/5 • Матеріал: силікон • Призначення: заміна штатного ремінця та повсякденне носіння]]></description>
-<quantity_in_stock>6</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <param name="Марка">Samsung</param>
 <param name="Модель девайса">Samsung Galaxy Watch 4, Samsung Galaxy Watch 5</param>
 <param name="Бренд">Различные</param>
@@ -161628,7 +161556,7 @@
 <code>789696</code>
 <name>Ремінець Silicone original, силіконовий,  Samsung Galaxy Watch8 — Black</name>
 <description><![CDATA[Ремінець Silicone original призначений для Samsung Galaxy Watch8. Основні характеристики: • Тип: ремінець для смарт-годинника • Сумісність: Samsung Galaxy Watch8 • Матеріал: силікон • Призначення: заміна штатного ремінця та повсякденне носіння]]></description>
-<quantity_in_stock>6</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <param name="Марка">Samsung</param>
 <param name="Модель девайса">Watch 8</param>
 <param name="Бренд">Различные</param>
@@ -165604,28 +165532,6 @@
 <param name="Опт від 7 шт">$7.82</param>
 <param name="Drop">$9.35</param>
 </offer>
-<offer id="ts000082860000030784" available="true">
-<url>https://kmt5.com.ua/smart-sports-watch-call-version-borofone-bd14-plus-silver</url>
-<price>600</price>
-<vendorprice>409</vendorprice>
-<vendorpricedoll>8.76</vendorpricedoll>
-<rrcdoll>12.85</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>57809396</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTkvYzkv0KYtMDAwMDgyODYwXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2IvMTAv0KYtMDAwMDgyODYwXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Другие</vendor>
-<vendorCode>Ц-000082860</vendorCode>
-<code>789335</code>
-<name>Смарт-годинник Borofone BD14 Plus, Дзвінки — Silver</name>
-<description><![CDATA[Смарт-годинник Borofone BD14 Plus, Дзвінки використовується для сповіщень, контролю активності та роботи з функціями підключеного смартфона. Основні характеристики: • Тип: смарт-годинник • Дисплей: TFT, 2,01″ • Роздільна здатність: 240 × 280 • Підключення: Bluetooth 5,3 • Захист: IP54 • Матеріал корпусу: цинковий сплав • Функції: Bluetooth-дзвінки]]></description>
-<quantity_in_stock>11</quantity_in_stock>
-<param name="Бренд">Borofone</param>
-<param name="Опт від 3 шт">$8.16</param>
-<param name="Опт від 5 шт">$7.99</param>
-<param name="Опт від 7 шт">$7.82</param>
-<param name="Drop">$9.35</param>
-</offer>
 <offer id="ts000081700000030009" available="true">
 <url>https://kmt5.com.ua/smart-sports-watch-call-version-borofone-bd14-silver</url>
 <price>600</price>
@@ -165648,6 +165554,28 @@
 <param name="Опт від 5 шт">$7.43</param>
 <param name="Опт від 7 шт">$7.27</param>
 <param name="Drop">$8.69</param>
+</offer>
+<offer id="ts000082860000030784" available="true">
+<url>https://kmt5.com.ua/smart-sports-watch-call-version-borofone-bd14-plus-silver</url>
+<price>600</price>
+<vendorprice>409</vendorprice>
+<vendorpricedoll>8.76</vendorpricedoll>
+<rrcdoll>12.85</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>57809396</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTkvYzkv0KYtMDAwMDgyODYwXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2IvMTAv0KYtMDAwMDgyODYwXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Другие</vendor>
+<vendorCode>Ц-000082860</vendorCode>
+<code>789335</code>
+<name>Смарт-годинник Borofone BD14 Plus, Дзвінки — Silver</name>
+<description><![CDATA[Смарт-годинник Borofone BD14 Plus, Дзвінки використовується для сповіщень, контролю активності та роботи з функціями підключеного смартфона. Основні характеристики: • Тип: смарт-годинник • Дисплей: TFT, 2,01″ • Роздільна здатність: 240 × 280 • Підключення: Bluetooth 5,3 • Захист: IP54 • Матеріал корпусу: цинковий сплав • Функції: Bluetooth-дзвінки]]></description>
+<quantity_in_stock>11</quantity_in_stock>
+<param name="Бренд">Borofone</param>
+<param name="Опт від 3 шт">$8.16</param>
+<param name="Опт від 5 шт">$7.99</param>
+<param name="Опт від 7 шт">$7.82</param>
+<param name="Drop">$9.35</param>
 </offer>
 <offer id="ts000082861000030786" available="true">
 <url>https://kmt5.com.ua/smart-sports-watch-call-version-borofone-bd14-ultra-titanium-gold</url>
@@ -170847,7 +170775,7 @@
 <code>721931</code>
 <name>Універсальний ремінець Sport Nike, універсальне кріплення 20 мм — Black</name>
 <description><![CDATA[Ремінець Sport Nike призначений для годинників із відповідним типом кріплення. Основні характеристики: • Тип: універсальний ремінець • Ширина кріплення: 20 мм • Конструкція: перфорована конструкція • Призначення: заміна штатного ремінця та повсякденне носіння]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <param name="Марка">Universal</param>
 <param name="Бренд">Различные</param>
 <param name="Матеріал">Силікон</param>
@@ -171307,7 +171235,7 @@
 <code>778076</code>
 <name>Автомобільний компресор Hoco ZP7 Maddy 5000 мА·год 10.3 бар — Black</name>
 <description><![CDATA[Автомобільний компресор Hoco ZP7 Maddy 5000 мА·год 10.3 бар призначений для підкачування автомобільних шин та інших надувних виробів. Основні характеристики: • Тип: портативний автомобільний компресор • Максимальний тиск: 10,3 бар • Акумулятор: 5000 мА·год • Матеріали: ABS-пластик, полікарбонат, силікон • Вага: 570 г]]></description>
-<quantity_in_stock>21</quantity_in_stock>
+<quantity_in_stock>16</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Опт від 3 шт">$26.69</param>
 <param name="Опт від 7 шт">$26.13</param>
@@ -171405,7 +171333,7 @@
 <code>777212</code>
 <name>Магнітний автотримач Hoco H28, на повітропровід — Black</name>
 <description><![CDATA[Магнітний автотримач Hoco H28, на повітропровід призначений для фіксації смартфона в салоні автомобіля. Основні характеристики: • Тип: магнітний автомобільний тримач • Кріплення в автомобілі: решітка повітропроводу • Матеріали: ABS-пластик, полікарбонат • Особливості: магнітна фіксація смартфона]]></description>
-<quantity_in_stock>15</quantity_in_stock>
+<quantity_in_stock>14</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Автоаксесуари">Автотримачі</param>
 <param name="Спосіб встановлення">На повітропровід</param>
