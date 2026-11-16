@@ -38,7 +38,16 @@ LAST = ("akcii", "novoe-postuplenie")
 RE_ITEM = re.compile(r'<article class="pc" data-card="(\d+)">(.*?)</article>', re.S)
 RE_HREF = re.compile(r'<a class="pc-th" href="([^"]+)"')
 RE_TITLE = re.compile(r'<div class="pc-name"><a[^>]*>(.*?)</a>', re.S)
-RE_SKU = re.compile(r'<div class="pc-brand"><b>([^<]*)</b><span>([^<]+)</span>')
+# pc-brand: 13.11.2026 обернули бренд в <span class="l"> и добавили числовой
+# код (<i class="upc">) — жёсткий шаблон перестал находить артикул и прогон
+# отбросил все товары. Разбираем блок по частям, порядок/обёртки не важны:
+# артикул — последний «голый» <span>, бренд — <b>, код — i.upc.
+RE_BRAND_BLOCK = re.compile(r'<div class="pc-brand">(.*?)</div>', re.S)
+RE_BB_SKU = re.compile(r'<span>\s*([^<]+?)\s*</span>')
+RE_BB_BRAND = re.compile(r'<b>([^<]*)</b>')
+RE_BB_UPC = re.compile(r'class="upc">\s*([^<]+?)\s*<')
+# цена в гривне (вернулась на сайт 13.11.2026)
+RE_PRICE_UAH = re.compile(r'data-pdprice-uah data-baseprice="[\d.]+">\s*([\d\s]+)\s*грн')
 RE_IMG = re.compile(r'<img class="ph a" src="([^"]+)"')
 RE_LABEL = re.compile(r'<span class="bg (ok|low|no)[^"]*">([^<]*)</span>')
 RE_STOCK = re.compile(r'<div class="qty" data-q="\d+" data-max="(\d+)"')
@@ -46,6 +55,7 @@ RE_STOCK = re.compile(r'<div class="qty" data-q="\d+" data-max="(\d+)"')
 RE_PRICE = re.compile(r'class="opt" data-pdprice data-baseprice="([\d.]+)">\$?([\d.]+)<')
 # ступенчатые опт-цены: data-qty="5" data-price="3.52"
 RE_LADDER = re.compile(r'data-qty="(\d+)" data-price="([\d.]+)"')
+RE_LADDER_UAH = re.compile(r'data-qty="(\d+)" data-price="[\d.]+" data-price-uah="(\d+)"')
 # «Показано с 1 по 100 из 3398 (всего 34 страниц)»
 RE_TOTAL = re.compile(r'Показано\s+с\s+\d+\s+по\s+\d+\s+из\s+(\d+)')
 RE_H1 = re.compile(r'<h1[^>]*>(.*?)</h1>', re.S)
@@ -66,14 +76,18 @@ def parse_page(html_text, category):
     items = []
     for m in RE_ITEM.finditer(html_text):
         pid, b = m.group(1), m.group(2)
-        href, sku = RE_HREF.search(b), RE_SKU.search(b)
-        if not href or not sku:
+        href, bb = RE_HREF.search(b), RE_BRAND_BLOCK.search(b)
+        skus = RE_BB_SKU.findall(bb.group(1)) if bb else []
+        if not href or not skus:
             continue
-        it = {"url": href.group(1), "sku": sku.group(2).strip(),
+        it = {"url": href.group(1), "sku": skus[-1].strip(),
               "product_id": pid, "category": category}
-        brand = sku.group(1).strip()
-        if brand:
-            it["brand"] = ihtml.unescape(brand)
+        brand = RE_BB_BRAND.search(bb.group(1))
+        if brand and brand.group(1).strip():
+            it["brand"] = ihtml.unescape(brand.group(1).strip())
+        upc = RE_BB_UPC.search(bb.group(1))
+        if upc:
+            it["code"] = upc.group(1)
         t = RE_TITLE.search(b)
         if t:
             it["name"] = ihtml.unescape(re.sub(r'<[^>]+>', '', t.group(1))).strip()
@@ -92,6 +106,9 @@ def parse_page(html_text, category):
             base = _num(p.group(1))
             if base and base != it["price_usd"]:
                 it["price_usd_base"] = base
+        pu = RE_PRICE_UAH.search(b)
+        if pu:
+            it["price_uah"] = _num(pu.group(1))
         ladder = [(int(q), _num(pr)) for q, pr in RE_LADDER.findall(b)]
         if ladder:
             it["ladder"] = ladder
@@ -129,6 +146,9 @@ def crawl_category(cli, cat_url, limit=100):
     title = ihtml.unescape(re.sub(r'<[^>]+>', '', mh.group(1))).strip() if mh else cat_url
     pages = max(1, -(-total // limit))
     items = parse_page(html, title)
+    if total and not items and "<article" in html:
+        raise RuntimeError("заявлено %d, но ни одна карточка не распознана — "
+                           "похоже, сайт сменил вёрстку листинга" % total)
 
     def fetch(p):
         for attempt in range(3):

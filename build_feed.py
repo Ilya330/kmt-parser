@@ -104,7 +104,8 @@ def main():
         rrc_usd = card.get("rrc_usd")
         price_usd = it["price_usd"]
         w("<price>%s</price>" % (uah(rrc_usd) or uah(price_usd)))
-        w("<vendorprice>%s</vendorprice>" % uah(price_usd))
+        # гривна — как показывает сайт (вернулась 13.11.2026); нет — по курсу
+        w("<vendorprice>%s</vendorprice>" % (int(it["price_uah"]) if it.get("price_uah") else uah(price_usd)))
         w("<vendorpricedoll>%s</vendorpricedoll>" % price_usd)
         if rrc_usd:
             w("<rrcdoll>%s</rrcdoll>" % rrc_usd)
@@ -118,7 +119,7 @@ def main():
         if vendor:
             w("<vendor>%s</vendor>" % esc(vendor))
         w("<vendorCode>%s</vendorCode>" % esc(it["sku"]))
-        code = card.get("code") or their_codes.get(it["url"])
+        code = it.get("code") or card.get("code") or their_codes.get(it["url"])
         if code:
             w("<code>%s</code>" % esc(code))
         w("<name>%s</name>" % esc(name))
