@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-20 11:33">
+<yml_catalog date="2026-11-20 17:34">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -474,7 +474,7 @@
 <code>788744</code>
 <name>Оригінальний TechWoven чохол — iPhone 17 Pro/iPhone 18 Pro — Green</name>
 <description><![CDATA[Чохол для iPhone 17 Pro/iPhone 18 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень.]]></description>
-<quantity_in_stock>8</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
@@ -1672,33 +1672,6 @@
 <param name="Опт від 7 шт">$1.69</param>
 <param name="Опт від 10 шт">$1.66</param>
 <param name="Drop">$1.98</param>
-</offer>
-<offer id="ts000080321000028847" available="true">
-<url>https://kmt5.com.ua/original-silicone-case-full-size-iphone-16-pro-max-cactus-61</url>
-<price>154</price>
-<vendorprice>92</vendorprice>
-<vendorpricedoll>2.01</vendorpricedoll>
-<rrcdoll>3.39</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>60652165</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzkvNTEv0KYtMDAwMDgwMzIxXzE5LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDUvMGEv0KYtMDAwMDgwMzIxXzEzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTQvMjkv0KYtMDAwMDgwMzIxXzE0LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjMvMWIv0KYtMDAwMDgwMzIxXzIwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000080321</vendorCode>
-<code>782823</code>
-<name>Силіконовий чохол оригінальний повнорозмірний — iPhone 16 Pro Max — Cactus (61)</name>
-<description><![CDATA[Чохол для iPhone 16 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм-фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 16 Pro Max</param>
-<param name="Бренд">Apple</param>
-<param name="Опт від 5 шт">$1.87</param>
-<param name="Опт від 7 шт">$1.83</param>
-<param name="Опт від 10 шт">$1.79</param>
-<param name="Drop">$2.15</param>
 </offer>
 <offer id="ts000080321000028838" available="true">
 <url>https://kmt5.com.ua/original-silicone-case-full-size-iphone-16-pro-max-hot-pink-29</url>
@@ -7356,7 +7329,7 @@
 <code>790505</code>
 <name>Чохол Smoky з MagSafe — Samsung S26 — Black</name>
 <description><![CDATA[Чохол для Samsung S26 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Samsung</param>
 <param name="Модель девайса">Samsung S26</param>
@@ -13160,7 +13133,7 @@
 <code>792707</code>
 <name>Силіконовий чохол з магнітом та ремінцем (захист камери) — iPhone 15 Pro — Purple</name>
 <description><![CDATA[Чохол для iPhone 15 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання. Шнурок дозволяє зручно носити смартфон.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro</param>
@@ -14238,7 +14211,7 @@
 <code>792743</code>
 <name>Силіконовий чохол з магнітом та ремінцем (захист камери) — iPhone 16 Pro — Purple</name>
 <description><![CDATA[Чохол для iPhone 16 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання. Шнурок дозволяє зручно носити смартфон.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16 Pro</param>
@@ -14441,7 +14414,7 @@
 <code>792825</code>
 <name>Силіконовий чохол з магнітом та ремінцем (захист камери) — iPhone 17 Pro Max/iPhone 18 Pro Max — Yellow</name>
 <description><![CDATA[Чохол для iPhone 17 Pro Max/iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання. Шнурок дозволяє зручно носити смартфон.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
@@ -15647,7 +15620,7 @@
 <code>780120</code>
 <name>OC матовий чохол з MagSafe — iPhone 16 Pro Max — Gray</name>
 <description><![CDATA[Чохол для iPhone 16 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Матова поверхня має стриманий вигляд і менш помітні сліди дотиків.]]></description>
-<quantity_in_stock>10</quantity_in_stock>
+<quantity_in_stock>9</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16 Pro Max</param>
@@ -16333,7 +16306,7 @@
 <code>791634</code>
 <name>Rimova металевий чохол — iPhone 13 / 14 — Silver</name>
 <description><![CDATA[Чохол для iPhone 13 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 13 6.1&quot;, Apple iPhone 14 6.1&quot;</param>
@@ -18694,7 +18667,7 @@
 <code>754724</code>
 <name>Alloy карбоновий Fiber Heat Sink Magneitc чохол з MagSafe — iPhone 14 Pro — Deep Purple</name>
 <description><![CDATA[Чохол для iPhone 14 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>10</quantity_in_stock>
+<quantity_in_stock>9</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 Pro 6.1&quot;</param>
@@ -18718,7 +18691,7 @@
 <code>754716</code>
 <name>Alloy карбоновий Fiber Heat Sink Magneitc чохол з MagSafe — iPhone 14 — Black</name>
 <description><![CDATA[Чохол для iPhone 14 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 6.1&quot;</param>
@@ -18742,7 +18715,7 @@
 <code>754718</code>
 <name>Alloy карбоновий Fiber Heat Sink Magneitc чохол з MagSafe — iPhone 14 — Deep Purple</name>
 <description><![CDATA[Чохол для iPhone 14 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>16</quantity_in_stock>
+<quantity_in_stock>15</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 6.1&quot;</param>
@@ -18766,7 +18739,7 @@
 <code>754717</code>
 <name>Alloy карбоновий Fiber Heat Sink Magneitc чохол з MagSafe — iPhone 14 — Navy Blue</name>
 <description><![CDATA[Чохол для iPhone 14 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 6.1&quot;</param>
@@ -23215,31 +23188,6 @@
 <param name="Опт від 10 шт">$2.74</param>
 <param name="Drop">$3.28</param>
 </offer>
-<offer id="ts000083997000031791" available="true">
-<url>https://kmt5.com.ua/full-camera-armor-case-with-magsafe-samsung-s26-black</url>
-<price>241</price>
-<vendorprice>140</vendorprice>
-<vendorpricedoll>3.07</vendorpricedoll>
-<rrcdoll>5.29</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>43902800</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjgvYzgv0KYtMDAwMDgzOTk3XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2QvZmEv0KYtMDAwMDgzOTk3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000083997</vendorCode>
-<code>791445</code>
-<name>Full камери Armor чохол з MagSafe — Samsung S26 — Black</name>
-<description><![CDATA[Чохол для Samsung S26 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Конструкція передбачає додатковий захист зони камери.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм-фактор">Накладка</param>
-<param name="Марка">Samsung</param>
-<param name="Модель девайса">Samsung S26</param>
-<param name="Бренд">Различные</param>
-<param name="Опт від 5 шт">$2.86</param>
-<param name="Опт від 7 шт">$2.8</param>
-<param name="Опт від 10 шт">$2.74</param>
-<param name="Drop">$3.28</param>
-</offer>
 <offer id="ts000083997000031793" available="true">
 <url>https://kmt5.com.ua/full-camera-armor-case-with-magsafe-samsung-s26-brown</url>
 <price>241</price>
@@ -23255,7 +23203,7 @@
 <code>791447</code>
 <name>Full камери Armor чохол з MagSafe — Samsung S26 — Brown</name>
 <description><![CDATA[Чохол для Samsung S26 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Конструкція передбачає додатковий захист зони камери.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Samsung</param>
 <param name="Модель девайса">Samsung S26</param>
@@ -23280,7 +23228,7 @@
 <code>791448</code>
 <name>Full камери Armor чохол з MagSafe — Samsung S26 — Grey</name>
 <description><![CDATA[Чохол для Samsung S26 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Конструкція передбачає додатковий захист зони камери.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Samsung</param>
 <param name="Модель девайса">Samsung S26</param>
@@ -27203,7 +27151,7 @@
 <code>788098</code>
 <name>OC матовий чохол з MagSafe — iPhone 17 Air — Dark Blue</name>
 <description><![CDATA[Чохол для iPhone 17 Air для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Матова поверхня має стриманий вигляд і менш помітні сліди дотиків.]]></description>
-<quantity_in_stock>22</quantity_in_stock>
+<quantity_in_stock>23</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Air</param>
@@ -27229,7 +27177,7 @@
 <code>788101</code>
 <name>OC матовий чохол з MagSafe — iPhone 17 Air — Gray</name>
 <description><![CDATA[Чохол для iPhone 17 Air для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Матова поверхня має стриманий вигляд і менш помітні сліди дотиків.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Air</param>
@@ -36300,7 +36248,7 @@
 <code>788063</code>
 <name>TPU-чохол Creative — iPhone 15 Pro Max — Transparent</name>
 <description><![CDATA[Чохол для iPhone 15 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. TPU-матеріал поєднує гнучкість і зносостійкість.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro Max</param>
@@ -44279,7 +44227,7 @@
 <code>748258</code>
 <name>TPU-чохол Soft Touch — Samsung A32 (A325F) — Orange</name>
 <description><![CDATA[Чохол для Samsung A32 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. TPU-матеріал поєднує гнучкість і зносостійкість.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Samsung</param>
 <param name="Модель девайса">Samsung A32 (A325F)</param>
@@ -54646,7 +54594,7 @@
 <code>786619</code>
 <name>Захисний чохол із кільцем — Xiaomi Redmi Note 14 Pro 4G — Blue</name>
 <description><![CDATA[Чохол для Xiaomi Redmi Note 14 Pro 4G для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Кільце полегшує утримання смартфона та може використовуватися як підставка.]]></description>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Xiaomi</param>
 <param name="Модель девайса">Xiaomi Redmi Note 14 Pro 4G</param>
@@ -66309,7 +66257,7 @@
 <code>777353</code>
 <name>Силіконовий чохол оригінальний з захисний камери — iPhone 15 Plus — Charcoal Gray (15)</name>
 <description><![CDATA[Чохол для iPhone 15 Plus для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання. Конструкція передбачає додатковий захист зони камери.]]></description>
-<quantity_in_stock>6</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Plus</param>
@@ -79021,7 +78969,7 @@
 <code>789224</code>
 <name>Чохол Hang з MagSafe — iPhone 17 Pro Max/iPhone 18 Pro Max — Brown</name>
 <description><![CDATA[Чохол для iPhone 17 Pro Max/iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
@@ -79847,7 +79795,7 @@
 <code>788679</code>
 <name>Чохол iShield Pro з MagSafe MCC-101 — iPhone 16 Pro Max — Transparent</name>
 <description><![CDATA[Чохол для iPhone 16 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>6</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16 Pro Max</param>
@@ -85399,7 +85347,7 @@
 <code>788543</code>
 <name>Чохол Titanium з MagSafe MCC-702 — iPhone 17 — Transparent Black</name>
 <description><![CDATA[Чохол для iPhone 17 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17</param>
@@ -86172,31 +86120,6 @@
 <param name="Опт від 10 шт">$3.63</param>
 <param name="Drop">$4.35</param>
 </offer>
-<offer id="ts000084222000032175" available="true">
-<url>https://kmt5.com.ua/vibe-case-with-magsafe-iphone-14-pro-max-black</url>
-<price>320</price>
-<vendorprice>186</vendorprice>
-<vendorpricedoll>4.07</vendorpricedoll>
-<rrcdoll>7.02</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>65522936</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTQvOGQv0KYtMDAwMDg0MjIyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWUvZTQv0KYtMDAwMDg0MjIyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000084222</vendorCode>
-<code>792046</code>
-<name>Чохол Vibe з MagSafe — iPhone 14 Pro Max — Black</name>
-<description><![CDATA[Чохол для iPhone 14 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм-фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 14 Pro Max 6.7&quot;</param>
-<param name="Бренд">Apple</param>
-<param name="Опт від 5 шт">$3.79</param>
-<param name="Опт від 7 шт">$3.71</param>
-<param name="Опт від 10 шт">$3.63</param>
-<param name="Drop">$4.35</param>
-</offer>
 <offer id="ts000084222000032177" available="true">
 <url>https://kmt5.com.ua/vibe-case-with-magsafe-iphone-14-pro-max-grey</url>
 <price>320</price>
@@ -86412,7 +86335,7 @@
 <code>792056</code>
 <name>Чохол Vibe з MagSafe — iPhone 15 Pro — Black</name>
 <description><![CDATA[Чохол для iPhone 15 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>7</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro</param>
@@ -87426,7 +87349,7 @@
 <code>789963</code>
 <name>Чохол Yind з MagSafe — Samsung S26 Ultra — Black</name>
 <description><![CDATA[Чохол для Samsung S26 Ultra для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Samsung</param>
 <param name="Модель девайса">Samsung S26 Ultra</param>
@@ -87451,7 +87374,7 @@
 <code>789964</code>
 <name>Чохол Yind з MagSafe — Samsung S26 Ultra — Dark Blue</name>
 <description><![CDATA[Чохол для Samsung S26 Ultra для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Samsung</param>
 <param name="Модель девайса">Samsung S26 Ultra</param>
@@ -87476,7 +87399,7 @@
 <code>789965</code>
 <name>Чохол Yind з MagSafe — Samsung S26 Ultra — Grey</name>
 <description><![CDATA[Чохол для Samsung S26 Ultra для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>11</quantity_in_stock>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Samsung</param>
 <param name="Модель девайса">Samsung S26 Ultra</param>
@@ -87501,7 +87424,7 @@
 <code>789966</code>
 <name>Чохол Yind з MagSafe — Samsung S26 Ultra — Light Pink</name>
 <description><![CDATA[Чохол для Samsung S26 Ultra для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>6</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Samsung</param>
 <param name="Модель девайса">Samsung S26 Ultra</param>
@@ -87551,7 +87474,7 @@
 <code>789968</code>
 <name>Чохол Yind з MagSafe — Samsung S26 Ultra — Orange</name>
 <description><![CDATA[Чохол для Samsung S26 Ultra для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>6</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Samsung</param>
 <param name="Модель девайса">Samsung S26 Ultra</param>
@@ -87576,32 +87499,6 @@
 <vendorCode>Ц-000083162</vendorCode>
 <code>789953</code>
 <name>Чохол Yind з MagSafe — Samsung S26 — Light Pink</name>
-<description><![CDATA[Чохол для Samsung S26 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Форм-фактор">Накладка</param>
-<param name="Марка">Samsung</param>
-<param name="Модель девайса">Samsung S26</param>
-<param name="Бренд">Dux Ducis</param>
-<param name="Опт від 5 шт">$3.79</param>
-<param name="Опт від 7 шт">$3.71</param>
-<param name="Опт від 10 шт">$3.63</param>
-<param name="Drop">$4.35</param>
-</offer>
-<offer id="ts000083162000031111" available="true">
-<url>https://kmt5.com.ua/yind-case-with-magsafe-samsung-s26-light-purple</url>
-<price>308</price>
-<vendorprice>186</vendorprice>
-<vendorpricedoll>4.07</vendorpricedoll>
-<rrcdoll>6.77</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>43902800</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWEvOGIv0KYtMDAwMDgzMTYyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmQvNzYv0KYtMDAwMDgzMTYyXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjQvOGMv0KYtMDAwMDgzMTYyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000083162</vendorCode>
-<code>789954</code>
-<name>Чохол Yind з MagSafe — Samsung S26 — Light Purple</name>
 <description><![CDATA[Чохол для Samsung S26 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
 <quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
@@ -87629,7 +87526,7 @@
 <code>789955</code>
 <name>Чохол Yind з MagSafe — Samsung S26 — Orange</name>
 <description><![CDATA[Чохол для Samsung S26 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Samsung</param>
 <param name="Модель девайса">Samsung S26</param>
@@ -87657,7 +87554,7 @@
 <code>789974</code>
 <name>Чохол Yind — Samsung A37 — Black</name>
 <description><![CDATA[Чохол для Samsung A37 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень.]]></description>
-<quantity_in_stock>8</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Samsung</param>
 <param name="Модель девайса">Samsung A37</param>
@@ -87685,7 +87582,7 @@
 <code>789975</code>
 <name>Чохол Yind — Samsung A37 — Dark Blue</name>
 <description><![CDATA[Чохол для Samsung A37 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень.]]></description>
-<quantity_in_stock>15</quantity_in_stock>
+<quantity_in_stock>14</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Samsung</param>
 <param name="Модель девайса">Samsung A37</param>
@@ -87713,38 +87610,10 @@
 <code>789976</code>
 <name>Чохол Yind — Samsung A37 — Grey</name>
 <description><![CDATA[Чохол для Samsung A37 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень.]]></description>
-<quantity_in_stock>8</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Samsung</param>
 <param name="Модель девайса">Samsung A37</param>
-<param name="Бренд">Dux Ducis</param>
-<param name="Опт від 5 шт">$3.26</param>
-<param name="Опт від 7 шт">$3.2</param>
-<param name="Опт від 10 шт">$3.13</param>
-<param name="Drop">$3.74</param>
-</offer>
-<offer id="ts000083167000031132" available="true">
-<url>https://kmt5.com.ua/yind-case-with-magsafe-samsung-a57-grey</url>
-<price>265</price>
-<vendorprice>160</vendorprice>
-<vendorpricedoll>3.5</vendorpricedoll>
-<rrcdoll>5.82</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>90750134</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGUvYTEv0KYtMDAwMDgzMTY3XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzMvZDEv0KYtMDAwMDgzMTY3XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjEvNmQv0KYtMDAwMDgzMTY3XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmMvNmQv0KYtMDAwMDgzMTY3XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjAvMzIv0KYtMDAwMDgzMTY3XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Samsung</vendor>
-<vendorCode>Ц-000083167</vendorCode>
-<code>789980</code>
-<name>Чохол Yind — Samsung A57 — Grey</name>
-<description><![CDATA[Чохол для Samsung A57 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм-фактор">Накладка</param>
-<param name="Марка">Samsung</param>
-<param name="Модель девайса">Samsung A57</param>
 <param name="Бренд">Dux Ducis</param>
 <param name="Опт від 5 шт">$3.26</param>
 <param name="Опт від 7 шт">$3.2</param>
@@ -91622,7 +91491,7 @@
 <code>790998</code>
 <name>WiWU Classic Pro захисний чохол — iPad 11''A16 (2025) / 10&quot; (2022) GF-005 — Gray</name>
 <description><![CDATA[Чохол для iPad 11 для захисту корпусу планшета від подряпин і потертостей під час щоденного використання.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPad Air 11&quot; (2025), Apple iPad Air 10.9&quot; (2022)</param>
@@ -92001,7 +91870,7 @@
 <code>780948</code>
 <name>WiWU захисний чохол — iPad Pro 11&quot; (2024) — Black</name>
 <description><![CDATA[Чохол для iPad Pro 11 для захисту корпусу планшета від подряпин і потертостей під час щоденного використання.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Книжка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPad Pro 11&quot; {2024}</param>
@@ -110157,7 +110026,7 @@
 <code>755341</code>
 <name>Сумка 13.3'' — WiWU Skin Pro II — Blue</name>
 <description><![CDATA[Сумка для ноутбука для зручного зберігання та перенесення пристрою й аксесуарів.]]></description>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <param name="Форм-фактор">Сумка</param>
 <param name="Бренд">Wiwu</param>
 <param name="Опт від 5 шт">$15.26</param>
@@ -113608,7 +113477,7 @@
 <code>791060</code>
 <name>Брелок «Antistress» — Beaver with fruit Brown</name>
 <description><![CDATA[Брелок «Antistress» — компактний декоративний аксесуар для ключів, сумки, рюкзака або чохла смартфона. Допомагає персоналізувати речі та швидше знаходити їх серед інших.]]></description>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <param name="Опт від 3 шт">$1.06</param>
 <param name="Опт від 5 шт">$1.03</param>
 <param name="Опт від 7 шт">$1.01</param>
@@ -113753,7 +113622,7 @@
 <code>791056</code>
 <name>Брелок «Antistress» — Labubu Pink</name>
 <description><![CDATA[Брелок «Antistress» — компактний декоративний аксесуар для ключів, сумки, рюкзака або чохла смартфона. Допомагає персоналізувати речі та швидше знаходити їх серед інших.]]></description>
-<quantity_in_stock>8</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <param name="Опт від 3 шт">$1.06</param>
 <param name="Опт від 5 шт">$1.03</param>
 <param name="Опт від 7 шт">$1.01</param>
@@ -121214,6 +121083,33 @@
 <param name="Роз'єм підключення">Cable USB to C</param>
 <param name="Drop">$1.08</param>
 </offer>
+<offer id="ts000072301000021778" available="true">
+<url>https://kmt5.com.ua/kabel-usb-c-to-lightning-20w-pd-1m-hoco-x82-silicone-charging-black</url>
+<price>245</price>
+<vendorprice>95</vendorprice>
+<vendorpricedoll>2.07</vendorpricedoll>
+<rrcdoll>5.38</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>403494</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjEvOTMv0KYtMDAwMDcyMzAxXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzQvNWUv0KYtMDAwMDcyMzAxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmYvZjIv0KYtMDAwMDcyMzAxXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTUvNzMv0KYtMDAwMDcyMzAxXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2EvZmYv0KYtMDAwMDcyMzAxXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTEvZDcv0KYtMDAwMDcyMzAxXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Все</vendor>
+<vendorCode>Ц-000072301</vendorCode>
+<code>752923</code>
+<name>Силіконовий кабель USB-C — Lightning 20 Вт PD (1 м) — Hoco X82 для заряджання — Black</name>
+<description><![CDATA[Кабель USB-C — Lightning для заряджання та підключення сумісних пристроїв. Довжина — 1 м; потужність — до 20 Вт. Силіконова оболонка підвищує зносостійкість.]]></description>
+<quantity_in_stock>31</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Роз'єм підключення">Cable USB C To Lightning</param>
+<param name="Опт від 5 шт">$1.87</param>
+<param name="Опт від 7 шт">$1.83</param>
+<param name="Опт від 10 шт">$1.79</param>
+<param name="Drop">$2.15</param>
+</offer>
 <offer id="ts000082836" available="true">
 <url>https://kmt5.com.ua/cable-aux-1m-borofone-bl25</url>
 <price>50</price>
@@ -121932,7 +121828,7 @@
 <code>777120</code>
 <name>OTG-адаптер USB-C — USB-A — Hoco UA17 016 — Black</name>
 <description><![CDATA[Компактний перехідник для з’єднання пристроїв та аксесуарів із зазначеними в назві інтерфейсами.]]></description>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Опт від 5 шт">$0.82</param>
 <param name="Опт від 7 шт">$0.8</param>
@@ -122538,31 +122434,6 @@
 <param name="Опт від 7 шт">$0.85</param>
 <param name="Опт від 10 шт">$0.83</param>
 <param name="Drop">$0.99</param>
-</offer>
-<offer id="ts000078136000026417" available="true">
-<url>https://kmt5.com.ua/adapter-usb-c-to-35mm-hoco-ls35-white</url>
-<price>150</price>
-<vendorprice>66</vendorprice>
-<vendorpricedoll>1.44</vendorpricedoll>
-<rrcdoll>3.29</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>82933918</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGIvYzcv0KYtMDAwMDc4MTM2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTgvODYv0KYtMDAwMDc4MTM2XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjAvZDUv0KYtMDAwMDc4MTM2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDUvMWQv0KYtMDAwMDc4MTM2XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGIvZWMv0KYtMDAwMDc4MTM2XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000078136</vendorCode>
-<code>777094</code>
-<name>Адаптер USB-C — 3,5 мм — Hoco LS35 — White</name>
-<description><![CDATA[Аудіоадаптер для підключення навушників, гарнітури або акустики з роз’ємом 3,5 мм до сумісного пристрою.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Опт від 5 шт">$1.34</param>
-<param name="Опт від 7 шт">$1.32</param>
-<param name="Опт від 10 шт">$1.29</param>
-<param name="Drop">$1.54</param>
 </offer>
 <offer id="ts000081138000029568" available="true">
 <url>https://kmt5.com.ua/adapter-usb-c-to-35mm-hoco-upa32c-black</url>
@@ -124199,7 +124070,7 @@
 <code>786259</code>
 <name>Кабель Micro-USB 2,1 А (1 м) — Earldom EC-154 м — Red</name>
 <description><![CDATA[Кабель Micro-USB для заряджання та підключення сумісних пристроїв. Довжина — 1 м; струм — до 2,1 А. Підтримує передавання даних. Силіконова оболонка підвищує зносостійкість.]]></description>
-<quantity_in_stock>43</quantity_in_stock>
+<quantity_in_stock>38</quantity_in_stock>
 <param name="Бренд">Earldom</param>
 <param name="Роз'єм підключення">Cable USB to Micro</param>
 <param name="Опт від 5 шт">$1.23</param>
@@ -124573,7 +124444,7 @@
 <code>785824</code>
 <name>Кабель USB-C 2,4 А (1 м) — Hoco X113 — Black</name>
 <description><![CDATA[Кабель USB-C для заряджання та підключення сумісних пристроїв. Довжина — 1 м; струм — до 2,4 А.]]></description>
-<quantity_in_stock>15</quantity_in_stock>
+<quantity_in_stock>33</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Роз'єм підключення">Cable USB to C</param>
 <param name="Опт від 5 шт">$0.67</param>
@@ -124665,7 +124536,7 @@
 <code>788609</code>
 <name>Кабель USB-C 2,4 А (1 м) — Hoco X124 — Black</name>
 <description><![CDATA[Кабель USB-C для заряджання та підключення сумісних пристроїв. Довжина — 1 м; струм — до 2,4 А.]]></description>
-<quantity_in_stock>69</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Роз'єм підключення">Cable USB to C</param>
 <param name="Опт від 5 шт">$1.34</param>
@@ -124735,7 +124606,7 @@
 <code>790083</code>
 <name>Кабель USB-C 3 А (1 м) — Borofone BX123 — Black</name>
 <description><![CDATA[Кабель USB-C для заряджання та підключення сумісних пристроїв. Довжина — 1 м; струм — до 3 А.]]></description>
-<quantity_in_stock>278</quantity_in_stock>
+<quantity_in_stock>275</quantity_in_stock>
 <param name="Бренд">Borofone</param>
 <param name="Роз'єм підключення">Cable USB to C</param>
 <param name="Опт від 5 шт">$0.72</param>
@@ -125108,7 +124979,7 @@
 <code>790077</code>
 <name>Кабель USB-C — Lightning 30 Вт (1 м) — Borofone BX123 — Black</name>
 <description><![CDATA[Кабель USB-C — Lightning для заряджання та підключення сумісних пристроїв. Довжина — 1 м; потужність — до 30 Вт.]]></description>
-<quantity_in_stock>132</quantity_in_stock>
+<quantity_in_stock>175</quantity_in_stock>
 <param name="Бренд">Borofone</param>
 <param name="Роз'єм підключення">Cable USB C To Lightning</param>
 <param name="Опт від 5 шт">$0.94</param>
@@ -125258,7 +125129,7 @@
 <code>790081</code>
 <name>Кабель USB-C — USB-C 60 Вт (1 м) — Borofone BX123 — White</name>
 <description><![CDATA[Кабель USB-C — USB-C для заряджання та підключення сумісних пристроїв. Довжина — 1 м; потужність — до 60 Вт.]]></description>
-<quantity_in_stock>31</quantity_in_stock>
+<quantity_in_stock>11</quantity_in_stock>
 <param name="Бренд">Borofone</param>
 <param name="Роз'єм підключення">Cable USB C to C</param>
 <param name="Опт від 5 шт">$0.91</param>
@@ -125789,7 +125660,7 @@
 <code>756398</code>
 <name>Органайзер для кабелів — Hoco U114 — Black</name>
 <description><![CDATA[Аксесуар для акуратної організації, фіксації та зберігання кабелів і зарядних аксесуарів.]]></description>
-<quantity_in_stock>15</quantity_in_stock>
+<quantity_in_stock>40</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Роз'єм підключення">Multifunctional Charging Cable</param>
 <param name="Опт від 5 шт">$2.74</param>
@@ -125943,7 +125814,7 @@
 <code>782465</code>
 <name>Силіконовий кабель Lightning 27 Вт (1 м) — Veron SL-X82 — White</name>
 <description><![CDATA[Кабель Lightning для заряджання та підключення сумісних пристроїв. Довжина — 1 м; потужність — до 27 Вт. Силіконова оболонка підвищує зносостійкість.]]></description>
-<quantity_in_stock>198</quantity_in_stock>
+<quantity_in_stock>195</quantity_in_stock>
 <param name="Бренд">VERON</param>
 <param name="Роз'єм підключення">Cable USB to Lightning</param>
 <param name="Опт від 5 шт">$1.06</param>
@@ -129640,7 +129511,7 @@
 <code>750859</code>
 <name>Зарядний пристрій Hoco C72Q, 18 Вт, QC3.0 — White</name>
 <description><![CDATA[Мережевий зарядний пристрій Hoco C72Q для заряджання сумісних смартфонів та інших гаджетів від розетки. Потужність — 18 Вт. Роз’єми: USB-A. Підтримує QC 3.0.]]></description>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>45</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Кількість USB портів">1 USB</param>
 <param name="Зарядні пристрої">Home Chargers</param>
@@ -129701,7 +129572,7 @@
 <code>750618</code>
 <name>Зарядний пристрій Hoco C80A, 20 Вт, PD, QC3.0 — White</name>
 <description><![CDATA[Мережевий зарядний пристрій Hoco C80A для заряджання сумісних смартфонів та інших гаджетів від розетки. Потужність — 20 Вт. Роз’єми: USB-C + USB-A. Підтримує швидке заряджання Power Delivery. Підтримує QC 3.0.]]></description>
-<quantity_in_stock>7</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Кількість USB портів">1 U | 1 C</param>
 <param name="Зарядні пристрої">Home Chargers</param>
@@ -129725,7 +129596,7 @@
 <code>741427</code>
 <name>Зарядний пристрій Hoco C80A, 20 Вт, PD, QC3.0, кабель USB-C – USB-C (1 м) — White</name>
 <description><![CDATA[Мережевий зарядний пристрій Hoco C80A для заряджання сумісних смартфонів та інших гаджетів від розетки. Потужність — 20 Вт. Роз’єми: USB-C + USB-A. Підтримує швидке заряджання Power Delivery. Підтримує QC 3.0. У комплекті зазначено кабель USB-C—USB-C 1 м.]]></description>
-<quantity_in_stock>73</quantity_in_stock>
+<quantity_in_stock>69</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Кількість USB портів">1 U | 1 C</param>
 <param name="Зарядні пристрої">СЗУ &amp; Кабель Type C</param>
@@ -129861,7 +129732,7 @@
 <code>787539</code>
 <name>Зарядний пристрій Hoco CS74A, 45 Вт, PD, QC3.0 — Black</name>
 <description><![CDATA[Мережевий зарядний пристрій Hoco CS74A для заряджання сумісних смартфонів та інших гаджетів від розетки. Потужність — 45 Вт. Роз’єми: USB-C + USB-A. Підтримує швидке заряджання Power Delivery. Підтримує QC 3.0.]]></description>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Кількість USB портів">1 U | 1 C</param>
 <param name="Опт від 5 шт">$6.53</param>
@@ -131642,6 +131513,56 @@
 <quantity_in_stock>5</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Drop">$5.39</param>
+</offer>
+<offer id="ts000078409000026668" available="true">
+<url>https://kmt5.com.ua/bezdrotova-misha-hoco-gm24-mystic-sixbutton-black</url>
+<price>394</price>
+<vendorprice>229</vendorprice>
+<vendorpricedoll>5.02</vendorpricedoll>
+<rrcdoll>8.65</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>48368747</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmEvYjAv0KYtMDAwMDc4NDA5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTUvMzIv0KYtMDAwMDc4NDA5XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTQvN2Ev0KYtMDAwMDc4NDA5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzIvNTAv0KYtMDAwMDc4NDA5XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTAvMjgv0KYtMDAwMDc4NDA5XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTgvODkv0KYtMDAwMDc4NDA5XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Все</vendor>
+<vendorCode>Ц-000078409</vendorCode>
+<code>777607</code>
+<name>Бездротова миша Hoco GM24 — Black</name>
+<description><![CDATA[Бездротова миша Hoco GM24 підтримує підключення 2,4 ГГц і Bluetooth 3.0/5.2. Має 6 кнопок, режими 800/1200/1600 dpi, ресурс до 3 млн натискань та корпус з ABS-пластику.]]></description>
+<quantity_in_stock>14</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Опт від 3 шт">$4.68</param>
+<param name="Опт від 5 шт">$4.58</param>
+<param name="Опт від 7 шт">$4.48</param>
+<param name="Drop">$5.36</param>
+</offer>
+<offer id="ts000078722000026931" available="true">
+<url>https://kmt5.com.ua/bezdrotova-misha-hoco-gm28-white</url>
+<price>276</price>
+<vendorprice>155</vendorprice>
+<vendorpricedoll>3.4</vendorpricedoll>
+<rrcdoll>6.05</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>48368747</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDIvNDcv0KYtMDAwMDc4NzIyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTcvZTAv0KYtMDAwMDc4NzIyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmQvZmEv0KYtMDAwMDc4NzIyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTIvMDAv0KYtMDAwMDc4NzIyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Все</vendor>
+<vendorCode>Ц-000078722</vendorCode>
+<code>778211</code>
+<name>Бездротова миша Hoco GM28 — White</name>
+<description><![CDATA[Бездротова миша Hoco GM28 — зручний маніпулятор для роботи, навчання та повсякденного користування. Бездротове підключення допомагає організувати робоче місце без зайвих кабелів.]]></description>
+<quantity_in_stock>14</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Опт від 3 шт">$3.17</param>
+<param name="Опт від 5 шт">$3.1</param>
+<param name="Опт від 7 шт">$3.04</param>
+<param name="Drop">$3.63</param>
 </offer>
 <offer id="ts000082113" available="true">
 <url>https://kmt5.com.ua/gaming-headset-hoco-w113</url>
@@ -134571,7 +134492,7 @@
 <code>754827</code>
 <name>Бездротова миша Borofone BG5 — Black</name>
 <description><![CDATA[Бездротова миша Borofone BG5 — зручний маніпулятор для роботи, навчання та повсякденного користування. Бездротове підключення допомагає організувати робоче місце без зайвих кабелів.]]></description>
-<quantity_in_stock>27</quantity_in_stock>
+<quantity_in_stock>24</quantity_in_stock>
 <param name="Бренд">Borofone</param>
 <param name="Опт від 3 шт">$3.36</param>
 <param name="Опт від 5 шт">$3.29</param>
@@ -134626,6 +134547,54 @@
 <param name="Опт від 5 шт">$4.42</param>
 <param name="Опт від 7 шт">$4.32</param>
 <param name="Drop">$5.17</param>
+</offer>
+<offer id="ts000083169000031133" available="true">
+<url>https://kmt5.com.ua/bezdrotova-misha-h30-black</url>
+<price>148</price>
+<vendorprice>73</vendorprice>
+<vendorpricedoll>1.6</vendorpricedoll>
+<rrcdoll>3.24</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>48368747</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjkvYTEv0KYtMDAwMDgzMTY5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGUvZTEv0KYtMDAwMDgzMTY5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTYvNzMv0KYtMDAwMDgzMTY5XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDMvMTUv0KYtMDAwMDgzMTY5XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODAvMTAv0KYtMDAwMDgzMTY5XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Все</vendor>
+<vendorCode>Ц-000083169</vendorCode>
+<code>789983</code>
+<name>Бездротова миша H30 — Black</name>
+<description><![CDATA[Бездротова миша H30 — зручний маніпулятор для роботи, навчання та повсякденного користування. Бездротове підключення допомагає організувати робоче місце без зайвих кабелів.]]></description>
+<quantity_in_stock>20</quantity_in_stock>
+<param name="Бренд">Различные</param>
+<param name="Комп'ютерні аксесуари">Комп'ютерні миші</param>
+<param name="Опт від 3 шт">$1.49</param>
+<param name="Опт від 5 шт">$1.46</param>
+<param name="Опт від 7 шт">$1.43</param>
+<param name="Drop">$1.71</param>
+</offer>
+<offer id="ts000082755000030704" available="true">
+<url>https://kmt5.com.ua/bezdrotova-misha-wiwu-wm113-white</url>
+<price>394</price>
+<vendorprice>259</vendorprice>
+<vendorpricedoll>5.67</vendorpricedoll>
+<rrcdoll>8.64</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>48368747</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzUvZjcv0KYtMDAwMDgyNzU1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWMvZmEv0KYtMDAwMDgyNzU1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Все</vendor>
+<vendorCode>Ц-000082755</vendorCode>
+<code>789151</code>
+<name>Бездротова миша WiWU WM113, 2.4 ГГц — White</name>
+<description><![CDATA[WM113 Модель: WM113 Пересувайте свій цифровий світ з грацією та точністю. Бездротова офісна миша WiWU розроблена як ідеальне продовження вашої руки, завдяки красивій обтічній формі з контуром долоні, яка забезпечує винятковий комфорт навіть під час тривалого використання. Надзвичайно гладке, приємне для шкіри покриття чудово відчувається на дотик. Керуйте своїм робочим процесом за допомогою високоточної оптичної матриці, яка пропонує три регульовані рівні DPI (800/1200/1600) для індивідуального керування. Надійне бездротове з'єднання 2.4G забезпечує стабільну роботу без затримок на відстані до 20 метрів. Завдяки надлегкій конструкції та інтелектуальній 4-кнопковій системі, миша є ідеальним супутником для чистого, сучасного та ефективного робочого місця. Характеристики продукту: 1. Форма з контуром долоні та плавні вигини створені для комфортного, природного захоплення, що зменшує втому рук. 2. Легко налаштуйте чутливість курсора за допомогою трьох налаштувань DPI (800/1200/1600) д]]></description>
+<quantity_in_stock>9</quantity_in_stock>
+<param name="Бренд">Wiwu</param>
+<param name="Опт від 3 шт">$5.28</param>
+<param name="Опт від 5 шт">$5.17</param>
+<param name="Опт від 7 шт">$5.06</param>
+<param name="Drop">$6.05</param>
 </offer>
 <offer id="ts000037962" available="true">
 <url>https://kmt5.com.ua/zaryadnye-ustroystva-dlya-wifi-routera-5v2a</url>
@@ -136320,7 +136289,7 @@
 <code>782444</code>
 <name>Килимок для миші, 300 × 700 × 3 мм, OPP-пакування — Абстракция</name>
 <description><![CDATA[Килимок для миші, 300 × 700 × 3 мм, OPP-пакування створює рівну поверхню для точного й плавного переміщення миші. Розмір та додаткові особливості вказані в назві.]]></description>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Опт від 3 шт">$2.86</param>
 <param name="Опт від 5 шт">$2.8</param>
@@ -136862,7 +136831,7 @@
 <code>777810</code>
 <name>Наліпки на клавіатуру, українська розкладка — Orange</name>
 <description><![CDATA[Наліпки на клавіатуру, українська розкладка допомагають оновити або додати потрібне маркування клавіш. Наносяться на очищену суху поверхню клавіатури.]]></description>
-<quantity_in_stock>28</quantity_in_stock>
+<quantity_in_stock>23</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Опт від 3 шт">$0.29</param>
 <param name="Опт від 5 шт">$0.28</param>
@@ -136884,7 +136853,7 @@
 <code>777808</code>
 <name>Наліпки на клавіатуру, українська розкладка — White</name>
 <description><![CDATA[Наліпки на клавіатуру, українська розкладка допомагають оновити або додати потрібне маркування клавіш. Наносяться на очищену суху поверхню клавіатури.]]></description>
-<quantity_in_stock>28</quantity_in_stock>
+<quantity_in_stock>27</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Опт від 3 шт">$0.29</param>
 <param name="Опт від 5 шт">$0.28</param>
@@ -136906,7 +136875,7 @@
 <code>779332</code>
 <name>Наліпки на клавіатуру, українська розкладка — Yellow</name>
 <description><![CDATA[Наліпки на клавіатуру, українська розкладка допомагають оновити або додати потрібне маркування клавіш. Наносяться на очищену суху поверхню клавіатури.]]></description>
-<quantity_in_stock>26</quantity_in_stock>
+<quantity_in_stock>25</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Опт від 3 шт">$0.29</param>
 <param name="Опт від 5 шт">$0.28</param>
@@ -137819,6 +137788,30 @@
 <param name="Опт від 5 шт">$6.72</param>
 <param name="Drop">$8.03</param>
 </offer>
+<offer id="ts000083190000031145" available="true">
+<url>https://kmt5.com.ua/bluetooth-speaker-hoco-hc47-black</url>
+<price>1638</price>
+<vendorprice>1173</vendorprice>
+<vendorpricedoll>25.75</vendorpricedoll>
+<rrcdoll>35.97</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>31204796</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWUvNDUv0KYtMDAwMDgzMTkwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODEvYTMv0KYtMDAwMDgzMTkwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGMvMDUv0KYtMDAwMDgzMTkwXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWUvZDkv0KYtMDAwMDgzMTkwXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Все</vendor>
+<vendorCode>Ц-000083190</vendorCode>
+<code>790016</code>
+<name>Портативна Bluetooth-колонка Hoco HC47 — Black</name>
+<description><![CDATA["1. Матеріал: ABS; Розмір: 264 * 166 * 89 мм; Вага: 1209 г 2. Bluetooth 6.0; Чіп: Jelly AC6965C 3. Ємність акумулятора: 2400 мАг; Час заряджання: 3 години 4. Час використання: 3 години 5. Динамік: 66 мм * 2; Потужність: 15 Вт * 2 6. Підтримує Bluetooth, FM, TF-карту, USB-флешку, AUX, TWS та інші режими"]]></description>
+<quantity_in_stock>1</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Опт від 2 шт">$24.0</param>
+<param name="Опт від 3 шт">$23.5</param>
+<param name="Опт від 5 шт">$23.0</param>
+<param name="Drop">$27.5</param>
+</offer>
 <offer id="ts000083531000031595" available="true">
 <url>https://kmt5.com.ua/bluetooth-speaker-hoco-hc49-black</url>
 <price>700</price>
@@ -138056,7 +138049,7 @@
 <code>778214</code>
 <name>Стилус Hoco GM111 Cool, універсальний, 3-в-1, пасивний — Black</name>
 <description><![CDATA[Пасивний стилус Hoco GM111 Cool виготовлений з алюмінієвого сплаву. Конструкція 3-в-1 поєднує силіконовий дисковий наконечник, кулькову ручку зі змінним стрижнем і наконечник із наносіткою зі срібного дроту. Усі три елементи можна замінювати; дисковий наконечник і наносітка сумісні приблизно з 95% ємнісних екранів.]]></description>
-<quantity_in_stock>10</quantity_in_stock>
+<quantity_in_stock>9</quantity_in_stock>
 <param name="Опт від 3 шт">$2.83</param>
 <param name="Опт від 5 шт">$2.77</param>
 <param name="Опт від 7 шт">$2.71</param>
@@ -146402,7 +146395,7 @@
 <code>786990</code>
 <name>Селфі-спалах F-662 — Black</name>
 <description><![CDATA[Компактне селфі/накамерне LED-світло для підсвічування обличчя та об’єктів під час фото, відео, стримів і мобільної зйомки. Ключові характеристики: потужність 2 Вт, колірна температура 3000–6500 K, 48 LED, акумулятор 850 мА·год.]]></description>
-<quantity_in_stock>8</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Опт від 2 шт">$9.41</param>
 <param name="Опт від 3 шт">$9.21</param>
@@ -149159,7 +149152,7 @@
 <code>777693</code>
 <name>Бездротові Bluetooth-навушники Hoco W35 Air Triumph, накладні — Black</name>
 <description><![CDATA[Бездротові Bluetooth-навушники Hoco W35 Air Triumph, накладні призначені для прослуховування музики та дзвінків без дротів. Підключення через Bluetooth забезпечує сумісність зі смартфонами, планшетами та іншими аудіопристроями. Основні характеристики: Bluetooth — JL7006F4; час розмов — 45 год; акумулятор — 400 мА·год.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>11</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Аудіо товари">Навушники Bluetooth</param>
 <param name="Опт від 2 шт">$9.31</param>
@@ -149290,7 +149283,7 @@
 <code>781915</code>
 <name>Бездротові Bluetooth-навушники Hoco W56, накладні — Black</name>
 <description><![CDATA[Бездротові Bluetooth-навушники Hoco W56, накладні призначені для прослуховування музики та дзвінків без дротів. Підключення через Bluetooth забезпечує сумісність зі смартфонами, планшетами та іншими аудіопристроями. Основні характеристики: Bluetooth — JL JL7003F4; акумулятор — 250 мА·год.]]></description>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>24</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Аудіо товари">Навушники Bluetooth</param>
 <param name="Опт від 2 шт">$8.29</param>
@@ -149457,6 +149450,33 @@
 <param name="Опт від 3 шт">$1.68</param>
 <param name="Опт від 5 шт">$1.65</param>
 <param name="Drop">$1.97</param>
+</offer>
+<offer id="ts000071109000019815" available="true">
+<url>https://kmt5.com.ua/navushniki-z-mkrofonom-35mm-hoco-m60-perfect-sound-universal-white</url>
+<price>128</price>
+<vendorprice>57</vendorprice>
+<vendorpricedoll>1.24</vendorpricedoll>
+<rrcdoll>2.81</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>72062147</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWEvZTcv0KYtMDAwMDcxMTA5XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzkvNGIv0KYtMDAwMDcxMTA5XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2IvYTAv0KYtMDAwMDcxMTA5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjgvYmYv0KYtMDAwMDcxMTA5XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjAvYmMv0KYtMDAwMDcxMTA5XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Все</vendor>
+<vendorCode>Ц-000071109</vendorCode>
+<code>749600</code>
+<name>Дротові навушники Hoco M60 Perfect sound universal, 3.5 мм, з мікрофоном — White</name>
+<description><![CDATA[Дротові навушники Hoco M60 Perfect sound universal, 3.5 мм, з мікрофоном призначені для прослуховування музики та телефонних розмов. Дротове підключення забезпечує стабільну передачу звуку без потреби заряджати навушники. Вбудований у кабель мікрофон дає змогу відповідати на дзвінки. Основні характеристики: динамік — 10 мм; маса — 13 г; роз’єм — Ø3, 5 мм; мікрофон — контролер з мікрофоном.]]></description>
+<quantity_in_stock>30</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Довжина кабелю">1.2m</param>
+<param name="Аудіо товари">Навушники з мікрофоном 3.5mm</param>
+<param name="Опт від 2 шт">$1.15</param>
+<param name="Опт від 3 шт">$1.13</param>
+<param name="Опт від 5 шт">$1.1</param>
+<param name="Drop">$1.32</param>
 </offer>
 <offer id="ts000072682000022181" available="true">
 <url>https://kmt5.com.ua/navushniki-z-mkrofonom-35mm-hoco-m97-enjoy-black</url>
@@ -151066,7 +151086,7 @@
 <code>790010</code>
 <name>Бездротові Bluetooth-навушники Hoco W73 Graceful, накладні — Silver</name>
 <description><![CDATA[Бездротові Bluetooth-навушники Hoco W73 Graceful призначені для бездротового прослуховування музики та спілкування. Накладна конструкція підходить для тривалого прослуховування.]]></description>
-<quantity_in_stock>10</quantity_in_stock>
+<quantity_in_stock>25</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Аудіо товари">Навушники Bluetooth</param>
 <param name="Опт від 2 шт">$9.41</param>
@@ -151781,7 +151801,7 @@
 <code>789444</code>
 <name>Бездротові TWS-навушники Hoco EQ24 — Gray Lake</name>
 <description><![CDATA[Бездротові TWS-навушники Hoco EQ24 — компактна бездротова гарнітура для музики та дзвінків. Навушники підключаються через Bluetooth і зберігаються у зарядному кейсі. Основні характеристики: Bluetooth — JL AC6983D2; час роботи — 7 год; акумулятор — 320 мА·год / 40 мА·год.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Опт від 2 шт">$6.91</param>
 <param name="Опт від 3 шт">$6.77</param>
@@ -151806,32 +151826,7 @@
 <code>789443</code>
 <name>Бездротові TWS-навушники Hoco EQ24 — Monet Gold</name>
 <description><![CDATA[Бездротові TWS-навушники Hoco EQ24 — компактна бездротова гарнітура для музики та дзвінків. Навушники підключаються через Bluetooth і зберігаються у зарядному кейсі. Основні характеристики: Bluetooth — JL AC6983D2; час роботи — 7 год; акумулятор — 320 мА·год / 40 мА·год.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Опт від 2 шт">$6.91</param>
-<param name="Опт від 3 шт">$6.77</param>
-<param name="Опт від 5 шт">$6.62</param>
-<param name="Drop">$7.92</param>
-</offer>
-<offer id="ts000080898000030810" available="true">
-<url>https://kmt5.com.ua/bluetooth-garntura-tws-hoco-eq24-white-star</url>
-<price>470</price>
-<vendorprice>338</vendorprice>
-<vendorpricedoll>7.42</vendorpricedoll>
-<rrcdoll>10.32</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54581499</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjAvNTUv0KYtMDAwMDgwODk4XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTYvMjgv0KYtMDAwMDgwODk4XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTcvM2Qv0KYtMDAwMDgwODk4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzUvMjUv0KYtMDAwMDgwODk4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzYvMjEv0KYtMDAwMDgwODk4XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000080898</vendorCode>
-<code>789442</code>
-<name>Бездротові TWS-навушники Hoco EQ24 — White Star</name>
-<description><![CDATA[Бездротові TWS-навушники Hoco EQ24 — компактна бездротова гарнітура для музики та дзвінків. Навушники підключаються через Bluetooth і зберігаються у зарядному кейсі. Основні характеристики: Bluetooth — JL AC6983D2; час роботи — 7 год; акумулятор — 320 мА·год / 40 мА·год.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Опт від 2 шт">$6.91</param>
 <param name="Опт від 3 шт">$6.77</param>
@@ -151854,7 +151849,7 @@
 <code>790793</code>
 <name>Бездротові TWS-навушники Hoco EQ30 — White</name>
 <description><![CDATA[Бездротові TWS-навушники Hoco EQ30 — компактна модель для бездротового прослуховування музики та голосових викликів. Підключення до смартфона, планшета або іншого сумісного пристрою здійснюється через Bluetooth.]]></description>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Опт від 2 шт">$7.2</param>
 <param name="Опт від 3 шт">$7.05</param>
@@ -151949,7 +151944,7 @@
 <code>788631</code>
 <name>Бездротові TWS-навушники Hoco EW206 __ — White</name>
 <description><![CDATA[Безпровідні навушники HOCO EW206 — ідеальний вибір для спорту, подорожей та щоденного використання HOCO EW206 — це зручні та стильні безпровідні навушники з Bluetooth 6.0, створені спеціально для активного способу життя. Завдяки ергономічному дизайну з надійною фіксацією за вухом, вони чудово тримаються під час бігу, фітнесу, тренувань та інших фізичних навантажень. Основні переваги навушників HOCO EW206: Надійна фіксація для спорту: Дужки за вухом забезпечують надійне кріплення навушників навіть під час інтенсивних тренувань. Ідеально підходять для бігу, фітнесу, велоспорту, танців чи тренажерної зали Висока якість звуку: Чисте й насичене звучання з глибокими басами дозволяє повністю зануритися в улюблену музику чи подкасти Зручний зарядний кейс: Компактний кейс з ємністю 400 mAh забезпечує до 4 годин автономної роботи, а цифровий індикатор показує рівень заряду в реальному часі Bluetooth 6.0 — стабільне з'єднання без затримок: Миттєве підключення до смартфонів, планшетів, ноутбуків]]></description>
-<quantity_in_stock>7</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Опт від 2 шт">$9.31</param>
 <param name="Опт від 3 шт">$9.12</param>
@@ -152571,6 +152566,28 @@
 <param name="Опт від 3 шт">$14.01</param>
 <param name="Опт від 5 шт">$13.71</param>
 <param name="Drop">$16.39</param>
+</offer>
+<offer id="ts000073886000023775" available="true">
+<url>https://kmt5.com.ua/navushniki-z-mkrofonom-35mm-borofone-bm82-art-music-black</url>
+<price>127</price>
+<vendorprice>57</vendorprice>
+<vendorpricedoll>1.24</vendorpricedoll>
+<rrcdoll>2.78</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>72062147</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDAvMDgv0KYtMDAwMDczODg2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Все</vendor>
+<vendorCode>Ц-000073886</vendorCode>
+<code>759703</code>
+<name>Дротові навушники Borofone BM82 Art music, 3.5 мм, з мікрофоном — Black</name>
+<description><![CDATA[Дротові навушники Borofone BM82 Art music для прослуховування аудіо на сумісних пристроях. Підключаються через 3.5 мм. Вбудований мікрофон підходить для голосового спілкування та дзвінків.]]></description>
+<quantity_in_stock>19</quantity_in_stock>
+<param name="Бренд">Borofone</param>
+<param name="Аудіо товари">Навушники з мікрофоном 3.5mm</param>
+<param name="Опт від 2 шт">$1.15</param>
+<param name="Опт від 3 шт">$1.13</param>
+<param name="Опт від 5 шт">$1.1</param>
+<param name="Drop">$1.32</param>
 </offer>
 <offer id="ts000076008000024928" available="true">
 <url>https://kmt5.com.ua/navushniki-z-mkrofonom-35mm-celebrat-g15-white</url>
@@ -158548,6 +158565,28 @@
 <name>Дитячий смарт-годинник Hoco Y107, Дзвінки — Black</name>
 <description><![CDATA[Дитячий смарт-годинник Hoco Y107, Дзвінки призначений для зв’язку з дитиною та контролю її місцезнаходження за наявності відповідних функцій моделі. Основні характеристики: • Тип: дитячий смарт-годинник • Дисплей: 1,83″ • Підключення: Bluetooth 4,0 • Акумулятор: 700 мА·год • Автономність: 2 дні • Захист: IP65 • Матеріал корпусу: ABS-пластик • Функції: Bluetooth-дзвінки, відеодзвінки, GPS-позиціонування, кнопка SOS, батьківський контроль, сповіщення зі смартфона, керування камерою, вбудована камера]]></description>
 <quantity_in_stock>1</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Опт від 3 шт">$26.4</param>
+<param name="Опт від 5 шт">$25.85</param>
+<param name="Опт від 7 шт">$25.3</param>
+<param name="Drop">$30.25</param>
+</offer>
+<offer id="ts000082716000030656" available="true">
+<url>https://kmt5.com.ua/smart-baby-watch-call-version-hoco-y107-orange</url>
+<price>1704</price>
+<vendorprice>1291</vendorprice>
+<vendorpricedoll>28.33</vendorpricedoll>
+<rrcdoll>37.4</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>57809396</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzIvMWEv0KYtMDAwMDgyNzE2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDIvZDYv0KYtMDAwMDgyNzE2XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Другие</vendor>
+<vendorCode>Ц-000082716</vendorCode>
+<code>789065</code>
+<name>Дитячий смарт-годинник Hoco Y107, Дзвінки — Orange</name>
+<description><![CDATA[Дитячий смарт-годинник Hoco Y107, Дзвінки призначений для зв’язку з дитиною та контролю її місцезнаходження за наявності відповідних функцій моделі. Основні характеристики: • Тип: дитячий смарт-годинник • Дисплей: 1,83″ • Підключення: Bluetooth 4,0 • Акумулятор: 700 мА·год • Автономність: 2 дні • Захист: IP65 • Матеріал корпусу: ABS-пластик • Функції: Bluetooth-дзвінки, відеодзвінки, GPS-позиціонування, кнопка SOS, батьківський контроль, сповіщення зі смартфона, керування камерою, вбудована камера]]></description>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Опт від 3 шт">$26.4</param>
 <param name="Опт від 5 шт">$25.85</param>
@@ -169655,6 +169694,28 @@
 <param name="Опт від 7 шт">$7.18</param>
 <param name="Drop">$8.58</param>
 </offer>
+<offer id="ts000082862000030787" available="true">
+<url>https://kmt5.com.ua/smart-sports-watch-call-version-borofone-bd13-black</url>
+<price>624</price>
+<vendorprice>465</vendorprice>
+<vendorpricedoll>10.2</vendorpricedoll>
+<rrcdoll>13.71</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>57809396</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODkvMjcv0KYtMDAwMDgyODYyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmIvMWIv0KYtMDAwMDgyODYyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Другие</vendor>
+<vendorCode>Ц-000082862</vendorCode>
+<code>789340</code>
+<name>Смарт-годинник Borofone BD13, Дзвінки — Black</name>
+<description><![CDATA[Смарт-годинник Borofone BD13, Дзвінки використовується для сповіщень, контролю активності та роботи з функціями підключеного смартфона. Основні характеристики: • Тип: смарт-годинник • Дисплей: TFT, 1,83″ • Роздільна здатність: 240 × 284 • Підключення: Bluetooth 5,0 • Акумулятор: 230 мА·год • Функції: Bluetooth-дзвінки, сповіщення зі смартфона, моніторинг сну, крокомір, спортивні режими, відображення погоди]]></description>
+<quantity_in_stock>4</quantity_in_stock>
+<param name="Бренд">Borofone</param>
+<param name="Опт від 3 шт">$9.5</param>
+<param name="Опт від 5 шт">$9.31</param>
+<param name="Опт від 7 шт">$9.11</param>
+<param name="Drop">$10.89</param>
+</offer>
 <offer id="ts000082860000030783" available="true">
 <url>https://kmt5.com.ua/smart-sports-watch-call-version-borofone-bd14-plus-black</url>
 <price>600</price>
@@ -170379,7 +170440,7 @@
 <code>788795</code>
 <name>Смарт-годинник WiWU SW09 — Black</name>
 <description><![CDATA[Смарт-годинник WiWU SW09 використовується для сповіщень, контролю активності та роботи з функціями підключеного смартфона. Основні характеристики: • Тип: смарт-годинник • Дисплей: 1,83″ • Роздільна здатність: 240 × 284 • Підключення: Bluetooth 5,4 • Акумулятор: 280 мА·год • Автономність: 10–15 днів • Заряджання: магнітне • Функції: відображення сповіщень і контроль активності]]></description>
-<quantity_in_stock>13</quantity_in_stock>
+<quantity_in_stock>12</quantity_in_stock>
 <param name="Бренд">Wiwu</param>
 <param name="Опт від 3 шт">$12.67</param>
 <param name="Опт від 5 шт">$12.41</param>
@@ -170404,7 +170465,7 @@
 <code>788796</code>
 <name>Смарт-годинник WiWU SW09 — Silver</name>
 <description><![CDATA[Смарт-годинник WiWU SW09 використовується для сповіщень, контролю активності та роботи з функціями підключеного смартфона. Основні характеристики: • Тип: смарт-годинник • Дисплей: 1,83″ • Роздільна здатність: 240 × 284 • Підключення: Bluetooth 5,4 • Акумулятор: 280 мА·год • Автономність: 10–15 днів • Заряджання: магнітне • Функції: відображення сповіщень і контроль активності]]></description>
-<quantity_in_stock>7</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <param name="Бренд">Wiwu</param>
 <param name="Опт від 3 шт">$12.67</param>
 <param name="Опт від 5 шт">$12.41</param>
@@ -173831,7 +173892,7 @@
 <code>749673</code>
 <name>Bluetooth-аудіоприймач Hoco E53 Dawn Sound — Black</name>
 <description><![CDATA[Bluetooth-аудіоприймач Hoco E53 Dawn Sound додає бездротове відтворення аудіо системам із сумісним аудіовходом. Основні характеристики: • Тип: Bluetooth-аудіоприймач • Підключення: Bluetooth 5,0 • Інтерфейси: AUX 3,5 мм • Акумулятор: 145 мА·год • Призначення: автомобільна або домашня аудіосистема]]></description>
-<quantity_in_stock>17</quantity_in_stock>
+<quantity_in_stock>16</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Drop">$5.39</param>
 </offer>
@@ -174088,7 +174149,7 @@
 <code>777212</code>
 <name>Магнітний автотримач Hoco H28, на повітропровід — Black</name>
 <description><![CDATA[Магнітний автотримач Hoco H28, на повітропровід призначений для фіксації смартфона в салоні автомобіля. Основні характеристики: • Тип: магнітний автомобільний тримач • Кріплення в автомобілі: решітка повітропроводу • Матеріали: ABS-пластик, полікарбонат • Особливості: магнітна фіксація смартфона]]></description>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Автоаксесуари">Автотримачі</param>
 <param name="Спосіб встановлення">На повітропровід</param>
@@ -176355,7 +176416,7 @@
 <code>780936</code>
 <name>Змінний аромат для автомобільного ароматизатора for Wi-AR003 — Cologne Scent QPL-18</name>
 <description><![CDATA[Змінний аромат для автомобільного ароматизатора для Wi-AR003 призначений для повторного заповнення сумісного автомобільного ароматизатора. Основні характеристики: • Тип: змінний аромат]]></description>
-<quantity_in_stock>15</quantity_in_stock>
+<quantity_in_stock>14</quantity_in_stock>
 <param name="Опт від 3 шт">$3.17</param>
 <param name="Опт від 7 шт">$3.1</param>
 <param name="Опт від 10 шт">$3.04</param>
@@ -178035,7 +178096,7 @@
 <code>722167</code>
 <name>Розсувний автотримач Baseus (SUYL-J) Metal Age, на повітропровід — SUYL-J0S Silver</name>
 <description><![CDATA[Розсувний автотримач Baseus (SUYL-J) Metal Age, на повітропровід призначений для фіксації смартфона в салоні автомобіля. Основні характеристики: • Тип: розсувний автомобільний тримач • Кріплення в автомобілі: решітка повітропроводу • Матеріали: ABS-пластик, алюмінієвий сплав • Особливості: механічні розсувні затискачі]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Бренд">Baseus</param>
 <param name="Автоаксесуари">Автотримачі</param>
 <param name="Спосіб встановлення">На повітропровід</param>
@@ -179194,35 +179255,6 @@
 <param name="Опт від 10 шт">$5.75</param>
 <param name="Drop">$6.88</param>
 </offer>
-<offer id="ts000077464000025612" available="true">
-<url>https://kmt5.com.ua/car-holder-hoco-hw5-journey-wireless-fast-charging-center-console-black</url>
-<price>500</price>
-<vendorprice>352</vendorprice>
-<vendorpricedoll>7.73</vendorpricedoll>
-<rrcdoll>10.98</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>29376332</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2QvYjUv0KYtMDAwMDc3NDY0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGIvYTcv0KYtMDAwMDc3NDY0XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTYvMDIv0KYtMDAwMDc3NDY0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzUvMjEv0KYtMDAwMDc3NDY0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTEvN2Qv0KYtMDAwMDc3NDY0XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjYvNTAv0KYtMDAwMDc3NDY0XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzAvODcv0KYtMDAwMDc3NDY0XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGYvMWMv0KYtMDAwMDc3NDY0XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2IvYTkv0KYtMDAwMDc3NDY0XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000077464</vendorCode>
-<code>774134</code>
-<name>Розсувний автотримач Hoco HW5, на присосці, бездротова зарядка — Black</name>
-<description><![CDATA[Розсувний автотримач Hoco HW5, на присосці, бездротова зарядка призначений для фіксації смартфона в салоні автомобіля. Основні характеристики: • Тип: розсувний автомобільний тримач • Кріплення в автомобілі: вакуумна присоска • Бездротова зарядка: підтримується • Особливості: механічні розсувні затискачі]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Опт від 3 шт">$7.2</param>
-<param name="Опт від 7 шт">$7.05</param>
-<param name="Опт від 10 шт">$6.9</param>
-<param name="Drop">$8.25</param>
-</offer>
 <offer id="ts000075892" available="true">
 <url>https://kmt5.com.ua/avtotrimach-rozsuvniy-na-prisosts-jy068</url>
 <price>250</price>
@@ -180295,7 +180327,7 @@
 <code>789907</code>
 <name>Мініфотоапарат S142 — Orange</name>
 <description><![CDATA[Мініфотоапарат S142 має компактний формат і підходить для простого повсякденного знімання. Невеликий корпус зручно брати на прогулянки та в подорожі.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <param name="Опт від 2 шт">$6.58</param>
 <param name="Опт від 3 шт">$6.44</param>
 <param name="Опт від 5 шт">$6.3</param>
@@ -185658,7 +185690,7 @@
 <code>787594</code>
 <name>Підставка для телефона та планшета S81 — White</name>
 <description><![CDATA[Підставка для телефона та планшета S81 утримує смартфон або планшет у зручному положенні для перегляду відео, навчання чи відеозв’язку.]]></description>
-<quantity_in_stock>197</quantity_in_stock>
+<quantity_in_stock>195</quantity_in_stock>
 <param name="Опт від 3 шт">$1.9</param>
 <param name="Опт від 5 шт">$1.86</param>
 <param name="Опт від 7 шт">$1.82</param>
