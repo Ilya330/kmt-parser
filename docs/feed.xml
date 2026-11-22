@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-22 11:20">
+<yml_catalog date="2026-11-22 16:54">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -700,7 +700,7 @@
 <code>788743</code>
 <name>Оригінальний TechWoven чохол — iPhone 17 Pro/iPhone 18 Pro — Blue</name>
 <description><![CDATA[Чохол для iPhone 17 Pro/iPhone 18 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень.]]></description>
-<quantity_in_stock>14</quantity_in_stock>
+<quantity_in_stock>13</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
@@ -915,7 +915,7 @@
 <code>734768</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 11 Pro Max — Black (18)</name>
 <description><![CDATA[Чохол для iPhone 11 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 11 Pro Max</param>
@@ -946,7 +946,7 @@
 <code>734753</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 11 — Black (18)</name>
 <description><![CDATA[Чохол для iPhone 11 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>30</quantity_in_stock>
+<quantity_in_stock>26</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 11</param>
@@ -1070,7 +1070,7 @@
 <code>738049</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 11 — Light Pink (6)</name>
 <description><![CDATA[Чохол для iPhone 11 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 11</param>
@@ -1142,37 +1142,6 @@
 <param name="Опт від 10 шт">$1.79</param>
 <param name="Drop">$2.15</param>
 </offer>
-<offer id="ts000068663000015841" available="true">
-<url>https://kmt5.com.ua/original-silicone-case-full-size-iphone-11-pine-green-64</url>
-<price>154</price>
-<vendorprice>92</vendorprice>
-<vendorpricedoll>2.01</vendorpricedoll>
-<rrcdoll>3.39</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>32288668</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjMvMTgv0KYtMDAwMDY4NjYzXzMwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzcvZDcv0KYtMDAwMDY4NjYzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2MvMDIv0KYtMDAwMDY4NjYzXzUzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDAvZmYv0KYtMDAwMDY4NjYzXzU0LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjkvOWIv0KYtMDAwMDY4NjYzXzU1LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTAvNTkv0KYtMDAwMDY4NjYzXzU2LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDIvYTUv0KYtMDAwMDY4NjYzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2UvMDQv0KYtMDAwMDY4NjYzXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000068663</vendorCode>
-<code>736853</code>
-<name>Силіконовий чохол оригінальний повнорозмірний — iPhone 11 — Pine Green (64)</name>
-<description><![CDATA[Чохол для iPhone 11 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
-<param name="Форм-фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 11</param>
-<param name="Бренд">Apple</param>
-<param name="Опт від 5 шт">$1.87</param>
-<param name="Опт від 7 шт">$1.83</param>
-<param name="Опт від 10 шт">$1.79</param>
-<param name="Drop">$2.15</param>
-</offer>
 <offer id="ts000068663000028899" available="true">
 <url>https://kmt5.com.ua/original-silicone-case-full-size-iphone-11-rock-gray-10</url>
 <price>154</price>
@@ -1194,7 +1163,7 @@
 <code>782878</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 11 — Rock Gray (10)</name>
 <description><![CDATA[Чохол для iPhone 11 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 11</param>
@@ -1339,7 +1308,7 @@
 <code>752729</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 12 / 12 Pro 6.1&quot; — Red</name>
 <description><![CDATA[Чохол для iPhone 12 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 12 6.1&quot;, Apple iPhone 12 Pro 6.1&quot;</param>
@@ -1368,7 +1337,7 @@
 <code>782881</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 12 / 12 Pro 6.1&quot; — Rock Gray (10)</name>
 <description><![CDATA[Чохол для iPhone 12 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 12 6.1&quot;, Apple iPhone 12 Pro 6.1&quot;</param>
@@ -1426,7 +1395,7 @@
 <code>742392</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 12 Pro Max 6.7&quot; — Black (18)</name>
 <description><![CDATA[Чохол для iPhone 12 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>15</quantity_in_stock>
+<quantity_in_stock>11</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 12 Pro Max 6.7&quot;</param>
@@ -1641,36 +1610,6 @@
 <param name="Опт від 10 шт">$1.79</param>
 <param name="Drop">$2.15</param>
 </offer>
-<offer id="ts000071698000020656" available="true">
-<url>https://kmt5.com.ua/original-silicone-case-full-size-iphone-13-61-lilac-5</url>
-<price>154</price>
-<vendorprice>92</vendorprice>
-<vendorpricedoll>2.01</vendorpricedoll>
-<rrcdoll>3.39</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>70706401</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzkvNWIv0KYtMDAwMDcxNjk4XzEyLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTMvMDAv0KYtMDAwMDcxNjk4XzE3LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTEvMWEv0KYtMDAwMDcxNjk4XzIxLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTUvNjYv0KYtMDAwMDcxNjk4XzIyLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmQvMmYv0KYtMDAwMDcxNjk4XzIzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2UvN2Uv0KYtMDAwMDcxNjk4XzI0LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmYvMTcv0KYtMDAwMDcxNjk4XzI4LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000071698</vendorCode>
-<code>750949</code>
-<name>Силіконовий чохол оригінальний повнорозмірний — iPhone 13 6.1&quot; — Lilac (5)</name>
-<description><![CDATA[Чохол для iPhone 13 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
-<param name="Форм-фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 13 6.1&quot;</param>
-<param name="Бренд">Apple</param>
-<param name="Опт від 5 шт">$1.87</param>
-<param name="Опт від 7 шт">$1.83</param>
-<param name="Опт від 10 шт">$1.79</param>
-<param name="Drop">$2.15</param>
-</offer>
 <offer id="ts000071698000020661" available="true">
 <url>https://kmt5.com.ua/original-silicone-case-full-size-iphone-13-61-midnight-blue-8</url>
 <price>154</price>
@@ -1721,7 +1660,7 @@
 <code>752719</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 13 6.1&quot; — Neon Pink</name>
 <description><![CDATA[Чохол для iPhone 13 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>15</quantity_in_stock>
+<quantity_in_stock>13</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 13 6.1&quot;</param>
@@ -1751,7 +1690,7 @@
 <code>782887</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 13 6.1&quot; — Rock Gray (10)</name>
 <description><![CDATA[Чохол для iPhone 13 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>10</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 13 6.1&quot;</param>
@@ -1813,7 +1752,7 @@
 <code>751034</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 13 Pro 6.1&quot; — Black (18)</name>
 <description><![CDATA[Чохол для iPhone 13 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>14</quantity_in_stock>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 13 Pro 6.1&quot;</param>
@@ -1877,7 +1816,7 @@
 <code>751035</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 13 Pro 6.1&quot; — Midnight blue (8)</name>
 <description><![CDATA[Чохол для iPhone 13 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 13 Pro 6.1&quot;</param>
@@ -1909,7 +1848,7 @@
 <code>752724</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 13 Pro 6.1&quot; — Neon Pink</name>
 <description><![CDATA[Чохол для iPhone 13 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 13 Pro 6.1&quot;</param>
@@ -1935,7 +1874,7 @@
 <code>750970</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 13 Pro Max 6.7&quot; — Black (18)</name>
 <description><![CDATA[Чохол для iPhone 13 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 13 Pro Max 6.7&quot;</param>
@@ -1968,7 +1907,7 @@
 <code>782890</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 13 Pro Max 6.7&quot; — Rock Gray (10)</name>
 <description><![CDATA[Чохол для iPhone 13 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 13 Pro Max 6.7&quot;</param>
@@ -1998,7 +1937,7 @@
 <code>754017</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 14 6.1&quot; — Black (18)</name>
 <description><![CDATA[Чохол для iPhone 14 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>20</quantity_in_stock>
+<quantity_in_stock>16</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 6.1&quot;</param>
@@ -2058,7 +1997,7 @@
 <code>754021</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 14 6.1&quot; — Lavender (41)</name>
 <description><![CDATA[Чохол для iPhone 14 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 6.1&quot;</param>
@@ -2088,7 +2027,7 @@
 <code>756246</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 14 6.1&quot; — Light Turquoise (73)</name>
 <description><![CDATA[Чохол для iPhone 14 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 6.1&quot;</param>
@@ -2118,7 +2057,7 @@
 <code>756249</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 14 6.1&quot; — Lilac (76)</name>
 <description><![CDATA[Чохол для iPhone 14 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 6.1&quot;</param>
@@ -2148,7 +2087,7 @@
 <code>754014</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 14 6.1&quot; — Midnight Blue (8)</name>
 <description><![CDATA[Чохол для iPhone 14 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>15</quantity_in_stock>
+<quantity_in_stock>13</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 6.1&quot;</param>
@@ -2178,7 +2117,7 @@
 <code>790201</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 14 6.1&quot; — New Brown (80)</name>
 <description><![CDATA[Чохол для iPhone 14 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 6.1&quot;</param>
@@ -2208,7 +2147,7 @@
 <code>754022</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 14 6.1&quot; — Pine Green (58)</name>
 <description><![CDATA[Чохол для iPhone 14 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 6.1&quot;</param>
@@ -2238,7 +2177,7 @@
 <code>754018</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 14 6.1&quot; — Pink Sand (19)</name>
 <description><![CDATA[Чохол для iPhone 14 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>20</quantity_in_stock>
+<quantity_in_stock>18</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 6.1&quot;</param>
@@ -2268,7 +2207,7 @@
 <code>756251</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 14 Pro 6.1&quot; — Ametist (71)</name>
 <description><![CDATA[Чохол для iPhone 14 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 Pro 6.1&quot;</param>
@@ -2388,7 +2327,7 @@
 <code>754030</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 14 Pro 6.1&quot; — Charcoal Gray (15)</name>
 <description><![CDATA[Чохол для iPhone 14 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 Pro 6.1&quot;</param>
@@ -2478,7 +2417,7 @@
 <code>756256</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 14 Pro 6.1&quot; — Lilac (76)</name>
 <description><![CDATA[Чохол для iPhone 14 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 Pro 6.1&quot;</param>
@@ -2628,7 +2567,7 @@
 <code>754028</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 14 Pro 6.1&quot; — Pink Sand (19)</name>
 <description><![CDATA[Чохол для iPhone 14 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 Pro 6.1&quot;</param>
@@ -2776,7 +2715,7 @@
 <code>754049</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 14 Pro Max 6.7&quot; — Black (18)</name>
 <description><![CDATA[Чохол для iPhone 14 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>10</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 Pro Max 6.7&quot;</param>
@@ -2804,35 +2743,6 @@
 <vendorCode>Ц-000072933</vendorCode>
 <code>782895</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 14 Pro Max 6.7&quot; — Cactus (61)</name>
-<description><![CDATA[Чохол для iPhone 14 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Форм-фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 14 Pro Max 6.7&quot;</param>
-<param name="Бренд">Apple</param>
-<param name="Опт від 5 шт">$1.87</param>
-<param name="Опт від 7 шт">$1.83</param>
-<param name="Опт від 10 шт">$1.79</param>
-<param name="Drop">$2.15</param>
-</offer>
-<offer id="ts000072933000022265" available="true">
-<url>https://kmt5.com.ua/original-silicone-case-full-size-iphone-14-pro-max-67-charcoal-gray-15</url>
-<price>154</price>
-<vendorprice>92</vendorprice>
-<vendorpricedoll>2.01</vendorpricedoll>
-<rrcdoll>3.39</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>65522936</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTYvYjEv0KYtMDAwMDcyOTMzXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDAvYjYv0KYtMDAwMDcyOTMzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmYvYTgv0KYtMDAwMDcyOTMzXzIxLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjkvNGQv0KYtMDAwMDcyOTMzXzIzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzYvMDMv0KYtMDAwMDcyOTMzXzI0LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGMvMzAv0KYtMDAwMDcyOTMzXzI3LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000072933</vendorCode>
-<code>754050</code>
-<name>Силіконовий чохол оригінальний повнорозмірний — iPhone 14 Pro Max 6.7&quot; — Charcoal Gray (15)</name>
 <description><![CDATA[Чохол для iPhone 14 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
 <quantity_in_stock>2</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
@@ -2892,7 +2802,7 @@
 <code>754045</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 14 Pro Max 6.7&quot; — Lavender (41)</name>
 <description><![CDATA[Чохол для iPhone 14 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 Pro Max 6.7&quot;</param>
@@ -2921,7 +2831,7 @@
 <code>754942</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 14 Pro Max 6.7&quot; — Lavender Gray</name>
 <description><![CDATA[Чохол для iPhone 14 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 Pro Max 6.7&quot;</param>
@@ -2979,7 +2889,7 @@
 <code>756263</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 14 Pro Max 6.7&quot; — Lilac (76)</name>
 <description><![CDATA[Чохол для iPhone 14 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 Pro Max 6.7&quot;</param>
@@ -3008,7 +2918,7 @@
 <code>759919</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 14 Pro Max 6.7&quot; — Marsala (52)</name>
 <description><![CDATA[Чохол для iPhone 14 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 Pro Max 6.7&quot;</param>
@@ -3095,7 +3005,7 @@
 <code>782894</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 14 Pro Max 6.7&quot; — Phistashio (68)</name>
 <description><![CDATA[Чохол для iPhone 14 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 Pro Max 6.7&quot;</param>
@@ -3211,7 +3121,7 @@
 <code>754051</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 14 Pro Max 6.7&quot; — White (9)</name>
 <description><![CDATA[Чохол для iPhone 14 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>10</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 Pro Max 6.7&quot;</param>
@@ -3240,7 +3150,7 @@
 <code>772091</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 15 Pro Max — Ametist (71)</name>
 <description><![CDATA[Чохол для iPhone 15 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro Max</param>
@@ -3269,7 +3179,7 @@
 <code>772093</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 15 Pro Max — Black (18)</name>
 <description><![CDATA[Чохол для iPhone 15 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>15</quantity_in_stock>
+<quantity_in_stock>11</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro Max</param>
@@ -3327,7 +3237,7 @@
 <code>772095</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 15 Pro Max — Charcoal Gray (15)</name>
 <description><![CDATA[Чохол для iPhone 15 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro Max</param>
@@ -3356,7 +3266,7 @@
 <code>772099</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 15 Pro Max — Lilac (76)</name>
 <description><![CDATA[Чохол для iPhone 15 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro Max</param>
@@ -3385,7 +3295,7 @@
 <code>772100</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 15 Pro Max — Marsala (52)</name>
 <description><![CDATA[Чохол для iPhone 15 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro Max</param>
@@ -3414,7 +3324,7 @@
 <code>772101</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 15 Pro Max — Midnight Blue (8)</name>
 <description><![CDATA[Чохол для iPhone 15 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro Max</param>
@@ -3443,7 +3353,7 @@
 <code>790211</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 15 Pro Max — New Brown (80)</name>
 <description><![CDATA[Чохол для iPhone 15 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>10</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro Max</param>
@@ -3472,7 +3382,7 @@
 <code>782897</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 15 Pro Max — Phistashio (68)</name>
 <description><![CDATA[Чохол для iPhone 15 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro Max</param>
@@ -3501,7 +3411,7 @@
 <code>772103</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 15 Pro Max — Pine Green (72)</name>
 <description><![CDATA[Чохол для iPhone 15 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro Max</param>
@@ -3530,7 +3440,7 @@
 <code>772104</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 15 Pro Max — Pink Sand (19)</name>
 <description><![CDATA[Чохол для iPhone 15 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro Max</param>
@@ -3559,7 +3469,7 @@
 <code>772105</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 15 Pro Max — Red (14)</name>
 <description><![CDATA[Чохол для iPhone 15 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro Max</param>
@@ -3588,7 +3498,7 @@
 <code>782899</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 15 Pro Max — Rock Gray (10)</name>
 <description><![CDATA[Чохол для iPhone 15 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro Max</param>
@@ -3617,7 +3527,7 @@
 <code>772106</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 15 Pro Max — Turquoise (44)</name>
 <description><![CDATA[Чохол для iPhone 15 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro Max</param>
@@ -3874,7 +3784,7 @@
 <code>772048</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 15 — Black (18)</name>
 <description><![CDATA[Чохол для iPhone 15 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>10</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15</param>
@@ -3899,7 +3809,7 @@
 <code>772050</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 15 — Charcoal Gray (15)</name>
 <description><![CDATA[Чохол для iPhone 15 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15</param>
@@ -3924,7 +3834,7 @@
 <code>790208</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 15 — Hermes Orange (81)</name>
 <description><![CDATA[Чохол для iPhone 15 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15</param>
@@ -3949,7 +3859,7 @@
 <code>772052</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 15 — Lavender (41)</name>
 <description><![CDATA[Чохол для iPhone 15 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15</param>
@@ -3974,7 +3884,7 @@
 <code>772055</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 15 — Midnight Blue (8)</name>
 <description><![CDATA[Чохол для iPhone 15 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15</param>
@@ -3999,7 +3909,7 @@
 <code>772057</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 15 — Pink Sand (19)</name>
 <description><![CDATA[Чохол для iPhone 15 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15</param>
@@ -4024,7 +3934,7 @@
 <code>772059</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 15 — White (9)</name>
 <description><![CDATA[Чохол для iPhone 15 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15</param>
@@ -4968,7 +4878,7 @@
 <code>782843</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 16 — Black (18)</name>
 <description><![CDATA[Чохол для iPhone 16 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>6</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16</param>
@@ -5157,7 +5067,7 @@
 <code>782850</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 16 — Lavender (41)</name>
 <description><![CDATA[Чохол для iPhone 16 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16</param>
@@ -5184,7 +5094,7 @@
 <code>782844</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 16 — Midnight blue (8)</name>
 <description><![CDATA[Чохол для iPhone 16 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16</param>
@@ -5211,7 +5121,7 @@
 <code>790213</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 16 — New Brown (80)</name>
 <description><![CDATA[Чохол для iPhone 16 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16</param>
@@ -5292,7 +5202,7 @@
 <code>782846</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 16 — White (9)</name>
 <description><![CDATA[Чохол для iPhone 16 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16</param>
@@ -5317,7 +5227,7 @@
 <code>788283</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 17 Air — Black (18)</name>
 <description><![CDATA[Чохол для iPhone 17 Air для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>8</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Air</param>
@@ -5666,7 +5576,7 @@
 <code>788280</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 17 Air — White (9)</name>
 <description><![CDATA[Чохол для iPhone 17 Air для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>10</quantity_in_stock>
+<quantity_in_stock>9</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Air</param>
@@ -5691,7 +5601,7 @@
 <code>790222</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 17 Pro Max/iPhone 18 Pro Max — Hermes Orange (81)</name>
 <description><![CDATA[Чохол для iPhone 17 Pro Max/iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>20</quantity_in_stock>
+<quantity_in_stock>18</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
@@ -5713,7 +5623,7 @@
 <code>788302</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 17 Pro/iPhone 18 Pro — Khaki (48)</name>
 <description><![CDATA[Чохол для iPhone 17 Pro/iPhone 18 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
@@ -5738,40 +5648,7 @@
 <code>788300</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 17 Pro/iPhone 18 Pro — Lavender (41)</name>
 <description><![CDATA[Чохол для iPhone 17 Pro/iPhone 18 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
-<param name="Форм-фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
-<param name="Бренд">Apple</param>
-<param name="Опт від 5 шт">$1.87</param>
-<param name="Опт від 7 шт">$1.83</param>
-<param name="Опт від 10 шт">$1.79</param>
-<param name="Drop">$2.15</param>
-</offer>
-<offer id="ts000082274000030327" available="true">
-<url>https://kmt5.com.ua/original-silicone-case-full-size-iphone-17-pro-neon-pink-47</url>
-<price>154</price>
-<vendorprice>92</vendorprice>
-<vendorpricedoll>2.01</vendorpricedoll>
-<rrcdoll>3.39</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54622491</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDkvMTkv0KYtMDAwMDgyMjc0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDEvMDIv0KYtMDAwMDgyMjc0XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjIvMjEv0KYtMDAwMDgyMjc0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmUvNjcv0KYtMDAwMDgyMjc0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDgvM2Mv0KYtMDAwMDgyMjc0XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzYvNDIv0KYtMDAwMDgyMjc0XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzEvNmQv0KYtMDAwMDgyMjc0XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTIvZTMv0KYtMDAwMDgyMjc0XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWIvOTcv0KYtMDAwMDgyMjc0XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTMvMjEv0KYtMDAwMDgyMjc0XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000082274</vendorCode>
-<code>788301</code>
-<name>Силіконовий чохол оригінальний повнорозмірний — iPhone 17 Pro/iPhone 18 Pro — Neon Pink (47)</name>
-<description><![CDATA[Чохол для iPhone 17 Pro/iPhone 18 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
@@ -5796,7 +5673,7 @@
 <code>788212</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 17 — Charcoal Gray (15)</name>
 <description><![CDATA[Чохол для iPhone 17 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17</param>
@@ -6305,7 +6182,7 @@
 <code>790240</code>
 <name>Шкіряний чохол з MagSafe — iPhone 17 Pro/iPhone 18 Pro — Blue</name>
 <description><![CDATA[Чохол для iPhone 17 Pro/iPhone 18 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Шкіряне оздоблення надає чохлу стриманого класичного вигляду.]]></description>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
@@ -6408,7 +6285,7 @@
 <code>791461</code>
 <name>Full камери Armor чохол з MagSafe — iPhone 11 — Brown</name>
 <description><![CDATA[Чохол для iPhone 11 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Конструкція передбачає додатковий захист зони камери.]]></description>
-<quantity_in_stock>10</quantity_in_stock>
+<quantity_in_stock>9</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 11</param>
@@ -6633,7 +6510,7 @@
 <code>791475</code>
 <name>Full камери Armor чохол з MagSafe — iPhone 13 Pro Max — Dark Blue</name>
 <description><![CDATA[Чохол для iPhone 13 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Конструкція передбачає додатковий захист зони камери.]]></description>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 13 Pro Max 6.7&quot;</param>
@@ -7066,7 +6943,7 @@
 <code>791500</code>
 <name>Full камери Armor чохол з MagSafe — iPhone 16 Pro Max — Black</name>
 <description><![CDATA[Чохол для iPhone 16 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Конструкція передбачає додатковий захист зони камери.]]></description>
-<quantity_in_stock>19</quantity_in_stock>
+<quantity_in_stock>18</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16 Pro Max</param>
@@ -7257,7 +7134,7 @@
 <code>791520</code>
 <name>Full камери Armor чохол з MagSafe — iPhone 17 Pro Max/iPhone 18 Pro Max — Grey</name>
 <description><![CDATA[Чохол для iPhone 17 Pro Max/iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Конструкція передбачає додатковий захист зони камери.]]></description>
-<quantity_in_stock>18</quantity_in_stock>
+<quantity_in_stock>19</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
@@ -11828,7 +11705,7 @@
 <code>791624</code>
 <name>Чохол Wave з MagSafe — iPhone 17 Pro Max/iPhone 18 Pro Max — Black</name>
 <description><![CDATA[Чохол для iPhone 17 Pro Max/iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
@@ -11879,7 +11756,7 @@
 <code>791625</code>
 <name>Чохол Wave з MagSafe — iPhone 17 Pro Max/iPhone 18 Pro Max — Grey</name>
 <description><![CDATA[Чохол для iPhone 17 Pro Max/iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
@@ -11929,7 +11806,7 @@
 <code>791623</code>
 <name>Чохол Wave з MagSafe — iPhone 17 Pro Max/iPhone 18 Pro Max — Orange</name>
 <description><![CDATA[Чохол для iPhone 17 Pro Max/iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
@@ -11955,7 +11832,7 @@
 <code>791627</code>
 <name>Чохол Wave з MagSafe — iPhone 17 Pro Max/iPhone 18 Pro Max — Pink</name>
 <description><![CDATA[Чохол для iPhone 17 Pro Max/iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>10</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
@@ -11980,7 +11857,7 @@
 <code>791626</code>
 <name>Чохол Wave з MagSafe — iPhone 17 Pro Max/iPhone 18 Pro Max — Sand</name>
 <description><![CDATA[Чохол для iPhone 17 Pro Max/iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
@@ -12006,7 +11883,7 @@
 <code>791630</code>
 <name>Чохол Wave з MagSafe — iPhone 17 Pro Max/iPhone 18 Pro Max — White</name>
 <description><![CDATA[Чохол для iPhone 17 Pro Max/iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>10</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
@@ -13941,7 +13818,7 @@
 <code>792635</code>
 <name>Силіконовий чохол з магнітом та ремінцем (захист камери) — iPhone 13 Pro Max — Purple</name>
 <description><![CDATA[Чохол для iPhone 13 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання. Шнурок дозволяє зручно носити смартфон.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 13 Pro Max 6.7&quot;</param>
@@ -15077,28 +14954,6 @@
 <param name="Бренд">Apple</param>
 <param name="Drop">$3.85</param>
 </offer>
-<offer id="ts000084482000032544" available="true">
-<url>https://kmt5.com.ua/silkonoviy-chohol-z-magntom-ta-remntsem-zahist-kameri-iphone-14-pro-max-purple</url>
-<price>293</price>
-<vendorprice>165</vendorprice>
-<vendorpricedoll>3.61</vendorpricedoll>
-<rrcdoll>6.43</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>65522936</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDQvNGYv0KYtMDAwMDg0NDgyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDMvNWQv0KYtMDAwMDg0NDgyXzE5LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000084482</vendorCode>
-<code>792671</code>
-<name>Силіконовий чохол з магнітом та ремінцем (захист камери) — iPhone 14 Pro Max — Purple</name>
-<description><![CDATA[Чохол для iPhone 14 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання. Шнурок дозволяє зручно носити смартфон.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Форм-фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 14 Pro Max 6.7&quot;</param>
-<param name="Бренд">Apple</param>
-<param name="Drop">$3.85</param>
-</offer>
 <offer id="ts000084482000032560" available="true">
 <url>https://kmt5.com.ua/silkonoviy-chohol-z-magntom-ta-remntsem-zahist-kameri-iphone-14-pro-max-red</url>
 <price>293</price>
@@ -15774,7 +15629,7 @@
 <code>792731</code>
 <name>Силіконовий чохол з магнітом та ремінцем (захист камери) — iPhone 15 Pro Max — Pink</name>
 <description><![CDATA[Чохол для iPhone 15 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання. Шнурок дозволяє зручно носити смартфон.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro Max</param>
@@ -16852,7 +16707,7 @@
 <code>792767</code>
 <name>Силіконовий чохол з магнітом та ремінцем (захист камери) — iPhone 16 Pro Max — Pink</name>
 <description><![CDATA[Чохол для iPhone 16 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання. Шнурок дозволяє зручно носити смартфон.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16 Pro Max</param>
@@ -16874,7 +16729,7 @@
 <code>792761</code>
 <name>Силіконовий чохол з магнітом та ремінцем (захист камери) — iPhone 16 Pro Max — Purple</name>
 <description><![CDATA[Чохол для iPhone 16 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання. Шнурок дозволяє зручно носити смартфон.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16 Pro Max</param>
@@ -17891,7 +17746,7 @@
 <code>792779</code>
 <name>Силіконовий чохол з магнітом та ремінцем (захист камери) — iPhone 17 — Purple</name>
 <description><![CDATA[Чохол для iPhone 17 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання. Шнурок дозволяє зручно носити смартфон.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17</param>
@@ -19005,7 +18860,7 @@
 <code>791206</code>
 <name>OC матовий чохол з MagSafe — Samsung A17 — Black</name>
 <description><![CDATA[Чохол для Samsung A17 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Матова поверхня має стриманий вигляд і менш помітні сліди дотиків.]]></description>
-<quantity_in_stock>17</quantity_in_stock>
+<quantity_in_stock>16</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Samsung</param>
 <param name="Модель девайса">Samsung A17</param>
@@ -19105,7 +18960,7 @@
 <code>791212</code>
 <name>OC матовий чохол з MagSafe — Samsung A57 — Black</name>
 <description><![CDATA[Чохол для Samsung A57 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Матова поверхня має стриманий вигляд і менш помітні сліди дотиків.]]></description>
-<quantity_in_stock>20</quantity_in_stock>
+<quantity_in_stock>19</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Samsung</param>
 <param name="Модель девайса">Samsung A57</param>
@@ -31211,7 +31066,7 @@
 <code>789413</code>
 <name>Rock Guard Touch магнітний захист чохол (металевий Lens Frame) — iPhone 17 Pro Max/iPhone 18 Pro Max — Orange</name>
 <description><![CDATA[Чохол для iPhone 17 Pro Max/iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень.]]></description>
-<quantity_in_stock>14</quantity_in_stock>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
@@ -31244,7 +31099,7 @@
 <code>789895</code>
 <name>Rock Guard Touch магнітний захист чохол (металевий Lens Frame) — iPhone 17 Pro Max/iPhone 18 Pro Max — White</name>
 <description><![CDATA[Чохол для iPhone 17 Pro Max/iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень.]]></description>
-<quantity_in_stock>7</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
@@ -31409,7 +31264,7 @@
 <code>793571</code>
 <name>Rock Guard Touch магнітний захист чохол (металевий Lens Frame) — iPhone 17 Pro/iPhone 18 Pro — White</name>
 <description><![CDATA[Чохол для iPhone 17 Pro/iPhone 18 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень.]]></description>
-<quantity_in_stock>8</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
@@ -36824,7 +36679,7 @@
 <code>768799</code>
 <name>TPU-чохол Casetify Crocodile — iPhone 14 Pro — Black</name>
 <description><![CDATA[Чохол для iPhone 14 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. TPU-матеріал поєднує гнучкість і зносостійкість.]]></description>
-<quantity_in_stock>6</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 Pro 6.1&quot;</param>
@@ -46596,7 +46451,7 @@
 <code>770930</code>
 <name>TPU-чохол Soft Touch — Xiaomi Redmi 12C — Black</name>
 <description><![CDATA[Чохол для Xiaomi Redmi 12C для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. TPU-матеріал поєднує гнучкість і зносостійкість.]]></description>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Xiaomi</param>
 <param name="Модель девайса">Xiaomi Redmi 12C</param>
@@ -48924,31 +48779,6 @@
 <param name="Опт від 10 шт">$3.31</param>
 <param name="Drop">$3.96</param>
 </offer>
-<offer id="ts000080141000028487" available="true">
-<url>https://kmt5.com.ua/uag-adventure-magnetic-case-iphone-16-plus-green</url>
-<price>292</price>
-<vendorprice>169</vendorprice>
-<vendorpricedoll>3.71</vendorpricedoll>
-<rrcdoll>6.41</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>60652165</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODEvMDUv0KYtMDAwMDgwMTQxXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDEvMjMv0KYtMDAwMDgwMTQxXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000080141</vendorCode>
-<code>782186</code>
-<name>UAG Adventure магнітний чохол — iPhone 16 Plus — Green</name>
-<description><![CDATA[Чохол для iPhone 16 Plus для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм-фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 16 Plus</param>
-<param name="Бренд">Различные</param>
-<param name="Опт від 5 шт">$3.46</param>
-<param name="Опт від 7 шт">$3.38</param>
-<param name="Опт від 10 шт">$3.31</param>
-<param name="Drop">$3.96</param>
-</offer>
 <offer id="ts000080143000028497" available="true">
 <url>https://kmt5.com.ua/uag-adventure-magnetic-case-iphone-16-pro-max-black</url>
 <price>292</price>
@@ -49064,7 +48894,7 @@
 <code>782200</code>
 <name>UAG Adventure магнітний чохол — iPhone 16 Pro Max — Green</name>
 <description><![CDATA[Чохол для iPhone 16 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень.]]></description>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16 Pro Max</param>
@@ -57511,7 +57341,7 @@
 <code>792996</code>
 <name>Магнітний чохол AreoGuard Ultra AG-203 — iPhone 17 Pro Max/iPhone 18 Pro Max — Dark Cherry</name>
 <description><![CDATA[Чохол для iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
@@ -59376,7 +59206,7 @@
 <code>778826</code>
 <name>Металевий Style чохол з MagSafe — Samsung S22 Ultra — Black</name>
 <description><![CDATA[Чохол для Samsung S22 Ultra для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Samsung</param>
 <param name="Модель девайса">Samsung S22 Ultra</param>
@@ -66119,7 +65949,7 @@
 <code>787895</code>
 <name>Силіконовий чохол оригінальний HC з MagSafe — iPhone 12 Pro Max — Pink Sand</name>
 <description><![CDATA[Чохол для iPhone 12 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>10</quantity_in_stock>
+<quantity_in_stock>9</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 12 Pro Max 6.7&quot;</param>
@@ -66179,31 +66009,6 @@
 <param name="Опт від 10 шт">$2.3</param>
 <param name="Drop">$2.75</param>
 </offer>
-<offer id="ts000081428000032449" available="true">
-<url>https://kmt5.com.ua/silicone-case-hc-with-magsafe-iphone-12-mellow-yellow</url>
-<price>189</price>
-<vendorprice>118</vendorprice>
-<vendorpricedoll>2.58</vendorpricedoll>
-<rrcdoll>4.14</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>36174719</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTYvOWMv0KYtMDAwMDgxNDI4XzEyLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTQvOWIv0KYtMDAwMDgxNDI4XzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000081428</vendorCode>
-<code>792532</code>
-<name>Силіконовий чохол оригінальний HC з MagSafe — iPhone 12 — Mellow Yellow</name>
-<description><![CDATA[Чохол для iPhone 12 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм-фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 12 6.1&quot;</param>
-<param name="Бренд">Apple HQ</param>
-<param name="Опт від 5 шт">$2.4</param>
-<param name="Опт від 7 шт">$2.35</param>
-<param name="Опт від 10 шт">$2.3</param>
-<param name="Drop">$2.75</param>
-</offer>
 <offer id="ts000081428000029870" available="true">
 <url>https://kmt5.com.ua/original-silicone-case-hc-with-magsafe-iphone-12-pink-sand</url>
 <price>189</price>
@@ -66219,7 +66024,7 @@
 <code>787025</code>
 <name>Силіконовий чохол оригінальний HC з MagSafe — iPhone 12 — Pink Sand</name>
 <description><![CDATA[Чохол для iPhone 12 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 12 6.1&quot;</param>
@@ -66244,7 +66049,7 @@
 <code>787023</code>
 <name>Силіконовий чохол оригінальний HC з MagSafe — iPhone 12 — Stone</name>
 <description><![CDATA[Чохол для iPhone 12 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>10</quantity_in_stock>
+<quantity_in_stock>9</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 12 6.1&quot;</param>
@@ -66304,31 +66109,6 @@
 <param name="Опт від 10 шт">$2.3</param>
 <param name="Drop">$2.75</param>
 </offer>
-<offer id="ts000081430000030148" available="true">
-<url>https://kmt5.com.ua/original-silicone-case-hc-with-magsafe-iphone-13-pro-max-pink-sand</url>
-<price>189</price>
-<vendorprice>118</vendorprice>
-<vendorpricedoll>2.58</vendorpricedoll>
-<rrcdoll>4.14</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>70706401</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGUvZWIv0KYtMDAwMDgxNDMwXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzQvZjAv0KYtMDAwMDgxNDMwXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000081430</vendorCode>
-<code>787896</code>
-<name>Силіконовий чохол оригінальний HC з MagSafe — iPhone 13 Pro Max — Pink Sand</name>
-<description><![CDATA[Чохол для iPhone 13 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм-фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 13 Pro Max 6.7&quot;</param>
-<param name="Бренд">Apple HQ</param>
-<param name="Опт від 5 шт">$2.4</param>
-<param name="Опт від 7 шт">$2.35</param>
-<param name="Опт від 10 шт">$2.3</param>
-<param name="Drop">$2.75</param>
-</offer>
 <offer id="ts000081430000032881" available="true">
 <url>https://kmt5.com.ua/silicone-case-hc-with-magsafe-iphone-13-pro-max-stone</url>
 <price>189</price>
@@ -66344,35 +66124,10 @@
 <code>793346</code>
 <name>Силіконовий чохол оригінальний HC з MagSafe — iPhone 13 Pro Max — Stone</name>
 <description><![CDATA[Чохол для iPhone 13 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 13 Pro Max 6.7&quot;</param>
-<param name="Бренд">Apple HQ</param>
-<param name="Опт від 5 шт">$2.4</param>
-<param name="Опт від 7 шт">$2.35</param>
-<param name="Опт від 10 шт">$2.3</param>
-<param name="Drop">$2.75</param>
-</offer>
-<offer id="ts000081432000032882" available="true">
-<url>https://kmt5.com.ua/silicone-case-hc-with-magsafe-iphone-14-pro-max-light-gray</url>
-<price>189</price>
-<vendorprice>118</vendorprice>
-<vendorpricedoll>2.58</vendorpricedoll>
-<rrcdoll>4.14</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>65522936</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDAvYTQv0KYtMDAwMDgxNDMyXzEyLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2UvYzIv0KYtMDAwMDgxNDMyXzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000081432</vendorCode>
-<code>793347</code>
-<name>Силіконовий чохол оригінальний HC з MagSafe — iPhone 14 Pro Max — Light Gray</name>
-<description><![CDATA[Чохол для iPhone 14 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм-фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 14 Pro Max 6.7&quot;</param>
 <param name="Бренд">Apple HQ</param>
 <param name="Опт від 5 шт">$2.4</param>
 <param name="Опт від 7 шт">$2.35</param>
@@ -66395,31 +66150,6 @@
 <name>Силіконовий чохол оригінальний HC з MagSafe — iPhone 14 Pro Max — Light Purple</name>
 <description><![CDATA[Чохол для iPhone 14 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
 <quantity_in_stock>4</quantity_in_stock>
-<param name="Форм-фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 14 Pro Max 6.7&quot;</param>
-<param name="Бренд">Apple HQ</param>
-<param name="Опт від 5 шт">$2.4</param>
-<param name="Опт від 7 шт">$2.35</param>
-<param name="Опт від 10 шт">$2.3</param>
-<param name="Drop">$2.75</param>
-</offer>
-<offer id="ts000081432000029892" available="true">
-<url>https://kmt5.com.ua/original-silicone-case-hc-with-magsafe-iphone-14-pro-max-lilac-76</url>
-<price>189</price>
-<vendorprice>118</vendorprice>
-<vendorpricedoll>2.58</vendorpricedoll>
-<rrcdoll>4.14</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>65522936</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWQvYTMv0KYtMDAwMDgxNDMyXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2UvYzIv0KYtMDAwMDgxNDMyXzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000081432</vendorCode>
-<code>787051</code>
-<name>Силіконовий чохол оригінальний HC з MagSafe — iPhone 14 Pro Max — Lilac (76)</name>
-<description><![CDATA[Чохол для iPhone 14 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 Pro Max 6.7&quot;</param>
@@ -66594,7 +66324,7 @@
 <code>787118</code>
 <name>Силіконовий чохол оригінальний HC з MagSafe — iPhone 14 Pro — White (9)</name>
 <description><![CDATA[Чохол для iPhone 14 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 Pro 6.1&quot;</param>
@@ -66619,7 +66349,7 @@
 <code>787040</code>
 <name>Силіконовий чохол оригінальний HC з MagSafe — iPhone 14 — Light Purple</name>
 <description><![CDATA[Чохол для iPhone 14 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 6.1&quot;</param>
@@ -66644,7 +66374,7 @@
 <code>792533</code>
 <name>Силіконовий чохол оригінальний HC з MagSafe — iPhone 14 — Mellow Yellow</name>
 <description><![CDATA[Чохол для iPhone 14 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 6.1&quot;</param>
@@ -66669,7 +66399,7 @@
 <code>787044</code>
 <name>Силіконовий чохол оригінальний HC з MagSafe — iPhone 14 — Stone</name>
 <description><![CDATA[Чохол для iPhone 14 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>7</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 6.1&quot;</param>
@@ -66696,7 +66426,7 @@
 <code>792535</code>
 <name>Силіконовий чохол оригінальний HC з MagSafe — iPhone 15 Pro Max — Mellow Yellow</name>
 <description><![CDATA[Чохол для iPhone 15 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>6</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro Max</param>
@@ -67148,7 +66878,7 @@
 <code>787081</code>
 <name>Силіконовий чохол оригінальний HC з MagSafe — iPhone 16 — Ash (75)</name>
 <description><![CDATA[Чохол для iPhone 16 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>6</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16</param>
@@ -67173,7 +66903,7 @@
 <code>787083</code>
 <name>Силіконовий чохол оригінальний HC з MagSafe — iPhone 16 — Charcoal Gray (10)</name>
 <description><![CDATA[Чохол для iPhone 16 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>7</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16</param>
@@ -67198,7 +66928,7 @@
 <code>787084</code>
 <name>Силіконовий чохол оригінальний HC з MagSafe — iPhone 16 — Light Purple</name>
 <description><![CDATA[Чохол для iPhone 16 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16</param>
@@ -67223,7 +66953,7 @@
 <code>787085</code>
 <name>Силіконовий чохол оригінальний HC з MagSafe — iPhone 16 — Lilac (76)</name>
 <description><![CDATA[Чохол для iPhone 16 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16</param>
@@ -67248,32 +66978,7 @@
 <code>787086</code>
 <name>Силіконовий чохол оригінальний HC з MagSafe — iPhone 16 — Midnight blue (8)</name>
 <description><![CDATA[Чохол для iPhone 16 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
-<param name="Форм-фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 16</param>
-<param name="Бренд">Apple HQ</param>
-<param name="Опт від 5 шт">$2.4</param>
-<param name="Опт від 7 шт">$2.35</param>
-<param name="Опт від 10 шт">$2.3</param>
-<param name="Drop">$2.75</param>
-</offer>
-<offer id="ts000081436000029924" available="true">
-<url>https://kmt5.com.ua/original-silicone-case-hc-with-magsafe-iphone-16-pink-sand</url>
-<price>189</price>
-<vendorprice>118</vendorprice>
-<vendorpricedoll>2.58</vendorpricedoll>
-<rrcdoll>4.14</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>60652165</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDIvMzAv0KYtMDAwMDgxNDM2XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDQvZGIv0KYtMDAwMDgxNDM2XzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000081436</vendorCode>
-<code>787087</code>
-<name>Силіконовий чохол оригінальний HC з MagSafe — iPhone 16 — Pink Sand</name>
-<description><![CDATA[Чохол для iPhone 16 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16</param>
@@ -67298,7 +67003,7 @@
 <code>787088</code>
 <name>Силіконовий чохол оригінальний HC з MagSafe — iPhone 16 — Stone</name>
 <description><![CDATA[Чохол для iPhone 16 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>8</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16</param>
@@ -67323,7 +67028,7 @@
 <code>787089</code>
 <name>Силіконовий чохол оригінальний HC з MagSafe — iPhone 16 — White (9)</name>
 <description><![CDATA[Чохол для iPhone 16 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>8</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16</param>
@@ -67519,7 +67224,7 @@
 <code>793352</code>
 <name>Силіконовий чохол оригінальний HC з MagSafe — iPhone 17 Pro Max/iPhone 18 Pro Max — Light Gray</name>
 <description><![CDATA[Чохол для iPhone 17 Pro Max/iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
@@ -67544,39 +67249,7 @@
 <code>788702</code>
 <name>Силіконовий чохол оригінальний HC з MagSafe — iPhone 17 Pro/iPhone 18 Pro — Black (18)</name>
 <description><![CDATA[Чохол для iPhone 17 Pro/iPhone 18 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>13</quantity_in_stock>
-<param name="Форм-фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
-<param name="Бренд">Apple HQ</param>
-<param name="Опт від 5 шт">$2.4</param>
-<param name="Опт від 7 шт">$2.35</param>
-<param name="Опт від 10 шт">$2.3</param>
-<param name="Drop">$2.75</param>
-</offer>
-<offer id="ts000082503000031030" available="true">
-<url>https://kmt5.com.ua/silicone-case-hc-with-magsafe-iphone-17-pro-light-purple</url>
-<price>190</price>
-<vendorprice>118</vendorprice>
-<vendorpricedoll>2.58</vendorpricedoll>
-<rrcdoll>4.17</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54622491</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjEvY2Iv0KYtMDAwMDgyNTAzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTAvNmYv0KYtMDAwMDgyNTAzXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2MvZGMv0KYtMDAwMDgyNTAzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDgvMzMv0KYtMDAwMDgyNTAzXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWUvNDIv0KYtMDAwMDgyNTAzXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODMvNDYv0KYtMDAwMDgyNTAzXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGMvNjgv0KYtMDAwMDgyNTAzXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2MvNmIv0KYtMDAwMDgyNTAzXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWYvMDAv0KYtMDAwMDgyNTAzXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000082503</vendorCode>
-<code>789727</code>
-<name>Силіконовий чохол оригінальний HC з MagSafe — iPhone 17 Pro/iPhone 18 Pro — Light Purple</name>
-<description><![CDATA[Чохол для iPhone 17 Pro/iPhone 18 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>11</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
@@ -67601,7 +67274,7 @@
 <code>788703</code>
 <name>Силіконовий чохол оригінальний HC з MagSafe — iPhone 17 Pro/iPhone 18 Pro — Pink Sand</name>
 <description><![CDATA[Чохол для iPhone 17 Pro/iPhone 18 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>13</quantity_in_stock>
+<quantity_in_stock>12</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
@@ -67633,7 +67306,7 @@
 <code>789728</code>
 <name>Силіконовий чохол оригінальний HC з MagSafe — iPhone 17 Pro/iPhone 18 Pro — Turquoise</name>
 <description><![CDATA[Чохол для iPhone 17 Pro/iPhone 18 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
@@ -94387,6 +94060,36 @@
 <param name="Опт від 10 шт">$7.91</param>
 <param name="Drop">$9.46</param>
 </offer>
+<offer id="ts000079523000027296" available="true">
+<url>https://kmt5.com.ua/domio-book-case-ipad-pro-11-universal-black</url>
+<price>511</price>
+<vendorprice>329</vendorprice>
+<vendorpricedoll>7.21</vendorpricedoll>
+<rrcdoll>11.22</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>63071308</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWEvY2Mv0KYtMDAwMDc5NTIzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWEvN2Qv0KYtMDAwMDc5NTIzXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWUvODAv0KYtMDAwMDc5NTIzXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDcvMzMv0KYtMDAwMDc5NTIzXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWYvZDIv0KYtMDAwMDc5NTIzXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGIvYWQv0KYtMDAwMDc5NTIzXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTYvOTQv0KYtMDAwMDc5NTIzXzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000079523</vendorCode>
+<code>779363</code>
+<name>Чохол Domo-книжка — iPad Pro 11&quot; Universal — Black</name>
+<description><![CDATA[Чохол-книжка для iPad Pro 11 для захисту корпусу та екрана планшета під час щоденного використання.]]></description>
+<quantity_in_stock>1</quantity_in_stock>
+<param name="Форм-фактор">Книжка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPad Pro 11&quot; {2020}, Apple iPad Pro 11&quot; {2021}, Apple iPad Pro 11&quot; {2022}</param>
+<param name="Бренд">Dux Ducis</param>
+<param name="Опт від 5 шт">$6.72</param>
+<param name="Опт від 7 шт">$6.58</param>
+<param name="Опт від 10 шт">$6.44</param>
+<param name="Drop">$7.7</param>
+</offer>
 <offer id="ts000079523000027298" available="true">
 <url>https://kmt5.com.ua/domio-book-case-ipad-pro-11-universal-pink</url>
 <price>521</price>
@@ -94607,7 +94310,7 @@
 <code>748451</code>
 <name>Чохол iMax-книжка — iPad Pro 11' (2021) — Blue</name>
 <description><![CDATA[Чохол-книжка для iPad Pro 11 для захисту корпусу та екрана планшета під час щоденного використання.]]></description>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <param name="Форм-фактор">Книжка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPad Pro 11&quot; {2021}</param>
@@ -94847,7 +94550,7 @@
 <code>788493</code>
 <name>Чохол Magi Series-книжка — iPad 10,9&quot; / 11&quot; — Black</name>
 <description><![CDATA[Чохол-книжка для iPad 10 для захисту корпусу та екрана планшета під час щоденного використання.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Книжка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPad Air 10.9&quot; (2022), Apple iPad Air 11&quot; (2024)</param>
@@ -95517,30 +95220,6 @@
 <param name="Опт від 10 шт">$0.83</param>
 <param name="Drop">$0.99</param>
 </offer>
-<offer id="ts000080740000029414" available="true">
-<url>https://kmt5.com.ua/airpods-4-case-microfiber-dark-red</url>
-<price>75</price>
-<vendorprice>43</vendorprice>
-<vendorpricedoll>0.93</vendorpricedoll>
-<rrcdoll>1.65</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>19314331</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODIvZmEv0KYtMDAwMDgwNzQwXzIxLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzIvYjgv0KYtMDAwMDgwNzQwXzI2LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000080740</vendorCode>
-<code>785893</code>
-<name>Чохол AirPods 4 — Microfiber — Dark Red</name>
-<description><![CDATA[Чохол для AirPods для захисту зарядного кейса від подряпин, потертостей і щоденних пошкоджень.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Airpods 4</param>
-<param name="Бренд">Различные</param>
-<param name="Опт від 5 шт">$0.86</param>
-<param name="Опт від 7 шт">$0.85</param>
-<param name="Опт від 10 шт">$0.83</param>
-<param name="Drop">$0.99</param>
-</offer>
 <offer id="ts000080740000029413" available="true">
 <url>https://kmt5.com.ua/airpods-4-case-microfiber-light-green</url>
 <price>75</price>
@@ -95700,7 +95379,7 @@
 <code>785891</code>
 <name>Чохол AirPods 4 — Microfiber — Turquoise</name>
 <description><![CDATA[Чохол для AirPods для захисту зарядного кейса від подряпин, потертостей і щоденних пошкоджень.]]></description>
-<quantity_in_stock>11</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Airpods 4</param>
 <param name="Бренд">Различные</param>
@@ -95772,7 +95451,7 @@
 <code>785348</code>
 <name>Чохол AirPods 4 — SGP — Blue</name>
 <description><![CDATA[Чохол для AirPods для захисту зарядного кейса від подряпин, потертостей і щоденних пошкоджень.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Airpods 4</param>
 <param name="Бренд">Различные</param>
@@ -95820,7 +95499,7 @@
 <code>785341</code>
 <name>Чохол AirPods 4 — пластик Lock — Blue</name>
 <description><![CDATA[Чохол для AirPods для захисту зарядного кейса від подряпин, потертостей і щоденних пошкоджень.]]></description>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Airpods 4</param>
 <param name="Бренд">Различные</param>
@@ -95844,7 +95523,7 @@
 <code>785343</code>
 <name>Чохол AirPods 4 — пластик Lock — Green</name>
 <description><![CDATA[Чохол для AirPods для захисту зарядного кейса від подряпин, потертостей і щоденних пошкоджень.]]></description>
-<quantity_in_stock>10</quantity_in_stock>
+<quantity_in_stock>9</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Airpods 4</param>
 <param name="Бренд">Различные</param>
@@ -95916,7 +95595,7 @@
 <code>783032</code>
 <name>Чохол AirPods 4 — силіконовий — Rose Red</name>
 <description><![CDATA[Чохол для AirPods для захисту зарядного кейса від подряпин, потертостей і щоденних пошкоджень. Силіконовий матеріал забезпечує гнучкість і щільне прилягання.]]></description>
-<quantity_in_stock>6</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Airpods 4</param>
 <param name="Бренд">Различные</param>
@@ -95973,30 +95652,6 @@
 <param name="Опт від 10 шт">$0.83</param>
 <param name="Drop">$0.99</param>
 </offer>
-<offer id="ts000080657000029284" available="true">
-<url>https://kmt5.com.ua/airpods-4-case-leather-lock-dark-green</url>
-<price>159</price>
-<vendorprice>90</vendorprice>
-<vendorpricedoll>1.96</vendorpricedoll>
-<rrcdoll>3.49</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>19314331</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmEvYzMv0KYtMDAwMDgwNjU3XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGMvNzEv0KYtMDAwMDgwNjU3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000080657</vendorCode>
-<code>785309</code>
-<name>Чохол AirPods 4 — шкіряний Ring — Dark Green</name>
-<description><![CDATA[Чохол для AirPods для захисту зарядного кейса від подряпин, потертостей і щоденних пошкоджень.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Airpods 4</param>
-<param name="Бренд">Различные</param>
-<param name="Опт від 5 шт">$1.82</param>
-<param name="Опт від 7 шт">$1.79</param>
-<param name="Опт від 10 шт">$1.75</param>
-<param name="Drop">$2.09</param>
-</offer>
 <offer id="ts000080657000029285" available="true">
 <url>https://kmt5.com.ua/airpods-4-case-leather-lock-white</url>
 <price>159</price>
@@ -96012,7 +95667,7 @@
 <code>785310</code>
 <name>Чохол AirPods 4 — шкіряний Ring — White</name>
 <description><![CDATA[Чохол для AirPods для захисту зарядного кейса від подряпин, потертостей і щоденних пошкоджень.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Airpods 4</param>
 <param name="Бренд">Различные</param>
@@ -100426,35 +100081,6 @@
 <name>Чохол для AirPods Pro — Emoji Series — D Glasses Red</name>
 <description><![CDATA[Чохол для AirPods Pro для захисту зарядного кейса від подряпин, потертостей і щоденних пошкоджень.]]></description>
 <quantity_in_stock>5</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Airpods Pro</param>
-<param name="Бренд">Различные</param>
-<param name="Опт від 5 шт">$0.94</param>
-<param name="Опт від 7 шт">$0.92</param>
-<param name="Опт від 10 шт">$0.9</param>
-<param name="Drop">$1.08</param>
-</offer>
-<offer id="ts000072285000021713" available="true">
-<url>https://kmt5.com.ua/airpods-pro-case-emoji-series-darth-vader</url>
-<price>82</price>
-<vendorprice>46</vendorprice>
-<vendorpricedoll>1.01</vendorpricedoll>
-<rrcdoll>1.8</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>50850111</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDcvOTUv0KYtMDAwMDcyMjg1XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDkvMDMv0KYtMDAwMDcyMjg1XzI3LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzIvOTUv0KYtMDAwMDcyMjg1XzIwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmUvMDUv0KYtMDAwMDcyMjg1XzIxLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjkvODMv0KYtMDAwMDcyMjg1XzIyLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTAvNzAv0KYtMDAwMDcyMjg1XzIzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDMvOTQv0KYtMDAwMDcyMjg1XzI0LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000072285</vendorCode>
-<code>752842</code>
-<name>Чохол для AirPods Pro — Emoji Series — Darth Vader</name>
-<description><![CDATA[Чохол для AirPods Pro для захисту зарядного кейса від подряпин, потертостей і щоденних пошкоджень.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Airpods Pro</param>
 <param name="Бренд">Различные</param>
@@ -110393,32 +110019,6 @@
 <param name="Опт від 7 шт">$0.64</param>
 <param name="Drop">$0.77</param>
 </offer>
-<offer id="ts000077594000025729" available="true">
-<url>https://kmt5.com.ua/chehol-s-zaschitnyim-steklom-smart-apple-watch-49-mm-black</url>
-<price>57</price>
-<vendorprice>43</vendorprice>
-<vendorpricedoll>0.93</vendorpricedoll>
-<rrcdoll>1.25</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>4904779</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTEvMTIv0KYtMDAwMDc3NTk0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2UvYTYv0KYtMDAwMDc3NTk0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000077594</vendorCode>
-<code>775134</code>
-<name>Захисний чохол Smart,  Apple Watch 49 мм, із захисним склом — Black</name>
-<description><![CDATA[Захисний чохол Smart розрахований на Apple Watch 49 мм. Основні характеристики: • Тип: чохол із захисним склом • Сумісність: Apple Watch 49 мм • Захист: корпус і дисплей від подряпин та побутових пошкоджень]]></description>
-<quantity_in_stock>5</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Watch Series 8 49 mm</param>
-<param name="Бренд">Различные</param>
-<param name="Матеріал">Силікон</param>
-<param name="Аксесуари до смарт-годинників">Чохол</param>
-<param name="Опт від 3 шт">$0.86</param>
-<param name="Опт від 5 шт">$0.85</param>
-<param name="Опт від 7 шт">$0.83</param>
-<param name="Drop">$0.99</param>
-</offer>
 <offer id="ts000077594000025730" available="true">
 <url>https://kmt5.com.ua/chehol-s-zaschitnyim-steklom-smart-apple-watch-49-mm-gray</url>
 <price>57</price>
@@ -115199,7 +114799,7 @@
 <code>789986</code>
 <name>Магнітна LED-лампа для смартфона, MagSafe — White</name>
 <description><![CDATA[Магнітна LED-лампа для смартфона, MagSafe — джерело світла для локального або допоміжного освітлення. Основні характеристики: • Тип: LED-світильник • Особливості: магнітне кріплення • Призначення: побутове та допоміжне освітлення]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Опт від 3 шт">$3.17</param>
 <param name="Опт від 5 шт">$3.1</param>
 <param name="Опт від 7 шт">$3.04</param>
@@ -116838,7 +116438,7 @@
 <code>792861</code>
 <name>Брелок «Capybara» — Turtle</name>
 <description><![CDATA[Брелок «Capybara» — компактний декоративний аксесуар для ключів, сумки, рюкзака або чохла смартфона. Допомагає персоналізувати речі та швидше знаходити їх серед інших.]]></description>
-<quantity_in_stock>30</quantity_in_stock>
+<quantity_in_stock>29</quantity_in_stock>
 <param name="Опт від 3 шт">$0.91</param>
 <param name="Опт від 5 шт">$0.89</param>
 <param name="Опт від 7 шт">$0.87</param>
@@ -123708,7 +123308,7 @@
 <code>777057</code>
 <name>AUX-подовжувач 3,5 мм штекер — гніздо (2 м) — Hoco UPA20 — Metal Gray</name>
 <description><![CDATA[Аудіоподовжувач 3,5 мм для збільшення відстані підключення навушників, колонок та іншої сумісної аудіотехніки. Довжина — 2 м.]]></description>
-<quantity_in_stock>31</quantity_in_stock>
+<quantity_in_stock>29</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Роз'єм підключення">Cable Aux</param>
 <param name="Опт від 5 шт">$1.29</param>
@@ -124179,7 +123779,7 @@
 <code>777100</code>
 <name>Адаптер Lightning — USB-A 2.0 — Hoco UA24 — Metal Gray</name>
 <description><![CDATA[Компактний перехідник для з’єднання пристроїв та аксесуарів із зазначеними в назві інтерфейсами.]]></description>
-<quantity_in_stock>14</quantity_in_stock>
+<quantity_in_stock>13</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Адаптери">Адаптер Lightning To USB</param>
 <param name="Опт від 5 шт">$3.12</param>
@@ -126642,7 +126242,7 @@
 <code>785195</code>
 <name>Кабель USB-C 2,4 А (1 м) — Hoco X88 — White</name>
 <description><![CDATA[Кабель USB-C для заряджання та підключення сумісних пристроїв. Довжина — 1 м; струм — до 2,4 А.]]></description>
-<quantity_in_stock>276</quantity_in_stock>
+<quantity_in_stock>275</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Роз'єм підключення">Cable USB to C</param>
 <param name="Опт від 5 шт">$0.55</param>
@@ -127959,7 +127559,7 @@
 <code>752918</code>
 <name>Силіконовий кабель Lightning 2,4 А (1 м) — Hoco X82 — White</name>
 <description><![CDATA[Кабель Lightning для заряджання та підключення сумісних пристроїв. Довжина — 1 м; струм — до 2,4 А. Силіконова оболонка підвищує зносостійкість.]]></description>
-<quantity_in_stock>241</quantity_in_stock>
+<quantity_in_stock>238</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Роз'єм підключення">Cable USB to Lightning</param>
 <param name="Опт від 5 шт">$1.1</param>
@@ -127982,7 +127582,7 @@
 <code>775083</code>
 <name>Силіконовий кабель Lightning 2,4 А (1 м) — Hoco X90 Cool — Black</name>
 <description><![CDATA[Кабель Lightning для заряджання та підключення сумісних пристроїв. Довжина — 1 м; струм — до 2,4 А. Силіконова оболонка підвищує зносостійкість.]]></description>
-<quantity_in_stock>76</quantity_in_stock>
+<quantity_in_stock>74</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Роз'єм підключення">Cable USB to Lightning</param>
 <param name="Drop">$1.09</param>
@@ -128051,7 +127651,7 @@
 <code>782464</code>
 <name>Силіконовий кабель Lightning 27 Вт (1 м) — Veron SL-X82 — Black</name>
 <description><![CDATA[Кабель Lightning для заряджання та підключення сумісних пристроїв. Довжина — 1 м; потужність — до 27 Вт. Силіконова оболонка підвищує зносостійкість.]]></description>
-<quantity_in_stock>305</quantity_in_stock>
+<quantity_in_stock>303</quantity_in_stock>
 <param name="Бренд">VERON</param>
 <param name="Роз'єм підключення">Cable USB to Lightning</param>
 <param name="Опт від 5 шт">$1.06</param>
@@ -128129,7 +127729,7 @@
 <code>775089</code>
 <name>Силіконовий кабель USB-C 3 А (1 м) — Hoco X90 Cool — Black</name>
 <description><![CDATA[Кабель USB-C для заряджання та підключення сумісних пристроїв. Довжина — 1 м; струм — до 3 А. Силіконова оболонка підвищує зносостійкість.]]></description>
-<quantity_in_stock>69</quantity_in_stock>
+<quantity_in_stock>64</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Роз'єм підключення">Cable USB to C</param>
 <param name="Drop">$1.08</param>
@@ -128150,7 +127750,7 @@
 <code>782462</code>
 <name>Силіконовий кабель USB-C 3 А (1 м) — Veron SC-X82 — White</name>
 <description><![CDATA[Кабель USB-C для заряджання та підключення сумісних пристроїв. Довжина — 1 м; струм — до 3 А. Підтримує передавання даних. Силіконова оболонка підвищує зносостійкість.]]></description>
-<quantity_in_stock>96</quantity_in_stock>
+<quantity_in_stock>87</quantity_in_stock>
 <param name="Бренд">VERON</param>
 <param name="Роз'єм підключення">Cable USB to C</param>
 <param name="Опт від 5 шт">$0.92</param>
@@ -128393,7 +127993,7 @@
 <code>782455</code>
 <name>Силіконовий кабель USB-C — USB-C 60 Вт PD (1 м) — Veron CC- X82 — Black</name>
 <description><![CDATA[Кабель USB-C — USB-C для заряджання та підключення сумісних пристроїв. Довжина — 1 м; потужність — до 60 Вт. Силіконова оболонка підвищує зносостійкість.]]></description>
-<quantity_in_stock>198</quantity_in_stock>
+<quantity_in_stock>177</quantity_in_stock>
 <param name="Бренд">VERON</param>
 <param name="Роз'єм підключення">Cable USB C to C</param>
 <param name="Опт від 5 шт">$0.92</param>
@@ -131131,7 +130731,7 @@
 <code>779327</code>
 <name>Зарядний пристрій Borofone BA38A Plus, 20 Вт, PD3.0 — White</name>
 <description><![CDATA[Мережевий зарядний пристрій Borofone BA38A Plus для заряджання сумісних смартфонів та інших гаджетів від розетки. Потужність — 20 Вт. Роз’єми: USB-C. Підтримує швидке заряджання Power Delivery.]]></description>
-<quantity_in_stock>23</quantity_in_stock>
+<quantity_in_stock>25</quantity_in_stock>
 <param name="Бренд">Borofone</param>
 <param name="Кількість USB портів">1 Type - C</param>
 <param name="Зарядні пристрої">Home Chargers</param>
@@ -131455,7 +131055,7 @@
 <code>791701</code>
 <name>Зарядний пристрій Earldom ES-EU64, 45 Вт, GaN, PD — White</name>
 <description><![CDATA[Мережевий зарядний пристрій Earldom ES-EU64 для заряджання сумісних смартфонів та інших гаджетів від розетки. Потужність — 45 Вт. Роз’єми: USB-C. Підтримує швидке заряджання Power Delivery. Використовує технологію GaN.]]></description>
-<quantity_in_stock>8</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <param name="Бренд">Earldom</param>
 <param name="Кількість USB портів">1 Type - C</param>
 <param name="Зарядні пристрої">Home Chargers</param>
@@ -131516,36 +131116,6 @@
 <param name="Опт від 7 шт">$2.07</param>
 <param name="Опт від 10 шт">$2.02</param>
 <param name="Drop">$2.42</param>
-</offer>
-<offer id="ts000068613000012135" available="true">
-<url>https://kmt5.com.ua/home-charger-18w-qc30-micro-cable-1m-hoco-c12q-black</url>
-<price>217</price>
-<vendorprice>137</vendorprice>
-<vendorpricedoll>2.99</vendorpricedoll>
-<rrcdoll>4.76</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>32265431</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTYvYjAv0KYtMDAwMDY4NjEzXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmYvOTcv0KYtMDAwMDY4NjEzXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzQvN2Iv0KYtMDAwMDY4NjEzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDUvNDgv0KYtMDAwMDY4NjEzXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWYvNDIv0KYtMDAwMDY4NjEzXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2EvMmEv0KYtMDAwMDY4NjEzXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzIvM2Qv0KYtMDAwMDY4NjEzXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000068613</vendorCode>
-<code>734090</code>
-<name>Зарядний пристрій Hoco C12Q, 18 Вт, QC3.0, кабель Micro-USB (1 м) — Black</name>
-<description><![CDATA[Мережевий зарядний пристрій Hoco C12Q для заряджання сумісних смартфонів та інших гаджетів від розетки. Потужність — 18 Вт. Роз’єми: USB-A. Підтримує QC 3.0. У комплекті зазначено кабель micro-USB 1 м.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Кількість USB портів">2 USB</param>
-<param name="Зарядні пристрої">СЗУ &amp; Кабель Micro</param>
-<param name="Сила струму та потужність">3.0A</param>
-<param name="Опт від 5 шт">$2.3</param>
-<param name="Опт від 7 шт">$2.26</param>
-<param name="Опт від 10 шт">$2.21</param>
-<param name="Drop">$3.19</param>
 </offer>
 <offer id="ts000078180000026461" available="true">
 <url>https://kmt5.com.ua/home-charger-30w-pd-qc30-c-to-c-cable-1m-hoco-c131a-transparent-black</url>
@@ -131637,7 +131207,7 @@
 <code>734110</code>
 <name>Зарядний пристрій Hoco C72A, 2.1A, USB-A — White</name>
 <description><![CDATA[Мережевий зарядний пристрій Hoco C72A для заряджання сумісних смартфонів та інших гаджетів від розетки. Зазначений вихідний струм — 2,1 А. Роз’єми: USB-A.]]></description>
-<quantity_in_stock>8</quantity_in_stock>
+<quantity_in_stock>30</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Кількість USB портів">1 U</param>
 <param name="Зарядні пристрої">Home Chargers</param>
@@ -131661,7 +131231,7 @@
 <code>741429</code>
 <name>Зарядний пристрій Hoco C72Q, 18 Вт, QC3.0 — Black</name>
 <description><![CDATA[Мережевий зарядний пристрій Hoco C72Q для заряджання сумісних смартфонів та інших гаджетів від розетки. Потужність — 18 Вт. Роз’єми: USB-A. Підтримує QC 3.0.]]></description>
-<quantity_in_stock>27</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Кількість USB портів">1 USB</param>
 <param name="Зарядні пристрої">Home Chargers</param>
@@ -131980,7 +131550,7 @@
 <code>750737</code>
 <name>Зарядний пристрій Hoco N3, 18 Вт, QC3.0 — Black</name>
 <description><![CDATA[Мережевий зарядний пристрій Hoco N3 для заряджання сумісних смартфонів та інших гаджетів від розетки. Потужність — 18 Вт. Роз’єми: USB-A. Підтримує QC 3.0.]]></description>
-<quantity_in_stock>50</quantity_in_stock>
+<quantity_in_stock>52</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Кількість USB портів">1 USB</param>
 <param name="Опт від 5 шт">$3.02</param>
@@ -132007,7 +131577,7 @@
 <code>750736</code>
 <name>Зарядний пристрій Hoco N3, 18 Вт, QC3.0 — White</name>
 <description><![CDATA[Мережевий зарядний пристрій Hoco N3 для заряджання сумісних смартфонів та інших гаджетів від розетки. Потужність — 18 Вт. Роз’єми: USB-A. Підтримує QC 3.0.]]></description>
-<quantity_in_stock>48</quantity_in_stock>
+<quantity_in_stock>32</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Кількість USB портів">1 USB</param>
 <param name="Опт від 5 шт">$3.02</param>
@@ -136433,7 +136003,7 @@
 <code>754827</code>
 <name>Бездротова миша Borofone BG5 — Black</name>
 <description><![CDATA[Бездротова миша Borofone BG5 — зручний маніпулятор для роботи, навчання та повсякденного користування. Бездротове підключення допомагає організувати робоче місце без зайвих кабелів.]]></description>
-<quantity_in_stock>22</quantity_in_stock>
+<quantity_in_stock>21</quantity_in_stock>
 <param name="Бренд">Borofone</param>
 <param name="Опт від 3 шт">$3.36</param>
 <param name="Опт від 5 шт">$3.29</param>
@@ -138568,7 +138138,7 @@
 <code>787796</code>
 <name>Килимок для миші, 400 × 900 × 3 мм, OPP-пакування — Горы</name>
 <description><![CDATA[Килимок для миші, 400 × 900 × 3 мм, OPP-пакування створює рівну поверхню для точного й плавного переміщення миші. Розмір та додаткові особливості вказані в назві.]]></description>
-<quantity_in_stock>10</quantity_in_stock>
+<quantity_in_stock>9</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Опт від 3 шт">$4.75</param>
 <param name="Опт від 5 шт">$4.65</param>
@@ -138979,28 +138549,6 @@
 <param name="Опт від 7 шт">$0.28</param>
 <param name="Drop">$0.33</param>
 </offer>
-<offer id="ts000078201000026741" available="true">
-<url>https://kmt5.com.ua/nalpka-na-klavaturu-z-ukranskoyu-abetkoyu-orange</url>
-<price>27</price>
-<vendorprice>15</vendorprice>
-<vendorpricedoll>0.31</vendorpricedoll>
-<rrcdoll>0.59</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>14334054</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjIvM2Qv0KYtMDAwMDc4MjAxXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGQvYmYv0KYtMDAwMDc4MjAxXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000078201</vendorCode>
-<code>777810</code>
-<name>Наліпки на клавіатуру, українська розкладка — Orange</name>
-<description><![CDATA[Наліпки на клавіатуру, українська розкладка допомагають оновити або додати потрібне маркування клавіш. Наносяться на очищену суху поверхню клавіатури.]]></description>
-<quantity_in_stock>23</quantity_in_stock>
-<param name="Бренд">Различные</param>
-<param name="Опт від 3 шт">$0.29</param>
-<param name="Опт від 5 шт">$0.28</param>
-<param name="Опт від 7 шт">$0.28</param>
-<param name="Drop">$0.33</param>
-</offer>
 <offer id="ts000078201000026739" available="true">
 <url>https://kmt5.com.ua/nalpka-na-klavaturu-z-ukranskoyu-abetkoyu-white</url>
 <price>27</price>
@@ -139016,7 +138564,7 @@
 <code>777808</code>
 <name>Наліпки на клавіатуру, українська розкладка — White</name>
 <description><![CDATA[Наліпки на клавіатуру, українська розкладка допомагають оновити або додати потрібне маркування клавіш. Наносяться на очищену суху поверхню клавіатури.]]></description>
-<quantity_in_stock>27</quantity_in_stock>
+<quantity_in_stock>103</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Опт від 3 шт">$0.29</param>
 <param name="Опт від 5 шт">$0.28</param>
@@ -139038,7 +138586,7 @@
 <code>779332</code>
 <name>Наліпки на клавіатуру, українська розкладка — Yellow</name>
 <description><![CDATA[Наліпки на клавіатуру, українська розкладка допомагають оновити або додати потрібне маркування клавіш. Наносяться на очищену суху поверхню клавіатури.]]></description>
-<quantity_in_stock>25</quantity_in_stock>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Опт від 3 шт">$0.29</param>
 <param name="Опт від 5 шт">$0.28</param>
@@ -139233,7 +138781,7 @@
 <code>793524</code>
 <name>Портативна Bluetooth-колонка Borofone BR100 — Black</name>
 <description><![CDATA[Портативна Bluetooth-колонка BR100 Joy Портативна колонка BR100 Joy — компактне та зручне рішення для прослуховування музики вдома, на прогулянці або в подорожі. Пристрій поєднує сучасний дизайн, просте керування та стабільне бездротове підключення. Колонка оснащена двома динаміками діаметром 52 мм, які забезпечують збалансований звук з сумарною потужністю 10 Вт (5 Вт × 2). Вбудований акумулятор ємністю 1200 мА·год дозволяє відтворювати музику до 3 годин без підзарядки. Основні переваги Бездротове підключення через Bluetooth Два динаміки для більш насиченого звучання Компактний формат та легка вага Сучасний корпус з ABS-пластику Зручна для щоденного використання та подорожей Технічні характеристики Тип пристрою: портативна колонка Модель: BR100 Joy Колір: бежевий Матеріал корпусу: ABS-пластик Аудіовихід: Bluetooth 6.0 Потужність звуку: 5 Вт × 2 Розмір динаміків: 52 мм × 2 Ємність акумулятора: 1200 мА·год Час роботи: до 3 годин Габарити та вага Розмір товару: 181 ×]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Бренд">Borofone</param>
 <param name="Опт від 2 шт">$8.83</param>
 <param name="Опт від 3 шт">$8.65</param>
@@ -139799,27 +139347,6 @@
 <param name="Опт від 5 шт">$8.19</param>
 <param name="Drop">$9.79</param>
 </offer>
-<offer id="ts000070922000019482" available="true">
-<url>https://kmt5.com.ua/portativna-kolonka-hoco-hc2-xpress-sports-black</url>
-<price>850</price>
-<vendorprice>507</vendorprice>
-<vendorpricedoll>11.13</vendorpricedoll>
-<rrcdoll>18.66</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>31204796</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDAvMTEv0KYtMDAwMDcwOTIyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjcvYmYv0KYtMDAwMDcwOTIyXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2QvNzUv0KYtMDAwMDcwOTIyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDEvN2Mv0KYtMDAwMDcwOTIyXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000070922</vendorCode>
-<code>749025</code>
-<name>Портативна Bluetooth-колонка Hoco HC2 Xpress sports — Black</name>
-<description><![CDATA[Портативна Bluetooth-колонка Hoco HC2 Xpress sports призначена для відтворення музики зі смартфона та інших сумісних пристроїв. Автономне живлення дає змогу використовувати акустику вдома, у дорозі або на відпочинку. Основні характеристики: розміри — 194.4*81*82мм; маса — 598г; Bluetooth — 5.0; чип — JL; акумулятор — 2400мА·год; час заряджання — близько 3 год; підтримка — 6 год; потужність — 5 Вт.]]></description>
-<quantity_in_stock>4</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Drop">$11.55</param>
-</offer>
 <offer id="ts000070921000019487" available="true">
 <url>https://kmt5.com.ua/portativna-kolonka-hoco-hc3-bounce-sports-black</url>
 <price>850</price>
@@ -140296,7 +139823,7 @@
 <code>778214</code>
 <name>Стилус Hoco GM111 Cool, універсальний, 3-в-1, пасивний — Black</name>
 <description><![CDATA[Пасивний стилус Hoco GM111 Cool виготовлений з алюмінієвого сплаву. Конструкція 3-в-1 поєднує силіконовий дисковий наконечник, кулькову ручку зі змінним стрижнем і наконечник із наносіткою зі срібного дроту. Усі три елементи можна замінювати; дисковий наконечник і наносітка сумісні приблизно з 95% ємнісних екранів.]]></description>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <param name="Опт від 3 шт">$2.83</param>
 <param name="Опт від 5 шт">$2.77</param>
 <param name="Опт від 7 шт">$2.71</param>
@@ -157049,7 +156576,7 @@
 <code>789524</code>
 <name>Ремінець Magic Silicone, силіконовий,  Apple Watch 38/40/41 мм — Oxford Pink&amp;Starlight</name>
 <description><![CDATA[Ремінець Magic Silicone призначений для Apple Watch 38/40/41 мм. Основні характеристики: • Тип: ремінець для смарт-годинника • Сумісність: Apple Watch 38/40/41 мм • Матеріал: силікон • Призначення: заміна штатного ремінця та повсякденне носіння]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Watch Series 2 38 mm, Apple Watch Series 4 40 mm, Apple Watch Series 7 41 mm</param>
 <param name="Бренд">Различные</param>
@@ -158011,7 +157538,7 @@
 <code>771566</code>
 <name>Ремінець Silicone Sport Band, силіконовий,  Xiaomi Mi Band 8/9 — Pink Sand</name>
 <description><![CDATA[Ремінець Silicone Sport Band призначений для Xiaomi Mi Band 8/9. Основні характеристики: • Тип: ремінець для смарт-годинника • Сумісність: Xiaomi Mi Band 8/9 • Матеріал: силікон • Призначення: заміна штатного ремінця та повсякденне носіння]]></description>
-<quantity_in_stock>8</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <param name="Марка">Xiaomi</param>
 <param name="Модель девайса">Xiaomi Mi Band 8, Xiaomi Mi Band 9</param>
 <param name="Бренд">Различные</param>
@@ -160848,7 +160375,7 @@
 <code>748753</code>
 <name>Зарядний пристрій для Huawei Watch GT/GT2 46 мм — Black</name>
 <description><![CDATA[Зарядний пристрій для Huawei Watch GT/GT2 46 мм призначений для заряджання Huawei Watch GT/GT2 46. Основні характеристики: • Тип: зарядний пристрій • Сумісність: Huawei Watch GT/GT2 46 • Конектор: 46 мм • Особливості: конструкція для відповідного зарядного роз’єму]]></description>
-<quantity_in_stock>18</quantity_in_stock>
+<quantity_in_stock>17</quantity_in_stock>
 <param name="Марка">Huawei</param>
 <param name="Бренд">Различные</param>
 <param name="Зарядні пристрої">Магнітне</param>
@@ -166260,7 +165787,7 @@
 <code>754111</code>
 <name>Ремінець Nylon, нейлоновий, із захисним чохлом,  Apple Watch 42/44/45/49 мм — Black</name>
 <description><![CDATA[Ремінець Nylon призначений для Apple Watch 42/44/45/49 мм. Основні характеристики: • Тип: ремінець для смарт-годинника • Сумісність: Apple Watch 42/44/45/49 мм • Матеріал: нейлон • Призначення: заміна штатного ремінця та повсякденне носіння]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Watch Series 3 42 mm, Apple Watch Series 4 44 mm, Apple Watch Series 7 45 mm, Apple Watch Series 8 49 mm</param>
 <param name="Бренд">Различные</param>
@@ -172524,7 +172051,7 @@
 <code>788517</code>
 <name>Смарт-годинник WiWU SW01 — Black</name>
 <description><![CDATA[Смарт-годинник WiWU SW01 використовується для сповіщень, контролю активності та роботи з функціями підключеного смартфона. Основні характеристики: • Тип: смарт-годинник • Дисплей: 2,02″ • Підключення: Bluetooth 5,4 • Захист: IP67 • Функції: GPS-позиціонування, спортивні режими]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Бренд">Wiwu</param>
 <param name="Опт від 3 шт">$14.59</param>
 <param name="Опт від 5 шт">$14.29</param>
@@ -179446,34 +178973,6 @@
 <param name="Опт від 7 шт">$3.1</param>
 <param name="Опт від 10 шт">$3.04</param>
 <param name="Drop">$3.63</param>
-</offer>
-<offer id="ts000078195000026476" available="true">
-<url>https://kmt5.com.ua/avtoderjatel-magnitnyiy-na-vozduhovod-hoco-h28-black</url>
-<price>250</price>
-<vendorprice>137</vendorprice>
-<vendorpricedoll>3.0</vendorpricedoll>
-<rrcdoll>5.49</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>83056549</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjkvZWMv0KYtMDAwMDc4MTk1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjEvMDkv0KYtMDAwMDc4MTk1XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjIvMzQv0KYtMDAwMDc4MTk1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzAvMWUv0KYtMDAwMDc4MTk1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmQvMTMv0KYtMDAwMDc4MTk1XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWMvMmIv0KYtMDAwMDc4MTk1XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000078195</vendorCode>
-<code>777212</code>
-<name>Магнітний автотримач Hoco H28, на повітропровід — Black</name>
-<description><![CDATA[Магнітний автотримач Hoco H28, на повітропровід призначений для фіксації смартфона в салоні автомобіля. Основні характеристики: • Тип: магнітний автомобільний тримач • Кріплення в автомобілі: решітка повітропроводу • Матеріали: ABS-пластик, полікарбонат • Особливості: магнітна фіксація смартфона]]></description>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Автоаксесуари">Автотримачі</param>
-<param name="Спосіб встановлення">На повітропровід</param>
-<param name="Опт від 3 шт">$2.76</param>
-<param name="Опт від 7 шт">$2.71</param>
-<param name="Опт від 10 шт">$2.65</param>
-<param name="Drop">$3.17</param>
 </offer>
 <offer id="ts000084109" available="true">
 <url>https://kmt5.com.ua/magntniy-avtotrimach-hoco-h57-na-displey</url>
@@ -187903,7 +187402,7 @@
 <code>792880</code>
 <name>Гнучка підставка для телефона — Orange</name>
 <description><![CDATA[Гнучка підставка для телефона фіксує смартфон у зручному положенні для перегляду відео, дзвінків, навігації або знімання.]]></description>
-<quantity_in_stock>27</quantity_in_stock>
+<quantity_in_stock>24</quantity_in_stock>
 <param name="Опт від 3 шт">$1.7</param>
 <param name="Опт від 5 шт">$1.66</param>
 <param name="Опт від 7 шт">$1.63</param>
