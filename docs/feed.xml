@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-25 18:59">
+<yml_catalog date="2026-11-26 12:15">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -11,7 +11,6 @@
 <category id="14626412" parentId="93684718">Power Stations</category>
 <category id="2960352" parentId="14626412">Power Stations</category>
 <category id="13344437" parentId="14626412">Solar Panel</category>
-<category id="97270781" parentId="14626412">Джерела безперебійного живлення</category>
 <category id="46114804" parentId="93684718">Акумулятори та батарейки</category>
 <category id="17384480">Автоаксесуари</category>
 <category id="10170836" parentId="17384480">FM-модулятори MP3</category>
@@ -32,7 +31,6 @@
 <category id="29376332" parentId="57669289">Розсувний автотримач</category>
 <category id="87943739" parentId="17384480">Аксесуари для велосипедів</category>
 <category id="71383016" parentId="17384480">Відеореєстратори</category>
-<category id="56712079" parentId="17384480">Пускові пристрої для автомобілей</category>
 <category id="63897823" parentId="17384480">Пістолети для мийок</category>
 <category id="35311695" parentId="17384480">Розгалужувач прикурювача</category>
 <category id="25387739">Акции</category>
@@ -335,7 +333,7 @@
 <vendorCode>Ц-000084892</vendorCode>
 <code>793765</code>
 <name>TPU-чохол Fruct Clear Mag— iPhone 17 Pro/iPhone 18 Pro</name>
-<quantity_in_stock>18</quantity_in_stock>
+<quantity_in_stock>17</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
@@ -377,7 +375,7 @@
 <vendorCode>Ц-000084891</vendorCode>
 <code>793764</code>
 <name>TPU-чохол Fruct Clear — Phone 17 Pro Max/iPhone 18 Pro Max</name>
-<quantity_in_stock>20</quantity_in_stock>
+<quantity_in_stock>18</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
@@ -398,7 +396,7 @@
 <vendorCode>Ц-000084897</vendorCode>
 <code>793770</code>
 <name>TPU-чохол Fruct Crystal Mag — Phone 17 Pro Max/iPhone 18 Pro Max</name>
-<quantity_in_stock>17</quantity_in_stock>
+<quantity_in_stock>16</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
@@ -440,7 +438,7 @@
 <vendorCode>Ц-000084894</vendorCode>
 <code>793767</code>
 <name>TPU-чохол Fruct Crystal — iPhone 17 Pro/iPhone 18 Pro</name>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
@@ -461,7 +459,7 @@
 <vendorCode>Ц-000084901</vendorCode>
 <code>793774</code>
 <name>TPU-чохол Fruct Guard Mag — Phone 17 Pro Max/iPhone 18 Pro Max</name>
-<quantity_in_stock>15</quantity_in_stock>
+<quantity_in_stock>14</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
@@ -524,7 +522,7 @@
 <vendorCode>Ц-000084899</vendorCode>
 <code>793772</code>
 <name>TPU-чохол Fruct Guard — Phone 17 Pro Max/iPhone 18 Pro Max</name>
-<quantity_in_stock>20</quantity_in_stock>
+<quantity_in_stock>19</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
@@ -650,7 +648,7 @@
 <code>788741</code>
 <name>Оригінальний TechWoven чохол — iPhone 17 Pro/iPhone 18 Pro — Black</name>
 <description><![CDATA[Чохол для iPhone 17 Pro/iPhone 18 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень.]]></description>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
@@ -706,7 +704,7 @@
 <code>788744</code>
 <name>Оригінальний TechWoven чохол — iPhone 17 Pro/iPhone 18 Pro — Green</name>
 <description><![CDATA[Чохол для iPhone 17 Pro/iPhone 18 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень.]]></description>
-<quantity_in_stock>7</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
@@ -1017,7 +1015,7 @@
 <code>734743</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 11 — Dark Green (49)</name>
 <description><![CDATA[Чохол для iPhone 11 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 11</param>
@@ -4421,7 +4419,7 @@
 <code>790217</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 16 Pro Max — New Brown (80)</name>
 <description><![CDATA[Чохол для iPhone 16 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>10</quantity_in_stock>
+<quantity_in_stock>9</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16 Pro Max</param>
@@ -6233,7 +6231,7 @@
 <code>791461</code>
 <name>Full камери Armor чохол з MagSafe — iPhone 11 — Brown</name>
 <description><![CDATA[Чохол для iPhone 11 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Конструкція передбачає додатковий захист зони камери.]]></description>
-<quantity_in_stock>8</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 11</param>
@@ -6383,7 +6381,7 @@
 <code>791480</code>
 <name>Full камери Armor чохол з MagSafe — iPhone 13 / 14 — Dark Blue</name>
 <description><![CDATA[Чохол для iPhone 13 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Конструкція передбачає додатковий захист зони камери.]]></description>
-<quantity_in_stock>7</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 13 6.1&quot;, Apple iPhone 14 6.1&quot;</param>
@@ -10365,7 +10363,7 @@
 <code>756156</code>
 <name>Чохол Space з MagSafe — iPhone 14 Pro Max</name>
 <description><![CDATA[Чохол для iPhone 14 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>10</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 Pro Max 6.7&quot;</param>
@@ -13832,7 +13830,7 @@
 <code>792645</code>
 <name>Силіконовий чохол з магнітом та ремінцем (захист камери) — iPhone 13 Pro Max — Yellow</name>
 <description><![CDATA[Чохол для iPhone 13 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання. Шнурок дозволяє зручно носити смартфон.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 13 Pro Max 6.7&quot;</param>
@@ -15489,7 +15487,7 @@
 <code>792733</code>
 <name>Силіконовий чохол з магнітом та ремінцем (захист камери) — iPhone 15 Pro Max — Navy Blue</name>
 <description><![CDATA[Чохол для iPhone 15 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання. Шнурок дозволяє зручно носити смартфон.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro Max</param>
@@ -16303,7 +16301,7 @@
 <code>792689</code>
 <name>Силіконовий чохол з магнітом та ремінцем (захист камери) — iPhone 15 — Purple</name>
 <description><![CDATA[Чохол для iPhone 15 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання. Шнурок дозволяє зручно носити смартфон.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15</param>
@@ -19096,7 +19094,7 @@
 <code>791647</code>
 <name>Rimova металевий чохол — iPhone 15 Pro Max — Black</name>
 <description><![CDATA[Чохол для iPhone 15 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro Max</param>
@@ -19122,7 +19120,7 @@
 <code>791648</code>
 <name>Rimova металевий чохол — iPhone 15 Pro Max — Blue</name>
 <description><![CDATA[Чохол для iPhone 15 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень.]]></description>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro Max</param>
@@ -19148,7 +19146,7 @@
 <code>791649</code>
 <name>Rimova металевий чохол — iPhone 15 Pro Max — Silver</name>
 <description><![CDATA[Чохол для iPhone 15 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень.]]></description>
-<quantity_in_stock>8</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro Max</param>
@@ -43032,7 +43030,7 @@
 <code>787964</code>
 <name>TPU-чохол Rock Armor матовий Series з MagSafe — iPhone 17 Pro/iPhone 18 Pro — Pink</name>
 <description><![CDATA[Чохол для iPhone 17 Pro/iPhone 18 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. TPU-матеріал поєднує гнучкість і зносостійкість. Матова поверхня має стриманий вигляд і менш помітні сліди дотиків.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
@@ -43255,7 +43253,7 @@
 <code>787942</code>
 <name>TPU-чохол Rock Crystal Shield Series — iPhone 17 Pro Max/iPhone 18 Pro Max</name>
 <description><![CDATA[Чохол для iPhone 17 Pro Max/iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. TPU-матеріал поєднує гнучкість і зносостійкість.]]></description>
-<quantity_in_stock>66</quantity_in_stock>
+<quantity_in_stock>64</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
@@ -49075,31 +49073,6 @@
 <param name="Опт від 10 шт">$3.31</param>
 <param name="Drop">$3.96</param>
 </offer>
-<offer id="ts000082656000030638" available="true">
-<url>https://kmt5.com.ua/uag-adventure-magnetic-case-iphone-17-pro-black</url>
-<price>292</price>
-<vendorprice>170</vendorprice>
-<vendorpricedoll>3.71</vendorpricedoll>
-<rrcdoll>6.37</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54622491</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWIvNjIv0KYtMDAwMDgyNjU2XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTEvMDkv0KYtMDAwMDgyNjU2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000082656</vendorCode>
-<code>788987</code>
-<name>UAG Adventure магнітний чохол — iPhone 17 Pro/iPhone 18 Pro — Black</name>
-<description><![CDATA[Чохол для iPhone 17 Pro/iPhone 18 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм-фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
-<param name="Бренд">Различные</param>
-<param name="Опт від 5 шт">$3.46</param>
-<param name="Опт від 7 шт">$3.38</param>
-<param name="Опт від 10 шт">$3.31</param>
-<param name="Drop">$3.96</param>
-</offer>
 <offer id="ts000082656000030641" available="true">
 <url>https://kmt5.com.ua/uag-adventure-magnetic-case-iphone-17-pro-gray</url>
 <price>292</price>
@@ -49140,7 +49113,7 @@
 <code>788989</code>
 <name>UAG Adventure магнітний чохол — iPhone 17 Pro/iPhone 18 Pro — Green</name>
 <description><![CDATA[Чохол для iPhone 17 Pro/iPhone 18 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
@@ -54463,7 +54436,7 @@
 <code>746871</code>
 <name>Захисний чохол із кільцем — iPhone 11 Pro — Black</name>
 <description><![CDATA[Чохол для iPhone 11 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Кільце полегшує утримання смартфона та може використовуватися як підставка.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 11 Pro</param>
@@ -55605,31 +55578,6 @@
 <param name="Опт від 10 шт">$1.1</param>
 <param name="Drop">$1.32</param>
 </offer>
-<offer id="ts000081221000029661" available="true">
-<url>https://kmt5.com.ua/ring-full-protect-case-xiaomi-redmi-note-14-4g-blue</url>
-<price>98</price>
-<vendorprice>57</vendorprice>
-<vendorpricedoll>1.24</vendorpricedoll>
-<rrcdoll>2.13</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>71957840</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWEvZWMv0KYtMDAwMDgxMjIxXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGIvODgv0KYtMDAwMDgxMjIxXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000081221</vendorCode>
-<code>786611</code>
-<name>Захисний чохол із кільцем — Xiaomi Redmi Note 14 4G — Blue</name>
-<description><![CDATA[Чохол для Xiaomi Redmi Note 14 4G для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Кільце полегшує утримання смартфона та може використовуватися як підставка.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм-фактор">Накладка</param>
-<param name="Марка">Xiaomi</param>
-<param name="Модель девайса">Xiaomi Redmi Note 14 4G</param>
-<param name="Бренд">Различные</param>
-<param name="Опт від 5 шт">$1.15</param>
-<param name="Опт від 7 шт">$1.13</param>
-<param name="Опт від 10 шт">$1.1</param>
-<param name="Drop">$1.32</param>
-</offer>
 <offer id="ts000081221000029662" available="true">
 <url>https://kmt5.com.ua/ring-full-protect-case-xiaomi-redmi-note-14-4g-green</url>
 <price>98</price>
@@ -56262,7 +56210,7 @@
 <code>771247</code>
 <name>Захисний чохол-підставка — iPhone X / iPhone Xs — Black</name>
 <description><![CDATA[Чохол для iPhone Xs для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Вбудована підставка зручна для перегляду відео.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone Xs, Apple iPhone X</param>
@@ -60382,7 +60330,7 @@
 <code>781003</code>
 <name>Посилений TPU-чохол — iPhone 16 Pro</name>
 <description><![CDATA[Чохол для iPhone 16 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. TPU-матеріал поєднує гнучкість і зносостійкість.]]></description>
-<quantity_in_stock>10</quantity_in_stock>
+<quantity_in_stock>9</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16 Pro</param>
@@ -67892,7 +67840,7 @@
 <code>777357</code>
 <name>Силіконовий чохол оригінальний з захисний камери — iPhone 15 Plus — Midnight Blue (63)</name>
 <description><![CDATA[Чохол для iPhone 15 Plus для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання. Конструкція передбачає додатковий захист зони камери.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Plus</param>
@@ -72754,7 +72702,7 @@
 <code>789943</code>
 <name>Чохол AG Glass з MagSafe — iPhone 16 Pro Max — Orange</name>
 <description><![CDATA[Чохол для iPhone 16 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16 Pro Max</param>
@@ -73209,7 +73157,7 @@
 <code>788903</code>
 <name>Чохол AG Glass з MagSafe — iPhone 17 Pro Max/iPhone 18 Pro Max — Titanium</name>
 <description><![CDATA[Чохол для iPhone 17 Pro Max/iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
@@ -73821,7 +73769,7 @@
 <code>788644</code>
 <name>Чохол Armor Pro з MagSafe FGG-012 — iPhone 17 Pro/iPhone 18 Pro — Grey</name>
 <description><![CDATA[Чохол для iPhone 17 Pro/iPhone 18 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
@@ -77545,7 +77493,7 @@
 <code>788661</code>
 <name>Чохол Colorful з MagSafe — iPhone 17 Air — Black</name>
 <description><![CDATA[Чохол для iPhone 17 Air для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Air</param>
@@ -84630,7 +84578,7 @@
 <code>788437</code>
 <name>Чохол Skin Pro — Samsung A16 5G / 4G — Rose</name>
 <description><![CDATA[Чохол для Samsung A16 5G для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Samsung</param>
 <param name="Модель девайса">Samsung A16 5G</param>
@@ -86733,31 +86681,6 @@
 <param name="Опт від 10 шт">$6.39</param>
 <param name="Drop">$7.65</param>
 </offer>
-<offer id="ts000082437000030410" available="true">
-<url>https://kmt5.com.ua/titanium-case-with-magsafe-mcc702-iphone-17-transparent</url>
-<price>529</price>
-<vendorprice>328</vendorprice>
-<vendorpricedoll>7.16</vendorpricedoll>
-<rrcdoll>11.54</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54622491</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTAvMTYv0KYtMDAwMDgyNDM3XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODQvYTgv0KYtMDAwMDgyNDM3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000082437</vendorCode>
-<code>788542</code>
-<name>Чохол Titanium з MagSafe MCC-702 — iPhone 17 — Transparent</name>
-<description><![CDATA[Чохол для iPhone 17 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм-фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17</param>
-<param name="Бренд">Wiwu</param>
-<param name="Опт від 5 шт">$6.67</param>
-<param name="Опт від 7 шт">$6.53</param>
-<param name="Опт від 10 шт">$6.39</param>
-<param name="Drop">$7.65</param>
-</offer>
 <offer id="ts000082437000030411" available="true">
 <url>https://kmt5.com.ua/titanium-case-with-magsafe-mcc702-iphone-17-transparent-black</url>
 <price>529</price>
@@ -86824,7 +86747,7 @@
 <code>754704</code>
 <name>Чохол UAG Military Armor Monarch — iPhone 13 Pro Max</name>
 <description><![CDATA[Чохол для iPhone 13 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 13 Pro Max 6.7&quot;</param>
@@ -87761,7 +87684,7 @@
 <code>792056</code>
 <name>Чохол Vibe з MagSafe — iPhone 15 Pro — Black</name>
 <description><![CDATA[Чохол для iPhone 15 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>6</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro</param>
@@ -88271,31 +88194,6 @@
 <param name="Опт від 10 шт">$3.63</param>
 <param name="Drop">$4.35</param>
 </offer>
-<offer id="ts000084232000032211" available="true">
-<url>https://kmt5.com.ua/vibe-case-with-magsafe-iphone-17-pro-orange</url>
-<price>320</price>
-<vendorprice>187</vendorprice>
-<vendorpricedoll>4.07</vendorpricedoll>
-<rrcdoll>6.98</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54622491</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTQvMGMv0KYtMDAwMDg0MjMyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTEvNTkv0KYtMDAwMDg0MjMyXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000084232</vendorCode>
-<code>792092</code>
-<name>Чохол Vibe з MagSafe — iPhone 17 Pro/iPhone 18 Pro — Orange</name>
-<description><![CDATA[Чохол для iPhone 17 Pro/iPhone 18 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм-фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
-<param name="Бренд">Apple</param>
-<param name="Опт від 5 шт">$3.79</param>
-<param name="Опт від 7 шт">$3.71</param>
-<param name="Опт від 10 шт">$3.63</param>
-<param name="Drop">$4.35</param>
-</offer>
 <offer id="ts000084230000032200" available="true">
 <url>https://kmt5.com.ua/vibe-case-with-magsafe-iphone-17-black</url>
 <price>320</price>
@@ -88311,7 +88209,7 @@
 <code>792079</code>
 <name>Чохол Vibe з MagSafe — iPhone 17 — Black</name>
 <description><![CDATA[Чохол для iPhone 17 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17</param>
@@ -88587,7 +88485,7 @@
 <code>788464</code>
 <name>Чохол Yind з MagSafe — iPhone 17 Pro/iPhone 18 Pro — Black</name>
 <description><![CDATA[Чохол для iPhone 17 Pro/iPhone 18 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
@@ -89871,8 +89769,8 @@
 <currencyId>UAH</currencyId>
 <categoryId>60652165</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWQvNGQv0KYtMDAwMDgwNzM5XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzkvODIv0KYtMDAwMDgwNzM5XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTEvZjAv0KYtMDAwMDgwNzM5XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzkvODIv0KYtMDAwMDgwNzM5XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjgvYWUv0KYtMDAwMDgwNzM5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWEvY2Qv0KYtMDAwMDgwNzM5XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTkvNzMv0KYtMDAwMDgwNzM5XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -93188,8 +93086,8 @@
 <currencyId>UAH</currencyId>
 <categoryId>63071308</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2YvYjAv0KYtMDAwMDgxMjAxXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDUvZjMv0KYtMDAwMDgxMjAxXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjkvMWEv0KYtMDAwMDgxMjAxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDUvZjMv0KYtMDAwMDgxMjAxXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjgvOWQv0KYtMDAwMDgxMjAxXzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
 <vendor>Apple</vendor>
 <vendorCode>Ц-000081201</vendorCode>
@@ -94200,7 +94098,7 @@
 <code>780941</code>
 <name>Чохол WiWU Classic II — iPad Air 10.9&quot; / 11&quot; (2024) — Pink</name>
 <description><![CDATA[Чохол для iPad Air 10.9 для захисту корпусу планшета від подряпин і потертостей під час щоденного використання.]]></description>
-<quantity_in_stock>8</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <param name="Форм-фактор">Книжка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPad Air 11&quot; (2024), Apple iPad Air 10.9&quot; (2022)</param>
@@ -94607,7 +94505,7 @@
 <code>779646</code>
 <name>Універсальна сумка для навушників — Robot Style — Black</name>
 <description><![CDATA[Чохол для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень.]]></description>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Універсальний</param>
 <param name="Бренд">Различные</param>
 <param name="Опт від 5 шт">$1.73</param>
@@ -103190,7 +103088,7 @@
 <code>752450</code>
 <name>Захисна плівка PMMA для Apple Watch 41 мм, прозора</name>
 <description><![CDATA[Захисна плівка PMMA для Apple Watch 41 мм допомагає захистити дисплей від подряпин і потертостей під час щоденного використання.]]></description>
-<quantity_in_stock>8</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Watch Series 7 41 mm</param>
 <param name="Бренд">Различные</param>
@@ -103215,7 +103113,7 @@
 <code>737698</code>
 <name>Захисна плівка PMMA для Apple Watch 42 мм, прозора</name>
 <description><![CDATA[Захисна плівка PMMA для Apple Watch 42 мм допомагає захистити дисплей від подряпин і потертостей під час щоденного використання.]]></description>
-<quantity_in_stock>7</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Watch Series 2 42 mm, Apple Watch Series 3 42 mm</param>
 <param name="Бренд">Различные</param>
@@ -103240,7 +103138,7 @@
 <code>737699</code>
 <name>Захисна плівка PMMA для Apple Watch 44 мм, прозора</name>
 <description><![CDATA[Захисна плівка PMMA для Apple Watch 44 мм допомагає захистити дисплей від подряпин і потертостей під час щоденного використання.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Watch Series 4 44 mm</param>
 <param name="Бренд">Различные</param>
@@ -103265,7 +103163,7 @@
 <code>752451</code>
 <name>Захисна плівка PMMA для Apple Watch 45 мм, прозора</name>
 <description><![CDATA[Захисна плівка PMMA для Apple Watch 45 мм допомагає захистити дисплей від подряпин і потертостей під час щоденного використання.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Watch Series 7 45 mm</param>
 <param name="Бренд">Различные</param>
@@ -103291,7 +103189,7 @@
 <code>759634</code>
 <name>Захисна плівка PMMA для Apple Watch 49 мм, прозора</name>
 <description><![CDATA[Захисна плівка PMMA для Apple Watch 49 мм допомагає захистити дисплей від подряпин і потертостей під час щоденного використання.]]></description>
-<quantity_in_stock>7</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Watch Series 8 49 mm</param>
 <param name="Бренд">Различные</param>
@@ -103462,7 +103360,7 @@
 <code>791805</code>
 <name>Захисна плівка WiWU для MacBook Pro 14.2</name>
 <description><![CDATA[Захисна плівка для MacBook Pro 14.2 допомагає захистити екран від подряпин, потертостей і слідів щоденного використання.]]></description>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Macbook Pro 14.2</param>
 <param name="Бренд">Wiwu</param>
@@ -103594,7 +103492,7 @@
 <code>707810</code>
 <name>Захисне скло 0.3 мм для iPad Air 2019 10.2</name>
 <description><![CDATA[Тонке захисне скло 0.3 мм для iPad Air 2019 10.2 допомагає захистити дисплей від подряпин, потертостей і дрібних ударів.]]></description>
-<quantity_in_stock>13</quantity_in_stock>
+<quantity_in_stock>11</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPad Air 10.2&quot; (2019)</param>
 <param name="Бренд">Различные</param>
@@ -104920,7 +104818,7 @@
 <code>791338</code>
 <name>Захисне скло Metal Color для камери iPhone 17 Pro — Silver</name>
 <description><![CDATA[Захисне скло для камери iPhone 17 Pro допомагає захистити лінзи від подряпин, потертостей і дрібних пошкоджень.]]></description>
-<quantity_in_stock>11</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro</param>
 <param name="Бренд">Различные</param>
@@ -105368,7 +105266,7 @@
 <code>788511</code>
 <name>Захисне скло Privacy DD для iPhone 17 Pro, чорне</name>
 <description><![CDATA[Захисне скло Privacy для iPhone 17 Pro обмежує огляд екрана збоку та допомагає захистити дисплей від подряпин і потертостей.]]></description>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro</param>
 <param name="Бренд">Различные</param>
@@ -105550,7 +105448,7 @@
 <code>791158</code>
 <name>Захисне скло Remax HD ES-01 для iPhone 16 Pro Max</name>
 <description><![CDATA[Захисне скло для iPhone 16 Pro Max допомагає захистити дисплей від подряпин, потертостей і дрібних ударів під час щоденного використання.]]></description>
-<quantity_in_stock>22</quantity_in_stock>
+<quantity_in_stock>21</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16 Pro Max</param>
 <param name="Бренд">Remax</param>
@@ -105610,7 +105508,7 @@
 <code>791154</code>
 <name>Захисне скло Remax HD ES-01 для iPhone 17 Pro Max/iPhone 18 Pro Max</name>
 <description><![CDATA[Захисне скло для iPhone 17 Pro Max/iPhone 18 Pro Max допомагає захистити дисплей від подряпин, потертостей і дрібних ударів під час щоденного використання.]]></description>
-<quantity_in_stock>46</quantity_in_stock>
+<quantity_in_stock>37</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
 <param name="Бренд">Remax</param>
@@ -105637,7 +105535,7 @@
 <code>781017</code>
 <name>Захисне скло Remax HD GL-27 для iPhone 13 / 13 Pro / 14 6.1&quot;, чорне</name>
 <description><![CDATA[Захисне скло для iPhone 13 / 13 Pro / 14 6.1" допомагає захистити дисплей від подряпин, потертостей і дрібних ударів під час щоденного використання.]]></description>
-<quantity_in_stock>29</quantity_in_stock>
+<quantity_in_stock>28</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 13 6.1&quot;, Apple iPhone 13 Pro 6.1&quot;, Apple iPhone 13 Pro Max 6.7&quot;</param>
 <param name="Бренд">Remax</param>
@@ -105718,7 +105616,7 @@
 <code>781018</code>
 <name>Захисне скло Remax HD GL-27 для iPhone 14 Pro, чорне</name>
 <description><![CDATA[Захисне скло для iPhone 14 Pro допомагає захистити дисплей від подряпин, потертостей і дрібних ударів під час щоденного використання.]]></description>
-<quantity_in_stock>81</quantity_in_stock>
+<quantity_in_stock>80</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 Pro 6.1&quot;</param>
 <param name="Бренд">Remax</param>
@@ -105772,7 +105670,7 @@
 <code>781014</code>
 <name>Захисне скло Remax HD GL-27 для iPhone 15 Pro Max, чорне</name>
 <description><![CDATA[Захисне скло для iPhone 15 Pro Max допомагає захистити дисплей від подряпин, потертостей і дрібних ударів під час щоденного використання.]]></description>
-<quantity_in_stock>49</quantity_in_stock>
+<quantity_in_stock>42</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro Max</param>
 <param name="Бренд">Remax</param>
@@ -105799,7 +105697,7 @@
 <code>781012</code>
 <name>Захисне скло Remax HD GL-27 для iPhone 15 Pro, чорне</name>
 <description><![CDATA[Захисне скло для iPhone 15 Pro допомагає захистити дисплей від подряпин, потертостей і дрібних ударів під час щоденного використання.]]></description>
-<quantity_in_stock>49</quantity_in_stock>
+<quantity_in_stock>45</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro</param>
 <param name="Бренд">Remax</param>
@@ -105826,7 +105724,7 @@
 <code>781371</code>
 <name>Захисне скло Remax HD GL-27 для iPhone 15/16, чорне</name>
 <description><![CDATA[Захисне скло для iPhone 15/16 допомагає захистити дисплей від подряпин, потертостей і дрібних ударів під час щоденного використання.]]></description>
-<quantity_in_stock>50</quantity_in_stock>
+<quantity_in_stock>46</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16, Apple iPhone 15</param>
 <param name="Бренд">Remax</param>
@@ -105853,7 +105751,7 @@
 <code>781374</code>
 <name>Захисне скло Remax HD GL-27 для iPhone 16 Pro Max, чорне</name>
 <description><![CDATA[Захисне скло для iPhone 16 Pro Max допомагає захистити дисплей від подряпин, потертостей і дрібних ударів під час щоденного використання.]]></description>
-<quantity_in_stock>38</quantity_in_stock>
+<quantity_in_stock>34</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16 Pro Max</param>
 <param name="Бренд">Remax</param>
@@ -105934,7 +105832,7 @@
 <code>788038</code>
 <name>Захисне скло Remax HD GL-27 для iPhone 17 Pro Max/iPhone 18 Pro Max чорне</name>
 <description><![CDATA[Захисне скло для iPhone 17 Pro Max/iPhone 18 Pro Max допомагає захистити дисплей від подряпин, потертостей і дрібних ударів під час щоденного використання.]]></description>
-<quantity_in_stock>60</quantity_in_stock>
+<quantity_in_stock>53</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
 <param name="Бренд">Remax</param>
@@ -105961,7 +105859,7 @@
 <code>788039</code>
 <name>Захисне скло Remax HD GL-27 для iPhone 17 Pro/iPhone 18 Pro, чорне</name>
 <description><![CDATA[Захисне скло для iPhone 17 Pro/iPhone 18 Pro допомагає захистити дисплей від подряпин, потертостей і дрібних ударів під час щоденного використання.]]></description>
-<quantity_in_stock>69</quantity_in_stock>
+<quantity_in_stock>61</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
 <param name="Бренд">Remax</param>
@@ -106081,7 +105979,7 @@
 <code>791163</code>
 <name>Захисне скло Remax Privacy ES-02 для iPhone 17 Pro Max</name>
 <description><![CDATA[Захисне скло Privacy для iPhone 17 Pro Max обмежує огляд екрана збоку та допомагає захистити дисплей від подряпин і потертостей.]]></description>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max</param>
 <param name="Бренд">Remax</param>
@@ -106726,10 +106624,10 @@
 </offer>
 <offer id="ts000077670000025907" available="true">
 <url>https://kmt5.com.ua/camera-glass-steel-iphone-15-pro-titanium-gray</url>
-<price>79</price>
+<price>65</price>
 <vendorprice>34</vendorprice>
 <vendorpricedoll>0.72</vendorpricedoll>
-<rrcdoll>1.73</rrcdoll>
+<rrcdoll>1.43</rrcdoll>
 <currencyId>UAH</currencyId>
 <categoryId>19951999</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTgvZTYv0KYtMDAwMDc3NjcwXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
@@ -106747,7 +106645,7 @@
 <param name="Опт від 5 шт">$0.9</param>
 <param name="Опт від 7 шт">$0.88</param>
 <param name="Опт від 10 шт">$0.86</param>
-<param name="Drop">$1.03</param>
+<param name="Drop">$0.77</param>
 </offer>
 <offer id="ts000077669000025900" available="true">
 <url>https://kmt5.com.ua/camera-glass-steel-iphone-15-colorfull</url>
@@ -107155,7 +107053,7 @@
 <code>776630</code>
 <name>Захисне скло Super X ESD Antistatic для iPhone 12 Pro Max, чорне</name>
 <description><![CDATA[Антистатичне захисне скло для iPhone 12 Pro Max допомагає зменшити накопичення пилу під час поклейки та захищає екран від подряпин і дрібних пошкоджень.]]></description>
-<quantity_in_stock>16</quantity_in_stock>
+<quantity_in_stock>15</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 12 Pro Max 6.7&quot;</param>
 <param name="Бренд">Различные</param>
@@ -107236,37 +107134,9 @@
 <code>788109</code>
 <name>Захисне скло Super X ESD Antistatic для iPhone 17 Air, чорне</name>
 <description><![CDATA[Антистатичне захисне скло для iPhone 17 Air допомагає зменшити накопичення пилу під час поклейки та захищає екран від подряпин і дрібних пошкоджень.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Air</param>
-<param name="Бренд">Различные</param>
-<param name="Види захисту екрану">Захисне скло</param>
-<param name="Вид покриття">Прозоре скло</param>
-<param name="Товщина">0.3 mm</param>
-<param name="Опт від 5 шт">$0.62</param>
-<param name="Опт від 7 шт">$0.61</param>
-<param name="Опт від 10 шт">$0.6</param>
-<param name="Drop">$0.72</param>
-</offer>
-<offer id="ts000082170" available="true">
-<url>https://kmt5.com.ua/zaschitnoe-steklo-super-x-esd-antistatic-iphone-17-pro-black</url>
-<price>57</price>
-<vendorprice>31</vendorprice>
-<vendorpricedoll>0.67</vendorpricedoll>
-<rrcdoll>1.24</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>60035090</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzQvNzIv0KYtMDAwMDgyMTcwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGMvY2Qv0KYtMDAwMDgyMTcwXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGQvYmQv0KYtMDAwMDgyMTcwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000082170</vendorCode>
-<code>788110</code>
-<name>Захисне скло Super X ESD Antistatic для iPhone 17 Pro/iPhone 18 Pro, чорне</name>
-<description><![CDATA[Антистатичне захисне скло для iPhone 17 Pro/iPhone 18 Pro допомагає зменшити накопичення пилу під час поклейки та захищає екран від подряпин і дрібних пошкоджень.]]></description>
-<quantity_in_stock>6</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
 <param name="Бренд">Различные</param>
 <param name="Види захисту екрану">Захисне скло</param>
 <param name="Вид покриття">Прозоре скло</param>
@@ -107295,7 +107165,7 @@
 <code>776625</code>
 <name>Захисне скло Super X ESD Antistatic для iPhone 7 / 8, чорне</name>
 <description><![CDATA[Антистатичне захисне скло для iPhone 7 / 8 допомагає зменшити накопичення пилу під час поклейки та захищає екран від подряпин і дрібних пошкоджень.]]></description>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 7, Apple iPhone 8</param>
 <param name="Бренд">Различные</param>
@@ -107322,7 +107192,7 @@
 <code>776627</code>
 <name>Захисне скло Super X ESD Antistatic для iPhone XR / 11, чорне</name>
 <description><![CDATA[Антистатичне захисне скло для iPhone XR / 11 допомагає зменшити накопичення пилу під час поклейки та захищає екран від подряпин і дрібних пошкоджень.]]></description>
-<quantity_in_stock>14</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone Xr, Apple iPhone 11</param>
 <param name="Бренд">Различные</param>
@@ -107430,7 +107300,7 @@
 <code>776642</code>
 <name>Захисне скло Super X ESD Antistatic для Samsung A31, чорне</name>
 <description><![CDATA[Антистатичне захисне скло для Samsung A31 допомагає зменшити накопичення пилу під час поклейки та захищає екран від подряпин і дрібних пошкоджень.]]></description>
-<quantity_in_stock>11</quantity_in_stock>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Марка">Samsung</param>
 <param name="Модель девайса">Samsung A31</param>
 <param name="Бренд">Различные</param>
@@ -107700,7 +107570,7 @@
 <code>791139</code>
 <name>Захисне скло Super X ESD Antistatic для Samsung S26, чорне</name>
 <description><![CDATA[Антистатичне захисне скло для Samsung S26 допомагає зменшити накопичення пилу під час поклейки та захищає екран від подряпин і дрібних пошкоджень.]]></description>
-<quantity_in_stock>14</quantity_in_stock>
+<quantity_in_stock>13</quantity_in_stock>
 <param name="Марка">Samsung</param>
 <param name="Модель девайса">Samsung S26</param>
 <param name="Бренд">Различные</param>
@@ -107835,7 +107705,7 @@
 <code>776665</code>
 <name>Захисне скло Super X ESD Antistatic для Xiaomi Redmi 9C, чорне</name>
 <description><![CDATA[Антистатичне захисне скло для Xiaomi Redmi 9C допомагає зменшити накопичення пилу під час поклейки та захищає екран від подряпин і дрібних пошкоджень.]]></description>
-<quantity_in_stock>28</quantity_in_stock>
+<quantity_in_stock>29</quantity_in_stock>
 <param name="Марка">Xiaomi</param>
 <param name="Модель девайса">Xiaomi Redmi 9C</param>
 <param name="Бренд">Различные</param>
@@ -108158,7 +108028,7 @@
 <code>787687</code>
 <name>Захисне скло Veron ESD Big ARC Edge для iPhone 13 Pro Max 6.7&quot;, чорне</name>
 <description><![CDATA[Захисне скло для iPhone 13 Pro Max 6.7" допомагає захистити дисплей від подряпин, потертостей і дрібних ударів під час щоденного використання.]]></description>
-<quantity_in_stock>106</quantity_in_stock>
+<quantity_in_stock>105</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 13 Pro Max 6.7&quot;</param>
 <param name="Бренд">VERON</param>
@@ -108264,7 +108134,7 @@
 <code>779809</code>
 <name>Захисне скло Veron ESD Big ARC Edge для iPhone 15 Pro Max 6.7&quot;, чорне</name>
 <description><![CDATA[Захисне скло для iPhone 15 Pro Max 6.7" допомагає захистити дисплей від подряпин, потертостей і дрібних ударів під час щоденного використання.]]></description>
-<quantity_in_stock>77</quantity_in_stock>
+<quantity_in_stock>73</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro Max</param>
 <param name="Бренд">VERON</param>
@@ -109805,7 +109675,7 @@
 <code>736657</code>
 <name>Керамічне захисне скло для iPhone XR/11</name>
 <description><![CDATA[Керамічне захисне скло для iPhone XR/11 призначене для щоденного захисту екрана від подряпин, потертостей і дрібних пошкоджень.]]></description>
-<quantity_in_stock>23</quantity_in_stock>
+<quantity_in_stock>22</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone Xr, Apple iPhone 11</param>
 <param name="Бренд">Различные</param>
@@ -111326,7 +111196,7 @@
 <code>771463</code>
 <name>Рюкзак — WiWU Minimalist — Black</name>
 <description><![CDATA[Рюкзак для перенесення ноутбука та повсякденних аксесуарів. Зручний для роботи, навчання й поїздок.]]></description>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Сумка</param>
 <param name="Бренд">Wiwu</param>
 <param name="Опт від 5 шт">$16.8</param>
@@ -111348,7 +111218,7 @@
 <code>788513</code>
 <name>Рюкзак — WiWU Minimalist — Gray</name>
 <description><![CDATA[Рюкзак для перенесення ноутбука та повсякденних аксесуарів. Зручний для роботи, навчання й поїздок.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Сумка</param>
 <param name="Бренд">Wiwu</param>
 <param name="Опт від 5 шт">$16.8</param>
@@ -111372,7 +111242,7 @@
 <code>788783</code>
 <name>Рюкзак — WiWU Osun — Black</name>
 <description><![CDATA[Рюкзак для перенесення ноутбука та повсякденних аксесуарів. Зручний для роботи, навчання й поїздок.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Форм-фактор">Сумка</param>
 <param name="Бренд">Wiwu</param>
 <param name="Опт від 5 шт">$22.08</param>
@@ -111396,7 +111266,7 @@
 <code>788784</code>
 <name>Рюкзак — WiWU Osun — Green</name>
 <description><![CDATA[Рюкзак для перенесення ноутбука та повсякденних аксесуарів. Зручний для роботи, навчання й поїздок.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Форм-фактор">Сумка</param>
 <param name="Бренд">Wiwu</param>
 <param name="Опт від 5 шт">$22.08</param>
@@ -112516,7 +112386,7 @@
 <code>753320</code>
 <name>Сумка для ноутбука 13″ — Felt Sleeve — Black</name>
 <description><![CDATA[Сумка для ноутбука 13″ для зручного зберігання та перенесення пристрою й аксесуарів.]]></description>
-<quantity_in_stock>11</quantity_in_stock>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Форм-фактор">Сумка</param>
 <param name="Марка">Universal</param>
 <param name="Модель девайса">13&quot;</param>
@@ -112549,7 +112419,7 @@
 <code>753321</code>
 <name>Сумка для ноутбука 13″ — Felt Sleeve — Gray</name>
 <description><![CDATA[Сумка для ноутбука 13″ для зручного зберігання та перенесення пристрою й аксесуарів.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Сумка</param>
 <param name="Марка">Universal</param>
 <param name="Модель девайса">13&quot;</param>
@@ -112771,7 +112641,7 @@
 <code>753322</code>
 <name>Сумка для ноутбука 15″ ; 16″ — Felt Sleeve — Black</name>
 <description><![CDATA[Сумка для ноутбука 15″ для зручного зберігання та перенесення пристрою й аксесуарів.]]></description>
-<quantity_in_stock>7</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <param name="Форм-фактор">Сумка</param>
 <param name="Марка">Universal</param>
 <param name="Модель девайса">15&quot;/16&quot;</param>
@@ -112799,7 +112669,7 @@
 <code>753323</code>
 <name>Сумка для ноутбука 15″ ; 16″ — Felt Sleeve — Gray</name>
 <description><![CDATA[Сумка для ноутбука 15″ для зручного зберігання та перенесення пристрою й аксесуарів.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Сумка</param>
 <param name="Марка">Universal</param>
 <param name="Модель девайса">15&quot;/16&quot;</param>
@@ -113539,7 +113409,7 @@
 <code>782923</code>
 <name>LED-відеосвітло VL16, 16 см, 6″ Viva, 9 кольорові фільтри, 120 світлодіодів, USB, 12 Вт, 2 В</name>
 <description><![CDATA[LED-відеосвітло для фото- й відеозйомки, стримів та предметного контенту; підходить як основне або заповнювальне джерело світла. Ключові характеристики: потужність 12 Вт, 120 LED, розмір 16 см, живлення/підключення USB, 9 кольорових фільтрів.]]></description>
-<quantity_in_stock>200</quantity_in_stock>
+<quantity_in_stock>198</quantity_in_stock>
 <param name="Бренд">VIVA</param>
 <param name="Вихідна потужність (W)">12W</param>
 <param name="Кнопки керування">Пульт на кабелі</param>
@@ -113591,7 +113461,7 @@
 <code>790862</code>
 <name>LED-стрічка RGB 2835, 15 м, 220 В</name>
 <description><![CDATA[LED-стрічка RGB 2835, 15 м, 220 В — гнучке джерело світла для декоративного контурного підсвічування. Основні характеристики: • Тип: RGB LED-стрічка • Живлення / заряджання: 220В • Особливості: Bluetooth, RGB-підсвічування • Призначення: інтер’єрне, меблеве та декоративне підсвічування]]></description>
-<quantity_in_stock>55</quantity_in_stock>
+<quantity_in_stock>54</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Опт від 3 шт">$3.98</param>
 <param name="Опт від 5 шт">$3.9</param>
@@ -113644,7 +113514,7 @@
 <code>777048</code>
 <name>LED-стрічка RGB 2835, 5 м, USB 5 В, з пультом</name>
 <description><![CDATA[LED-стрічка RGB 2835, 5 м, USB 5 В, з пультом — гнучке джерело світла для декоративного контурного підсвічування. Основні характеристики: • Тип: RGB LED-стрічка • Живлення / заряджання: USB • Особливості: дистанційне керування, Bluetooth, RGB-підсвічування • Призначення: інтер’єрне, меблеве та декоративне підсвічування]]></description>
-<quantity_in_stock>30</quantity_in_stock>
+<quantity_in_stock>29</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Опт від 3 шт">$2.98</param>
 <param name="Опт від 5 шт">$2.91</param>
@@ -113829,7 +113699,7 @@
 <code>718912</code>
 <name>USB LED-лампа, 10 світлодіодів</name>
 <description><![CDATA[USB LED-лампа, 10 світлодіодів — джерело світла для локального або допоміжного освітлення. Основні характеристики: • Тип: LED-світильник • Кількість світлодіодів: 10 шт. • Живлення / заряджання: USB • Призначення: побутове та допоміжне освітлення]]></description>
-<quantity_in_stock>20</quantity_in_stock>
+<quantity_in_stock>19</quantity_in_stock>
 <param name="Опт від 3 шт">$1.17</param>
 <param name="Опт від 5 шт">$1.15</param>
 <param name="Опт від 7 шт">$1.12</param>
@@ -113855,7 +113725,7 @@
 <code>718841</code>
 <name>Акумуляторна LED-лампа E27, 5 Вт</name>
 <description><![CDATA[Акумуляторна LED-лампа E27, 5 Вт — світлодіодне джерело світла для сумісного патрона E27. Основні характеристики: • Тип: LED-лампа з цоколем E27 • Потужність: 5 Вт • Конструкція: складаний корпус • Призначення: читання, навчання та робота за столом]]></description>
-<quantity_in_stock>13</quantity_in_stock>
+<quantity_in_stock>11</quantity_in_stock>
 <param name="Опт від 3 шт">$1.34</param>
 <param name="Опт від 5 шт">$1.32</param>
 <param name="Опт від 7 шт">$1.29</param>
@@ -113985,7 +113855,7 @@
 <code>786196</code>
 <name>Акумуляторний ручний ліхтар L-2405-TG, USB-C, ZOOM, індикатор заряду, Power Bank, акумулятор 26650</name>
 <description><![CDATA[Акумуляторний ручний ліхтар L-2405-TG, USB-C, ZOOM, індикатор заряду, Power Bank, акумулятор 26650 — переносне джерело світла для побутових, автомобільних і виїзних завдань. Основні характеристики: • Тип: портативний LED-ліхтар • Живлення / заряджання: USB-C • Особливості: функція Power Bank, регулювання фокуса ZOOM • Призначення: дім, автомобіль, ремонт, подорожі та аварійний комплект]]></description>
-<quantity_in_stock>13</quantity_in_stock>
+<quantity_in_stock>12</quantity_in_stock>
 <param name="Опт від 3 шт">$9.5</param>
 <param name="Опт від 5 шт">$9.31</param>
 <param name="Опт від 7 шт">$9.11</param>
@@ -114057,7 +113927,7 @@
 <code>786896</code>
 <name>Дзеркало з LED-підсвічуванням DC007-4</name>
 <description><![CDATA[Дзеркало з LED-підсвічуванням для макіяжу та щоденного догляду. Зручне для використання вдома або в дорозі.]]></description>
-<quantity_in_stock>7</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <param name="Опт від 2 шт">$17.09</param>
 <param name="Опт від 3 шт">$16.73</param>
 <param name="Опт від 5 шт">$16.38</param>
@@ -114170,7 +114040,7 @@
 <code>789987</code>
 <name>Магнітна LED-лампа для смартфона, MagSafe — Blue</name>
 <description><![CDATA[Магнітна LED-лампа для смартфона, MagSafe — джерело світла для локального або допоміжного освітлення. Основні характеристики: • Тип: LED-світильник • Особливості: магнітне кріплення • Призначення: побутове та допоміжне освітлення]]></description>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <param name="Опт від 3 шт">$3.17</param>
 <param name="Опт від 5 шт">$3.1</param>
 <param name="Опт від 7 шт">$3.04</param>
@@ -114194,7 +114064,7 @@
 <code>789988</code>
 <name>Магнітна LED-лампа для смартфона, MagSafe — Orange</name>
 <description><![CDATA[Магнітна LED-лампа для смартфона, MagSafe — джерело світла для локального або допоміжного освітлення. Основні характеристики: • Тип: LED-світильник • Особливості: магнітне кріплення • Призначення: побутове та допоміжне освітлення]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <param name="Опт від 3 шт">$3.17</param>
 <param name="Опт від 5 шт">$3.1</param>
 <param name="Опт від 7 шт">$3.04</param>
@@ -114875,7 +114745,7 @@
 <code>792236</code>
 <name>Ручний LED-ліхтар HX-918S</name>
 <description><![CDATA[Ручний LED-ліхтар HX-918S — переносне джерело світла для побутових, автомобільних і виїзних завдань. Основні характеристики: • Тип: портативний LED-ліхтар • Призначення: дім, автомобіль, ремонт, подорожі та аварійний комплект]]></description>
-<quantity_in_stock>45</quantity_in_stock>
+<quantity_in_stock>43</quantity_in_stock>
 <param name="Drop">$4.95</param>
 </offer>
 <offer id="ts000084336" available="true">
@@ -114894,7 +114764,7 @@
 <code>792240</code>
 <name>Ручний LED-ліхтар SY-2210</name>
 <description><![CDATA[Ручний LED-ліхтар SY-2210 — переносне джерело світла для побутових, автомобільних і виїзних завдань. Основні характеристики: • Тип: портативний LED-ліхтар • Призначення: дім, автомобіль, ремонт, подорожі та аварійний комплект]]></description>
-<quantity_in_stock>19</quantity_in_stock>
+<quantity_in_stock>18</quantity_in_stock>
 <param name="Drop">$10.34</param>
 </offer>
 <offer id="ts000084334" available="true">
@@ -114914,7 +114784,7 @@
 <code>792238</code>
 <name>Ручний LED-ліхтар Ultra Bright</name>
 <description><![CDATA[Ручний LED-ліхтар Ultra Bright — переносне джерело світла для побутових, автомобільних і виїзних завдань. Основні характеристики: • Тип: портативний LED-ліхтар • Призначення: дім, автомобіль, ремонт, подорожі та аварійний комплект]]></description>
-<quantity_in_stock>27</quantity_in_stock>
+<quantity_in_stock>26</quantity_in_stock>
 <param name="Drop">$10.67</param>
 </offer>
 <offer id="ts000084335" available="true">
@@ -114955,7 +114825,7 @@
 <code>789990</code>
 <name>Ручний ліхтар YJ-36</name>
 <description><![CDATA[Ручний ліхтар YJ-36 — переносне джерело світла для побутових, автомобільних і виїзних завдань. Основні характеристики: • Тип: портативний LED-ліхтар • Призначення: дім, автомобіль, ремонт, подорожі та аварійний комплект]]></description>
-<quantity_in_stock>250</quantity_in_stock>
+<quantity_in_stock>249</quantity_in_stock>
 <param name="Опт від 3 шт">$2.02</param>
 <param name="Опт від 5 шт">$1.97</param>
 <param name="Опт від 7 шт">$1.93</param>
@@ -114984,7 +114854,7 @@
 <code>789354</code>
 <name>Тактичний акумуляторний LED-ліхтар, цифровий дисплей, подвійні перемикачі — нержавіюча сталь</name>
 <description><![CDATA[Тактичний акумуляторний LED-ліхтар, цифровий дисплей, подвійні перемикачі — нержавіюча сталь — переносне джерело світла для побутових, автомобільних і виїзних завдань. Основні характеристики: • Тип: портативний LED-ліхтар • Матеріали: нержавіюча сталь • Особливості: цифровий дисплей • Призначення: дім, автомобіль, ремонт, подорожі та аварійний комплект]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Опт від 3 шт">$10.08</param>
 <param name="Опт від 5 шт">$9.87</param>
 <param name="Опт від 7 шт">$9.66</param>
@@ -116377,7 +116247,7 @@
 <code>792855</code>
 <name>Брелок «Necklace» — Purple</name>
 <description><![CDATA[Брелок «Necklace» — компактний декоративний аксесуар для ключів, сумки, рюкзака або чохла смартфона. Допомагає персоналізувати речі та швидше знаходити їх серед інших.]]></description>
-<quantity_in_stock>10</quantity_in_stock>
+<quantity_in_stock>9</quantity_in_stock>
 <param name="Опт від 3 шт">$0.94</param>
 <param name="Опт від 5 шт">$0.92</param>
 <param name="Опт від 7 шт">$0.9</param>
@@ -119732,29 +119602,6 @@
 <param name="Опт від 7 шт">$0.87</param>
 <param name="Drop">$1.05</param>
 </offer>
-<offer id="ts000079358000027214" available="true">
-<url>https://kmt5.com.ua/shnurok-na-sheyu-round-clip-rose-red</url>
-<price>80</price>
-<vendorprice>47</vendorprice>
-<vendorpricedoll>1.01</vendorpricedoll>
-<rrcdoll>1.75</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>26128749</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODkvYzQv0KYtMDAwMDc5MzU4XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGUvNTEv0KYtMDAwMDc5MzU4XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDgvNTgv0KYtMDAwMDc5MzU4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Другие</vendor>
-<vendorCode>Ц-000079358</vendorCode>
-<code>779119</code>
-<name>Ремінець для телефона на шию «Round Clip» — Neon Pink</name>
-<description><![CDATA[Ремінець для телефона на шию «Round Clip» дає змогу зручно носити смартфон і тримати його під рукою. Аксесуар підходить для щоденного використання, прогулянок і подорожей.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Различные</param>
-<param name="Опт від 3 шт">$0.91</param>
-<param name="Опт від 5 шт">$0.89</param>
-<param name="Опт від 7 шт">$0.87</param>
-<param name="Drop">$1.05</param>
-</offer>
 <offer id="ts000084017000032457" available="true">
 <url>https://kmt5.com.ua/shnurok-na-sheyu-silk-scarf-dark-blue</url>
 <price>350</price>
@@ -122061,7 +121908,7 @@
 <code>787406</code>
 <name>AUX-кабель (1 м) — Borofone BL26</name>
 <description><![CDATA[Аудіокабель для передавання звуку між сумісними пристроями. Довжина — 1 м.]]></description>
-<quantity_in_stock>139</quantity_in_stock>
+<quantity_in_stock>136</quantity_in_stock>
 <param name="Бренд">Borofone</param>
 <param name="Роз'єм підключення">Cable Aux</param>
 <param name="Опт від 5 шт">$0.34</param>
@@ -122707,7 +122554,7 @@
 <code>741113</code>
 <name>OTG-адаптер USB-C — USB-A — (0,1 м) білий</name>
 <description><![CDATA[Компактний перехідник для з’єднання пристроїв та аксесуарів із зазначеними в назві інтерфейсами.]]></description>
-<quantity_in_stock>146</quantity_in_stock>
+<quantity_in_stock>145</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Довжина кабелю">0.1m</param>
 <param name="Опт від 5 шт">$0.38</param>
@@ -123137,7 +122984,7 @@
 <code>771890</code>
 <name>Адаптер Lightning — USB-C — Earldom ET-TC17</name>
 <description><![CDATA[Компактний перехідник для з’єднання пристроїв та аксесуарів із зазначеними в назві інтерфейсами.]]></description>
-<quantity_in_stock>6</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <param name="Бренд">Earldom</param>
 <param name="Опт від 5 шт">$0.84</param>
 <param name="Опт від 7 шт">$0.83</param>
@@ -123643,7 +123490,7 @@
 <code>737682</code>
 <name>Аудіорозгалужувач 3,5 мм (M) — Dual 3,5 мм (F) — розгалужувач HF / HF різнокольоровий</name>
 <description><![CDATA[Аудіорозгалужувач для підключення кількох сумісних аудіопристроїв через роз’єм 3,5 мм.]]></description>
-<quantity_in_stock>23</quantity_in_stock>
+<quantity_in_stock>21</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Адаптери">Розділювач аудіо 3.5 мм</param>
 <param name="Опт від 5 шт">$0.43</param>
@@ -123693,7 +123540,7 @@
 <code>778159</code>
 <name>Кабель 2-в-1 (Lightning + Apple Watch) 2,4 А (1,2 м) — Hoco CW54 — Black</name>
 <description><![CDATA[Універсальний кабель із кількома конекторами для заряджання різних типів мобільних пристроїв. Довжина — 1,2 м; струм — до 2,4 А.]]></description>
-<quantity_in_stock>7</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Роз'єм підключення">Cable 2 in 1</param>
 <param name="Опт від 5 шт">$6.67</param>
@@ -124076,7 +123923,7 @@
 <code>707605</code>
 <name>Кабель Dual RCA — 3,5 мм (1,55 м) — Hoco UPA10 Lotus Metal сірий</name>
 <description><![CDATA[Аудіо/відеокабель для передавання аналогового сигналу між сумісними пристроями з відповідними роз’ємами.]]></description>
-<quantity_in_stock>24</quantity_in_stock>
+<quantity_in_stock>23</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Довжина кабелю">1.55m</param>
 <param name="Адаптери">RCA Кабель</param>
@@ -124463,6 +124310,35 @@
 <param name="Опт від 5 шт">$0.76</param>
 <param name="Опт від 7 шт">$0.74</param>
 <param name="Опт від 10 шт">$0.73</param>
+<param name="Drop">$0.99</param>
+</offer>
+<offer id="ts000072695000022846" available="true">
+<url>https://kmt5.com.ua/kabel-borofone-bx81-goodway-lightning-black</url>
+<price>50</price>
+<vendorprice>44</vendorprice>
+<vendorpricedoll>0.95</vendorpricedoll>
+<rrcdoll>1.09</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>23161731</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGEvODkv0KYtMDAwMDcyNjk1XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTUvODMv0KYtMDAwMDcyNjk1XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjEvMGEv0KYtMDAwMDcyNjk1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjcvYTAv0KYtMDAwMDcyNjk1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjAvNjgv0KYtMDAwMDcyNjk1XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDAvYmYv0KYtMDAwMDcyNjk1XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODAvYjAv0KYtMDAwMDcyNjk1XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTUvOGQv0KYtMDAwMDcyNjk1XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Все</vendor>
+<vendorCode>Ц-000072695</vendorCode>
+<code>754841</code>
+<name>Кабель Lightning 2,4 А (1 м) — Borofone BX81 — Black</name>
+<description><![CDATA[Кабель Lightning для заряджання та підключення сумісних пристроїв. Довжина — 1 м; струм — до 2,4 А. Силіконова оболонка підвищує зносостійкість.]]></description>
+<quantity_in_stock>395</quantity_in_stock>
+<param name="Бренд">Borofone</param>
+<param name="Роз'єм підключення">Cable USB to Lightning</param>
+<param name="Опт від 5 шт">$0.86</param>
+<param name="Опт від 7 шт">$0.85</param>
+<param name="Опт від 10 шт">$0.83</param>
 <param name="Drop">$0.99</param>
 </offer>
 <offer id="ts000082678" available="true">
@@ -124854,7 +124730,7 @@
 <code>702537</code>
 <name>Кабель Micro-USB 2 А (1 м)</name>
 <description><![CDATA[Кабель Micro-USB для заряджання та підключення сумісних пристроїв. Довжина — 1 м; струм — до 2 А.]]></description>
-<quantity_in_stock>120</quantity_in_stock>
+<quantity_in_stock>119</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Роз'єм підключення">Cable USB to Micro</param>
 <param name="Довжина кабелю">1m</param>
@@ -125322,7 +125198,7 @@
 <code>791715</code>
 <name>Кабель USB-C 100 Вт (1 м) — Hoco U154</name>
 <description><![CDATA[Кабель USB-C для заряджання та підключення сумісних пристроїв. Довжина — 1 м; потужність — до 100 Вт.]]></description>
-<quantity_in_stock>13</quantity_in_stock>
+<quantity_in_stock>12</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Роз'єм підключення">Cable USB to C</param>
 <param name="Drop">$4.29</param>
@@ -125713,7 +125589,7 @@
 <code>741354</code>
 <name>Кабель USB-C 3,0 А (1 м) — Hoco X38 — Black</name>
 <description><![CDATA[Кабель USB-C для заряджання та підключення сумісних пристроїв. Довжина — 1 м; струм — до 3,0 А. Нейлонове обплетення підвищує зносостійкість.]]></description>
-<quantity_in_stock>38</quantity_in_stock>
+<quantity_in_stock>37</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Роз'єм підключення">Cable USB to C</param>
 <param name="Опт від 5 шт">$1.12</param>
@@ -126214,7 +126090,7 @@
 <code>793008</code>
 <name>Кабель USB-C — USB-C 60 Вт (1 м) — Borofone BX126</name>
 <description><![CDATA[Кабель USB-C — USB-C для заряджання та підключення сумісних пристроїв. Довжина — 1 м; потужність — до 60 Вт.]]></description>
-<quantity_in_stock>30</quantity_in_stock>
+<quantity_in_stock>29</quantity_in_stock>
 <param name="Бренд">Borofone</param>
 <param name="Роз'єм підключення">Cable USB C to C</param>
 <param name="Drop">$1.82</param>
@@ -126286,7 +126162,7 @@
 <code>785171</code>
 <name>Кабель USB-C — USB-C 60 Вт (1 м) — Hoco U119</name>
 <description><![CDATA[Кабель USB-C — USB-C для заряджання та підключення сумісних пристроїв. Довжина — 1 м; потужність — до 60 Вт.]]></description>
-<quantity_in_stock>28</quantity_in_stock>
+<quantity_in_stock>18</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Роз'єм підключення">Cable USB C to C</param>
 <param name="Опт від 5 шт">$1.25</param>
@@ -126930,7 +126806,7 @@
 <code>782464</code>
 <name>Силіконовий кабель Lightning 27 Вт (1 м) — Veron SL-X82 — Black</name>
 <description><![CDATA[Кабель Lightning для заряджання та підключення сумісних пристроїв. Довжина — 1 м; потужність — до 27 Вт. Силіконова оболонка підвищує зносостійкість.]]></description>
-<quantity_in_stock>283</quantity_in_stock>
+<quantity_in_stock>282</quantity_in_stock>
 <param name="Бренд">VERON</param>
 <param name="Роз'єм підключення">Cable USB to Lightning</param>
 <param name="Опт від 5 шт">$1.06</param>
@@ -127075,7 +126951,7 @@
 <code>786357</code>
 <name>Силіконовий кабель USB-C 3 А (2 м) — Veron X2</name>
 <description><![CDATA[Кабель USB-C для заряджання та підключення сумісних пристроїв. Довжина — 2 м; струм — до 3 А. Підтримує передавання даних. Силіконова оболонка підвищує зносостійкість.]]></description>
-<quantity_in_stock>309</quantity_in_stock>
+<quantity_in_stock>308</quantity_in_stock>
 <param name="Бренд">VERON</param>
 <param name="Роз'єм підключення">Cable USB to C</param>
 <param name="Опт від 5 шт">$1.34</param>
@@ -127102,7 +126978,7 @@
 <code>752923</code>
 <name>Силіконовий кабель USB-C — Lightning 20 Вт PD (1 м) — Hoco X82 для заряджання — Black</name>
 <description><![CDATA[Кабель USB-C — Lightning для заряджання та підключення сумісних пристроїв. Довжина — 1 м; потужність — до 20 Вт. Силіконова оболонка підвищує зносостійкість.]]></description>
-<quantity_in_stock>29</quantity_in_stock>
+<quantity_in_stock>27</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Роз'єм підключення">Cable USB C To Lightning</param>
 <param name="Опт від 5 шт">$1.87</param>
@@ -127223,7 +127099,7 @@
 <code>775052</code>
 <name>Силіконовий кабель USB-C — USB-C 100 Вт PD (2 м) — Veron CC07</name>
 <description><![CDATA[Кабель USB-C — USB-C для заряджання та підключення сумісних пристроїв. Довжина — 2 м; потужність — до 100 Вт. Силіконова оболонка підвищує зносостійкість.]]></description>
-<quantity_in_stock>104</quantity_in_stock>
+<quantity_in_stock>92</quantity_in_stock>
 <param name="Бренд">VERON</param>
 <param name="Роз'єм підключення">Cable USB C to C</param>
 <param name="Опт від 5 шт">$3.02</param>
@@ -127272,7 +127148,7 @@
 <code>782455</code>
 <name>Силіконовий кабель USB-C — USB-C 60 Вт PD (1 м) — Veron CC- X82 — Black</name>
 <description><![CDATA[Кабель USB-C — USB-C для заряджання та підключення сумісних пристроїв. Довжина — 1 м; потужність — до 60 Вт. Силіконова оболонка підвищує зносостійкість.]]></description>
-<quantity_in_stock>174</quantity_in_stock>
+<quantity_in_stock>173</quantity_in_stock>
 <param name="Бренд">VERON</param>
 <param name="Роз'єм підключення">Cable USB C to C</param>
 <param name="Опт від 5 шт">$0.92</param>
@@ -127791,30 +127667,6 @@
 <param name="Опт від 5 шт">$630.5</param>
 <param name="Drop">$715.0</param>
 </offer>
-<offer id="ts000084718" available="true">
-<url>https://kmt5.com.ua/dbj-dlya-routera-ta-modema-13500-magod-27-watt-wgp-optima-dc-ups</url>
-<price>2000</price>
-<vendorprice>1741</vendorprice>
-<vendorpricedoll>38.01</vendorpricedoll>
-<rrcdoll>43.67</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>97270781</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzEvNGUv0KYtMDAwMDg0NzE4XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODcvMTkv0KYtMDAwMDg0NzE4XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGUvOGYv0KYtMDAwMDg0NzE4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjkvMDYv0KYtMDAwMDg0NzE4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2IvNmIv0KYtMDAwMDg0NzE4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGIvNmEv0KYtMDAwMDg0NzE4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODcvNTEv0KYtMDAwMDg0NzE4XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000084718</vendorCode>
-<code>793456</code>
-<name>ДБЖ для роутера та модема, 13500 мА·год  (27 Watt) WGP OPTIMA DC UPS</name>
-<description><![CDATA[Ємність: 13500 мА·год; Потужність: 27 Вт; Інтерфейси: AC 220 В, USB; Вихід: 12 В.]]></description>
-<quantity_in_stock>8</quantity_in_stock>
-<param name="Бренд">Различные</param>
-<param name="Drop">$40.59</param>
-</offer>
 <offer id="ts000073387" available="true">
 <url>https://kmt5.com.ua/veron-solar-panel-for-outdoor-camping-solar-charging-100w</url>
 <price>4500</price>
@@ -128159,37 +128011,10 @@
 <code>785350</code>
 <name>Мережевий зарядний пристрій Samsung, 45 Вт, USB-A + кабель USB-C, оригінальний</name>
 <description><![CDATA[Мережевий зарядний пристрій для заряджання сумісних смартфонів, планшетів та інших гаджетів. Потужність — до 45 Вт.]]></description>
-<quantity_in_stock>53</quantity_in_stock>
+<quantity_in_stock>49</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Кількість USB портів">1 USB-C</param>
 <param name="Drop">$7.04</param>
-</offer>
-<offer id="ts000075667" available="true">
-<url>https://kmt5.com.ua/home-charger-20w-pd-qc30-veron-tc099</url>
-<price>250</price>
-<vendorprice>121</vendorprice>
-<vendorpricedoll>2.63</vendorpricedoll>
-<rrcdoll>5.46</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>56676196</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGMvODYv0KYtMDAwMDc1NjY3XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWIvOTgv0KYtMDAwMDc1NjY3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTAvNWQv0KYtMDAwMDc1NjY3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTIvNGUv0KYtMDAwMDc1NjY3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGUvZTAv0KYtMDAwMDc1NjY3XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000075667</vendorCode>
-<code>770952</code>
-<name>Зарядний пристрій Veron TC-099, 20 Вт, PD</name>
-<description><![CDATA[Мережевий зарядний пристрій Veron TC-099 для заряджання сумісних смартфонів та інших гаджетів від розетки. Потужність — 20 Вт. Роз’єми: USB-C. Підтримує швидке заряджання Power Delivery.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
-<param name="Бренд">VERON</param>
-<param name="Кількість USB портів">1 USB-C</param>
-<param name="Зарядні пристрої">Home Chargers</param>
-<param name="Опт від 5 шт">$2.45</param>
-<param name="Опт від 7 шт">$2.4</param>
-<param name="Опт від 10 шт">$2.35</param>
-<param name="Drop">$2.81</param>
 </offer>
 <offer id="ts000080386" available="true">
 <url>https://kmt5.com.ua/home-charger-20w-qc30-type-c-to-lightning-cable-1m-veron-tc099</url>
@@ -128234,7 +128059,7 @@
 <code>783008</code>
 <name>Зарядний пристрій Veron VR-C15Q, 18 Вт, USB-A, кабель Lightning (1 м)</name>
 <description><![CDATA[Мережевий зарядний пристрій Veron VR-C15Q для заряджання сумісних смартфонів та інших гаджетів від розетки. Потужність — 18 Вт. Роз’єми: USB-A. У комплекті зазначено кабель Lightning 1 м.]]></description>
-<quantity_in_stock>133</quantity_in_stock>
+<quantity_in_stock>131</quantity_in_stock>
 <param name="Бренд">VERON</param>
 <param name="Кількість USB портів">1 USB</param>
 <param name="Зарядні пристрої">СЗУ &amp; Кабель Lightning</param>
@@ -128444,7 +128269,7 @@
 <code>793006</code>
 <name>Автомобільний зарядний пристрій Borofone BZ19B, 48 Вт, USB-A, USB-C</name>
 <description><![CDATA[Автомобільний зарядний пристрій Borofone BZ19B для заряджання сумісних гаджетів у автомобілі. Потужність — 48 Вт. Роз’єми: USB-C + USB-A.]]></description>
-<quantity_in_stock>57</quantity_in_stock>
+<quantity_in_stock>56</quantity_in_stock>
 <param name="Бренд">Borofone</param>
 <param name="Кількість USB портів">1 U | 1 C</param>
 <param name="Зарядні пристрої">Автомобільні</param>
@@ -128804,32 +128629,6 @@
 <param name="Опт від 10 шт">$2.48</param>
 <param name="Drop">$2.97</param>
 </offer>
-<offer id="ts000080716" available="true">
-<url>https://kmt5.com.ua/car-charger-45w-2-pd-hoco-nz16b</url>
-<price>300</price>
-<vendorprice>180</vendorprice>
-<vendorpricedoll>3.91</vendorpricedoll>
-<rrcdoll>6.55</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>88941842</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmYvMmMv0KYtMDAwMDgwNzE2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGEvN2Yv0KYtMDAwMDgwNzE2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjYvZTYv0KYtMDAwMDgwNzE2XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmEvNjAv0KYtMDAwMDgwNzE2XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000080716</vendorCode>
-<code>785832</code>
-<name>Автомобільний зарядний пристрій Hoco NZ16B, 45 Вт, PD, 2×USB-C</name>
-<description><![CDATA[Автомобільний зарядний пристрій Hoco NZ16B для заряджання сумісних гаджетів у автомобілі. Потужність — 45 Вт. Роз’єми: 2×USB-C. Підтримує Power Delivery.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Кількість USB портів">2 Type - C</param>
-<param name="Зарядні пристрої">Автомобільні</param>
-<param name="Опт від 5 шт">$3.65</param>
-<param name="Опт від 7 шт">$3.57</param>
-<param name="Опт від 10 шт">$3.5</param>
-<param name="Drop">$4.18</param>
-</offer>
 <offer id="ts000081844" available="true">
 <url>https://kmt5.com.ua/car-charger-60w-2pd-qc30-hoco-nz18</url>
 <price>550</price>
@@ -129114,7 +128913,7 @@
 <code>770538</code>
 <name>Адаптер живлення 16A 250V</name>
 <description><![CDATA[Мережевий перехідник 16A 250V, 16 А, 250 В призначений для підключення сумісних вилок і пристроїв до відповідного типу розетки.]]></description>
-<quantity_in_stock>332</quantity_in_stock>
+<quantity_in_stock>236</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Зарядні пристрої">Мережевий перехідник</param>
 <param name="Drop">$0.88</param>
@@ -129163,7 +128962,7 @@
 <code>770537</code>
 <name>Адаптер живлення All in one</name>
 <description><![CDATA[Мережевий перехідник All in one призначений для підключення сумісних вилок і пристроїв до відповідного типу розетки.]]></description>
-<quantity_in_stock>23</quantity_in_stock>
+<quantity_in_stock>22</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Опт від 5 шт">$1.15</param>
 <param name="Опт від 7 шт">$1.13</param>
@@ -130240,7 +130039,7 @@
 <code>791869</code>
 <name>Зарядний пристрій Hoco C166A, 65 Вт, PD</name>
 <description><![CDATA[Мережевий зарядний пристрій Hoco C166A для заряджання сумісних смартфонів та інших гаджетів від розетки. Потужність — 65 Вт. Роз’єми: USB-C. Підтримує швидке заряджання Power Delivery.]]></description>
-<quantity_in_stock>16</quantity_in_stock>
+<quantity_in_stock>15</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Кількість USB портів">1 USB-C</param>
 <param name="Drop">$7.59</param>
@@ -130528,7 +130327,7 @@
 <code>787537</code>
 <name>Зарядний пристрій Hoco CS75A, 70 Вт, 2PD, QC 3.0 — Black</name>
 <description><![CDATA[Мережевий зарядний пристрій Hoco CS75A для заряджання сумісних смартфонів та інших гаджетів від розетки. Потужність — 70 Вт. Роз’єми: 2×USB-C + USB-A. Підтримує швидке заряджання Power Delivery. Підтримує QC 3.0.]]></description>
-<quantity_in_stock>63</quantity_in_stock>
+<quantity_in_stock>62</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Кількість USB портів">1 USB | 2 Type - C</param>
 <param name="Зарядні пристрої">Home Chargers</param>
@@ -130552,7 +130351,7 @@
 <code>789054</code>
 <name>Зарядний пристрій Hoco CS92A, 2.1A, USB-A, кабель Micro-USB (1 м)</name>
 <description><![CDATA[Мережевий зарядний пристрій Hoco CS92A для заряджання сумісних смартфонів та інших гаджетів від розетки. Зазначений вихідний струм — 2,1 А. Роз’єми: USB-A. У комплекті зазначено кабель micro-USB 1 м.]]></description>
-<quantity_in_stock>18</quantity_in_stock>
+<quantity_in_stock>13</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Кількість USB портів">1 U</param>
 <param name="Зарядні пристрої">СЗУ &amp; Кабель Micro</param>
@@ -131155,7 +130954,7 @@
 <code>791074</code>
 <name>Зарядний пристрій Veron TC-45, 45 Вт, GaN, Digital Display PD+QC</name>
 <description><![CDATA[Мережевий зарядний пристрій Veron TC-45 для заряджання сумісних смартфонів та інших гаджетів від розетки. Потужність — 45 Вт. Роз’єми: USB-C + USB-A. Підтримує швидке заряджання Power Delivery. Підтримує QC. Використовує технологію GaN. Оснащений дисплеєм.]]></description>
-<quantity_in_stock>29</quantity_in_stock>
+<quantity_in_stock>27</quantity_in_stock>
 <param name="Бренд">VERON</param>
 <param name="Кількість USB портів">1 U | 1 C</param>
 <param name="Drop">$10.12</param>
@@ -131207,7 +131006,7 @@
 <code>770938</code>
 <name>Зарядний пристрій Veron TC-67, 67 Вт, GaN, PPS, 2 PD, QC3.0 LED</name>
 <description><![CDATA[Мережевий зарядний пристрій Veron TC-67 для заряджання сумісних смартфонів та інших гаджетів від розетки. Потужність — 67 Вт. Роз’єми: 2×USB-C + USB-A. Підтримує швидке заряджання Power Delivery. Підтримує QC 3.0. Підтримує PPS. Використовує технологію GaN.]]></description>
-<quantity_in_stock>24</quantity_in_stock>
+<quantity_in_stock>22</quantity_in_stock>
 <param name="Бренд">VERON</param>
 <param name="Кількість USB портів">1 USB | 2 Type - C</param>
 <param name="Зарядні пристрої">Home Chargers</param>
@@ -131257,7 +131056,7 @@
 <code>778543</code>
 <name>Зарядний пристрій Veron TC20, 20 Вт, QC3.0, кабель USB-C – USB-C (1 м)</name>
 <description><![CDATA[Мережевий зарядний пристрій Veron TC20 для заряджання сумісних смартфонів та інших гаджетів від розетки. Потужність — 20 Вт. Роз’єми: USB-A. Підтримує QC 3.0.]]></description>
-<quantity_in_stock>118</quantity_in_stock>
+<quantity_in_stock>113</quantity_in_stock>
 <param name="Опт від 5 шт">$3.22</param>
 <param name="Опт від 7 шт">$3.15</param>
 <param name="Опт від 10 шт">$3.08</param>
@@ -131334,7 +131133,7 @@
 <code>778534</code>
 <name>Зарядний пристрій Veron VR-C18Q, 18 Вт, USB-A, кабель Lightning (1 м)</name>
 <description><![CDATA[Мережевий зарядний пристрій Veron VR-C18Q для заряджання сумісних смартфонів та інших гаджетів від розетки. Потужність — 18 Вт. Роз’єми: USB-A. У комплекті зазначено кабель Lightning 1 м.]]></description>
-<quantity_in_stock>95</quantity_in_stock>
+<quantity_in_stock>93</quantity_in_stock>
 <param name="Бренд">VERON</param>
 <param name="Кількість USB портів">2 USB</param>
 <param name="Зарядні пристрої">СЗУ &amp; Кабель Lightning</param>
@@ -131727,7 +131526,7 @@
 <code>768814</code>
 <name>Мережевий зарядний пристрій Apple MHJE3ZM/A, 35 Вт, 2×USB-C, оригінальний</name>
 <description><![CDATA[Мережевий зарядний пристрій для заряджання сумісних смартфонів, планшетів та інших гаджетів. Потужність — до 35 Вт.]]></description>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <param name="Бренд">Apple</param>
 <param name="Кількість USB портів">2 Type - C</param>
 <param name="Зарядні пристрої">Home Chargers</param>
@@ -131966,6 +131765,34 @@
 <param name="Опт від 10 шт">$5.38</param>
 <param name="Drop">$6.44</param>
 </offer>
+<offer id="ts000073955" available="true">
+<url>https://kmt5.com.ua/avtotrimach-rozsuvniy-na-povtroprovd-z-bezdrotovoyu-zaryadkoyu-15w-baseus-sudd000001-avtomobilnyiy-derjatel-s-besprovodnoy-zaryadkoy</url>
+<price>1200</price>
+<vendorprice>958</vendorprice>
+<vendorpricedoll>20.9</vendorpricedoll>
+<rrcdoll>26.2</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>29376332</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDEvMTQv0KYtMDAwMDczOTU1XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWYvYjkv0KYtMDAwMDczOTU1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWEvMzIv0KYtMDAwMDczOTU1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWIvOGEv0KYtMDAwMDczOTU1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Все</vendor>
+<vendorCode>Ц-000073955</vendorCode>
+<code>759816</code>
+<name>Розсувний автотримач Baseus (SUDD000001) Halo Electric, на повітропровід, бездротова зарядка 15 Вт — Black</name>
+<description><![CDATA[Розсувний автотримач Baseus (SUDD000001) Halo Electric, на повітропровід, бездротова зарядка 15 Вт — Black призначений для фіксації смартфона в салоні автомобіля. Основні характеристики: • Тип: розсувний автомобільний тримач • Кріплення в автомобілі: решітка повітропроводу • Бездротова зарядка: 15 Вт • Колір: чорний • Особливості: механічні розсувні затискачі]]></description>
+<quantity_in_stock>1</quantity_in_stock>
+<param name="Бренд">Baseus</param>
+<param name="Автоаксесуари">Автотримачі</param>
+<param name="Спосіб встановлення">На повітропровід</param>
+<param name="Зарядні пристрої">Автомобільний Тримач з Бездротовою Зарядкою</param>
+<param name="Сила струму та потужність">15W</param>
+<param name="Опт від 3 шт">$20.06</param>
+<param name="Опт від 7 шт">$19.65</param>
+<param name="Опт від 10 шт">$19.23</param>
+<param name="Drop">$22.99</param>
+</offer>
 <offer id="ts000058199000013718" available="true">
 <url>https://kmt5.com.ua/baseus-wxylb-wireless-charger-10w-gravity-car-mount-tarnish</url>
 <price>720</price>
@@ -132116,29 +131943,6 @@
 <param name="Опт від 7 шт">$11.96</param>
 <param name="Drop">$14.3</param>
 </offer>
-<offer id="ts000078862" available="true">
-<url>https://kmt5.com.ua/usb-flash-drive-16gb-veron-usb-metal-seies-105</url>
-<price>300</price>
-<vendorprice>239</vendorprice>
-<vendorpricedoll>5.2</vendorpricedoll>
-<rrcdoll>6.55</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>41340662</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTMvYWUv0KYtMDAwMDc4ODYyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWUvMmEv0KYtMDAwMDc4ODYyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>VERON</vendor>
-<vendorCode>Ц-000078862</vendorCode>
-<code>778365</code>
-<name>USB-флешнакопичувач Veron Metal Series 105, 16 ГБ, USB, металевий</name>
-<description><![CDATA[USB-флешнакопичувач Veron Metal Series 105 місткістю 16 ГБ призначений для зберігання та перенесення файлів. Підключення здійснюється через USB. Металевий корпус підвищує стійкість накопичувача до щоденного використання.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">VERON</param>
-<param name="Накопичувачі інформації">USB-флеш-накопичувач</param>
-<param name="Опт від 3 шт">$4.85</param>
-<param name="Опт від 5 шт">$4.75</param>
-<param name="Опт від 7 шт">$4.65</param>
-<param name="Drop">$5.56</param>
-</offer>
 <offer id="ts000078924" available="true">
 <url>https://kmt5.com.ua/usb-flash-drive-32gb-veron-usb-metal-seies-105</url>
 <price>350</price>
@@ -132155,7 +131959,7 @@
 <code>778435</code>
 <name>USB-флешнакопичувач Veron Metal Series 105, 32 ГБ, USB, металевий</name>
 <description><![CDATA[USB-флешнакопичувач Veron Metal Series 105 місткістю 32 ГБ призначений для зберігання та перенесення файлів. Підключення здійснюється через USB. Металевий корпус підвищує стійкість накопичувача до щоденного використання.]]></description>
-<quantity_in_stock>14</quantity_in_stock>
+<quantity_in_stock>11</quantity_in_stock>
 <param name="Бренд">VERON</param>
 <param name="Накопичувачі інформації">USB-флеш-накопичувач</param>
 <param name="Опт від 3 шт">$5.9</param>
@@ -132225,7 +132029,7 @@
 <code>778359</code>
 <name>Карта пам’яті Veron microSDXC, 128 ГБ, UHS-3, клас 10, з адаптером</name>
 <description><![CDATA[Карта пам’яті Veron microSDXC місткістю 128 ГБ призначена для зберігання фото, відео та інших файлів у сумісних пристроях. Комплектний адаптер дає змогу використовувати карту в повнорозмірному SD-слоті.]]></description>
-<quantity_in_stock>31</quantity_in_stock>
+<quantity_in_stock>30</quantity_in_stock>
 <param name="Бренд">VERON</param>
 <param name="Накопичувачі інформації">Карта пам'яті</param>
 <param name="Опт від 3 шт">$19.06</param>
@@ -132396,7 +132200,7 @@
 <code>778364</code>
 <name>USB-флешнакопичувач Veron Metal Series 105, 64 ГБ, USB, металевий</name>
 <description><![CDATA[USB-флешнакопичувач Veron Metal Series 105 місткістю 64 ГБ призначений для зберігання та перенесення файлів. Підключення здійснюється через USB. Металевий корпус підвищує стійкість накопичувача до щоденного використання.]]></description>
-<quantity_in_stock>23</quantity_in_stock>
+<quantity_in_stock>21</quantity_in_stock>
 <param name="Бренд">VERON</param>
 <param name="Накопичувачі інформації">USB-флеш-накопичувач</param>
 <param name="Опт від 3 шт">$7.39</param>
@@ -132420,7 +132224,7 @@
 <code>780058</code>
 <name>USB-флешнакопичувач Veron Vega Series 121, 32 ГБ, USB</name>
 <description><![CDATA[USB-флешнакопичувач Veron Vega Series 121 місткістю 32 ГБ призначений для зберігання та перенесення файлів. Підключення здійснюється через USB.]]></description>
-<quantity_in_stock>64</quantity_in_stock>
+<quantity_in_stock>62</quantity_in_stock>
 <param name="Бренд">VERON</param>
 <param name="Накопичувачі інформації">USB-флеш-накопичувач</param>
 <param name="Опт від 3 шт">$5.76</param>
@@ -132444,7 +132248,7 @@
 <code>780060</code>
 <name>USB-флешнакопичувач Veron Vega Series 121, 64 ГБ, USB</name>
 <description><![CDATA[USB-флешнакопичувач Veron Vega Series 121 місткістю 64 ГБ призначений для зберігання та перенесення файлів. Підключення здійснюється через USB.]]></description>
-<quantity_in_stock>27</quantity_in_stock>
+<quantity_in_stock>25</quantity_in_stock>
 <param name="Бренд">VERON</param>
 <param name="Накопичувачі інформації">USB-флеш-накопичувач</param>
 <param name="Опт від 3 шт">$6.53</param>
@@ -132847,7 +132651,7 @@
 <code>789047</code>
 <name>USB-хаб Hoco HB1B, USB-A → 4 × USB-A</name>
 <description><![CDATA[USB-хаб Hoco HB1B, USB-A → 4 × USB-A розширює кількість доступних портів для підключення периферії та накопичувачів. Перед використанням варто перевірити сумісність роз’ємів із пристроєм.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Кількість USB портів">4 USB</param>
 <param name="Опт від 3 шт">$3.62</param>
@@ -132950,7 +132754,7 @@
 <code>791050</code>
 <name>USB-хаб Veron H4A, USB-A → 4 × USB-A</name>
 <description><![CDATA[1. Матеріал: Алюмінієвий сплав + плетений дріт 2. Розмір: 94,6 * 15 * 7,5 мм ± 0,5 мм; Вага: 44 г 3. Інтерфейс: USB до USB 2.0 * 4 4. Теоретична швидкість передачі: до 480 Мбіт/с 5. Розширте 4 USB-порти, які можна використовувати одночасно]]></description>
-<quantity_in_stock>153</quantity_in_stock>
+<quantity_in_stock>152</quantity_in_stock>
 <param name="Бренд">VERON</param>
 <param name="Кількість USB портів">4 USB</param>
 <param name="Опт від 3 шт">$3.28</param>
@@ -133393,7 +133197,7 @@
 <code>789040</code>
 <name>Ігрові напальчники для смартфона Hoco GA20</name>
 <description><![CDATA[Ігрові напальчники для смартфона Hoco GA20 допомагають точніше керувати грою на смартфоні та зменшують ковзання пальців під час тривалих сесій.]]></description>
-<quantity_in_stock>54</quantity_in_stock>
+<quantity_in_stock>52</quantity_in_stock>
 <param name="Опт від 3 шт">$0.36</param>
 <param name="Опт від 5 шт">$0.35</param>
 <param name="Опт від 7 шт">$0.34</param>
@@ -133507,7 +133311,7 @@
 <code>778606</code>
 <name>Ігрова дротова миша M63 RGB, USB, 6400 dpi</name>
 <description><![CDATA[Ігрова дротова миша M63 RGB, USB, 6400 dpi підходить для роботи та навчання, а ігрові моделі — також для динамічних ігор. Дротове підключення забезпечує стабільний зв’язок без потреби заряджати акумулятор.]]></description>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Особливості">RGB Color</param>
 <param name="Комп'ютерні аксесуари">Комп'ютерні миші</param>
@@ -133829,7 +133633,7 @@
 <code>786397</code>
 <name>Ігровий геймпад W8019</name>
 <description><![CDATA[Ігровий геймпад W8019 забезпечує зручне керування в сумісних іграх. Тип підключення та сумісність залежать від моделі й зазначених у назві характеристик.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Опт від 3 шт">$4.51</param>
 <param name="Опт від 5 шт">$4.42</param>
@@ -133878,7 +133682,7 @@
 <code>747378</code>
 <name>Ігровий геймпад X3</name>
 <description><![CDATA[Ігровий геймпад X3 підключається через Bluetooth до смартфонів, планшетів, Smart TV та комп’ютерів. Має тримач для смартфона, акумулятор 400 мА·год і підтримку Plug-and-Play; заряджання триває близько 3 годин.]]></description>
-<quantity_in_stock>6</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Опт від 3 шт">$4.99</param>
 <param name="Опт від 5 шт">$4.89</param>
@@ -133991,7 +133795,7 @@
 <code>775062</code>
 <name>Адаптер DisplayPort → HDMI, 4K — Black</name>
 <description><![CDATA[Адаптер DisplayPort → HDMI, 4K призначений для з’єднання пристроїв із відповідними інтерфейсами. Перед покупкою слід звірити типи штекерів і гнізд, зазначені в назві.]]></description>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Адаптери">Адаптер 4K DP To HDMI</param>
 <param name="Комп'ютерні аксесуари">Перехідники</param>
@@ -134482,7 +134286,7 @@
 <code>789018</code>
 <name>Адаптер USB-C — HDTV — Hoco UA43</name>
 <description><![CDATA[Компактний перехідник для з’єднання пристроїв та аксесуарів із зазначеними в назві інтерфейсами.]]></description>
-<quantity_in_stock>10</quantity_in_stock>
+<quantity_in_stock>9</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Опт від 5 шт">$4.42</param>
 <param name="Опт від 7 шт">$4.32</param>
@@ -134528,7 +134332,7 @@
 <code>785997</code>
 <name>Адаптер USB-C — Magsafe2</name>
 <description><![CDATA[Компактний перехідник для з’єднання пристроїв та аксесуарів із зазначеними в назві інтерфейсами.]]></description>
-<quantity_in_stock>25</quantity_in_stock>
+<quantity_in_stock>24</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Опт від 5 шт">$4.7</param>
 <param name="Опт від 7 шт">$4.61</param>
@@ -134552,7 +134356,7 @@
 <code>785841</code>
 <name>Адаптер USB-C — RJ45 — Hoco UA35</name>
 <description><![CDATA[Компактний перехідник для з’єднання пристроїв та аксесуарів із зазначеними в назві інтерфейсами.]]></description>
-<quantity_in_stock>90</quantity_in_stock>
+<quantity_in_stock>89</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Опт від 5 шт">$3.36</param>
 <param name="Опт від 7 шт">$3.29</param>
@@ -134627,7 +134431,7 @@
 <code>782955</code>
 <name>Адаптер USB-C, 100 Вт, DC with 10 adapters</name>
 <description><![CDATA[Перехідник USB-C на DC with 10 adapters, 100 Вт призначений для з’єднання сумісних пристроїв через зазначені типи роз’ємів.]]></description>
-<quantity_in_stock>186</quantity_in_stock>
+<quantity_in_stock>183</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Опт від 5 шт">$4.03</param>
 <param name="Опт від 7 шт">$3.95</param>
@@ -134856,7 +134660,7 @@
 <code>786841</code>
 <name>Бездротова клавіатура K100 Double, 2.4 ГГц, USB</name>
 <description><![CDATA[Бездротовий комплект клавіатури та миші з підтримкою двох режимів підключення Універсальний комплект для дому чи офісу, який поєднує функціональність, зручність і сучасний дизайн. Завдяки підтримці USB та PS/2+USB, пристрої легко інтегруються з більшістю комп’ютерів. Водостійкість та захист від падінь роблять цей комплект надійним у щоденному використанні. Основні характеристики: Тип клавіатури: стандартна, 100 клавіш Тип перемикачів: чорні перемикачі (не механічні) Інтерфейс клавіатури: USB / PS/2 + USB Мультимедійні клавіші: присутні Особливості: водостійкість, стійкість до падінь Матеріал корпусу: ABS пластик Колір: чорний / білий Призначення: для дому та офісу Миша: Тип підключення: бездротова DPI: 1000 Інтерфейс: Type-C приймач Функції: водостійкість, захист від падінь Додатково: Стиль: багатофункціональний Стан: в наявності Приватна форма: ні Цей комплект ідеально підійде для користувачів, які цінують надійність, функціональність та простоту підключення.]]></description>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Опт від 3 шт">$12.29</param>
 <param name="Опт від 5 шт">$12.03</param>
@@ -135179,7 +134983,7 @@
 <code>788019</code>
 <name>Дротові навушники Hoco W113, ігрові, з мікрофоном</name>
 <description><![CDATA[1. Динамік: 50 мм 2. Інтерфейс: USB-штекер 3. Мікрофон: Всеспрямований мікрофон; Розмір: Φ 6.0 * 5.0 мм 4. Розмір виробу: 201 * 171 * 93 мм; довжина дроту: 2 м; вага: 305 г 5. Оснащений регулюванням гучності та перемикачем мікрофона 6. Оснащений аудіокабелем-адаптером для одного-двох аудіопортів, його можна використовувати для настільних комп'ютерів або ноутбуків з двома аудіопортами]]></description>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Опт від 2 шт">$11.42</param>
 <param name="Опт від 3 шт">$11.19</param>
@@ -135248,7 +135052,7 @@
 <code>791706</code>
 <name>Дротові навушники Hoco W118, ігрові, з мікрофоном</name>
 <description><![CDATA[Дротові навушники Hoco W118 для прослуховування аудіо на сумісних пристроях. Використовують дротове підключення. Вбудований мікрофон підходить для голосового спілкування та дзвінків. Ігрове виконання розраховане на прослуховування звуку та голосове спілкування під час гри.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Опт від 2 шт">$7.87</param>
 <param name="Опт від 3 шт">$7.71</param>
@@ -135272,7 +135076,7 @@
 <code>749433</code>
 <name>Дротові навушники Hoco W21, повнорозмірні, 3.5 мм, з мікрофоном — Black</name>
 <description><![CDATA[Дротові навушники Hoco W21, повнорозмірні, 3.5 мм, з мікрофоном призначені для прослуховування музики та телефонних розмов. Дротове підключення забезпечує стабільну передачу звуку без потреби заряджати навушники. Вбудований у кабель мікрофон дає змогу відповідати на дзвінки. Основні характеристики: тип навушників — накладні; мікрофон — вбудований; роз’єм — AUX; діапазон частот — 20 – 20000; матеріал — пластик soft touch; опір — 32; динамік — 40 мм; довжина кабелю — 1.2.]]></description>
-<quantity_in_stock>8</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Опт від 2 шт">$4.8</param>
 <param name="Опт від 3 шт">$4.7</param>
@@ -135434,7 +135238,7 @@
 <code>787933</code>
 <name>Дротова миша Genius NetScroll Eye G-4111, USB</name>
 <description><![CDATA[Дротова миша Genius NetScroll Eye G-4111, USB — зручний маніпулятор для роботи, навчання та повсякденного користування. Дротове підключення забезпечує стабільну роботу без потреби заряджати акумулятор.]]></description>
-<quantity_in_stock>6</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Комп'ютерні аксесуари">Комп'ютерні миші</param>
 <param name="Опт від 3 шт">$1.3</param>
@@ -135481,7 +135285,7 @@
 <code>791835</code>
 <name>Дротова миша Hoco GM601, USB</name>
 <description><![CDATA[Дротова миша Hoco GM601, USB — зручний маніпулятор для роботи, навчання та повсякденного користування. Дротове підключення забезпечує стабільну роботу без потреби заряджати акумулятор.]]></description>
-<quantity_in_stock>10</quantity_in_stock>
+<quantity_in_stock>9</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Drop">$4.73</param>
 </offer>
@@ -135699,7 +135503,7 @@
 <code>788847</code>
 <name>Захисна накладка на клавіатуру Silicon Air M1 EU, українська, російська та англійська розкладки</name>
 <description><![CDATA[Захисна накладка на клавіатуру Silicon Air M1 EU, українська, російська та англійська розкладки захищає клавіші від пилу, вологи та повсякденних забруднень. Перед покупкою потрібно звірити модель і діагональ пристрою.]]></description>
-<quantity_in_stock>20</quantity_in_stock>
+<quantity_in_stock>19</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Опт від 3 шт">$1.06</param>
 <param name="Опт від 5 шт">$1.03</param>
@@ -135786,7 +135590,7 @@
 <code>753940</code>
 <name>Захисна плівка для клавіатури Macbook 13 Air</name>
 <description><![CDATA[Захисна плівка для клавіатури Macbook 13 Air захищає клавіші від пилу, вологи та повсякденних забруднень. Перед покупкою потрібно звірити модель і діагональ пристрою.]]></description>
-<quantity_in_stock>20</quantity_in_stock>
+<quantity_in_stock>19</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Macbook Air 13</param>
 <param name="Опт від 3 шт">$2.92</param>
@@ -136106,7 +135910,7 @@
 <code>702519</code>
 <name>Кабель VGA (M) → VGA (M), 1.5 м — Black</name>
 <description><![CDATA[Кабель VGA (M) → VGA (M), 1.5 м призначений для надійного з’єднання сумісних пристроїв. Типи роз’ємів, стандарт і довжина наведені в назві товару.]]></description>
-<quantity_in_stock>7</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Довжина кабелю">1.5m</param>
 <param name="Комп'ютерні аксесуари">Кабелі</param>
@@ -136259,31 +136063,6 @@
 <param name="Опт від 7 шт">$0.78</param>
 <param name="Drop">$0.94</param>
 </offer>
-<offer id="ts000033565" available="true">
-<url>https://kmt5.com.ua/udlinitel-usb-10m-black</url>
-<price>250</price>
-<vendorprice>145</vendorprice>
-<vendorpricedoll>3.16</vendorpricedoll>
-<rrcdoll>5.46</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>30757861</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGQvMjQv0KYtMDAwMDMzNTY1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWYvZGUv0KYtMDAwMDMzNTY1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjEvNjEv0KYtMDAwMDMzNTY1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000033565</vendorCode>
-<code>702518</code>
-<name>Кабель-подовжувач USB-A (M) → USB-A (F), 10 м — Black</name>
-<description><![CDATA[Кабель-подовжувач USB-A (M) → USB-A (F), 10 м призначений для надійного з’єднання сумісних пристроїв. Типи роз’ємів, стандарт і довжина наведені в назві товару.]]></description>
-<quantity_in_stock>7</quantity_in_stock>
-<param name="Бренд">Различные</param>
-<param name="Довжина кабелю">10m</param>
-<param name="Комп'ютерні аксесуари">Кабелі</param>
-<param name="Опт від 3 шт">$2.86</param>
-<param name="Опт від 5 шт">$2.8</param>
-<param name="Опт від 7 шт">$2.74</param>
-<param name="Drop">$3.28</param>
-</offer>
 <offer id="ts000033563" available="true">
 <url>https://kmt5.com.ua/udlinitel-usb-3m-black</url>
 <price>100</price>
@@ -136323,7 +136102,7 @@
 <code>790975</code>
 <name>Кабель-розгалужувач живлення 1 гніздо — 2 штекер 5,5×2,1 мм DC</name>
 <description><![CDATA[Кабель-розгалужувач DC для підключення кількох сумісних пристроїв до одного джерела живлення.]]></description>
-<quantity_in_stock>119</quantity_in_stock>
+<quantity_in_stock>114</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Роз'єм підключення">Кабель живлення DC</param>
 <param name="Довжина кабелю">1m</param>
@@ -136499,7 +136278,7 @@
 <code>786381</code>
 <name>Кардридер Hoco HB45 Spirit, USB-A + USB-C, USB 2.0, 2 в 1</name>
 <description><![CDATA[Кардридер Hoco HB45 Spirit, USB-A + USB-C, USB 2.0, 2 в 1 призначений для читання та передавання даних із сумісних карт пам’яті. Компактний формат зручний для роботи з файлами на комп’ютері, планшеті або смартфоні.]]></description>
-<quantity_in_stock>32</quantity_in_stock>
+<quantity_in_stock>31</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Опт від 3 шт">$1.42</param>
 <param name="Опт від 5 шт">$1.39</param>
@@ -136566,7 +136345,7 @@
 <code>780054</code>
 <name>Карта пам’яті Veron microSDHC, 16 ГБ, UHS-I, клас 10, з адаптером</name>
 <description><![CDATA[Карта пам’яті Veron microSDHC місткістю 16 ГБ призначена для зберігання фото, відео та інших файлів у сумісних пристроях. Комплектний адаптер дає змогу використовувати карту в повнорозмірному SD-слоті.]]></description>
-<quantity_in_stock>6</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <param name="Бренд">VERON</param>
 <param name="Накопичувачі інформації">Карта пам'яті</param>
 <param name="Опт від 3 шт">$4.85</param>
@@ -137017,7 +136796,7 @@
 <code>787796</code>
 <name>Килимок для миші, 400 × 900 × 3 мм, OPP-пакування — Горы</name>
 <description><![CDATA[Килимок для миші, 400 × 900 × 3 мм, OPP-пакування створює рівну поверхню для точного й плавного переміщення миші. Розмір та додаткові особливості вказані в назві.]]></description>
-<quantity_in_stock>8</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Опт від 3 шт">$4.75</param>
 <param name="Опт від 5 шт">$4.65</param>
@@ -137200,32 +136979,6 @@
 <param name="Опт від 5 шт">$0.71</param>
 <param name="Опт від 7 шт">$0.69</param>
 <param name="Drop">$0.83</param>
-</offer>
-<offer id="ts000078724" available="true">
-<url>https://kmt5.com.ua/besprovodnaya-opticheskaya-myish-ruchka-hoco-gm200</url>
-<price>300</price>
-<vendorprice>161</vendorprice>
-<vendorpricedoll>3.5</vendorpricedoll>
-<rrcdoll>6.55</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>8698087</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGQvZDYv0KYtMDAwMDc4NzI0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDQvMmQv0KYtMDAwMDc4NzI0XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGMvODkv0KYtMDAwMDc4NzI0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmYvYmMv0KYtMDAwMDc4NzI0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTMvYWYv0KYtMDAwMDc4NzI0XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWMvYjQv0KYtMDAwMDc4NzI0XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWYvZDEv0KYtMDAwMDc4NzI0XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000078724</vendorCode>
-<code>778216</code>
-<name>Лазерний презентер Hoco GM200 Smart, 2.4 ГГц + Bluetooth, USB-A-приймач, червоний лазер</name>
-<description><![CDATA[Лазерний презентер Hoco GM200 Smart має корпус з ABS-пластику та підтримує бездротове керування на частоті 2.4 ГГц і через Bluetooth. Працює від батарейки AAA (№7), оснащений червоним лазером. Підтримує перехід у повноекранний режим, увімкнення чорного екрана та гортання сторінок вгору і вниз однією кнопкою.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
-<param name="Опт від 3 шт">$3.17</param>
-<param name="Опт від 5 шт">$3.1</param>
-<param name="Опт від 7 шт">$3.04</param>
-<param name="Drop">$3.63</param>
 </offer>
 <offer id="ts000079102" available="true">
 <url>https://kmt5.com.ua/mikrofon-dlya-pk-mico</url>
@@ -137422,7 +137175,7 @@
 <code>777808</code>
 <name>Наліпки на клавіатуру, українська розкладка — White</name>
 <description><![CDATA[Наліпки на клавіатуру, українська розкладка допомагають оновити або додати потрібне маркування клавіш. Наносяться на очищену суху поверхню клавіатури.]]></description>
-<quantity_in_stock>102</quantity_in_stock>
+<quantity_in_stock>100</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Опт від 3 шт">$0.29</param>
 <param name="Опт від 5 шт">$0.28</param>
@@ -138198,7 +137951,7 @@
 <code>756395</code>
 <name>Портативна Bluetooth-колонка Hoco HC16 Vocal sports — Black</name>
 <description><![CDATA[Портативна Bluetooth-колонка Hoco HC16 Vocal sports призначена для бездротового відтворення музики зі смартфона, планшета або іншого Bluetooth-пристрою. Портативне виконання зручне для використання вдома, у поїздках і на відпочинку.]]></description>
-<quantity_in_stock>10</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Опт від 2 шт">$8.54</param>
 <param name="Опт від 3 шт">$8.37</param>
@@ -138982,7 +138735,7 @@
 <code>708214</code>
 <name>Набір для чищення FH-HB021</name>
 <description><![CDATA[Набір для чищення FH-HB021 призначений для догляду за дисплеями телевізорів, моніторів, ноутбуків, смартфонів та оптикою. Допомагає видаляти пил і сліди з поверхні без пошкодження покриття.]]></description>
-<quantity_in_stock>16</quantity_in_stock>
+<quantity_in_stock>14</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Опт від 3 шт">$0.91</param>
 <param name="Опт від 5 шт">$0.89</param>
@@ -139578,7 +139331,7 @@
 <code>755116</code>
 <name>LED-відеосвітло M777, 28 × 40 см, 160 світлодіодів, 3000 K-6500 K, заповнювальне світло</name>
 <description><![CDATA[LED-відеосвітло для фото- й відеозйомки, стримів та предметного контенту; підходить як основне або заповнювальне джерело світла. Ключові характеристики: колірна температура 3000–6500 K, 160 LED, розмір 28×40 см.]]></description>
-<quantity_in_stock>7</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Вихідна потужність (W)">85W</param>
 <param name="Особливості">Fill Light</param>
@@ -139776,7 +139529,7 @@
 <code>786423</code>
 <name>LED-відеосвітло Pro 800, панельне світло, 2 акумулятор(4400 мА·год), зарядний пристрій, сумка I</name>
 <description><![CDATA[LED-відеосвітло для фото- й відеозйомки, стримів та предметного контенту; підходить як основне або заповнювальне джерело світла. Ключові характеристики: акумулятор 4400 мА·год.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Опт від 2 шт">$36.48</param>
 <param name="Опт від 3 шт">$35.72</param>
@@ -140119,7 +139872,7 @@
 <code>770606</code>
 <name>LED-відеосвітло U600, 21 × 12 см, 480 світлодіодів, 3200 K-5500 K, пульт ДК</name>
 <description><![CDATA[LED-відеосвітло для фото- й відеозйомки, стримів та предметного контенту; підходить як основне або заповнювальне джерело світла. Ключові характеристики: колірна температура 3200–5500 K, 480 LED, розмір 21×12 см, пульт ДК.]]></description>
-<quantity_in_stock>20</quantity_in_stock>
+<quantity_in_stock>11</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Особливості">З пультом</param>
 <param name="Студійне обладнання">Лампа відеосвітло</param>
@@ -140684,7 +140437,7 @@
 <code>778467</code>
 <name>Акумулятор F550/F570, для відеосвітла, 7,4 В, 2400 мА·год, 17,8 Вт·год</name>
 <description><![CDATA[Акумулятор для сумісного LED-відеосвітла та фото/відеотехніки, призначений для автономної роботи обладнання без підключення до мережі. Ключові характеристики: акумулятор 2400 мА·год, сумісність F550/F570, напруга 7,4 В, енергія 17,8 Вт·год.]]></description>
-<quantity_in_stock>298</quantity_in_stock>
+<quantity_in_stock>296</quantity_in_stock>
 <param name="Опт від 2 шт">$2.35</param>
 <param name="Опт від 3 шт">$2.3</param>
 <param name="Опт від 5 шт">$2.25</param>
@@ -140726,7 +140479,7 @@
 <code>780126</code>
 <name>Акумулятор F960/F970, для відеосвітла, 7,2 В, 6600 мА·год, 47,52 Вт·год</name>
 <description><![CDATA[Акумулятор для сумісного LED-відеосвітла та фото/відеотехніки, призначений для автономної роботи обладнання без підключення до мережі. Ключові характеристики: акумулятор 6600 мА·год, сумісність F960/F970, напруга 7,2 В, енергія 47,52 Вт·год.]]></description>
-<quantity_in_stock>92</quantity_in_stock>
+<quantity_in_stock>88</quantity_in_stock>
 <param name="Опт від 2 шт">$4.94</param>
 <param name="Опт від 3 шт">$4.84</param>
 <param name="Опт від 5 шт">$4.74</param>
@@ -140827,29 +140580,6 @@
 <param name="Опт від 5 шт">$5.8</param>
 <param name="Drop">$6.93</param>
 </offer>
-<offer id="ts000083499" available="true">
-<url>https://kmt5.com.ua/mnogofunktsionalnyiy-derjatelzajim-jmary-bh05-dlya-telefona</url>
-<price>280</price>
-<vendorprice>156</vendorprice>
-<vendorpricedoll>3.4</vendorpricedoll>
-<rrcdoll>6.11</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>13825852</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDAvMTUv0KYtMDAwMDgzNDk5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDMvNGEv0KYtMDAwMDgzNDk5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzMvYTgv0KYtMDAwMDgzNDk5XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000083499</vendorCode>
-<code>790721</code>
-<name>Багатофункціональний тримач Jmary BH-05, затискач для телефона</name>
-<description><![CDATA[Тримач або кріплення для фото- та відеообладнання, яке допомагає надійно зафіксувати смартфон, камеру, лампу чи аксесуар. Модель/виконання: Jmary BH-05.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
-<param name="Бренд">Jmary</param>
-<param name="Опт від 2 шт">$3.17</param>
-<param name="Опт від 3 шт">$3.1</param>
-<param name="Опт від 5 шт">$3.04</param>
-<param name="Drop">$3.63</param>
-</offer>
 <offer id="ts000083752" available="true">
 <url>https://kmt5.com.ua/mnogofunktsionalnyiy-derjatelzajim-for-stand-dlya-telefona</url>
 <price>211</price>
@@ -140859,7 +140589,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>22618992</categoryId>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWUvMTMv0KYtMDAwMDgzNzUyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
+<vendor>Различные</vendor>
 <vendorCode>Ц-000083752</vendorCode>
 <code>791084</code>
 <name>Багатофункціональний тримач затискач For Stand для телефона</name>
@@ -140886,7 +140616,7 @@
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWMvZmIv0KYtMDAwMDgzNTkxXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTUvNDAv0KYtMDAwMDgzNTkxXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDIvM2Ev0KYtMDAwMDgzNTkxXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
+<vendor>Различные</vendor>
 <vendorCode>Ц-000083591</vendorCode>
 <code>790873</code>
 <name>Багатофункціональний тримач затискач MagSafe Z30-C для телефона</name>
@@ -140913,12 +140643,12 @@
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTYvZTIv0KYtMDAwMDc1NDM3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTUvODAv0KYtMDAwMDc1NDM3XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGYvODkv0KYtMDAwMDc1NDM3XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
+<vendor>Различные</vendor>
 <vendorCode>Ц-000075437</vendorCode>
 <code>770461</code>
 <name>Багатофункціональний тримач затискач PH-07 для телефона</name>
 <description><![CDATA[Тримач або кріплення для фото- та відеообладнання, яке допомагає надійно зафіксувати смартфон, камеру, лампу чи аксесуар. Модель/виконання: PH-07.]]></description>
-<quantity_in_stock>19</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Опт від 2 шт">$2.02</param>
 <param name="Опт від 3 шт">$1.97</param>
@@ -140941,12 +140671,12 @@
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzIvOTYv0KYtMDAwMDc1ODgzXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzQvMjkv0KYtMDAwMDc1ODgzXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTkvMjUv0KYtMDAwMDc1ODgzXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
+<vendor>Различные</vendor>
 <vendorCode>Ц-000075883</vendorCode>
 <code>771385</code>
 <name>Багатофункціональний тримач затискач PH-09 для телефона</name>
 <description><![CDATA[Тримач або кріплення для фото- та відеообладнання, яке допомагає надійно зафіксувати смартфон, камеру, лампу чи аксесуар. Модель/виконання: PH-09.]]></description>
-<quantity_in_stock>32</quantity_in_stock>
+<quantity_in_stock>27</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Опт від 2 шт">$1.73</param>
 <param name="Опт від 3 шт">$1.69</param>
@@ -140969,7 +140699,7 @@
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWIvZDgv0KYtMDAwMDc1ODgyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGMvODQv0KYtMDAwMDc1ODgyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGMvMzIv0KYtMDAwMDc1ODgyXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
+<vendor>Различные</vendor>
 <vendorCode>Ц-000075882</vendorCode>
 <code>771384</code>
 <name>Багатофункціональний тримач затискач PH-17 для телефона ки планшета</name>
@@ -140992,7 +140722,7 @@
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWIvODMv0KYtMDAwMDgzNzQ5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDAvODEv0KYtMDAwMDgzNzQ5XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjUvN2Yv0KYtMDAwMDgzNzQ5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
+<vendor>Различные</vendor>
 <vendorCode>Ц-000083749</vendorCode>
 <code>791081</code>
 <name>Багатофункціональний тримач затискач на 360* на штатив поворотный с резьбой 1/4</name>
@@ -142025,7 +141755,7 @@
 <code>780144</code>
 <name>Блок живлення універсальний HJ-1250 12 В, 5 А с разъемом 5,5 × 2,5 мм</name>
 <description><![CDATA[Блок живлення для LED-відеосвітла та сумісного обладнання, призначений для стабільної роботи від електромережі. Ключові характеристики: адаптер/блок живлення, напруга 12 В, струм 5 А.]]></description>
-<quantity_in_stock>43</quantity_in_stock>
+<quantity_in_stock>41</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Мережеве обладнання">Зарядні пристрої для роутерів</param>
 <param name="Опт від 2 шт">$2.86</param>
@@ -142166,7 +141896,7 @@
 <code>788108</code>
 <name>Журавль + шарнирное кріплення + тримач для телефона</name>
 <description><![CDATA[Тримач або кріплення для фото- та відеообладнання, яке допомагає надійно зафіксувати смартфон, камеру, лампу чи аксесуар. Модель/виконання: Журавель + Шарнірне кріплення + тримач для смартфона.]]></description>
-<quantity_in_stock>63</quantity_in_stock>
+<quantity_in_stock>61</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Опт від 2 шт">$2.59</param>
 <param name="Опт від 3 шт">$2.54</param>
@@ -142209,40 +141939,11 @@
 <code>778469</code>
 <name>Зарядний пристрій NP-F550/F570/F750/F770/F950/F960/F970, для LED-освітлення, для акумулятора</name>
 <description><![CDATA[Зарядний пристрій для сумісних акумуляторів фото- та відеообладнання; забезпечує зручне заряджання батарей між зйомками. Ключові характеристики: сумісність F550/F570/F750/F770/F950/F960, сумісність F550/F570/F730/F750/F770/F950.]]></description>
-<quantity_in_stock>330</quantity_in_stock>
+<quantity_in_stock>329</quantity_in_stock>
 <param name="Опт від 2 шт">$1.78</param>
 <param name="Опт від 3 шт">$1.74</param>
 <param name="Опт від 5 шт">$1.7</param>
 <param name="Drop">$2.04</param>
-</offer>
-<offer id="ts000073805" available="true">
-<url>https://kmt5.com.ua/lampa-koltsevaya-rgb-led-26-cm-10-96-lights-18-rgb-3d26</url>
-<price>450</price>
-<vendorprice>268</vendorprice>
-<vendorpricedoll>5.83</vendorpricedoll>
-<rrcdoll>9.83</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>55912833</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTAvMWEv0KYtMDAwMDczODA1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGUvZDAv0KYtMDAwMDczODA1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODEvZTQv0KYtMDAwMDczODA1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000073805</vendorCode>
-<code>756482</code>
-<name>Кільцева LED-лампа 3D-26, RGB, 26 см, 10″, 96 світлодіодів, 18 RGB</name>
-<description><![CDATA[Кільцева LED-лампа для фото, відео, б’юті-процедур і створення контенту; дає рівномірне фронтальне освітлення та допомагає зменшити різкі тіні. Ключові характеристики: 96 LED, RGB, діаметр 26 см.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Бренд">Различные</param>
-<param name="Кнопки керування">Пульт на кабелі</param>
-<param name="Живлення лампи">USB 5V</param>
-<param name="Особливості">RGB Color</param>
-<param name="Студійне обладнання">Кільцеві лампи</param>
-<param name="Кількість світлодіодів">96 + 18 RGB</param>
-<param name="Розмір">26 cm</param>
-<param name="Опт від 2 шт">$5.28</param>
-<param name="Опт від 3 шт">$5.17</param>
-<param name="Опт від 5 шт">$5.06</param>
-<param name="Drop">$6.05</param>
 </offer>
 <offer id="ts000073806" available="true">
 <url>https://kmt5.com.ua/lampa-koltsevaya-rgb-led-30-cm-12-120-lights-21-rgb-rd30</url>
@@ -142261,7 +141962,7 @@
 <code>756483</code>
 <name>Кільцева LED-лампа 3D-30, RGB, 30 см, 12″, 120 світлодіодів, 21 RGB</name>
 <description><![CDATA[Кільцева LED-лампа для фото, відео, б’юті-процедур і створення контенту; дає рівномірне фронтальне освітлення та допомагає зменшити різкі тіні. Ключові характеристики: 120 LED, RGB, діаметр 30 см.]]></description>
-<quantity_in_stock>17</quantity_in_stock>
+<quantity_in_stock>15</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Кнопки керування">Пульт на кабелі</param>
 <param name="Живлення лампи">USB 5V</param>
@@ -142568,7 +142269,7 @@
 <code>737346</code>
 <name>Кільцева LED-лампа LJJ-26, 26 см, 10″, 96 світлодіодів, USB 5 В</name>
 <description><![CDATA[Кільцева LED-лампа для фото, відео, б’юті-процедур і створення контенту; дає рівномірне фронтальне освітлення та допомагає зменшити різкі тіні. Ключові характеристики: 96 LED, діаметр 26 см, живлення/підключення USB.]]></description>
-<quantity_in_stock>40</quantity_in_stock>
+<quantity_in_stock>35</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Кнопки керування">Пульт на кабелі</param>
 <param name="Студійне обладнання">Кільцеві лампи</param>
@@ -142596,7 +142297,7 @@
 <code>755708</code>
 <name>Кільцева LED-лампа LJJ-36, RGB, 36 см, 14″, 192 світлодіодів, 39 RGB</name>
 <description><![CDATA[Кільцева LED-лампа для фото, відео, б’юті-процедур і створення контенту; дає рівномірне фронтальне освітлення та допомагає зменшити різкі тіні. Ключові характеристики: 192 LED, RGB, діаметр 36 см, пульт ДК, Bluetooth.]]></description>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Кнопки керування">Дистанційний пульт</param>
 <param name="Особливості">RGB Color</param>
@@ -143012,6 +142713,35 @@
 <param name="Опт від 5 шт">$26.4</param>
 <param name="Drop">$31.57</param>
 </offer>
+<offer id="ts000077576" available="true">
+<url>https://kmt5.com.ua/lampa-koltsevaya-led-54-cm-21-416-lights-rl21-original</url>
+<price>2341</price>
+<vendorprice>1746</vendorprice>
+<vendorpricedoll>38.11</vendorpricedoll>
+<rrcdoll>51.12</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>55912833</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTAvMzAv0KYtMDAwMDc3NTc2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDAvMmQv0KYtMDAwMDc3NTc2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTEvOTIv0KYtMDAwMDc3NTc2XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTYvZTIv0KYtMDAwMDc3NTc2XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODkvNTQv0KYtMDAwMDc3NTc2XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmMvOGIv0KYtMDAwMDc3NTc2XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2QvZDkv0KYtMDAwMDc3NTc2XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGYvYmUv0KYtMDAwMDc3NTc2XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Все</vendor>
+<vendorCode>Ц-000077576</vendorCode>
+<code>775111</code>
+<name>Кільцева LED-лампа RL-21, Original 54 см, 65 Вт, 416 світлодіодів, пульт ДК, 3 м cable with plug, 3 holder, handle bag</name>
+<description><![CDATA[Кільцева LED-лампа для фото, відео, б’юті-процедур і створення контенту; дає рівномірне фронтальне освітлення та допомагає зменшити різкі тіні. Ключові характеристики: потужність 65 Вт, 416 LED, висота/довжина до 3 м, діаметр 54 см, пульт ДК, 3 тримачі.]]></description>
+<quantity_in_stock>1</quantity_in_stock>
+<param name="Бренд">Различные</param>
+<param name="Кнопки керування">Дистанційний пульт</param>
+<param name="Особливості">З пультом</param>
+<param name="Студійне обладнання">Кільцеві лампи</param>
+<param name="Кількість світлодіодів">416</param>
+<param name="Drop">$40.7</param>
+</offer>
 <offer id="ts000079538" available="true">
 <url>https://kmt5.com.ua/lampa-koltsevaya-led-fd640-ii</url>
 <price>7300</price>
@@ -143343,7 +143073,7 @@
 <vendorCode>Ц-000083873</vendorCode>
 <code>791292</code>
 <name>Лампа видеосвет COB LED Liyadi C150 150W</name>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <param name="Бренд">Liyadi</param>
 <param name="Drop">$30.8</param>
 </offer>
@@ -143520,7 +143250,7 @@
 <code>737570</code>
 <name>Мікрофон для телефона Professional, 3,5 мм, петличний, блістерна упаковка</name>
 <description><![CDATA[Мікрофон для телефона Professional призначений для запису голосу, спілкування та створення аудіоконтенту. Підключається через 3.5 мм.]]></description>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Опт від 2 шт">$2.69</param>
 <param name="Опт від 3 шт">$2.63</param>
@@ -143768,7 +143498,7 @@
 <code>778473</code>
 <name>Монопод Tripod C07, Stainless Steel, 2,01 м</name>
 <description><![CDATA[Монопод-трипод для смартфона, зручний для селфі, відео, стримів і групових кадрів; може використовуватися як ручний монопод або підставка. Ключові характеристики: висота/довжина до 2,01 м.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <param name="Опт від 2 шт">$9.79</param>
 <param name="Опт від 3 шт">$9.59</param>
 <param name="Опт від 5 шт">$9.38</param>
@@ -144547,7 +144277,7 @@
 <code>778514</code>
 <name>Монопод Tripod L20, Bluetooth-кнопка, 1,05 м</name>
 <description><![CDATA[Монопод-трипод для смартфона, зручний для селфі, відео, стримів і групових кадрів; може використовуватися як ручний монопод або підставка. Ключові характеристики: висота/довжина до 1,05 м, Bluetooth, металева конструкція, пластикові/ABS елементи.]]></description>
-<quantity_in_stock>81</quantity_in_stock>
+<quantity_in_stock>80</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Особливості">З пультом</param>
 <param name="Студійне обладнання">Монопод Трипод</param>
@@ -144719,7 +144449,7 @@
 <code>786405</code>
 <name>Монопод Tripod P180TK, 0,295 м</name>
 <description><![CDATA[Монопод-трипод для смартфона, зручний для селфі, відео, стримів і групових кадрів; може використовуватися як ручний монопод або підставка. Ключові характеристики: висота/довжина до 0,295 м.]]></description>
-<quantity_in_stock>57</quantity_in_stock>
+<quantity_in_stock>58</quantity_in_stock>
 <param name="Опт від 2 шт">$8.54</param>
 <param name="Опт від 3 шт">$8.37</param>
 <param name="Опт від 5 шт">$8.19</param>
@@ -145271,7 +145001,7 @@
 <code>788969</code>
 <name>Монопод Tripod TT03, 1,76 м</name>
 <description><![CDATA[Монопод-трипод для смартфона, зручний для селфі, відео, стримів і групових кадрів; може використовуватися як ручний монопод або підставка. Ключові характеристики: висота/довжина до 1,76 м, пульт ДК, Bluetooth, поворот/зйомка 360°, металева конструкція, пластикові/ABS елементи.]]></description>
-<quantity_in_stock>25</quantity_in_stock>
+<quantity_in_stock>24</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Опт від 2 шт">$15.26</param>
 <param name="Опт від 3 шт">$14.95</param>
@@ -145355,7 +145085,7 @@
 <code>778666</code>
 <name>Монопод Tripod Veron VMT-10, Bluetooth-кнопка, 0,65 м</name>
 <description><![CDATA[Монопод-трипод для смартфона, зручний для селфі, відео, стримів і групових кадрів; може використовуватися як ручний монопод або підставка. Ключові характеристики: висота/довжина до 0,65 м, Bluetooth.]]></description>
-<quantity_in_stock>52</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Бренд">VERON</param>
 <param name="Опт від 2 шт">$4.03</param>
 <param name="Опт від 3 шт">$3.95</param>
@@ -145409,7 +145139,7 @@
 <code>778820</code>
 <name>Монопод Tripod Veron VMT-22, 1,87 м</name>
 <description><![CDATA[Монопод-трипод для смартфона, зручний для селфі, відео, стримів і групових кадрів; може використовуватися як ручний монопод або підставка. Ключові характеристики: висота/довжина до 1,87 м.]]></description>
-<quantity_in_stock>10</quantity_in_stock>
+<quantity_in_stock>9</quantity_in_stock>
 <param name="Бренд">VERON</param>
 <param name="Студійне обладнання">Монопод Трипод</param>
 <param name="Опт від 2 шт">$11.04</param>
@@ -146089,7 +145819,7 @@
 <code>778711</code>
 <name>Накамерне LED-відеосвітло Yongnuo YN120RGB, RGB</name>
 <description><![CDATA[Компактне селфі/накамерне LED-світло для підсвічування обличчя та об’єктів під час фото, відео, стримів і мобільної зйомки. Ключові характеристики: потужність 8 Вт, колірна температура 2500 K, 130 LED, RGB, акумулятор 3000 мА·год.]]></description>
-<quantity_in_stock>10</quantity_in_stock>
+<quantity_in_stock>9</quantity_in_stock>
 <param name="Бренд">YongNuo</param>
 <param name="Матеріал">PC/ABS</param>
 <param name="Вихідна потужність (W)">8W</param>
@@ -146125,7 +145855,7 @@
 <code>789885</code>
 <name>Накамерне LED-світло Hoco K160 Olas, затискач, 2700–6500 К</name>
 <description><![CDATA[Накамерне LED-світло Hoco K160 Olas, затискач, 2700–6500 К — джерело постійного світла для фото-, відеозйомки та відеозв’язку. Основні характеристики: • Тип: LED-світло для зйомки • Колірна температура: 2700–6500 К • Кріплення: затискач для смартфона або ноутбука • Особливості: регулювання яскравості та температури світла]]></description>
-<quantity_in_stock>23</quantity_in_stock>
+<quantity_in_stock>22</quantity_in_stock>
 <param name="Опт від 3 шт">$4.99</param>
 <param name="Опт від 5 шт">$4.89</param>
 <param name="Опт від 7 шт">$4.78</param>
@@ -146676,7 +146406,7 @@
 <code>787609</code>
 <name>Светодиодный прожектор LED ZU 80</name>
 <description><![CDATA[Студійне LED-світло для фото- та відеозйомки з потужним керованим освітленням; підходить для студії, контенту й предметної зйомки. Модель/виконання: ZGRL80.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Опт від 2 шт">$37.44</param>
 <param name="Опт від 3 шт">$36.66</param>
@@ -146700,7 +146430,7 @@
 <code>786410</code>
 <name>Селфі-спалах ADDWING VL-1158 RGB, 8 Вт, 2700-6500 K/ 2000MA</name>
 <description><![CDATA[Компактне селфі/накамерне LED-світло для підсвічування обличчя та об’єктів під час фото, відео, стримів і мобільної зйомки. Ключові характеристики: потужність 8 Вт, колірна температура 2700–6500 K, RGB.]]></description>
-<quantity_in_stock>51</quantity_in_stock>
+<quantity_in_stock>50</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Опт від 2 шт">$14.88</param>
 <param name="Опт від 3 шт">$14.57</param>
@@ -147386,7 +147116,7 @@
 <vendorCode>Ц-000083885</vendorCode>
 <code>791304</code>
 <name>Софтбокс | 30 cm | — Liyadi G150 Octa 325g</name>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <param name="Бренд">Liyadi</param>
 <param name="Drop">$31.9</param>
 </offer>
@@ -147406,7 +147136,7 @@
 <vendorCode>Ц-000083884</vendorCode>
 <code>791303</code>
 <name>Софтбокс | 30 cm | — Liyadi G150 Octa 385g</name>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Бренд">Liyadi</param>
 <param name="Drop">$23.1</param>
 </offer>
@@ -147770,7 +147500,7 @@
 <code>791051</code>
 <name>Студійний LED-прожектор MX100</name>
 <description><![CDATA[Студійне LED-світло для фото- та відеозйомки з потужним керованим освітленням; підходить для студії, контенту й предметної зйомки. Ключові характеристики: потужність 100 Вт, RGB.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Опт від 2 шт">$36.48</param>
 <param name="Опт від 3 шт">$35.72</param>
@@ -148195,7 +147925,7 @@
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWUvNmQv0KYtMDAwMDc5MDUyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTUvMDQv0KYtMDAwMDc5MDUyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWQvNzMv0KYtMDAwMDc5MDUyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
+<vendor>Различные</vendor>
 <vendorCode>Ц-000079052</vendorCode>
 <code>778600</code>
 <name>Універсальний тримач-затискач Gold Ring</name>
@@ -148218,7 +147948,7 @@
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjkvNDIv0KYtMDAwMDc1ODc3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODMvNzcv0KYtMDAwMDc1ODc3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDAvZTMv0KYtMDAwMDc1ODc3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
+<vendor>Различные</vendor>
 <vendorCode>Ц-000075877</vendorCode>
 <code>771379</code>
 <name>Універсальний тримач-затискач PH-16</name>
@@ -148241,7 +147971,7 @@
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODcvYzYv0KYtMDAwMDc5MjE2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjUvNzkv0KYtMDAwMDc5MjE2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODEvZDMv0KYtMDAwMDc5MjE2XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
+<vendor>Различные</vendor>
 <vendorCode>Ц-000079216</vendorCode>
 <code>778814</code>
 <name>Універсальний тримач-затискач Veron PH-12</name>
@@ -148265,7 +147995,7 @@
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTMvMzkv0KYtMDAwMDc5MjE3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGQvMDIv0KYtMDAwMDc5MjE3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
 <picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmUvODQv0KYtMDAwMDc5MjE3XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
+<vendor>Различные</vendor>
 <vendorCode>Ц-000079217</vendorCode>
 <code>778815</code>
 <name>Універсальний тримач-затискач Veron PH-13</name>
@@ -148682,7 +148412,7 @@
 <code>738149</code>
 <name>Штатив Tripod 33N, пластиковий 19 см</name>
 <description><![CDATA[Компактний штатив для смартфона або камери, призначений для стабільного встановлення під час фото- та відеозйомки. Ключові характеристики: розмір 19 см, пластикові/ABS елементи.]]></description>
-<quantity_in_stock>98</quantity_in_stock>
+<quantity_in_stock>95</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Матеріал">ABS</param>
 <param name="Максимальна висота">0.19m</param>
@@ -148732,7 +148462,7 @@
 <code>748057</code>
 <name>Штатив Tripod BS42, багатофункціональний, 2,10 м, ¼</name>
 <description><![CDATA[Штатив для встановлення фото- та відеообладнання, ламп або аксесуарів; дає змогу зручно виставити потрібну висоту та положення. Ключові характеристики: висота/довжина до 2,1 м, різьба 1/4″.]]></description>
-<quantity_in_stock>156</quantity_in_stock>
+<quantity_in_stock>153</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Студійне обладнання">Трипод штатив</param>
 <param name="Максимальна висота">2.10m</param>
@@ -148740,33 +148470,6 @@
 <param name="Опт від 3 шт">$2.33</param>
 <param name="Опт від 5 шт">$2.28</param>
 <param name="Drop">$2.73</param>
-</offer>
-<offer id="ts000078839" available="true">
-<url>https://kmt5.com.ua/tripod-stand-multifunctional-170m-</url>
-<price>1100</price>
-<vendorprice>779</vendorprice>
-<vendorpricedoll>17.0</vendorpricedoll>
-<rrcdoll>24.02</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>72282945</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWEvNmYv0KYtMDAwMDc4ODM5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODEvMGEv0KYtMDAwMDc4ODM5XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmEvNTQv0KYtMDAwMDc4ODM5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTMvZDcv0KYtMDAwMDc4ODM5XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTgvOTAv0KYtMDAwMDc4ODM5XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDgvMGIv0KYtMDAwMDc4ODM5XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000078839</vendorCode>
-<code>778342</code>
-<name>Штатив Tripod Code - T8Pro, багатофункціональний, 1,70 м, ¼</name>
-<description><![CDATA[Штатив для встановлення фото- та відеообладнання, ламп або аксесуарів; дає змогу зручно виставити потрібну висоту та положення. Ключові характеристики: висота/довжина до 1,7 м, різьба 1/4″.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Различные</param>
-<param name="Студійне обладнання">Трипод штатив</param>
-<param name="Опт від 2 шт">$15.84</param>
-<param name="Опт від 3 шт">$15.51</param>
-<param name="Опт від 5 шт">$15.18</param>
-<param name="Drop">$18.15</param>
 </offer>
 <offer id="ts000075451" available="true">
 <url>https://kmt5.com.ua/tripodshtativ-f537sx</url>
@@ -149182,7 +148885,7 @@
 <code>775025</code>
 <name>Штатив Tripod Veron CT2100, посилений 1000 g., багатофункціональний, 2,10 м, ¼</name>
 <description><![CDATA[Штатив для встановлення фото- та відеообладнання, ламп або аксесуарів; дає змогу зручно виставити потрібну висоту та положення. Ключові характеристики: висота/довжина до 2,1 м, розмір 210 см, різьба 1/4″.]]></description>
-<quantity_in_stock>87</quantity_in_stock>
+<quantity_in_stock>86</quantity_in_stock>
 <param name="Бренд">VERON</param>
 <param name="Студійне обладнання">Трипод штатив</param>
 <param name="Максимальна висота">2.10m</param>
@@ -149471,7 +149174,7 @@
 <code>777676</code>
 <name>Штатив-журавель з кріпленням к лампе</name>
 <description><![CDATA[Штатив для встановлення фото- та відеообладнання, ламп або аксесуарів; дає змогу зручно виставити потрібну висоту та положення. Модель/виконання: Штатив +Журавель з Кріпленням к лампе.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Опт від 2 шт">$5.28</param>
 <param name="Опт від 3 шт">$5.17</param>
@@ -150063,7 +149766,7 @@
 <code>747270</code>
 <name>Бездротові Bluetooth-навушники Celebrat A19 — Black</name>
 <description><![CDATA[Бездротові Bluetooth-навушники Celebrat A19 призначені для прослуховування музики та дзвінків без дротів. Підключення через Bluetooth забезпечує сумісність зі смартфонами, планшетами та іншими аудіопристроями. Основні характеристики: чутливість — 100 дБ ±3 дБ; діапазон частот — 9 Гц - 23 кГц; опір — 10 Ом.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <param name="Бренд">Celebrat</param>
 <param name="Аудіо товари">Навушники Bluetooth</param>
 <param name="Опт від 2 шт">$4.99</param>
@@ -150443,7 +150146,7 @@
 <code>774071</code>
 <name>Бездротові Bluetooth-навушники Hoco ES67 — Red</name>
 <description><![CDATA[Бездротові Bluetooth-навушники Hoco ES67 призначені для прослуховування музики та дзвінків без дротів. Підключення через Bluetooth забезпечує сумісність зі смартфонами, планшетами та іншими аудіопристроями. Основні характеристики: Bluetooth — JL AC7003; акумулятор — 130 мА·год.]]></description>
-<quantity_in_stock>7</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Аудіо товари">Навушники Bluetooth</param>
 <param name="Опт від 2 шт">$3.55</param>
@@ -150468,7 +150171,7 @@
 <code>777300</code>
 <name>Бездротові Bluetooth-навушники Hoco ES70 — Black</name>
 <description><![CDATA[Бездротові Bluetooth-навушники Hoco ES70 призначені для прослуховування музики та дзвінків без дротів. Підключення через Bluetooth забезпечує сумісність зі смартфонами, планшетами та іншими аудіопристроями. Основні характеристики: Bluetooth — JL7003; час роботи — 80 год; акумулятор — 500 мА·год.]]></description>
-<quantity_in_stock>13</quantity_in_stock>
+<quantity_in_stock>12</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Аудіо товари">Навушники Bluetooth</param>
 <param name="Опт від 2 шт">$5.28</param>
@@ -151091,7 +150794,7 @@
 <code>787680</code>
 <name>Бездротові Bluetooth-навушники Hoco W64, накладні — Black</name>
 <description><![CDATA[1. Bluetooth 5.4; Чіп: JL JL7006F4 2. Ємність акумулятора: 300 мАг; Час заряджання: 1,5 години 3. Час використання: 32 години 4. Матеріал: ABS + сталева вилка + шкіра PU; Розмір: 190 * 155 * 77 мм; Вага: 180 г 5. Підтримка звукових підказок китайською та англійською мовами: двічі натисніть кнопку живлення, коли пристрій не підключено"]]></description>
-<quantity_in_stock>6</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Аудіо товари">Навушники Bluetooth</param>
 <param name="Опт від 2 шт">$9.12</param>
@@ -151123,81 +150826,6 @@
 <param name="Опт від 3 шт">$8.93</param>
 <param name="Опт від 5 шт">$8.74</param>
 <param name="Drop">$10.45</param>
-</offer>
-<offer id="ts000081236000029681" available="true">
-<url>https://kmt5.com.ua/bluetooth-headphones-hoco-w65-plus-blue</url>
-<price>1100</price>
-<vendorprice>793</vendorprice>
-<vendorpricedoll>17.3</vendorpricedoll>
-<rrcdoll>24.02</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>94103709</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDMvNTAv0KYtMDAwMDgxMjM2XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmEvNjUv0KYtMDAwMDgxMjM2XzEyLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWEvYzMv0KYtMDAwMDgxMjM2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmUvOTMv0KYtMDAwMDgxMjM2XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000081236</vendorCode>
-<code>786646</code>
-<name>Бездротові Bluetooth-навушники Hoco W65 Plus, накладні — Blue</name>
-<description><![CDATA[1. Bluetooth 5.4; Чіп: JL7006F8 2. Ємність акумулятора: 400 мАг; Час заряджання: близько 2 годин 3. Час використання: 45 годин (32 години в режимі ANC) 4. Матеріал: ABS; Розмір: 195 * 186 * 84 мм; Вага: 210 г 5. Підтримка шумозаглушення ANC 6. Підтримка звукових підказок китайською та англійською мовами: двічі натисніть кнопку живлення, коли навушники не підключені 7. Змінні тканинні амбушури]]></description>
-<quantity_in_stock>6</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Аудіо товари">Навушники Bluetooth</param>
-<param name="Опт від 2 шт">$16.13</param>
-<param name="Опт від 3 шт">$15.79</param>
-<param name="Опт від 5 шт">$15.46</param>
-<param name="Drop">$18.48</param>
-</offer>
-<offer id="ts000081236000029683" available="true">
-<url>https://kmt5.com.ua/bluetooth-headphones-hoco-w65-plus-orange</url>
-<price>1100</price>
-<vendorprice>793</vendorprice>
-<vendorpricedoll>17.3</vendorpricedoll>
-<rrcdoll>24.02</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>94103709</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2MvZWMv0KYtMDAwMDgxMjM2XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWEvYzMv0KYtMDAwMDgxMjM2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTYvZWQv0KYtMDAwMDgxMjM2XzEzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmUvOTMv0KYtMDAwMDgxMjM2XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000081236</vendorCode>
-<code>786648</code>
-<name>Бездротові Bluetooth-навушники Hoco W65 Plus, накладні — Orange</name>
-<description><![CDATA[1. Bluetooth 5.4; Чіп: JL7006F8 2. Ємність акумулятора: 400 мАг; Час заряджання: близько 2 годин 3. Час використання: 45 годин (32 години в режимі ANC) 4. Матеріал: ABS; Розмір: 195 * 186 * 84 мм; Вага: 210 г 5. Підтримка шумозаглушення ANC 6. Підтримка звукових підказок китайською та англійською мовами: двічі натисніть кнопку живлення, коли навушники не підключені 7. Змінні тканинні амбушури]]></description>
-<quantity_in_stock>4</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Аудіо товари">Навушники Bluetooth</param>
-<param name="Опт від 2 шт">$16.13</param>
-<param name="Опт від 3 шт">$15.79</param>
-<param name="Опт від 5 шт">$15.46</param>
-<param name="Drop">$18.48</param>
-</offer>
-<offer id="ts000081235000029674" available="true">
-<url>https://kmt5.com.ua/bluetooth-headphones-hoco-w65-star-color</url>
-<price>1000</price>
-<vendorprice>703</vendorprice>
-<vendorpricedoll>15.35</vendorpricedoll>
-<rrcdoll>21.83</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>94103709</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmIvM2Qv0KYtMDAwMDgxMjM1XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDkvNmYv0KYtMDAwMDgxMjM1XzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTkvYTQv0KYtMDAwMDgxMjM1XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTIvODYv0KYtMDAwMDgxMjM1XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000081235</vendorCode>
-<code>786638</code>
-<name>Бездротові Bluetooth-навушники Hoco W65, накладні — Star Color</name>
-<description><![CDATA[Бездротові Bluetooth-навушники Hoco W65, накладні призначені для прослуховування музики та дзвінків без дротів. Підключення через Bluetooth забезпечує сумісність зі смартфонами, планшетами та іншими аудіопристроями. Основні характеристики: Bluetooth — JL7006F4; час роботи — 45 год; акумулятор — 400 мА·год.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Аудіо товари">Навушники Bluetooth</param>
-<param name="Опт від 2 шт">$14.3</param>
-<param name="Опт від 3 шт">$14.01</param>
-<param name="Опт від 5 шт">$13.71</param>
-<param name="Drop">$16.39</param>
 </offer>
 <offer id="ts000083188000031144" available="true">
 <url>https://kmt5.com.ua/navushniki-bluetooth-hoco-w68-calma-silver</url>
@@ -151254,29 +150882,6 @@
 <param name="Опт від 3 шт">$13.63</param>
 <param name="Опт від 5 шт">$13.34</param>
 <param name="Drop">$13.42</param>
-</offer>
-<offer id="ts000083835000031684" available="true">
-<url>https://kmt5.com.ua/navushniki-bluetooth-hoco-w72-black</url>
-<price>850</price>
-<vendorprice>529</vendorprice>
-<vendorpricedoll>11.54</vendorpricedoll>
-<rrcdoll>18.56</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>94103709</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmYvNDkv0KYtMDAwMDgzODM1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGIvNDcv0KYtMDAwMDgzODM1XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000083835</vendorCode>
-<code>791178</code>
-<name>Бездротові Bluetooth-навушники Hoco W72, накладні — Black</name>
-<description><![CDATA[Бездротові Bluetooth-навушники Hoco W72 призначені для бездротового прослуховування музики та спілкування. Накладна конструкція підходить для тривалого прослуховування.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Аудіо товари">Навушники Bluetooth</param>
-<param name="Опт від 2 шт">$10.75</param>
-<param name="Опт від 3 шт">$10.53</param>
-<param name="Опт від 5 шт">$10.3</param>
-<param name="Drop">$12.32</param>
 </offer>
 <offer id="ts000083187000031142" available="true">
 <url>https://kmt5.com.ua/navushniki-bluetooth-hoco-w73-graceful-silver</url>
@@ -152486,33 +152091,6 @@
 <param name="Опт від 5 шт">$5.98</param>
 <param name="Drop">$7.15</param>
 </offer>
-<offer id="ts000077719000026040" available="true">
-<url>https://kmt5.com.ua/tws-bluetooth-headset-veron-s18-phantom-black</url>
-<price>450</price>
-<vendorprice>307</vendorprice>
-<vendorpricedoll>6.7</vendorpricedoll>
-<rrcdoll>9.83</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54581499</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDEvMTYv0KYtMDAwMDc3NzE5XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWMvZWMv0KYtMDAwMDc3NzE5XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzUvZTEv0KYtMDAwMDc3NzE5XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjAvNDMv0KYtMDAwMDc3NzE5XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTIvNzAv0KYtMDAwMDc3NzE5XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzgvMzYv0KYtMDAwMDc3NzE5XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDIvMDcv0KYtMDAwMDc3NzE5XzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000077719</vendorCode>
-<code>776303</code>
-<name>Бездротові TWS-навушники Veron S18 Phantom — Black</name>
-<description><![CDATA[Бездротові TWS-навушники Veron S18 Phantom — компактна модель для бездротового прослуховування музики та голосових викликів. Підключення до смартфона, планшета або іншого сумісного пристрою здійснюється через Bluetooth.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">VERON</param>
-<param name="Опт від 2 шт">$6.24</param>
-<param name="Опт від 3 шт">$6.11</param>
-<param name="Опт від 5 шт">$5.98</param>
-<param name="Drop">$7.15</param>
-</offer>
 <offer id="ts000077717000026035" available="true">
 <url>https://kmt5.com.ua/tws-bluetooth-headset-veron-w07-liberty-black</url>
 <price>450</price>
@@ -152559,7 +152137,7 @@
 <code>776301</code>
 <name>Бездротові TWS-навушники Veron W10 Life — Silver</name>
 <description><![CDATA[Бездротові TWS-навушники Veron W10 Life — компактна бездротова гарнітура для музики та дзвінків. Навушники підключаються через Bluetooth і зберігаються у зарядному кейсі. Основні характеристики: профілі — SBC; акумулятор навушників — 30 мА·год; час заряджання — 1, 5 год; діапазон частот — 20Гц-20КГц; живлення — DC 5V 0, 2V; акумулятор кейса — 250 мА·год; у режимі очікування — 40 год; акумулятор — 14 год; чутливість — 108 3дБ.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <param name="Бренд">VERON</param>
 <param name="Опт від 2 шт">$5.95</param>
 <param name="Опт від 3 шт">$5.83</param>
@@ -153192,7 +152770,7 @@
 <code>755046</code>
 <name>Дротові навушники Veron V16L, Lightning, з мікрофоном</name>
 <description><![CDATA[Дротові навушники Veron V16L, Lightning, з мікрофоном призначені для прослуховування музики та телефонних розмов. Дротове підключення забезпечує стабільну передачу звуку без потреби заряджати навушники. Вбудований у кабель мікрофон дає змогу відповідати на дзвінки.]]></description>
-<quantity_in_stock>17</quantity_in_stock>
+<quantity_in_stock>16</quantity_in_stock>
 <param name="Бренд">VERON</param>
 <param name="Аудіо товари">Навушники Lightning</param>
 <param name="Опт від 2 шт">$3.07</param>
@@ -153439,7 +153017,7 @@
 <code>790067</code>
 <name>Портативна Bluetooth-колонка Hoco HC45</name>
 <description><![CDATA[Hoco HC45 поєднує портативну Bluetooth-колонку, настільний тримач для смартфона та пульт дистанційного керування. Модель має динамік потужністю 3 Вт, акумулятор 1000 мА·год і працює до 5 годин.]]></description>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Опт від 2 шт">$7.58</param>
 <param name="Опт від 3 шт">$7.43</param>
@@ -160475,7 +160053,7 @@
 <code>737802</code>
 <name>Ремінець Bead Design,  Xiaomi Mi Band 5/6 — Black</name>
 <description><![CDATA[Ремінець Bead Design призначений для Xiaomi Mi Band 5/6. Основні характеристики: • Тип: ремінець для смарт-годинника • Сумісність: Xiaomi Mi Band 5/6 • Призначення: заміна штатного ремінця та повсякденне носіння]]></description>
-<quantity_in_stock>17</quantity_in_stock>
+<quantity_in_stock>16</quantity_in_stock>
 <param name="Марка">Xiaomi</param>
 <param name="Модель девайса">Xiaomi Mi Band 5, Xiaomi Mi Band 6</param>
 <param name="Бренд">Различные</param>
@@ -164004,7 +163582,7 @@
 <code>709041</code>
 <name>Ремінець Milanese Loop, міланська петля,  Apple Watch 42/44/45/49 мм — Rose Gold</name>
 <description><![CDATA[Ремінець Milanese Loop призначений для Apple Watch 42/44/45/49 мм. Основні характеристики: • Тип: ремінець для смарт-годинника • Сумісність: Apple Watch 42/44/45/49 мм • Конструкція: міланське плетіння • Колір: рожеве золото]]></description>
-<quantity_in_stock>15</quantity_in_stock>
+<quantity_in_stock>14</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">42 - 44 - 45 - 49 mm</param>
 <param name="Бренд">Различные</param>
@@ -167269,7 +166847,7 @@
 <code>782093</code>
 <name>Ремінець Silicone Magic Double color, силіконовий,  Apple Watch 42/44/45/49 мм — Black &amp; Red</name>
 <description><![CDATA[Ремінець Silicone Magic Double color призначений для Apple Watch 42/44/45/49 мм. Основні характеристики: • Тип: ремінець для смарт-годинника • Сумісність: Apple Watch 42/44/45/49 мм • Матеріал: силікон • Призначення: заміна штатного ремінця та повсякденне носіння]]></description>
-<quantity_in_stock>8</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Watch Series 3 42 mm, Apple Watch Series 4 44 mm, Apple Watch Series 7 45 mm, Apple Watch Series 8 49 mm</param>
 <param name="Бренд">Различные</param>
@@ -172616,7 +172194,7 @@
 <code>717197</code>
 <name>Універсальний ремінець Milanese Loop, міланська петля, універсальне кріплення 22 мм — Black</name>
 <description><![CDATA[Ремінець Milanese Loop призначений для годинників із відповідним типом кріплення. Основні характеристики: • Тип: універсальний ремінець • Ширина кріплення: 22 мм • Конструкція: міланське плетіння • Колір: чорний]]></description>
-<quantity_in_stock>28</quantity_in_stock>
+<quantity_in_stock>26</quantity_in_stock>
 <param name="Марка">Universal</param>
 <param name="Модель девайса">22 mm</param>
 <param name="Бренд">Различные</param>
@@ -174861,7 +174439,7 @@
 <code>789300</code>
 <name>Bluetooth-аудіоприймач Borofone BC51</name>
 <description><![CDATA[Bluetooth-аудіоприймач Borofone BC51 додає бездротове відтворення аудіо системам із сумісним аудіовходом. Основні характеристики: • Тип: Bluetooth-аудіоприймач • Підключення: Bluetooth 5,0 • Інтерфейси: AUX 3,5 мм, USB • Призначення: автомобільна або домашня аудіосистема]]></description>
-<quantity_in_stock>21</quantity_in_stock>
+<quantity_in_stock>20</quantity_in_stock>
 <param name="Бренд">Borofone</param>
 <param name="Автоаксесуари">Bluetooth Car Adapter</param>
 <param name="Опт від 3 шт">$3.74</param>
@@ -174976,35 +174554,6 @@
 <param name="Опт від 10 шт">$5.98</param>
 <param name="Drop">$7.15</param>
 </offer>
-<offer id="ts000080992" available="true">
-<url>https://kmt5.com.ua/bluetooth-audio-receiver-earldom-etbr15</url>
-<price>300</price>
-<vendorprice>159</vendorprice>
-<vendorpricedoll>3.45</vendorpricedoll>
-<rrcdoll>6.55</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>10170836</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2EvZDAv0KYtMDAwMDgwOTkyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjEvNGEv0KYtMDAwMDgwOTkyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2YvMzYv0KYtMDAwMDgwOTkyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTYvMTIv0KYtMDAwMDgwOTkyXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTcvMzEv0KYtMDAwMDgwOTkyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGIvZWMv0KYtMDAwMDgwOTkyXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGYvZDAv0KYtMDAwMDgwOTkyXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGYvMmUv0KYtMDAwMDgwOTkyXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000080992</vendorCode>
-<code>786271</code>
-<name>Bluetooth-аудіоприймач Earldom ET-BR15</name>
-<description><![CDATA[Bluetooth-аудіоприймач Earldom ET-BR15 додає бездротове відтворення аудіо системам із сумісним аудіовходом. Основні характеристики: • Тип: Bluetooth-аудіоприймач • Підключення: Bluetooth • Інтерфейси: AUX 3,5 мм, USB-C, USB • Призначення: автомобільна або домашня аудіосистема]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Earldom</param>
-<param name="Автоаксесуари">Bluetooth Car Adapter</param>
-<param name="Опт від 3 шт">$3.22</param>
-<param name="Опт від 7 шт">$3.15</param>
-<param name="Опт від 10 шт">$3.08</param>
-<param name="Drop">$3.69</param>
-</offer>
 <offer id="ts000080991" available="true">
 <url>https://kmt5.com.ua/bluetooth-audio-receiver-earldom-etbr16</url>
 <price>192</price>
@@ -175028,7 +174577,7 @@
 <code>786270</code>
 <name>Bluetooth-аудіоприймач Earldom ET-BR16</name>
 <description><![CDATA[Bluetooth-аудіоприймач Earldom ET-BR16 додає бездротове відтворення аудіо системам із сумісним аудіовходом. Основні характеристики: • Тип: Bluetooth-аудіоприймач • Підключення: Bluetooth • Інтерфейси: AUX 3,5 мм, USB-C, USB • Призначення: автомобільна або домашня аудіосистема]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Бренд">Earldom</param>
 <param name="Автоаксесуари">Bluetooth Car Adapter</param>
 <param name="Опт від 3 шт">$2.74</param>
@@ -175057,7 +174606,7 @@
 <code>771873</code>
 <name>Bluetooth-аудіоприймач Earldom ET-M68</name>
 <description><![CDATA[Bluetooth-аудіоприймач Earldom ET-M68 додає бездротове відтворення аудіо системам із сумісним аудіовходом. Основні характеристики: • Тип: Bluetooth-аудіоприймач • Підключення: Bluetooth 5,0 • Інтерфейси: AUX 3,5 мм, USB • Призначення: автомобільна або домашня аудіосистема]]></description>
-<quantity_in_stock>22</quantity_in_stock>
+<quantity_in_stock>21</quantity_in_stock>
 <param name="Бренд">Earldom</param>
 <param name="Автоаксесуари">Bluetooth Car Adapter</param>
 <param name="Опт від 3 шт">$2.4</param>
@@ -175547,32 +175096,6 @@
 <param name="Опт від 10 шт">$7.82</param>
 <param name="Drop">$9.35</param>
 </offer>
-<offer id="ts000077417000025618" available="true">
-<url>https://kmt5.com.ua/fm-transmitter-hoco-e70-pd30wqc30-magic-night</url>
-<price>550</price>
-<vendorprice>405</vendorprice>
-<vendorpricedoll>8.84</vendorpricedoll>
-<rrcdoll>12.01</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>10170836</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYmIvYzMv0KYtMDAwMDc3NDE3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODIvNjkv0KYtMDAwMDc3NDE3XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDIvZmUv0KYtMDAwMDc3NDE3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDYvNjUv0KYtMDAwMDc3NDE3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTEvZDkv0KYtMDAwMDc3NDE3XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTUvNGQv0KYtMDAwMDc3NDE3XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000077417</vendorCode>
-<code>774140</code>
-<name>FM-модулятор Hoco E70, MP3, автомобільний зарядний пристрій, 3,0 А, PD 30 Вт, 1×USB-A — magic night</name>
-<description><![CDATA[FM-модулятор Hoco E70, MP3, автомобільний зарядний пристрій, 3,0 А, PD 30 Вт, 1×USB-A передає аудіо зі смартфона на автомобільну аудіосистему через FM-частоту. Основні характеристики: • Тип: FM-модулятор з MP3-відтворенням • Підключення: Bluetooth 5,0 • Потужність заряджання: 30 Вт • Вихідний струм: 3,0 А • Порти: 1×USB-A • Протоколи заряджання: PD, QC, FCP, AFC • Відтворення: USB-накопичувач]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Опт від 3 шт">$8.16</param>
-<param name="Опт від 7 шт">$7.99</param>
-<param name="Опт від 10 шт">$7.82</param>
-<param name="Drop">$9.35</param>
-</offer>
 <offer id="ts000080761" available="true">
 <url>https://kmt5.com.ua/fm-transmitter-mp3-car-charger-30a-pd30w-2u-hoco-e86</url>
 <price>300</price>
@@ -175774,28 +175297,6 @@
 <param name="Опт від 7 шт">$2.3</param>
 <param name="Опт від 10 шт">$2.25</param>
 <param name="Drop">$2.7</param>
-</offer>
-<offer id="ts000083452" available="true">
-<url>https://kmt5.com.ua/car-jump-starter-swt3650</url>
-<price>600</price>
-<vendorprice>449</vendorprice>
-<vendorpricedoll>9.79</vendorpricedoll>
-<rrcdoll>13.1</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>56712079</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjAvZjMv0KYtMDAwMDgzNDUyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDUvNWQv0KYtMDAwMDgzNDUyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDUvNWYv0KYtMDAwMDgzNDUyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000083452</vendorCode>
-<code>790672</code>
-<name>Імпульсний зарядний пристрій для автомобільного акумулятора (12 В 6 А, 4-120 А·год), автоматичний</name>
-<description><![CDATA[Імпульсний зарядний пристрій для автомобільного акумулятора (12 В 6 А, 4-120 А·год), автоматичний призначений для заряджання та обслуговування автомобільних акумуляторів. Основні характеристики: • Тип: автоматичний імпульсний зарядний пристрій • Напруга акумулятора: 12 В • Струм заряджання: 6 А • Сумісна ємність АКБ: 4–120 А·год]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Опт від 3 шт">$9.12</param>
-<param name="Опт від 7 шт">$8.93</param>
-<param name="Опт від 10 шт">$8.74</param>
-<param name="Drop">$10.45</param>
 </offer>
 <offer id="ts000083908" available="true">
 <url>https://kmt5.com.ua/avtovzitvka-hoco-zp131</url>
@@ -176378,7 +175879,7 @@
 <code>778076</code>
 <name>Автомобільний компресор Hoco ZP7 Maddy 5000 мА·год 10.3 бар — Black</name>
 <description><![CDATA[Автомобільний компресор Hoco ZP7 Maddy 5000 мА·год 10.3 бар призначений для підкачування автомобільних шин та інших надувних виробів. Основні характеристики: • Тип: портативний автомобільний компресор • Максимальний тиск: 10,3 бар • Акумулятор: 5000 мА·год • Матеріали: ABS-пластик, полікарбонат, силікон • Вага: 570 г]]></description>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Опт від 3 шт">$26.69</param>
 <param name="Опт від 7 шт">$26.13</param>
@@ -177055,7 +176556,7 @@
 <code>779320</code>
 <name>Дзеркало для спостереження за дитиною Baseus (C11537200111-00) — Black — C11537200111-00 Black</name>
 <description><![CDATA[Дзеркало для спостереження за дитиною Baseus (C11537200111-00) — Black. Використовується для спостереження за дитиною на задньому сидінні під час поїздки. Основні характеристики: • Тип: автомобільне дзеркало для спостереження за дитиною • Місце встановлення: підголівник заднього сидіння • Розміри: 65 × 55 × 17 мм • Колір: чорний]]></description>
-<quantity_in_stock>10</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <param name="Опт від 3 шт">$4.51</param>
 <param name="Опт від 7 шт">$4.42</param>
 <param name="Опт від 10 шт">$4.32</param>
@@ -177661,7 +177162,7 @@
 <code>790611</code>
 <name>Магнітний автотримач Earldom ET-EH291, на повітропровід</name>
 <description><![CDATA[Магнітний автотримач Earldom ET-EH291, на повітропровід призначений для фіксації смартфона в салоні автомобіля. Основні характеристики: • Тип: магнітний автомобільний тримач • Кріплення в автомобілі: решітка повітропроводу • Особливості: магнітна фіксація смартфона]]></description>
-<quantity_in_stock>20</quantity_in_stock>
+<quantity_in_stock>19</quantity_in_stock>
 <param name="Бренд">Earldom</param>
 <param name="Автоаксесуари">Автотримачі</param>
 <param name="Спосіб встановлення">На повітропровід</param>
@@ -177883,7 +177384,7 @@
 <code>790810</code>
 <name>Магнітний автотримач Earldom ET-EH348, на повітропровід</name>
 <description><![CDATA[Магнітний автотримач Earldom ET-EH348, на повітропровід призначений для фіксації смартфона в салоні автомобіля. Основні характеристики: • Тип: магнітний автомобільний тримач • Кріплення в автомобілі: решітка повітропроводу • Особливості: магнітна фіксація смартфона]]></description>
-<quantity_in_stock>17</quantity_in_stock>
+<quantity_in_stock>16</quantity_in_stock>
 <param name="Бренд">Earldom</param>
 <param name="Автоаксесуари">Автотримачі</param>
 <param name="Спосіб встановлення">На повітропровід</param>
@@ -177962,7 +177463,7 @@
 <code>771935</code>
 <name>Магнітний автотримач Earldom ET-EH49, на повітропровід</name>
 <description><![CDATA[Магнітний автотримач Earldom ET-EH49, на повітропровід призначений для фіксації смартфона в салоні автомобіля. Основні характеристики: • Тип: магнітний автомобільний тримач • Кріплення в автомобілі: решітка повітропроводу • Особливості: магнітна фіксація смартфона]]></description>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <param name="Бренд">Earldom</param>
 <param name="Автоаксесуари">Автотримачі</param>
 <param name="Спосіб встановлення">На повітропровід</param>
@@ -178331,7 +177832,7 @@
 <code>789432</code>
 <name>Магнітний автотримач Hoco HW36, на повітропровід</name>
 <description><![CDATA[Магнітний автотримач Hoco HW36, на повітропровід призначений для фіксації смартфона в салоні автомобіля. Основні характеристики: • Тип: магнітний автомобільний тримач • Кріплення в автомобілі: решітка повітропроводу • Матеріали: силікон • Особливості: магнітна фіксація смартфона]]></description>
-<quantity_in_stock>12</quantity_in_stock>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Автоаксесуари">Автотримачі</param>
 <param name="Спосіб встановлення">На повітропровід</param>
@@ -178776,7 +178277,7 @@
 <code>785050</code>
 <name>Розгалужувач прикурювача Hoco Z59A, 2 розетки, 2×USB-A + 2×USB-C</name>
 <description><![CDATA[Розгалужувач прикурювача Hoco Z59A, 2 розетки, 2×USB-A + 2×USB-C призначений для підключення та заряджання автомобільних пристроїв від бортової мережі. Основні характеристики: • Тип: розгалужувач прикурювача • Розетки: 2 розетки • Порти: 2×USB-A + 2×USB-C • Потужність: 30 Вт / 18 Вт / 120 Вт / 240 Вт • Напруга: 12 В / 24 В • Протоколи: PD, QC, FCP, AFC]]></description>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Опт від 3 шт">$5.66</param>
 <param name="Опт від 7 шт">$5.55</param>
@@ -178952,7 +178453,7 @@
 <code>787401</code>
 <name>Розсувний автотримач Borofone BH132, на присосці</name>
 <description><![CDATA[Розсувний автотримач Borofone BH132, на присосці призначений для фіксації смартфона в салоні автомобіля.Основні характеристики:• Тип: розсувний автомобільний тримач• Кріплення в автомобілі: вакуумна присоска• Матеріали: ABS-пластик, силікон• Особливості: механічні розсувні затискачі]]></description>
-<quantity_in_stock>13</quantity_in_stock>
+<quantity_in_stock>11</quantity_in_stock>
 <param name="Бренд">Borofone</param>
 <param name="Опт від 3 шт">$2.98</param>
 <param name="Опт від 7 шт">$2.91</param>
@@ -180483,7 +179984,7 @@
 <code>789777</code>
 <name>Щітка для автомобіля 2</name>
 <description><![CDATA[Щітка для автомобіля 2. Використовується для видалення пилу та забруднень з поверхонь автомобіля. Основні характеристики: • Тип: щітка для догляду за автомобілем]]></description>
-<quantity_in_stock>20</quantity_in_stock>
+<quantity_in_stock>18</quantity_in_stock>
 <param name="Опт від 3 шт">$2.4</param>
 <param name="Опт від 7 шт">$2.35</param>
 <param name="Опт від 10 шт">$2.3</param>
@@ -180504,29 +180005,7 @@
 <code>726975</code>
 <name>LCD-планшет для малювання RGeek Kids, 8,5″, зі стилусом — Black</name>
 <description><![CDATA[LCD-планшет RGeek Kids з екраном 8,5″ підходить для малювання, нотаток і навчальних вправ. Комплектний стилус дає змогу писати як на папері, а екран можна використовувати багаторазово.]]></description>
-<quantity_in_stock>76</quantity_in_stock>
-<param name="Бренд">Различные</param>
-<param name="Опт від 2 шт">$1.58</param>
-<param name="Опт від 3 шт">$1.55</param>
-<param name="Опт від 5 шт">$1.52</param>
-<param name="Drop">$1.82</param>
-</offer>
-<offer id="ts000067143000008533" available="true">
-<url>https://kmt5.com.ua/planshet-dlya-zapisey-8-rgeek-kids-with-pen-white</url>
-<price>150</price>
-<vendorprice>78</vendorprice>
-<vendorpricedoll>1.7</vendorpricedoll>
-<rrcdoll>3.28</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>39173668</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTAvODYv0KYtMDAwMDY3MTQzXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWYvNTIv0KYtMDAwMDY3MTQzXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000067143</vendorCode>
-<code>726976</code>
-<name>LCD-планшет для малювання RGeek Kids, 8,5″, зі стилусом — White</name>
-<description><![CDATA[LCD-планшет RGeek Kids з екраном 8,5″ підходить для малювання, нотаток і навчальних вправ. Комплектний стилус дає змогу писати як на папері, а екран можна використовувати багаторазово.]]></description>
-<quantity_in_stock>8</quantity_in_stock>
+<quantity_in_stock>60</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Опт від 2 шт">$1.58</param>
 <param name="Опт від 3 шт">$1.55</param>
@@ -180958,7 +180437,7 @@
 <code>789240</code>
 <name>Дитячий планшет Hoco HI16, дитячий режим, батьківський контроль — Pink</name>
 <description><![CDATA[Дитячий планшет HOCO HI16 – ідеальний помічник для навчання, творчості та розваг HOCO HI16 створений спеціально для дітей, враховуючи потреби маленьких користувачів і турботу батьків. Це не просто планшет, а безпечний освітньо-розважальний простір, який допомагає дитині навчатися, розвиватися й пізнавати світ у захищеному цифровому середовищі. Основні переваги HOCO HI16 Безпека та батьківський контроль: Дитячий режим обмежує доступ до небажаного контенту та сторонніх програм. Батьки можуть налаштовувати час використання, дозволені додатки та функції, гарантуючи повний контроль і безпеку дитини Дитячий простір: Зручне, дружнє середовище для навчання, ігор і творчості. Малюк може користуватися планшетом без ризику натрапити на небажаний контент Творчі та навчальні додатки: Передвстановлені програми для малювання, музики, розвитку логіки й уяви сприяють творчому мисленню дитини Інтерактивні книги та відео: Стимулюють інтерес до читання, навчання й пізнання навколишнього світу у формі гр]]></description>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Опт від 2 шт">$29.04</param>
 <param name="Опт від 3 шт">$28.44</param>
 <param name="Опт від 5 шт">$27.83</param>
@@ -182967,7 +182446,7 @@
 <code>785116</code>
 <name>Бездротовий проєктор Hoco DT2 (Android, 1280×720р, Wi-Fi, Bluetooth 5.0, AV, USB, HDMI, AUX, YouTube, Netflix, Disney+, VLC)</name>
 <description><![CDATA[Бездротовий проєктор на Android із нативною роздільною здатністю 1280×720, яскравістю 140 ANSI лм та діагоналлю 20–200″. Підтримує Wi‑Fi 2,4/5 ГГц, Bluetooth 5.0, AV, USB, HDMI та AUX; пам’ять 1/8 ГБ. Фокусування ручне.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Опт від 2 шт">$81.6</param>
 <param name="Опт від 3 шт">$79.9</param>
 <param name="Опт від 5 шт">$78.2</param>
@@ -183132,7 +182611,7 @@
 <vendorCode>Ц-000084366</vendorCode>
 <code>792313</code>
 <name>Журнальний столик квадратний</name>
-<quantity_in_stock>7</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <param name="Drop">$16.28</param>
 </offer>
 <offer id="ts000084367" available="true">
@@ -183149,7 +182628,7 @@
 <vendorCode>Ц-000084367</vendorCode>
 <code>792314</code>
 <name>Журнальний столик круглий</name>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <param name="Drop">$16.39</param>
 </offer>
 <offer id="ts000084368" available="true">
@@ -183166,7 +182645,7 @@
 <vendorCode>Ц-000084368</vendorCode>
 <code>792315</code>
 <name>Журнальний столик круглий 40см</name>
-<quantity_in_stock>6</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <param name="Drop">$13.75</param>
 </offer>
 <offer id="ts000083195" available="true">
@@ -183188,7 +182667,7 @@
 <code>790026</code>
 <name>Зволожувач повітря Hoco HX35 Mist, 2 л, подвійне розпилення, USB-C</name>
 <description><![CDATA[1. Матеріал: ABS+PP+електронні компоненти 2. Розмір: 135 * 128 * 190 мм; Вага: 345 г 3. Місткість резервуара для води: 2 л; об'єм розпилення: 20-60 мл/год 4. Площа застосування: 31-40 квадратних метрів 5. Рівень шуму: менше 36 дБ 6. Три режими: подвійне розпилення/одинарне розпилення/інтервальне розпилення]]></description>
-<quantity_in_stock>7</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <param name="Опт від 3 шт">$5.95</param>
 <param name="Опт від 5 шт">$5.83</param>
 <param name="Опт від 7 шт">$5.7</param>
@@ -183496,7 +182975,7 @@
 <vendorCode>Ц-000083555</vendorCode>
 <code>790822</code>
 <name>Підставка з підігрівом Earldom ET-C05</name>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Опт від 2 шт">$10.75</param>
 <param name="Опт від 3 шт">$10.53</param>
 <param name="Опт від 5 шт">$10.3</param>
@@ -184590,7 +184069,7 @@
 <code>786340</code>
 <name>Трекер для пошуку речей Earldom ET-AT01, сумісний з AirTag</name>
 <description><![CDATA[Трекер для пошуку речей Earldom ET-AT01, сумісний з AirTag використовується для визначення місцезнаходження речей або транспорту. Основні характеристики: • Тип: трекер для пошуку речей • Акумулятор: 230 мА·год]]></description>
-<quantity_in_stock>21</quantity_in_stock>
+<quantity_in_stock>20</quantity_in_stock>
 <param name="Бренд">Earldom</param>
 <param name="Тип прикраси для телефонів">Брелоки</param>
 <param name="Опт від 3 шт">$4.42</param>
@@ -188339,7 +187818,7 @@
 <code>777649</code>
 <name>Підставка для телефона, металева — Silver</name>
 <description><![CDATA[Підставка для телефона, металева — Silver фіксує смартфон у зручному положенні для перегляду відео, дзвінків, навігації або знімання. Металева конструкція розрахована на стабільне встановлення.]]></description>
-<quantity_in_stock>7</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <param name="Опт від 3 шт">$1.82</param>
 <param name="Опт від 5 шт">$1.79</param>
 <param name="Опт від 7 шт">$1.75</param>
@@ -188609,7 +188088,7 @@
 <code>707389</code>
 <name>Кабель живлення для роутера USB — DC 5.8mm — 5V — 12V</name>
 <description><![CDATA[Кабель живлення USB — DC для підключення сумісного роутера або мережевого обладнання до USB-джерела.]]></description>
-<quantity_in_stock>191</quantity_in_stock>
+<quantity_in_stock>189</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Роз'єм підключення">Кабель живлення DC</param>
 <param name="Довжина кабелю">1m</param>
