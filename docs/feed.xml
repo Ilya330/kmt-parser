@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-28 11:48">
+<yml_catalog date="2026-11-28 17:23">
 <shop>
 <name>KMT5</name><company>KMT5</company><url>https://kmt5.com.ua/</url>
 <currencies><currency id="UAH" rate="1"/></currencies>
@@ -175,7 +175,6 @@
 <category id="41340662" parentId="36225134">Накопичувачі інформації</category>
 <category id="20230690" parentId="36225134">ПК Геймінг</category>
 <category id="21968" parentId="20230690">Джойстики</category>
-<category id="67686655" parentId="20230690">Мікрофони та навушники для ПК</category>
 <category id="95919407" parentId="36225134">Підставки та столики</category>
 <category id="99079560" parentId="95919407">Охолоджуючі підставки</category>
 <category id="77077931" parentId="36225134">Роутери, точки доступу та WI-FI адаптери</category>
@@ -312,7 +311,7 @@
 <vendorCode>Ц-000084893</vendorCode>
 <code>793766</code>
 <name>TPU-чохол Fruct Clear Mag — Phone 17 Pro Max/iPhone 18 Pro Max</name>
-<quantity_in_stock>13</quantity_in_stock>
+<quantity_in_stock>12</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
@@ -480,7 +479,7 @@
 <vendorCode>Ц-000084900</vendorCode>
 <code>793773</code>
 <name>TPU-чохол Fruct Guard Mag— iPhone 17 Pro/iPhone 18 Pro</name>
-<quantity_in_stock>16</quantity_in_stock>
+<quantity_in_stock>14</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
@@ -598,7 +597,7 @@
 <code>788748</code>
 <name>Оригінальний TechWoven чохол — iPhone 17 Pro Max/iPhone 18 Pro Max — Sienna</name>
 <description><![CDATA[Чохол для iPhone 17 Pro Max/iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень.]]></description>
-<quantity_in_stock>8</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
@@ -707,7 +706,7 @@
 <code>788742</code>
 <name>Оригінальний TechWoven чохол — iPhone 17 Pro/iPhone 18 Pro — Sienna</name>
 <description><![CDATA[Чохол для iPhone 17 Pro/iPhone 18 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
@@ -1523,7 +1522,7 @@
 <code>750954</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 13 6.1&quot; — Midnight blue (8)</name>
 <description><![CDATA[Чохол для iPhone 13 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>27</quantity_in_stock>
+<quantity_in_stock>26</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 13 6.1&quot;</param>
@@ -2394,7 +2393,7 @@
 <code>754052</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 14 Pro Max 6.7&quot; — Midnight Blue (8)</name>
 <description><![CDATA[Чохол для iPhone 14 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 Pro Max 6.7&quot;</param>
@@ -2568,7 +2567,7 @@
 <code>772093</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 15 Pro Max — Black (18)</name>
 <description><![CDATA[Чохол для iPhone 15 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>11</quantity_in_stock>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro Max</param>
@@ -2626,7 +2625,7 @@
 <code>772095</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 15 Pro Max — Charcoal Gray (15)</name>
 <description><![CDATA[Чохол для iPhone 15 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro Max</param>
@@ -5710,7 +5709,7 @@
 <code>791474</code>
 <name>Full камери Armor чохол з MagSafe — iPhone 13 Pro Max — Brown</name>
 <description><![CDATA[Чохол для iPhone 13 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Конструкція передбачає додатковий захист зони камери.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 13 Pro Max 6.7&quot;</param>
@@ -5976,7 +5975,7 @@
 <code>791490</code>
 <name>Full камери Armor чохол з MagSafe — iPhone 15 Pro Max — Black</name>
 <description><![CDATA[Чохол для iPhone 15 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Конструкція передбачає додатковий захист зони камери.]]></description>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro Max</param>
@@ -6168,7 +6167,7 @@
 <code>791500</code>
 <name>Full камери Armor чохол з MagSafe — iPhone 16 Pro Max — Black</name>
 <description><![CDATA[Чохол для iPhone 16 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Конструкція передбачає додатковий захист зони камери.]]></description>
-<quantity_in_stock>16</quantity_in_stock>
+<quantity_in_stock>14</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16 Pro Max</param>
@@ -6553,7 +6552,7 @@
 <code>791507</code>
 <name>Full камери Armor чохол з MagSafe — iPhone 17 — Brown</name>
 <description><![CDATA[Чохол для iPhone 17 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Конструкція передбачає додатковий захист зони камери.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17</param>
@@ -6763,6 +6762,37 @@
 <param name="Опт від 10 шт">$4.23</param>
 <param name="Drop">$5.06</param>
 </offer>
+<offer id="ts000083271000031405" available="true">
+<url>https://kmt5.com.ua/smoky-case-with-magsafe-iphone-13-14-cherry-red</url>
+<price>233</price>
+<vendorprice>140</vendorprice>
+<vendorpricedoll>3.07</vendorpricedoll>
+<rrcdoll>5.11</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>70706401</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGYvYzIv0KYtMDAwMDgzMjcxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTMvMWIv0KYtMDAwMDgzMjcxXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjAvMWYv0KYtMDAwMDgzMjcxXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODUvMmYv0KYtMDAwMDgzMjcxXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWEvMDkv0KYtMDAwMDgzMjcxXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDcvZjkv0KYtMDAwMDgzMjcxXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjcvOTUv0KYtMDAwMDgzMjcxXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTMvODEv0KYtMDAwMDgzMjcxXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Все</vendor>
+<vendorCode>Ц-000083271</vendorCode>
+<code>790355</code>
+<name>Чохол Smoky з MagSafe — iPhone 13 / 14 — Cherry Red</name>
+<description><![CDATA[Чохол для iPhone 13 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
+<quantity_in_stock>5</quantity_in_stock>
+<param name="Форм-фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 13 6.1&quot;, Apple iPhone 14 6.1&quot;</param>
+<param name="Бренд">Apple</param>
+<param name="Опт від 5 шт">$2.86</param>
+<param name="Опт від 7 шт">$2.8</param>
+<param name="Опт від 10 шт">$2.74</param>
+<param name="Drop">$3.28</param>
+</offer>
 <offer id="ts000083271000031404" available="true">
 <url>https://kmt5.com.ua/smoky-case-with-magsafe-iphone-13-14-coffee-brown</url>
 <price>233</price>
@@ -6803,7 +6833,7 @@
 <code>790356</code>
 <name>Чохол Smoky з MagSafe — iPhone 13 / 14 — Dark Blue</name>
 <description><![CDATA[Чохол для iPhone 13 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 13 6.1&quot;, Apple iPhone 14 6.1&quot;</param>
@@ -6909,7 +6939,7 @@
 <code>790353</code>
 <name>Чохол Smoky з MagSafe — iPhone 13 / 14 — Pale Purple</name>
 <description><![CDATA[Чохол для iPhone 13 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 13 6.1&quot;, Apple iPhone 14 6.1&quot;</param>
@@ -8241,6 +8271,31 @@
 <param name="Опт від 10 шт">$2.74</param>
 <param name="Drop">$3.28</param>
 </offer>
+<offer id="ts000083276000031443" available="true">
+<url>https://kmt5.com.ua/smoky-case-with-magsafe-iphone-15-pale-purple</url>
+<price>234</price>
+<vendorprice>140</vendorprice>
+<vendorpricedoll>3.07</vendorpricedoll>
+<rrcdoll>5.15</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>16203878</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjMvYzIv0KYtMDAwMDgzMjc2XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTgvYTUv0KYtMDAwMDgzMjc2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Все</vendor>
+<vendorCode>Ц-000083276</vendorCode>
+<code>790398</code>
+<name>Чохол Smoky з MagSafe — iPhone 15 — Pale Purple</name>
+<description><![CDATA[Чохол для iPhone 15 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
+<quantity_in_stock>2</quantity_in_stock>
+<param name="Форм-фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 15</param>
+<param name="Бренд">Apple</param>
+<param name="Опт від 5 шт">$2.86</param>
+<param name="Опт від 7 шт">$2.8</param>
+<param name="Опт від 10 шт">$2.74</param>
+<param name="Drop">$3.28</param>
+</offer>
 <offer id="ts000083282000031496" available="true">
 <url>https://kmt5.com.ua/smoky-case-with-magsafe-iphone-16-pro-max-black</url>
 <price>233</price>
@@ -8898,7 +8953,7 @@
 <code>790495</code>
 <name>Чохол Smoky з MagSafe — iPhone 17 Pro Max/iPhone 18 Pro Max — Cherry Red</name>
 <description><![CDATA[Чохол для iPhone 17 Pro Max/iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
@@ -11270,6 +11325,28 @@
 <param name="Опт від 10 шт">$3.22</param>
 <param name="Drop">$3.74</param>
 </offer>
+<offer id="ts000084402000032322" available="true">
+<url>https://kmt5.com.ua/kltsepdstavka-magntniy-chohol-360degree-rotating-iphone-11-pro-max-black</url>
+<price>245</price>
+<vendorprice>140</vendorprice>
+<vendorpricedoll>3.07</vendorpricedoll>
+<rrcdoll>5.39</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>32288668</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTIvZGQv0KYtMDAwMDg0NDAyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWMvMGIv0KYtMDAwMDg0NDAyXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000084402</vendorCode>
+<code>792372</code>
+<name>Кільце-підставка магнітний чохол 360-degree rotating — iPhone 11 Pro Max — Black</name>
+<description><![CDATA[Чохол для iPhone 11 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Вбудована підставка зручна для перегляду відео. Кільце полегшує утримання смартфона та може використовуватися як підставка.]]></description>
+<quantity_in_stock>4</quantity_in_stock>
+<param name="Форм-фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 11 Pro Max</param>
+<param name="Бренд">Apple</param>
+<param name="Drop">$3.28</param>
+</offer>
 <offer id="ts000084401000032321" available="true">
 <url>https://kmt5.com.ua/kltsepdstavka-magntniy-chohol-360degree-rotating-iphone-11-pro-black</url>
 <price>249</price>
@@ -11285,10 +11362,32 @@
 <code>792370</code>
 <name>Кільце-підставка магнітний чохол 360-degree rotating — iPhone 11 Pro — Black</name>
 <description><![CDATA[Чохол для iPhone 11 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Вбудована підставка зручна для перегляду відео. Кільце полегшує утримання смартфона та може використовуватися як підставка.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 11 Pro</param>
+<param name="Бренд">Apple</param>
+<param name="Drop">$3.28</param>
+</offer>
+<offer id="ts000084400000032320" available="true">
+<url>https://kmt5.com.ua/kltsepdstavka-magntniy-chohol-360degree-rotating-iphone-11-black</url>
+<price>245</price>
+<vendorprice>140</vendorprice>
+<vendorpricedoll>3.07</vendorpricedoll>
+<rrcdoll>5.39</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>32288668</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTAvNDIv0KYtMDAwMDg0NDAwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTMvNTAv0KYtMDAwMDg0NDAwXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000084400</vendorCode>
+<code>792368</code>
+<name>Кільце-підставка магнітний чохол 360-degree rotating — iPhone 11 — Black</name>
+<description><![CDATA[Чохол для iPhone 11 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Вбудована підставка зручна для перегляду відео. Кільце полегшує утримання смартфона та може використовуватися як підставка.]]></description>
+<quantity_in_stock>5</quantity_in_stock>
+<param name="Форм-фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 11</param>
 <param name="Бренд">Apple</param>
 <param name="Drop">$3.28</param>
 </offer>
@@ -11835,7 +11934,7 @@
 <code>792404</code>
 <name>Кільце-підставка магнітний чохол 360-degree rotating — iPhone 15 Pro Max — Black</name>
 <description><![CDATA[Чохол для iPhone 15 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Вбудована підставка зручна для перегляду відео. Кільце полегшує утримання смартфона та може використовуватися як підставка.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro Max</param>
@@ -11857,7 +11956,7 @@
 <code>792405</code>
 <name>Кільце-підставка магнітний чохол 360-degree rotating — iPhone 15 Pro Max — Brown</name>
 <description><![CDATA[Чохол для iPhone 15 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Вбудована підставка зручна для перегляду відео. Кільце полегшує утримання смартфона та може використовуватися як підставка.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro Max</param>
@@ -11968,6 +12067,28 @@
 <name>Кільце-підставка магнітний чохол 360-degree rotating — iPhone 15 Pro — Dark Blue</name>
 <description><![CDATA[Чохол для iPhone 15 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Вбудована підставка зручна для перегляду відео. Кільце полегшує утримання смартфона та може використовуватися як підставка.]]></description>
 <quantity_in_stock>4</quantity_in_stock>
+<param name="Форм-фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 15 Pro</param>
+<param name="Бренд">Apple</param>
+<param name="Drop">$3.28</param>
+</offer>
+<offer id="ts000084410000032353" available="true">
+<url>https://kmt5.com.ua/kltsepdstavka-magntniy-chohol-360degree-rotating-iphone-15-pro-grey</url>
+<price>249</price>
+<vendorprice>140</vendorprice>
+<vendorpricedoll>3.07</vendorpricedoll>
+<rrcdoll>5.48</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>16203878</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZGUvMmIv0KYtMDAwMDg0NDEwXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjQvZGMv0KYtMDAwMDg0NDEwXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000084410</vendorCode>
+<code>792411</code>
+<name>Кільце-підставка магнітний чохол 360-degree rotating — iPhone 15 Pro — Grey</name>
+<description><![CDATA[Чохол для iPhone 15 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Вбудована підставка зручна для перегляду відео. Кільце полегшує утримання смартфона та може використовуватися як підставка.]]></description>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro</param>
@@ -12165,7 +12286,7 @@
 <code>792423</code>
 <name>Кільце-підставка магнітний чохол 360-degree rotating — iPhone 16 Pro — Grey</name>
 <description><![CDATA[Чохол для iPhone 16 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Вбудована підставка зручна для перегляду відео. Кільце полегшує утримання смартфона та може використовуватися як підставка.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16 Pro</param>
@@ -12517,7 +12638,7 @@
 <code>792837</code>
 <name>Силіконовий чохол з магнітом та ремінцем (захист камери) — iPhone 11 Pro Max — Black</name>
 <description><![CDATA[Чохол для iPhone 11 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання. Шнурок дозволяє зручно носити смартфон.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 11 Pro Max</param>
@@ -12561,10 +12682,32 @@
 <code>792843</code>
 <name>Силіконовий чохол з магнітом та ремінцем (захист камери) — iPhone 12 Pro Max — Black</name>
 <description><![CDATA[Чохол для iPhone 12 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання. Шнурок дозволяє зручно носити смартфон.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 12 Pro Max 6.7&quot;</param>
+<param name="Бренд">Apple</param>
+<param name="Drop">$3.85</param>
+</offer>
+<offer id="ts000084495000032701" available="true">
+<url>https://kmt5.com.ua/silkonoviy-chohol-z-magntom-ta-remntsem-zahist-kameri-iphone-12-pro-black</url>
+<price>288</price>
+<vendorprice>165</vendorprice>
+<vendorpricedoll>3.61</vendorpricedoll>
+<rrcdoll>6.33</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>36174719</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDIvMzcv0KYtMDAwMDg0NDk1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWMvNDYv0KYtMDAwMDg0NDk1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000084495</vendorCode>
+<code>792841</code>
+<name>Силіконовий чохол з магнітом та ремінцем (захист камери) — iPhone 12 Pro — Black</name>
+<description><![CDATA[Чохол для iPhone 12 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання. Шнурок дозволяє зручно носити смартфон.]]></description>
+<quantity_in_stock>3</quantity_in_stock>
+<param name="Форм-фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 12 Pro 6.1&quot;</param>
 <param name="Бренд">Apple</param>
 <param name="Drop">$3.85</param>
 </offer>
@@ -12716,28 +12859,6 @@
 <name>Силіконовий чохол з магнітом та ремінцем (захист камери) — iPhone 13 Pro Max — Grey</name>
 <description><![CDATA[Чохол для iPhone 13 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання. Шнурок дозволяє зручно носити смартфон.]]></description>
 <quantity_in_stock>3</quantity_in_stock>
-<param name="Форм-фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 13 Pro Max 6.7&quot;</param>
-<param name="Бренд">Apple</param>
-<param name="Drop">$3.85</param>
-</offer>
-<offer id="ts000084480000032511" available="true">
-<url>https://kmt5.com.ua/silkonoviy-chohol-z-magntom-ta-remntsem-zahist-kameri-iphone-13-pro-max-light-blue</url>
-<price>293</price>
-<vendorprice>165</vendorprice>
-<vendorpricedoll>3.61</vendorpricedoll>
-<rrcdoll>6.44</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>70706401</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTkvYTAv0KYtMDAwMDg0NDgwXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTAvOTgv0KYtMDAwMDg0NDgwXzE5LmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000084480</vendorCode>
-<code>792636</code>
-<name>Силіконовий чохол з магнітом та ремінцем (захист камери) — iPhone 13 Pro Max — Light Blue</name>
-<description><![CDATA[Чохол для iPhone 13 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання. Шнурок дозволяє зручно носити смартфон.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 13 Pro Max 6.7&quot;</param>
@@ -13366,7 +13487,7 @@
 <code>792621</code>
 <name>Силіконовий чохол з магнітом та ремінцем (захист камери) — iPhone 13 — Black</name>
 <description><![CDATA[Чохол для iPhone 13 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання. Шнурок дозволяє зручно носити смартфон.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 13 6.1&quot;</param>
@@ -13687,7 +13808,7 @@
 <code>792675</code>
 <name>Силіконовий чохол з магнітом та ремінцем (захист камери) — iPhone 14 Pro Max — Black</name>
 <description><![CDATA[Чохол для iPhone 14 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання. Шнурок дозволяє зручно носити смартфон.]]></description>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>9</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 Pro Max 6.7&quot;</param>
@@ -13710,6 +13831,28 @@
 <name>Силіконовий чохол з магнітом та ремінцем (захист камери) — iPhone 14 Pro Max — Brown</name>
 <description><![CDATA[Чохол для iPhone 14 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання. Шнурок дозволяє зручно носити смартфон.]]></description>
 <quantity_in_stock>2</quantity_in_stock>
+<param name="Форм-фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 14 Pro Max 6.7&quot;</param>
+<param name="Бренд">Apple</param>
+<param name="Drop">$3.85</param>
+</offer>
+<offer id="ts000084482000032558" available="true">
+<url>https://kmt5.com.ua/silkonoviy-chohol-z-magntom-ta-remntsem-zahist-kameri-iphone-14-pro-max-cherry</url>
+<price>288</price>
+<vendorprice>165</vendorprice>
+<vendorpricedoll>3.61</vendorpricedoll>
+<rrcdoll>6.33</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>65522936</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmUvMzIv0KYtMDAwMDg0NDgyXzE2LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDMvNWQv0KYtMDAwMDg0NDgyXzE5LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000084482</vendorCode>
+<code>792685</code>
+<name>Силіконовий чохол з магнітом та ремінцем (захист камери) — iPhone 14 Pro Max — Cherry</name>
+<description><![CDATA[Чохол для iPhone 14 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання. Шнурок дозволяє зручно носити смартфон.]]></description>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 Pro Max 6.7&quot;</param>
@@ -13936,6 +14079,28 @@
 <param name="Бренд">Apple</param>
 <param name="Drop">$3.85</param>
 </offer>
+<offer id="ts000084482000032557" available="true">
+<url>https://kmt5.com.ua/silkonoviy-chohol-z-magntom-ta-remntsem-zahist-kameri-iphone-14-pro-max-titanium-gray</url>
+<price>288</price>
+<vendorprice>165</vendorprice>
+<vendorpricedoll>3.61</vendorpricedoll>
+<rrcdoll>6.33</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>65522936</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTIvM2Yv0KYtMDAwMDg0NDgyXzE1LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDMvNWQv0KYtMDAwMDg0NDgyXzE5LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000084482</vendorCode>
+<code>792684</code>
+<name>Силіконовий чохол з магнітом та ремінцем (захист камери) — iPhone 14 Pro Max — Titanium Gray</name>
+<description><![CDATA[Чохол для iPhone 14 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання. Шнурок дозволяє зручно носити смартфон.]]></description>
+<quantity_in_stock>3</quantity_in_stock>
+<param name="Форм-фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 14 Pro Max 6.7&quot;</param>
+<param name="Бренд">Apple</param>
+<param name="Drop">$3.85</param>
+</offer>
 <offer id="ts000084482000032547" available="true">
 <url>https://kmt5.com.ua/silkonoviy-chohol-z-magntom-ta-remntsem-zahist-kameri-iphone-14-pro-max-white</url>
 <price>293</price>
@@ -13951,7 +14116,7 @@
 <code>792674</code>
 <name>Силіконовий чохол з магнітом та ремінцем (захист камери) — iPhone 14 Pro Max — White</name>
 <description><![CDATA[Чохол для iPhone 14 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання. Шнурок дозволяє зручно носити смартфон.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 Pro Max 6.7&quot;</param>
@@ -14596,6 +14761,28 @@
 <param name="Бренд">Apple</param>
 <param name="Drop">$3.85</param>
 </offer>
+<offer id="ts000084485000032595" available="true">
+<url>https://kmt5.com.ua/silkonoviy-chohol-z-magntom-ta-remntsem-zahist-kameri-iphone-15-pro-max-purple</url>
+<price>288</price>
+<vendorprice>165</vendorprice>
+<vendorpricedoll>3.61</vendorpricedoll>
+<rrcdoll>6.33</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>16203878</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTMvYzUv0KYtMDAwMDg0NDg1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDYvMTMv0KYtMDAwMDg0NDg1XzE5LmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000084485</vendorCode>
+<code>792725</code>
+<name>Силіконовий чохол з магнітом та ремінцем (захист камери) — iPhone 15 Pro Max — Purple</name>
+<description><![CDATA[Чохол для iPhone 15 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання. Шнурок дозволяє зручно носити смартфон.]]></description>
+<quantity_in_stock>2</quantity_in_stock>
+<param name="Форм-фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 15 Pro Max</param>
+<param name="Бренд">Apple</param>
+<param name="Drop">$3.85</param>
+</offer>
 <offer id="ts000084485000032611" available="true">
 <url>https://kmt5.com.ua/silkonoviy-chohol-z-magntom-ta-remntsem-zahist-kameri-iphone-15-pro-max-red</url>
 <price>293</price>
@@ -14655,7 +14842,7 @@
 <code>792728</code>
 <name>Силіконовий чохол з магнітом та ремінцем (захист камери) — iPhone 15 Pro Max — White</name>
 <description><![CDATA[Чохол для iPhone 15 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання. Шнурок дозволяє зручно носити смартфон.]]></description>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro Max</param>
@@ -15168,28 +15355,6 @@
 <param name="Бренд">Apple</param>
 <param name="Drop">$3.85</param>
 </offer>
-<offer id="ts000084483000032562" available="true">
-<url>https://kmt5.com.ua/silkonoviy-chohol-z-magntom-ta-remntsem-zahist-kameri-iphone-15-light-blue</url>
-<price>293</price>
-<vendorprice>165</vendorprice>
-<vendorpricedoll>3.61</vendorpricedoll>
-<rrcdoll>6.44</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>16203878</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWUvMWIv0KYtMDAwMDg0NDgzXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjkvOGMv0KYtMDAwMDg0NDgzXzIxLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000084483</vendorCode>
-<code>792690</code>
-<name>Силіконовий чохол з магнітом та ремінцем (захист камери) — iPhone 15 — Light Blue</name>
-<description><![CDATA[Чохол для iPhone 15 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання. Шнурок дозволяє зручно носити смартфон.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм-фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 15</param>
-<param name="Бренд">Apple</param>
-<param name="Drop">$3.85</param>
-</offer>
 <offer id="ts000084483000032572" available="true">
 <url>https://kmt5.com.ua/silkonoviy-chohol-z-magntom-ta-remntsem-zahist-kameri-iphone-15-light-purple</url>
 <price>293</price>
@@ -15601,7 +15766,7 @@
 <code>792767</code>
 <name>Силіконовий чохол з магнітом та ремінцем (захист камери) — iPhone 16 Pro Max — Pink</name>
 <description><![CDATA[Чохол для iPhone 16 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання. Шнурок дозволяє зручно носити смартфон.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16 Pro Max</param>
@@ -15762,6 +15927,28 @@
 <param name="Бренд">Apple</param>
 <param name="Drop">$3.85</param>
 </offer>
+<offer id="ts000084486000032617" available="true">
+<url>https://kmt5.com.ua/silkonoviy-chohol-z-magntom-ta-remntsem-zahist-kameri-iphone-16-pro-desert-gold</url>
+<price>293</price>
+<vendorprice>165</vendorprice>
+<vendorpricedoll>3.61</vendorpricedoll>
+<rrcdoll>6.43</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>60652165</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTcvOWMv0KYtMDAwMDg0NDg2XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDYvYzkv0KYtMDAwMDg0NDg2XzIxLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000084486</vendorCode>
+<code>792748</code>
+<name>Силіконовий чохол з магнітом та ремінцем (захист камери) — iPhone 16 Pro — Desert Gold</name>
+<description><![CDATA[Чохол для iPhone 16 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання. Шнурок дозволяє зручно носити смартфон.]]></description>
+<quantity_in_stock>3</quantity_in_stock>
+<param name="Форм-фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 16 Pro</param>
+<param name="Бренд">Apple</param>
+<param name="Drop">$3.85</param>
+</offer>
 <offer id="ts000084486000032614" available="true">
 <url>https://kmt5.com.ua/silkonoviy-chohol-z-magntom-ta-remntsem-zahist-kameri-iphone-16-pro-grey</url>
 <price>293</price>
@@ -15799,7 +15986,7 @@
 <code>792744</code>
 <name>Силіконовий чохол з магнітом та ремінцем (захист камери) — iPhone 16 Pro — Light Blue</name>
 <description><![CDATA[Чохол для iPhone 16 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання. Шнурок дозволяє зручно носити смартфон.]]></description>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16 Pro</param>
@@ -15931,7 +16118,7 @@
 <code>792743</code>
 <name>Силіконовий чохол з магнітом та ремінцем (захист камери) — iPhone 16 Pro — Purple</name>
 <description><![CDATA[Чохол для iPhone 16 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання. Шнурок дозволяє зручно носити смартфон.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16 Pro</param>
@@ -16596,7 +16783,7 @@
 <code>792795</code>
 <name>Силіконовий чохол з магнітом та ремінцем (захист камери) — iPhone 17 — Red</name>
 <description><![CDATA[Чохол для iPhone 17 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання. Шнурок дозволяє зручно носити смартфон.]]></description>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17</param>
@@ -16685,7 +16872,7 @@
 <code>779012</code>
 <name>OC матовий чохол з MagSafe — iPhone 11 — Black</name>
 <description><![CDATA[Чохол для iPhone 11 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Матова поверхня має стриманий вигляд і менш помітні сліди дотиків.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 11</param>
@@ -16763,7 +16950,7 @@
 <code>779016</code>
 <name>OC матовий чохол з MagSafe — iPhone 12 / 12 Pro 6.1&quot; — Black</name>
 <description><![CDATA[Чохол для iPhone 12 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Матова поверхня має стриманий вигляд і менш помітні сліди дотиків.]]></description>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 12 Pro 6.1&quot;, Apple iPhone 12 6.1&quot;</param>
@@ -17195,32 +17382,6 @@
 <name>OC матовий чохол з MagSafe — iPhone 15 Pro Max — Black</name>
 <description><![CDATA[Чохол для iPhone 15 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Матова поверхня має стриманий вигляд і менш помітні сліди дотиків.]]></description>
 <quantity_in_stock>3</quantity_in_stock>
-<param name="Форм-фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 15 Pro Max</param>
-<param name="Бренд">Apple</param>
-<param name="Опт від 5 шт">$2.28</param>
-<param name="Опт від 7 шт">$2.24</param>
-<param name="Опт від 10 шт">$2.19</param>
-<param name="Drop">$2.62</param>
-</offer>
-<offer id="ts000079340000027177" available="true">
-<url>https://kmt5.com.ua/oc-matte-case-with-magsafe-iphone-15-pro-max-pink</url>
-<price>180</price>
-<vendorprice>112</vendorprice>
-<vendorpricedoll>2.45</vendorpricedoll>
-<rrcdoll>3.96</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>16203878</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzQvZGEv0KYtMDAwMDc5MzQwXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGMvZWMv0KYtMDAwMDc5MzQwXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDYvNzUv0KYtMDAwMDc5MzQwXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000079340</vendorCode>
-<code>779067</code>
-<name>OC матовий чохол з MagSafe — iPhone 15 Pro Max — Pink</name>
-<description><![CDATA[Чохол для iPhone 15 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Матова поверхня має стриманий вигляд і менш помітні сліди дотиків.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro Max</param>
@@ -20528,6 +20689,31 @@
 <param name="Бренд">Различные</param>
 <param name="Drop">$3.52</param>
 </offer>
+<offer id="ts000073123000022781" available="true">
+<url>https://kmt5.com.ua/color-clear-case-with-magsafe-iphone-13-pro-max-blue</url>
+<price>166</price>
+<vendorprice>61</vendorprice>
+<vendorpricedoll>1.34</vendorpricedoll>
+<rrcdoll>3.64</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>70706401</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2IvNjgv0KYtMDAwMDczMTIzXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmIvNzAv0KYtMDAwMDczMTIzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000073123</vendorCode>
+<code>754752</code>
+<name>Color прозорий чохол з MagSafe — iPhone 13 Pro Max — Blue</name>
+<description><![CDATA[Чохол для iPhone 13 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Прозорий дизайн залишає видимим оригінальний колір пристрою.]]></description>
+<quantity_in_stock>2</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 13 Pro Max 6.7&quot;</param>
+<param name="Бренд">Apple</param>
+<param name="Опт від 5 шт">$1.25</param>
+<param name="Опт від 7 шт">$1.22</param>
+<param name="Опт від 10 шт">$1.2</param>
+<param name="Drop">$2.42</param>
+</offer>
 <offer id="ts000073121000022789" available="true">
 <url>https://kmt5.com.ua/color-clear-case-with-magsafe-iphone-13-pro-blue</url>
 <price>106</price>
@@ -23299,6 +23485,31 @@
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Samsung</param>
 <param name="Модель девайса">Samsung S26 Ultra</param>
+<param name="Бренд">Различные</param>
+<param name="Опт від 5 шт">$2.86</param>
+<param name="Опт від 7 шт">$2.8</param>
+<param name="Опт від 10 шт">$2.74</param>
+<param name="Drop">$3.28</param>
+</offer>
+<offer id="ts000083997000031791" available="true">
+<url>https://kmt5.com.ua/full-camera-armor-case-with-magsafe-samsung-s26-black</url>
+<price>241</price>
+<vendorprice>140</vendorprice>
+<vendorpricedoll>3.07</vendorpricedoll>
+<rrcdoll>5.29</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>43902800</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjgvYzgv0KYtMDAwMDgzOTk3XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2QvZmEv0KYtMDAwMDgzOTk3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Все</vendor>
+<vendorCode>Ц-000083997</vendorCode>
+<code>791445</code>
+<name>Full камери Armor чохол з MagSafe — Samsung S26 — Black</name>
+<description><![CDATA[Чохол для Samsung S26 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Конструкція передбачає додатковий захист зони камери.]]></description>
+<quantity_in_stock>4</quantity_in_stock>
+<param name="Форм-фактор">Накладка</param>
+<param name="Марка">Samsung</param>
+<param name="Модель девайса">Samsung S26</param>
 <param name="Бренд">Различные</param>
 <param name="Опт від 5 шт">$2.86</param>
 <param name="Опт від 7 шт">$2.8</param>
@@ -29079,54 +29290,6 @@
 <param name="Матеріал">Поліуретан</param>
 <param name="Drop">$2.2</param>
 </offer>
-<offer id="ts000084047" available="true">
-<url>https://kmt5.com.ua/rimova-metal-case-iphone-17-pro-max-blue</url>
-<price>310</price>
-<vendorprice>181</vendorprice>
-<vendorpricedoll>3.97</vendorpricedoll>
-<rrcdoll>6.82</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>16060343</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2UvODQv0KYtMDAwMDg0MDQ3XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWQvODMv0KYtMDAwMDg0MDQ3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmQvMTAv0KYtMDAwMDg0MDQ3XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTEvMTkv0KYtMDAwMDg0MDQ3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000084047</vendorCode>
-<code>791678</code>
-<name>Rimova металевий чохол — iPhone 17 Pro Max/iPhone 18 Pro Max — Blue</name>
-<description><![CDATA[Чохол для iPhone 17 Pro Max/iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм-фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
-<param name="Бренд">Различные</param>
-<param name="Drop">$4.24</param>
-</offer>
-<offer id="ts000084047-95848" available="true">
-<url>https://kmt5.com.ua/rimova-metal-case-iphone-17-pro-max-orange</url>
-<price>310</price>
-<vendorprice>181</vendorprice>
-<vendorpricedoll>3.97</vendorpricedoll>
-<rrcdoll>6.82</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>16060343</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODQvYTUv0KYtMDAwMDg0MDQ3XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWQvODMv0KYtMDAwMDg0MDQ3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTQvZTcv0KYtMDAwMDg0MDQ3XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTEvMTkv0KYtMDAwMDg0MDQ3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000084047</vendorCode>
-<code>791680</code>
-<name>Rimova металевий чохол — iPhone 17 Pro Max/iPhone 18 Pro Max — Orange</name>
-<description><![CDATA[Чохол для iPhone 17 Pro Max/iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Форм-фактор">Накладка</param>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
-<param name="Бренд">Различные</param>
-<param name="Drop">$4.24</param>
-</offer>
 <offer id="ts000070514000018815" available="true">
 <url>https://kmt5.com.ua/aroma-ring-silicone-case-iphone-12-61-purple</url>
 <price>133</price>
@@ -29867,7 +30030,7 @@
 <code>787951</code>
 <name>Rock Guard Touch магнітний захист чохол (металевий Lens Frame) — iPhone 17 Pro/iPhone 18 Pro — Black</name>
 <description><![CDATA[Чохол для iPhone 17 Pro/iPhone 18 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень.]]></description>
-<quantity_in_stock>22</quantity_in_stock>
+<quantity_in_stock>21</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
@@ -33538,7 +33701,7 @@
 <code>782250</code>
 <name>Swarovski підставка чохол з MagSafe — iPhone 14 Pro — Black</name>
 <description><![CDATA[Чохол для iPhone 14 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Вбудована підставка зручна для перегляду відео.]]></description>
-<quantity_in_stock>6</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 Pro 6.1&quot;</param>
@@ -34224,7 +34387,7 @@
 <vendorCode>Ц-000066193</vendorCode>
 <code>730488</code>
 <name>TPU Slim Leather Case iPhone X ; Xs — Black</name>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone X, Apple iPhone Xs</param>
@@ -42021,7 +42184,7 @@
 <code>792282</code>
 <name>TPU-чохол Rock Crystal Armor Series Anti-Yellowing з MagSafe — iPhone 17 Pro Max/iPhone 18 Pro Max — Black</name>
 <description><![CDATA[Чохол для iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. TPU-матеріал поєднує гнучкість і зносостійкість.]]></description>
-<quantity_in_stock>7</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 18 Pro Max, Apple iPhone 17 Pro Max</param>
@@ -42161,7 +42324,7 @@
 <code>787946</code>
 <name>TPU-чохол Rock Crystal Shield Series з MagSafe — iPhone 17 Pro Max/iPhone 18 Pro Max</name>
 <description><![CDATA[Чохол для iPhone 17 Pro Max/iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. TPU-матеріал поєднує гнучкість і зносостійкість.]]></description>
-<quantity_in_stock>111</quantity_in_stock>
+<quantity_in_stock>107</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
@@ -44377,6 +44540,31 @@
 <param name="Опт від 10 шт">$0.74</param>
 <param name="Drop">$0.88</param>
 </offer>
+<offer id="ts000075890000024670" available="true">
+<url>https://kmt5.com.ua/soft-touch-tpu-case-samsung-a24-pink-sand</url>
+<price>61</price>
+<vendorprice>38</vendorprice>
+<vendorpricedoll>0.82</vendorpricedoll>
+<rrcdoll>1.33</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>90750134</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzUvZGIv0KYtMDAwMDc1ODkwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjMvZDYv0KYtMDAwMDc1ODkwXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Все</vendor>
+<vendorCode>Ц-000075890</vendorCode>
+<code>771397</code>
+<name>TPU-чохол Soft Touch — Samsung A24 — Pink Sand</name>
+<description><![CDATA[Чохол для Samsung A24 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. TPU-матеріал поєднує гнучкість і зносостійкість.]]></description>
+<quantity_in_stock>2</quantity_in_stock>
+<param name="Форм фактор">Накладка</param>
+<param name="Марка">Samsung</param>
+<param name="Модель девайса">Samsung A24</param>
+<param name="Бренд">Различные</param>
+<param name="Опт від 5 шт">$0.77</param>
+<param name="Опт від 7 шт">$0.75</param>
+<param name="Опт від 10 шт">$0.74</param>
+<param name="Drop">$0.88</param>
+</offer>
 <offer id="ts000070603000019043" available="true">
 <url>https://kmt5.com.ua/soft-touch-tpu-case-samsung-a32-a325f-orange</url>
 <price>60</price>
@@ -45122,6 +45310,30 @@
 <param name="Опт від 10 шт">$0.74</param>
 <param name="Drop">$0.88</param>
 </offer>
+<offer id="ts000077609000025745" available="true">
+<url>https://kmt5.com.ua/soft-touch-tpu-case-xiaomi-redmi-12-lilac</url>
+<price>59</price>
+<vendorprice>38</vendorprice>
+<vendorpricedoll>0.82</vendorpricedoll>
+<rrcdoll>1.29</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>61954391</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDcvYWEv0KYtMDAwMDc3NjA5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Все</vendor>
+<vendorCode>Ц-000077609</vendorCode>
+<code>775727</code>
+<name>TPU-чохол Soft Touch — Xiaomi Redmi 12 — Lilac</name>
+<description><![CDATA[Чохол для Xiaomi Redmi 12 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. TPU-матеріал поєднує гнучкість і зносостійкість.]]></description>
+<quantity_in_stock>2</quantity_in_stock>
+<param name="Форм-фактор">Накладка</param>
+<param name="Марка">Xiaomi</param>
+<param name="Модель девайса">Xiaomi Redmi 12</param>
+<param name="Бренд">Различные</param>
+<param name="Опт від 5 шт">$0.77</param>
+<param name="Опт від 7 шт">$0.75</param>
+<param name="Опт від 10 шт">$0.74</param>
+<param name="Drop">$0.88</param>
+</offer>
 <offer id="ts000077609000025746" available="true">
 <url>https://kmt5.com.ua/soft-touch-tpu-case-xiaomi-redmi-12-pink</url>
 <price>60</price>
@@ -45211,7 +45423,7 @@
 <code>770933</code>
 <name>TPU-чохол Soft Touch — Xiaomi Redmi 12C — Lilac</name>
 <description><![CDATA[Чохол для Xiaomi Redmi 12C для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. TPU-матеріал поєднує гнучкість і зносостійкість.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>9</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Xiaomi</param>
 <param name="Модель девайса">Xiaomi Redmi 12C</param>
@@ -47479,7 +47691,7 @@
 <code>782198</code>
 <name>UAG Adventure магнітний чохол — iPhone 16 Pro Max — Black</name>
 <description><![CDATA[Чохол для iPhone 16 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16 Pro Max</param>
@@ -54334,7 +54546,7 @@
 <code>789169</code>
 <name>Захисний чохол із кільцем — Xiaomi Redmi 15C — Green</name>
 <description><![CDATA[Чохол для Xiaomi Redmi 15C для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Кільце полегшує утримання смартфона та може використовуватися як підставка.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Xiaomi</param>
 <param name="Модель девайса">Xiaomi Redmi 15C</param>
@@ -55242,6 +55454,32 @@
 <param name="Опт від 10 шт">$1.29</param>
 <param name="Drop">$1.54</param>
 </offer>
+<offer id="ts000075818000024644" available="true">
+<url>https://kmt5.com.ua/protective-stand-case-samsung-m33-black</url>
+<price>114</price>
+<vendorprice>66</vendorprice>
+<vendorpricedoll>1.44</vendorpricedoll>
+<rrcdoll>2.51</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>81262132</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2EvYTcv0KYtMDAwMDc1ODE4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzEvNGMv0KYtMDAwMDc1ODE4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Все</vendor>
+<vendorCode>Ц-000075818</vendorCode>
+<code>771299</code>
+<name>Захисний чохол-підставка — Samsung M33 — Black</name>
+<description><![CDATA[Чохол для Samsung M33 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Вбудована підставка зручна для перегляду відео.]]></description>
+<quantity_in_stock>4</quantity_in_stock>
+<param name="Форм-фактор">Накладка</param>
+<param name="Марка">Samsung</param>
+<param name="Модель девайса">Samsung M33</param>
+<param name="Бренд">Различные</param>
+<param name="Матеріал">Поліуретан</param>
+<param name="Опт від 5 шт">$1.34</param>
+<param name="Опт від 7 шт">$1.32</param>
+<param name="Опт від 10 шт">$1.29</param>
+<param name="Drop">$1.54</param>
+</offer>
 <offer id="ts000075813000024639" available="true">
 <url>https://kmt5.com.ua/protective-stand-case-samsung-s23-plus-black</url>
 <price>114</price>
@@ -55416,6 +55654,32 @@
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Xiaomi</param>
 <param name="Модель девайса">Xiaomi Redmi Note 12</param>
+<param name="Бренд">Различные</param>
+<param name="Матеріал">Поліуретан</param>
+<param name="Опт від 5 шт">$1.34</param>
+<param name="Опт від 7 шт">$1.32</param>
+<param name="Опт від 10 шт">$1.29</param>
+<param name="Drop">$1.54</param>
+</offer>
+<offer id="ts000078745000026941" available="true">
+<url>https://kmt5.com.ua/protective-stand-case-xiaomi-redmi-note-13-black</url>
+<price>114</price>
+<vendorprice>66</vendorprice>
+<vendorpricedoll>1.44</vendorpricedoll>
+<rrcdoll>2.5</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>71957840</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDUvMDIv0KYtMDAwMDc4NzQ1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGYvNDcv0KYtMDAwMDc4NzQ1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Все</vendor>
+<vendorCode>Ц-000078745</vendorCode>
+<code>778244</code>
+<name>Захисний чохол-підставка — Xiaomi Redmi Note 13 4G — Black</name>
+<description><![CDATA[Чохол для Xiaomi Redmi Note 13 4G для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Вбудована підставка зручна для перегляду відео.]]></description>
+<quantity_in_stock>4</quantity_in_stock>
+<param name="Форм-фактор">Накладка</param>
+<param name="Марка">Xiaomi</param>
+<param name="Модель девайса">Xiaomi Redmi Note 13 4G</param>
 <param name="Бренд">Различные</param>
 <param name="Матеріал">Поліуретан</param>
 <param name="Опт від 5 шт">$1.34</param>
@@ -55926,7 +56190,7 @@
 <code>792996</code>
 <name>Магнітний чохол AreoGuard Ultra AG-203 — iPhone 17 Pro Max/iPhone 18 Pro Max — Dark Cherry</name>
 <description><![CDATA[Чохол для iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
@@ -56604,7 +56868,7 @@
 <code>779582</code>
 <name>Матовий TPU-чохол — Oppo A76 / A96</name>
 <description><![CDATA[Чохол для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. TPU-матеріал поєднує гнучкість і зносостійкість. Матова поверхня має стриманий вигляд і менш помітні сліди дотиків.]]></description>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Oppo</param>
 <param name="Модель девайса">Oppo A76, Oppo A96</param>
@@ -59581,6 +59845,31 @@
 <param name="Опт від 10 шт">$1.1</param>
 <param name="Drop">$1.32</param>
 </offer>
+<offer id="ts000076180000025005" available="true">
+<url>https://kmt5.com.ua/clear-magnetic-tpupc-case-iphone-13-pro-max-blue</url>
+<price>91</price>
+<vendorprice>57</vendorprice>
+<vendorpricedoll>1.24</vendorpricedoll>
+<rrcdoll>2.0</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>70706401</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTkvOWQv0KYtMDAwMDc2MTgwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjcvMDUv0KYtMDAwMDc2MTgwXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000076180</vendorCode>
+<code>772001</code>
+<name>Прозорий магнітний TPU+PC чохол — iPhone 13 Pro Max — Blue</name>
+<description><![CDATA[Чохол для iPhone 13 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. TPU-матеріал поєднує гнучкість і зносостійкість. Прозорий дизайн залишає видимим оригінальний колір пристрою.]]></description>
+<quantity_in_stock>2</quantity_in_stock>
+<param name="Форм-фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 13 Pro Max 6.7&quot;</param>
+<param name="Бренд">Различные</param>
+<param name="Опт від 5 шт">$1.15</param>
+<param name="Опт від 7 шт">$1.13</param>
+<param name="Опт від 10 шт">$1.1</param>
+<param name="Drop">$1.32</param>
+</offer>
 <offer id="ts000076180000025002" available="true">
 <url>https://kmt5.com.ua/clear-magnetic-tpupc-case-iphone-13-pro-max-deep-purple</url>
 <price>90</price>
@@ -61704,6 +61993,39 @@
 <param name="Опт від 10 шт">$9.02</param>
 <param name="Drop">$10.78</param>
 </offer>
+<offer id="ts000083014000032981" available="true">
+<url>https://kmt5.com.ua/silkonoviy-chohol-polo-augus-z-magsafe-iphone-17-pro-maxiphone-18-pro-max-purple</url>
+<price>766</price>
+<vendorprice>460</vendorprice>
+<vendorpricedoll>10.09</vendorpricedoll>
+<rrcdoll>16.84</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>54622491</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTkvYmIv0KYtMDAwMDgzMDE0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTEvZjQv0KYtMDAwMDgzMDE0XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2EvYzQv0KYtMDAwMDgzMDE0XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTAvZjQv0KYtMDAwMDgzMDE0XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDYvMzAv0KYtMDAwMDgzMDE0XzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWQvNzYv0KYtMDAwMDgzMDE0XzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTEvM2Ev0KYtMDAwMDgzMDE0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDkvNmUv0KYtMDAwMDgzMDE0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWUvYWYv0KYtMDAwMDgzMDE0XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjcvZTAv0KYtMDAwMDgzMDE0XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000083014</vendorCode>
+<code>793576</code>
+<name>Силіконовий чохол Polo Augus з MagSafe — iPhone 17 Pro Max/iPhone 18 Pro Max — Purple</name>
+<description><![CDATA[Чохол для iPhone 17 Pro Max/iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
+<quantity_in_stock>5</quantity_in_stock>
+<param name="Форм-фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
+<param name="Бренд">Polo</param>
+<param name="Опт від 5 шт">$9.41</param>
+<param name="Опт від 7 шт">$9.21</param>
+<param name="Опт від 10 шт">$9.02</param>
+<param name="Drop">$10.78</param>
+</offer>
 <offer id="ts000083014000032982" available="true">
 <url>https://kmt5.com.ua/silkonoviy-chohol-polo-augus-z-magsafe-iphone-17-pro-maxiphone-18-pro-max-silver</url>
 <price>780</price>
@@ -61938,7 +62260,7 @@
 <code>789753</code>
 <name>Силіконовий чохол Polo Solara з MagSafe — iPhone 17 Pro Max/iPhone 18 Pro Max — Black</name>
 <description><![CDATA[Чохол для iPhone 17 Pro Max/iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
@@ -61966,7 +62288,7 @@
 <code>789754</code>
 <name>Силіконовий чохол Polo Solara з MagSafe — iPhone 17 Pro Max/iPhone 18 Pro Max — Orange</name>
 <description><![CDATA[Чохол для iPhone 17 Pro Max/iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
@@ -62599,7 +62921,7 @@
 <code>785801</code>
 <name>Силіконовий чохол Stucco — Redmi Note 13 Pro 5G — Black</name>
 <description><![CDATA[Чохол для Redmi Note 13 Pro 5G для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>20</quantity_in_stock>
+<quantity_in_stock>19</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Xiaomi</param>
 <param name="Модель девайса">Xiaomi Redmi Note 13 Pro 5G</param>
@@ -62624,7 +62946,7 @@
 <code>785803</code>
 <name>Силіконовий чохол Stucco — Redmi Note 13 Pro 5G — Grey</name>
 <description><![CDATA[Чохол для Redmi Note 13 Pro 5G для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>10</quantity_in_stock>
+<quantity_in_stock>9</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Xiaomi</param>
 <param name="Модель девайса">Xiaomi Redmi Note 13 Pro 5G</param>
@@ -66456,7 +66778,7 @@
 <code>791717</code>
 <name>Силіконовий чохол Оригінальний з MagSafe — Samsung S24 Ultra — Marsala</name>
 <description><![CDATA[Чохол для Samsung S24 Ultra для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Samsung</param>
 <param name="Модель девайса">Samsung S24 Ultra</param>
@@ -68044,7 +68366,7 @@
 <code>741194</code>
 <name>Силіконовий чохол оригінальний повнорозмірний — iPhone 12 Mini 5.4&quot; — Yellow (4)</name>
 <description><![CDATA[Чохол для iPhone 12 Mini для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 12 Mini 5.4&quot;</param>
@@ -70406,6 +70728,31 @@
 <param name="Опт від 10 шт">$1.75</param>
 <param name="Drop">$2.09</param>
 </offer>
+<offer id="ts000079327000027118" available="true">
+<url>https://kmt5.com.ua/original-silicone-case-xiaomi-redmi-note-13-black</url>
+<price>151</price>
+<vendorprice>90</vendorprice>
+<vendorpricedoll>1.96</vendorpricedoll>
+<rrcdoll>3.32</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>71957840</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjUvM2Qv0KYtMDAwMDc5MzI3XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGEvZWYv0KYtMDAwMDc5MzI3XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Все</vendor>
+<vendorCode>Ц-000079327</vendorCode>
+<code>778995</code>
+<name>Силіконовий чохол Оригінальний — Xiaomi Redmi Note 13 — Black</name>
+<description><![CDATA[Чохол для Xiaomi Redmi Note 13 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Силіконовий матеріал забезпечує гнучкість і комфортне використання.]]></description>
+<quantity_in_stock>5</quantity_in_stock>
+<param name="Форм-фактор">Накладка</param>
+<param name="Марка">Xiaomi</param>
+<param name="Модель девайса">Xiaomi Redmi Note 13</param>
+<param name="Бренд">Различные</param>
+<param name="Опт від 5 шт">$1.82</param>
+<param name="Опт від 7 шт">$1.79</param>
+<param name="Опт від 10 шт">$1.75</param>
+<param name="Drop">$2.09</param>
+</offer>
 <offer id="ts000079327000029956" available="true">
 <url>https://kmt5.com.ua/original-silicone-case-xiaomi-redmi-note-13-maroon</url>
 <price>151</price>
@@ -71418,6 +71765,31 @@
 <param name="Опт від 10 шт">$2.12</param>
 <param name="Drop">$2.53</param>
 </offer>
+<offer id="ts000082585000030584" available="true">
+<url>https://kmt5.com.ua/ag-glass-case-with-magsafe-iphone-15-pro-max-titanium</url>
+<price>183</price>
+<vendorprice>108</vendorprice>
+<vendorpricedoll>2.37</vendorpricedoll>
+<rrcdoll>4.03</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>16203878</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjQvMTkv0KYtMDAwMDgyNTg1XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWMvYzEv0KYtMDAwMDgyNTg1XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000082585</vendorCode>
+<code>788861</code>
+<name>Чохол AG Glass з MagSafe — iPhone 15 Pro Max — Titanium</name>
+<description><![CDATA[Чохол для iPhone 15 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
+<quantity_in_stock>4</quantity_in_stock>
+<param name="Форм-фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 15 Pro Max</param>
+<param name="Бренд">Apple</param>
+<param name="Опт від 5 шт">$2.21</param>
+<param name="Опт від 7 шт">$2.16</param>
+<param name="Опт від 10 шт">$2.12</param>
+<param name="Drop">$2.53</param>
+</offer>
 <offer id="ts000082584000030576" available="true">
 <url>https://kmt5.com.ua/ag-glass-case-with-magsafe-iphone-15-pro-black</url>
 <price>187</price>
@@ -71833,6 +72205,31 @@
 <param name="Опт від 10 шт">$2.12</param>
 <param name="Drop">$2.53</param>
 </offer>
+<offer id="ts000082586000030590" available="true">
+<url>https://kmt5.com.ua/ag-glass-case-with-magsafe-iphone-16-silver</url>
+<price>183</price>
+<vendorprice>108</vendorprice>
+<vendorpricedoll>2.37</vendorpricedoll>
+<rrcdoll>4.03</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>60652165</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWMvNmMv0KYtMDAwMDgyNTg2XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmIvZmIv0KYtMDAwMDgyNTg2XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000082586</vendorCode>
+<code>788868</code>
+<name>Чохол AG Glass з MagSafe — iPhone 16 — Silver</name>
+<description><![CDATA[Чохол для iPhone 16 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
+<quantity_in_stock>4</quantity_in_stock>
+<param name="Форм-фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 16</param>
+<param name="Бренд">Apple</param>
+<param name="Опт від 5 шт">$2.21</param>
+<param name="Опт від 7 шт">$2.16</param>
+<param name="Опт від 10 шт">$2.12</param>
+<param name="Drop">$2.53</param>
+</offer>
 <offer id="ts000082586000030589" available="true">
 <url>https://kmt5.com.ua/ag-glass-case-with-magsafe-iphone-16-titanium</url>
 <price>187</price>
@@ -71998,7 +72395,7 @@
 <code>788902</code>
 <name>Чохол AG Glass з MagSafe — iPhone 17 Pro Max/iPhone 18 Pro Max — Blue</name>
 <description><![CDATA[Чохол для iPhone 17 Pro Max/iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
@@ -72178,7 +72575,7 @@
 <code>788885</code>
 <name>Чохол AG Glass з MagSafe — iPhone 17 — Titanium</name>
 <description><![CDATA[Чохол для iPhone 17 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17</param>
@@ -76309,7 +76706,7 @@
 <code>781569</code>
 <name>Чохол Colorful з MagSafe — iPhone 16 — Mint</name>
 <description><![CDATA[Чохол для iPhone 16 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16</param>
@@ -76334,7 +76731,7 @@
 <code>781568</code>
 <name>Чохол Colorful з MagSafe — iPhone 16 — Pink</name>
 <description><![CDATA[Чохол для iPhone 16 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16</param>
@@ -85875,7 +86272,7 @@
 <code>792015</code>
 <name>Чохол Vibe з MagSafe — iPhone 11 — Grey</name>
 <description><![CDATA[Чохол для iPhone 11 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 11</param>
@@ -86875,7 +87272,7 @@
 <code>792067</code>
 <name>Чохол Vibe з MagSafe — iPhone 16 — Grey</name>
 <description><![CDATA[Чохол для iPhone 16 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16</param>
@@ -89130,6 +89527,30 @@
 <param name="Опт від 10 шт">$9.84</param>
 <param name="Drop">$11.77</param>
 </offer>
+<offer id="ts000083016000031043" available="true">
+<url>https://kmt5.com.ua/polo-kyle-leather-case-with-magsafe-iphone-17-pro-max-navy-blue</url>
+<price>1190</price>
+<vendorprice>727</vendorprice>
+<vendorpricedoll>15.97</vendorpricedoll>
+<rrcdoll>26.15</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>54622491</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODIvYzkv0KYtMDAwMDgzMDE2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000083016</vendorCode>
+<code>789745</code>
+<name>Шкіряний чохол Polo Kyle з MagSafe — iPhone 17 Pro Max/iPhone 18 Pro Max — Navy Blue</name>
+<description><![CDATA[Чохол для iPhone 17 Pro Max/iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Сумісний із магнітними аксесуарами MagSafe. Шкіряне оздоблення надає чохлу стриманого класичного вигляду.]]></description>
+<quantity_in_stock>1</quantity_in_stock>
+<param name="Форм-фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
+<param name="Бренд">Polo</param>
+<param name="Опт від 5 шт">$14.88</param>
+<param name="Опт від 7 шт">$14.57</param>
+<param name="Опт від 10 шт">$14.26</param>
+<param name="Drop">$17.05</param>
+</offer>
 <offer id="ts000083016000031044" available="true">
 <url>https://kmt5.com.ua/polo-kyle-leather-case-with-magsafe-iphone-17-pro-max-orange</url>
 <price>1209</price>
@@ -89247,6 +89668,35 @@
 <param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
 <param name="Бренд">Polo</param>
 <param name="Drop">$12.32</param>
+</offer>
+<offer id="ts000082183000030263" available="true">
+<url>https://kmt5.com.ua/polo-lucas-leather-case-iphone-17-pro-max-grey</url>
+<price>845</price>
+<vendorprice>507</vendorprice>
+<vendorpricedoll>11.12</vendorpricedoll>
+<rrcdoll>18.58</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>54622491</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWEvZDgv0KYtMDAwMDgyMTgzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGIvYWIv0KYtMDAwMDgyMTgzXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDAvZTQv0KYtMDAwMDgyMTgzXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzIvNjEv0KYtMDAwMDgyMTgzXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvN2QvYmEv0KYtMDAwMDgyMTgzXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmEvNzEv0KYtMDAwMDgyMTgzXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000082183</vendorCode>
+<code>788148</code>
+<name>Шкіряний чохол Polo Lucas — iPhone 17 Pro Max/iPhone 18 Pro Max — Grey</name>
+<description><![CDATA[Чохол для iPhone 17 Pro Max/iPhone 18 Pro Max для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Шкіряне оздоблення надає чохлу стриманого класичного вигляду.]]></description>
+<quantity_in_stock>1</quantity_in_stock>
+<param name="Форм-фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
+<param name="Бренд">Polo</param>
+<param name="Опт від 5 шт">$10.37</param>
+<param name="Опт від 7 шт">$10.15</param>
+<param name="Опт від 10 шт">$9.94</param>
+<param name="Drop">$11.88</param>
 </offer>
 <offer id="ts000082182000030262" available="true">
 <url>https://kmt5.com.ua/polo-lucas-leather-case-iphone-17-pro-grey</url>
@@ -89409,6 +89859,35 @@
 <param name="Опт від 10 шт">$11.78</param>
 <param name="Drop">$14.08</param>
 </offer>
+<offer id="ts000082177000030252" available="true">
+<url>https://kmt5.com.ua/polo-primo-leather-case-iphone-17-pro-black</url>
+<price>980</price>
+<vendorprice>600</vendorprice>
+<vendorpricedoll>13.18</vendorpricedoll>
+<rrcdoll>21.54</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>54622491</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDcvZGMv0KYtMDAwMDgyMTc3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMmEvNTQv0KYtMDAwMDgyMTc3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWEvMjcv0KYtMDAwMDgyMTc3XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjIvYzAv0KYtMDAwMDgyMTc3XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjcvYTQv0KYtMDAwMDgyMTc3XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmMvY2Qv0KYtMDAwMDgyMTc3XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000082177</vendorCode>
+<code>788131</code>
+<name>Шкіряний чохол Polo Primo — iPhone 17 Pro/iPhone 18 Pro — Black</name>
+<description><![CDATA[Чохол для iPhone 17 Pro/iPhone 18 Pro для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Шкіряне оздоблення надає чохлу стриманого класичного вигляду.]]></description>
+<quantity_in_stock>1</quantity_in_stock>
+<param name="Форм-фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
+<param name="Бренд">Polo</param>
+<param name="Опт від 5 шт">$12.29</param>
+<param name="Опт від 7 шт">$12.03</param>
+<param name="Опт від 10 шт">$11.78</param>
+<param name="Drop">$14.08</param>
+</offer>
 <offer id="ts000082177000030253" available="true">
 <url>https://kmt5.com.ua/polo-primo-leather-case-iphone-17-pro-titanium-grey</url>
 <price>973</price>
@@ -89432,6 +89911,36 @@
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
+<param name="Бренд">Polo</param>
+<param name="Опт від 5 шт">$12.29</param>
+<param name="Опт від 7 шт">$12.03</param>
+<param name="Опт від 10 шт">$11.78</param>
+<param name="Drop">$14.08</param>
+</offer>
+<offer id="ts000082176000030251" available="true">
+<url>https://kmt5.com.ua/polo-primo-leather-case-iphone-17-black</url>
+<price>957</price>
+<vendorprice>600</vendorprice>
+<vendorpricedoll>13.18</vendorpricedoll>
+<rrcdoll>21.03</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>54622491</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWMvZmMv0KYtMDAwMDgyMTc2XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTcvNzYv0KYtMDAwMDgyMTc2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWYvMjgv0KYtMDAwMDgyMTc2XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjIvZjUv0KYtMDAwMDgyMTc2XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjcvOTkv0KYtMDAwMDgyMTc2XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTMvN2Mv0KYtMDAwMDgyMTc2XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODQvOTQv0KYtMDAwMDgyMTc2XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000082176</vendorCode>
+<code>788129</code>
+<name>Шкіряний чохол Polo Primo — iPhone 17 — Black</name>
+<description><![CDATA[Чохол для iPhone 17 для щоденного захисту корпусу смартфона від подряпин, потертостей і дрібних пошкоджень. Шкіряне оздоблення надає чохлу стриманого класичного вигляду.]]></description>
+<quantity_in_stock>1</quantity_in_stock>
+<param name="Форм-фактор">Накладка</param>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple iPhone 17</param>
 <param name="Бренд">Polo</param>
 <param name="Опт від 5 шт">$12.29</param>
 <param name="Опт від 7 шт">$12.03</param>
@@ -92066,7 +92575,7 @@
 <code>771162</code>
 <name>WiWU захисний чохол — iPad 10.2'' / 10.5'' — Light Blue</name>
 <description><![CDATA[Чохол для iPad 10.2 для захисту корпусу планшета від подряпин і потертостей під час щоденного використання.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPad Air 10.2&quot; (2019), Apple iPad Air 10.5&quot; (2019), Apple iPad Pro 10.5&quot;</param>
@@ -103532,7 +104041,7 @@
 <code>791335</code>
 <name>Захисне скло Metal Color для камери iPhone 17 Pro Max — Orange</name>
 <description><![CDATA[Захисне скло для камери iPhone 17 Pro Max допомагає захистити лінзи від подряпин, потертостей і дрібних пошкоджень.]]></description>
-<quantity_in_stock>17</quantity_in_stock>
+<quantity_in_stock>15</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max</param>
 <param name="Бренд">Различные</param>
@@ -103582,7 +104091,7 @@
 <code>791339</code>
 <name>Захисне скло Metal Color для камери iPhone 17 Pro — Orange</name>
 <description><![CDATA[Захисне скло для камери iPhone 17 Pro допомагає захистити лінзи від подряпин, потертостей і дрібних пошкоджень.]]></description>
-<quantity_in_stock>11</quantity_in_stock>
+<quantity_in_stock>9</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro</param>
 <param name="Бренд">Различные</param>
@@ -103939,7 +104448,7 @@
 <code>788727</code>
 <name>Захисне скло Privacy Antistatic для iPhone 17 Air, чорне</name>
 <description><![CDATA[Захисне скло Privacy Antistatic для iPhone 17 Air обмежує огляд екрана збоку, зменшує накопичення пилу під час поклейки та захищає дисплей від подряпин.]]></description>
-<quantity_in_stock>10</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Air</param>
 <param name="Бренд">Различные</param>
@@ -104205,7 +104714,7 @@
 <code>791158</code>
 <name>Захисне скло Remax HD ES-01 для iPhone 16 Pro Max</name>
 <description><![CDATA[Захисне скло для iPhone 16 Pro Max допомагає захистити дисплей від подряпин, потертостей і дрібних ударів під час щоденного використання.]]></description>
-<quantity_in_stock>21</quantity_in_stock>
+<quantity_in_stock>19</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16 Pro Max</param>
 <param name="Бренд">Remax</param>
@@ -104265,7 +104774,7 @@
 <code>791154</code>
 <name>Захисне скло Remax HD ES-01 для iPhone 17 Pro Max/iPhone 18 Pro Max</name>
 <description><![CDATA[Захисне скло для iPhone 17 Pro Max/iPhone 18 Pro Max допомагає захистити дисплей від подряпин, потертостей і дрібних ударів під час щоденного використання.]]></description>
-<quantity_in_stock>35</quantity_in_stock>
+<quantity_in_stock>33</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
 <param name="Бренд">Remax</param>
@@ -104292,7 +104801,7 @@
 <code>781017</code>
 <name>Захисне скло Remax HD GL-27 для iPhone 13 / 13 Pro / 14 6.1&quot;, чорне</name>
 <description><![CDATA[Захисне скло для iPhone 13 / 13 Pro / 14 6.1" допомагає захистити дисплей від подряпин, потертостей і дрібних ударів під час щоденного використання.]]></description>
-<quantity_in_stock>16</quantity_in_stock>
+<quantity_in_stock>15</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 13 6.1&quot;, Apple iPhone 13 Pro 6.1&quot;, Apple iPhone 13 Pro Max 6.7&quot;</param>
 <param name="Бренд">Remax</param>
@@ -104346,7 +104855,7 @@
 <code>781020</code>
 <name>Захисне скло Remax HD GL-27 для iPhone 14 Pro Max, чорне</name>
 <description><![CDATA[Захисне скло для iPhone 14 Pro Max допомагає захистити дисплей від подряпин, потертостей і дрібних ударів під час щоденного використання.]]></description>
-<quantity_in_stock>27</quantity_in_stock>
+<quantity_in_stock>20</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 Pro Max 6.7&quot;</param>
 <param name="Бренд">Remax</param>
@@ -104373,7 +104882,7 @@
 <code>781018</code>
 <name>Захисне скло Remax HD GL-27 для iPhone 14 Pro, чорне</name>
 <description><![CDATA[Захисне скло для iPhone 14 Pro допомагає захистити дисплей від подряпин, потертостей і дрібних ударів під час щоденного використання.]]></description>
-<quantity_in_stock>73</quantity_in_stock>
+<quantity_in_stock>72</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 Pro 6.1&quot;</param>
 <param name="Бренд">Remax</param>
@@ -104427,7 +104936,7 @@
 <code>781014</code>
 <name>Захисне скло Remax HD GL-27 для iPhone 15 Pro Max, чорне</name>
 <description><![CDATA[Захисне скло для iPhone 15 Pro Max допомагає захистити дисплей від подряпин, потертостей і дрібних ударів під час щоденного використання.]]></description>
-<quantity_in_stock>39</quantity_in_stock>
+<quantity_in_stock>21</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro Max</param>
 <param name="Бренд">Remax</param>
@@ -104454,7 +104963,7 @@
 <code>781012</code>
 <name>Захисне скло Remax HD GL-27 для iPhone 15 Pro, чорне</name>
 <description><![CDATA[Захисне скло для iPhone 15 Pro допомагає захистити дисплей від подряпин, потертостей і дрібних ударів під час щоденного використання.]]></description>
-<quantity_in_stock>43</quantity_in_stock>
+<quantity_in_stock>33</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 15 Pro</param>
 <param name="Бренд">Remax</param>
@@ -104481,7 +104990,7 @@
 <code>781371</code>
 <name>Захисне скло Remax HD GL-27 для iPhone 15/16, чорне</name>
 <description><![CDATA[Захисне скло для iPhone 15/16 допомагає захистити дисплей від подряпин, потертостей і дрібних ударів під час щоденного використання.]]></description>
-<quantity_in_stock>44</quantity_in_stock>
+<quantity_in_stock>38</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 16, Apple iPhone 15</param>
 <param name="Бренд">Remax</param>
@@ -104589,7 +105098,7 @@
 <code>788038</code>
 <name>Захисне скло Remax HD GL-27 для iPhone 17 Pro Max/iPhone 18 Pro Max чорне</name>
 <description><![CDATA[Захисне скло для iPhone 17 Pro Max/iPhone 18 Pro Max допомагає захистити дисплей від подряпин, потертостей і дрібних ударів під час щоденного використання.]]></description>
-<quantity_in_stock>87</quantity_in_stock>
+<quantity_in_stock>82</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro Max, Apple iPhone 18 Pro Max</param>
 <param name="Бренд">Remax</param>
@@ -104616,7 +105125,7 @@
 <code>788039</code>
 <name>Захисне скло Remax HD GL-27 для iPhone 17 Pro/iPhone 18 Pro, чорне</name>
 <description><![CDATA[Захисне скло для iPhone 17 Pro/iPhone 18 Pro допомагає захистити дисплей від подряпин, потертостей і дрібних ударів під час щоденного використання.]]></description>
-<quantity_in_stock>46</quantity_in_stock>
+<quantity_in_stock>19</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 17 Pro, Apple iPhone 18 Pro</param>
 <param name="Бренд">Remax</param>
@@ -104763,7 +105272,7 @@
 <code>781010</code>
 <name>Захисне скло Remax Privacy GL-27 для iPhone 14 Pro Max, чорне</name>
 <description><![CDATA[Захисне скло Privacy для iPhone 14 Pro Max обмежує огляд екрана збоку та допомагає захистити дисплей від подряпин і потертостей.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 14 Pro Max 6.7&quot;</param>
 <param name="Бренд">Remax</param>
@@ -105922,7 +106431,7 @@
 <code>776627</code>
 <name>Захисне скло Super X ESD Antistatic для iPhone XR / 11, чорне</name>
 <description><![CDATA[Антистатичне захисне скло для iPhone XR / 11 допомагає зменшити накопичення пилу під час поклейки та захищає екран від подряпин і дрібних пошкоджень.]]></description>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone Xr, Apple iPhone 11</param>
 <param name="Бренд">Различные</param>
@@ -106970,7 +107479,7 @@
 <code>700760</code>
 <name>Захисне скло Veron ESD Big ARC Edge для iPhone XS Max / 11 Pro Max, чорне</name>
 <description><![CDATA[Захисне скло для iPhone XS Max / 11 Pro Max допомагає захистити дисплей від подряпин, потертостей і дрібних ударів під час щоденного використання.]]></description>
-<quantity_in_stock>105</quantity_in_stock>
+<quantity_in_stock>103</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone Xs Max, Apple iPhone 11 Pro Max</param>
 <param name="Бренд">VERON</param>
@@ -107073,7 +107582,7 @@
 <code>742517</code>
 <name>Захисне скло Veron Slim Full Cover для iPhone 12 Mini 5.4&quot;, чорне</name>
 <description><![CDATA[Захисне скло Veron Slim Full Cover для iPhone 12 Mini 5.4" забезпечує розширене покриття екрана та допомагає захистити його від подряпин, потертостей і дрібних ударів.]]></description>
-<quantity_in_stock>103</quantity_in_stock>
+<quantity_in_stock>101</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone 12 Mini 5.4&quot;</param>
 <param name="Бренд">VERON</param>
@@ -107127,7 +107636,7 @@
 <code>708890</code>
 <name>Захисне скло Veron Slim Full Cover для iPhone XR / 11, чорне</name>
 <description><![CDATA[Захисне скло Veron Slim Full Cover для iPhone XR / 11 забезпечує розширене покриття екрана та допомагає захистити його від подряпин, потертостей і дрібних ударів.]]></description>
-<quantity_in_stock>16</quantity_in_stock>
+<quantity_in_stock>15</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple iPhone Xr, Apple iPhone 11</param>
 <param name="Бренд">VERON</param>
@@ -109168,7 +109677,7 @@
 <code>788829</code>
 <name>Захисна накладка TPU+PC HardShell — MacBook Air 13.3&quot; A1932 / A2179 / A2337 — Gray</name>
 <description><![CDATA[Захисна накладка для MacBook для щоденного захисту корпусу від подряпин, потертостей і слідів використання.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Macbook Air 13.3 A1932/A2179/A2337</param>
@@ -109297,7 +109806,7 @@
 <code>792011</code>
 <name>Захисна накладка TPU+PC HardShell — MacBook Neo 13 A3404 — Indigo</name>
 <description><![CDATA[Захисна накладка для MacBook для щоденного захисту корпусу від подряпин, потертостей і слідів використання.]]></description>
-<quantity_in_stock>8</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <param name="Форм-фактор">Накладка</param>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Macbook Neo 13 A3404</param>
@@ -109858,29 +110367,6 @@
 <param name="Опт від 7 шт">$58.28</param>
 <param name="Опт від 10 шт">$57.04</param>
 <param name="Drop">$68.2</param>
-</offer>
-<offer id="ts000075922000024704" available="true">
-<url>https://kmt5.com.ua/sumka-wiwu-minimalist-backpack-black</url>
-<price>1380</price>
-<vendorprice>821</vendorprice>
-<vendorpricedoll>18.03</vendorpricedoll>
-<rrcdoll>30.32</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>10372040</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGMvMGYv0KYtMDAwMDc1OTIyXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGIvYTUv0KYtMDAwMDc1OTIyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Wiwu</vendor>
-<vendorCode>Ц-000075922</vendorCode>
-<code>771463</code>
-<name>Рюкзак — WiWU Minimalist — Black</name>
-<description><![CDATA[Рюкзак для перенесення ноутбука та повсякденних аксесуарів. Зручний для роботи, навчання й поїздок.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Форм-фактор">Сумка</param>
-<param name="Бренд">Wiwu</param>
-<param name="Опт від 5 шт">$16.8</param>
-<param name="Опт від 7 шт">$16.45</param>
-<param name="Опт від 10 шт">$16.1</param>
-<param name="Drop">$19.25</param>
 </offer>
 <offer id="ts000082533000030556" available="true">
 <url>https://kmt5.com.ua/sumka-wiwu-osun-backpack-black</url>
@@ -111128,7 +111614,7 @@
 <code>786209</code>
 <name>Сумка для ноутбука 14″ (14.2″) — WiWU Minimalist сумка для ноутбука II — Black</name>
 <description><![CDATA[Сумка для ноутбука 14″ для зручного зберігання та перенесення пристрою й аксесуарів.]]></description>
-<quantity_in_stock>22</quantity_in_stock>
+<quantity_in_stock>17</quantity_in_stock>
 <param name="Форм-фактор">Сумка</param>
 <param name="Бренд">Wiwu</param>
 <param name="Опт від 5 шт">$10.08</param>
@@ -112203,7 +112689,7 @@
 <code>788913</code>
 <name>LED-стрічка RGB Neon Rope, 3 м, 5 В, з пультом</name>
 <description><![CDATA[LED-стрічка RGB Neon Rope, 3 м, 5 В, з пультом — гнучке джерело світла для декоративного контурного підсвічування. Основні характеристики: • Тип: RGB LED-стрічка • Колірна температура: 6000 К • Світловий потік: 80 лм • Індекс передачі кольору: CRI 80+ • Захист: IP65 • Живлення / заряджання: 5В • Особливості: дистанційне керування, Bluetooth, RGB-підсвічування]]></description>
-<quantity_in_stock>44</quantity_in_stock>
+<quantity_in_stock>43</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Опт від 3 шт">$6.05</param>
 <param name="Опт від 5 шт">$5.92</param>
@@ -112316,34 +112802,6 @@
 <param name="Опт від 5 шт">$2.44</param>
 <param name="Опт від 7 шт">$2.39</param>
 <param name="Drop">$2.86</param>
-</offer>
-<offer id="ts000081361" available="true">
-<url>https://kmt5.com.ua/nastolnyiy-svetilnik-ly13</url>
-<price>200</price>
-<vendorprice>106</vendorprice>
-<vendorpricedoll>2.32</vendorpricedoll>
-<rrcdoll>4.4</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>36525104</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYjgvY2Uv0KYtMDAwMDgxMzYxXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWEvYmQv0KYtMDAwMDgxMzYxXzkuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMzMvZWUv0KYtMDAwMDgxMzYxXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzcvM2Ev0KYtMDAwMDgxMzYxXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmQvYTQv0KYtMDAwMDgxMzYxXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTMvZjgv0KYtMDAwMDgxMzYxXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTYvMjYv0KYtMDAwMDgxMzYxXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDIvYmEv0KYtMDAwMDgxMzYxXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2MvNDIv0KYtMDAwMDgxMzYxXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Другие</vendor>
-<vendorCode>Ц-000081361</vendorCode>
-<code>786898</code>
-<name>Акумуляторна лампа для читання LY-13, затискач, 100 лм</name>
-<description><![CDATA[Акумуляторна лампа для читання LY-13, затискач, 100 лм — компактне локальне джерело світла з направленим світловим потоком. Основні характеристики: • Тип: акумуляторна LED-лампа для читання • Світловий потік: 100 лм • Матеріал: ABS-пластик • Живлення: вбудований акумулятор • Розміри: 30,6 × 8,2 × 4,2 см • Режими: 1 режим • Особливості: затискач для книги, регулювання напрямку світла]]></description>
-<quantity_in_stock>10</quantity_in_stock>
-<param name="Опт від 3 шт">$2.16</param>
-<param name="Опт від 5 шт">$2.12</param>
-<param name="Опт від 7 шт">$2.07</param>
-<param name="Drop">$2.48</param>
 </offer>
 <offer id="ts000073718" available="true">
 <url>https://kmt5.com.ua/svetodiodnyiy-projektor-led-charging-working-lamp-6000-mah-214mm76mm</url>
@@ -114350,6 +114808,31 @@
 <param name="Опт від 7 шт">$0.6</param>
 <param name="Drop">$0.72</param>
 </offer>
+<offer id="ts000082788000030749" available="true">
+<url>https://kmt5.com.ua/brelok-creatures-hamster-gray-girl</url>
+<price>79</price>
+<vendorprice>31</vendorprice>
+<vendorpricedoll>0.67</vendorpricedoll>
+<rrcdoll>1.73</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>26128749</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTgvNDIv0KYtMDAwMDgyNzg4XzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODYvNGQv0KYtMDAwMDgyNzg4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDQvN2Iv0KYtMDAwMDgyNzg4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmUvZmQv0KYtMDAwMDgyNzg4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGUvYTUv0KYtMDAwMDgyNzg4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMGQvYTgv0KYtMDAwMDgyNzg4XzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Другие</vendor>
+<vendorCode>Ц-000082788</vendorCode>
+<code>789228</code>
+<name>Брелок «Creatures» — Hamster Gray Girl</name>
+<description><![CDATA[Брелок «Creatures» — компактний декоративний аксесуар для ключів, сумки, рюкзака або чохла смартфона. Допомагає персоналізувати речі та швидше знаходити їх серед інших.]]></description>
+<quantity_in_stock>5</quantity_in_stock>
+<param name="Опт від 3 шт">$0.62</param>
+<param name="Опт від 5 шт">$0.61</param>
+<param name="Опт від 7 шт">$0.6</param>
+<param name="Drop">$0.72</param>
+</offer>
 <offer id="ts000082788000030748" available="true">
 <url>https://kmt5.com.ua/brelok-creatures-hamster-yellow-boy</url>
 <price>80</price>
@@ -114705,7 +115188,7 @@
 <code>792859</code>
 <name>Брелок «Necklace» — Brown</name>
 <description><![CDATA[Брелок «Necklace» — компактний декоративний аксесуар для ключів, сумки, рюкзака або чохла смартфона. Допомагає персоналізувати речі та швидше знаходити їх серед інших.]]></description>
-<quantity_in_stock>11</quantity_in_stock>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Опт від 3 шт">$0.94</param>
 <param name="Опт від 5 шт">$0.92</param>
 <param name="Опт від 7 шт">$0.9</param>
@@ -117839,7 +118322,7 @@
 <code>792449</code>
 <name>Ремінець для телефона на шию «Oxford» — Black</name>
 <description><![CDATA[Ремінець для телефона на шию «Oxford» дає змогу зручно носити смартфон і тримати його під рукою. Аксесуар підходить для щоденного використання, прогулянок і подорожей.]]></description>
-<quantity_in_stock>21</quantity_in_stock>
+<quantity_in_stock>20</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Опт від 3 шт">$2.45</param>
 <param name="Опт від 5 шт">$2.4</param>
@@ -118404,6 +118887,28 @@
 <param name="Опт від 7 шт">$2.39</param>
 <param name="Drop">$2.86</param>
 </offer>
+<offer id="ts000082627000031263" available="true">
+<url>https://kmt5.com.ua/shnurok-na-sheyu-wicker-blue</url>
+<price>148</price>
+<vendorprice>71</vendorprice>
+<vendorpricedoll>1.55</vendorpricedoll>
+<rrcdoll>3.26</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>26128749</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWEvZDQv0KYtMDAwMDgyNjI3XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWYvODgv0KYtMDAwMDgyNjI3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Другие</vendor>
+<vendorCode>Ц-000082627</vendorCode>
+<code>790190</code>
+<name>Ремінець для телефона на шию «Wicker» — Blue</name>
+<description><![CDATA[Ремінець для телефона на шию «Wicker» дає змогу зручно носити смартфон і тримати його під рукою. Аксесуар підходить для щоденного використання, прогулянок і подорожей.]]></description>
+<quantity_in_stock>2</quantity_in_stock>
+<param name="Бренд">Различные</param>
+<param name="Опт від 3 шт">$1.44</param>
+<param name="Опт від 5 шт">$1.41</param>
+<param name="Опт від 7 шт">$1.38</param>
+<param name="Drop">$1.65</param>
+</offer>
 <offer id="ts000082627000031261" available="true">
 <url>https://kmt5.com.ua/shnurok-na-sheyu-wicker-green-orange</url>
 <price>150</price>
@@ -118470,6 +118975,29 @@
 <param name="Опт від 7 шт">$1.38</param>
 <param name="Drop">$1.65</param>
 </offer>
+<offer id="ts000084420000032405" available="true">
+<url>https://kmt5.com.ua/shnurok-na-ruku-carabine-dark-blue</url>
+<price>97</price>
+<vendorprice>54</vendorprice>
+<vendorpricedoll>1.18</vendorpricedoll>
+<rrcdoll>2.13</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>26128749</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTkvMWQv0KYtMDAwMDg0NDIwXzExLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTAvZTAv0KYtMDAwMDg0NDIwXzEyLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDQvMzQv0KYtMDAwMDg0NDIwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Другие</vendor>
+<vendorCode>Ц-000084420</vendorCode>
+<code>792473</code>
+<name>Ремінець на руку для смартфона «Carabine» — Dark Blue</name>
+<description><![CDATA[Ремінець на руку для смартфона «Carabine» дає змогу зручно носити смартфон і тримати його під рукою. Аксесуар підходить для щоденного використання, прогулянок і подорожей.]]></description>
+<quantity_in_stock>1</quantity_in_stock>
+<param name="Бренд">Различные</param>
+<param name="Опт від 3 шт">$1.1</param>
+<param name="Опт від 5 шт">$1.08</param>
+<param name="Опт від 7 шт">$1.06</param>
+<param name="Drop">$1.27</param>
+</offer>
 <offer id="ts000084420000032404" available="true">
 <url>https://kmt5.com.ua/shnurok-na-ruku-carabine-green</url>
 <price>98</price>
@@ -118493,6 +119021,29 @@
 <param name="Опт від 7 шт">$1.06</param>
 <param name="Drop">$1.27</param>
 </offer>
+<offer id="ts000084420000032407" available="true">
+<url>https://kmt5.com.ua/shnurok-na-ruku-carabine-yellow</url>
+<price>97</price>
+<vendorprice>54</vendorprice>
+<vendorpricedoll>1.18</vendorpricedoll>
+<rrcdoll>2.13</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>26128749</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWUvYmIv0KYtMDAwMDg0NDIwXzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTAvZTAv0KYtMDAwMDg0NDIwXzEyLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDQvMzQv0KYtMDAwMDg0NDIwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Другие</vendor>
+<vendorCode>Ц-000084420</vendorCode>
+<code>792475</code>
+<name>Ремінець на руку для смартфона «Carabine» — Khaki</name>
+<description><![CDATA[Ремінець на руку для смартфона «Carabine» дає змогу зручно носити смартфон і тримати його під рукою. Аксесуар підходить для щоденного використання, прогулянок і подорожей.]]></description>
+<quantity_in_stock>1</quantity_in_stock>
+<param name="Бренд">Различные</param>
+<param name="Опт від 3 шт">$1.1</param>
+<param name="Опт від 5 шт">$1.08</param>
+<param name="Опт від 7 шт">$1.06</param>
+<param name="Drop">$1.27</param>
+</offer>
 <offer id="ts000084420000032400" available="true">
 <url>https://kmt5.com.ua/shnurok-na-ruku-carabine-pink</url>
 <price>98</price>
@@ -118510,6 +119061,29 @@
 <name>Ремінець на руку для смартфона «Carabine» — Pink</name>
 <description><![CDATA[Ремінець на руку для смартфона «Carabine» дає змогу зручно носити смартфон і тримати його під рукою. Аксесуар підходить для щоденного використання, прогулянок і подорожей.]]></description>
 <quantity_in_stock>4</quantity_in_stock>
+<param name="Бренд">Различные</param>
+<param name="Опт від 3 шт">$1.1</param>
+<param name="Опт від 5 шт">$1.08</param>
+<param name="Опт від 7 шт">$1.06</param>
+<param name="Drop">$1.27</param>
+</offer>
+<offer id="ts000084420000032399" available="true">
+<url>https://kmt5.com.ua/shnurok-na-ruku-carabine-white</url>
+<price>97</price>
+<vendorprice>54</vendorprice>
+<vendorpricedoll>1.18</vendorpricedoll>
+<rrcdoll>2.13</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>26128749</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjUvYzUv0KYtMDAwMDg0NDIwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTAvZTAv0KYtMDAwMDg0NDIwXzEyLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDQvMzQv0KYtMDAwMDg0NDIwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Другие</vendor>
+<vendorCode>Ц-000084420</vendorCode>
+<code>792467</code>
+<name>Ремінець на руку для смартфона «Carabine» — Stone</name>
+<description><![CDATA[Ремінець на руку для смартфона «Carabine» дає змогу зручно носити смартфон і тримати його під рукою. Аксесуар підходить для щоденного використання, прогулянок і подорожей.]]></description>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Опт від 3 шт">$1.1</param>
 <param name="Опт від 5 шт">$1.08</param>
@@ -118739,7 +119313,7 @@
 <code>792547</code>
 <name>Ремінець на руку для смартфона «Silk Scarf» — Light Purple</name>
 <description><![CDATA[Ремінець на руку для смартфона «Silk Scarf» дає змогу зручно носити смартфон і тримати його під рукою. Аксесуар підходить для щоденного використання, прогулянок і подорожей.]]></description>
-<quantity_in_stock>17</quantity_in_stock>
+<quantity_in_stock>16</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Опт від 3 шт">$1.84</param>
 <param name="Опт від 5 шт">$1.8</param>
@@ -121156,7 +121730,7 @@
 <code>786101</code>
 <name>OTG-адаптер USB-C — USB-A — Hoco UA36B — Black</name>
 <description><![CDATA[Компактний перехідник для з’єднання пристроїв та аксесуарів із зазначеними в назві інтерфейсами.]]></description>
-<quantity_in_stock>22</quantity_in_stock>
+<quantity_in_stock>19</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Опт від 5 шт">$0.96</param>
 <param name="Опт від 7 шт">$0.94</param>
@@ -121182,7 +121756,7 @@
 <code>717332</code>
 <name>OTG-адаптер USB-C — USB-A — Hoco UA5 чорний</name>
 <description><![CDATA[Компактний перехідник для з’єднання пристроїв та аксесуарів із зазначеними в назві інтерфейсами.]]></description>
-<quantity_in_stock>41</quantity_in_stock>
+<quantity_in_stock>36</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Адаптери">Адаптер OTG USB C To USB</param>
 <param name="Опт від 5 шт">$1.32</param>
@@ -121588,29 +122162,6 @@
 <param name="Опт від 7 шт">$1.77</param>
 <param name="Опт від 10 шт">$1.73</param>
 <param name="Drop">$2.07</param>
-</offer>
-<offer id="ts000064916" available="true">
-<url>https://kmt5.com.ua/adapter-micro-to-usb-magnetic</url>
-<price>250</price>
-<vendorprice>107</vendorprice>
-<vendorpricedoll>2.33</vendorpricedoll>
-<rrcdoll>5.5</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>41569820</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZWIvMWUv0KYtMDAwMDY0OTE2XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvODcvNzkv0KYtMDAwMDY0OTE2XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Различные</vendor>
-<vendorCode>Ц-000064916</vendorCode>
-<code>701581</code>
-<name>Адаптер Micro-USB — USB-A — магнітний</name>
-<description><![CDATA[Компактний перехідник для з’єднання пристроїв та аксесуарів із зазначеними в назві інтерфейсами.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Различные</param>
-<param name="Адаптери">Адаптер OTG Micro To USB</param>
-<param name="Опт від 5 шт">$2.11</param>
-<param name="Опт від 7 шт">$2.07</param>
-<param name="Опт від 10 шт">$2.02</param>
-<param name="Drop">$2.42</param>
 </offer>
 <offer id="ts000081139000029569" available="true">
 <url>https://kmt5.com.ua/adapter-usb-a-to-35-hoco-upa32d-black</url>
@@ -123484,7 +124035,7 @@
 <code>785821</code>
 <name>Кабель Micro-USB 2,4 А (1 м) — Hoco X113 — Black</name>
 <description><![CDATA[Кабель Micro-USB для заряджання та підключення сумісних пристроїв. Довжина — 1 м; струм — до 2,4 А.]]></description>
-<quantity_in_stock>7</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Роз'єм підключення">Cable USB to Micro</param>
 <param name="Drop">$0.66</param>
@@ -123896,7 +124447,7 @@
 <code>785195</code>
 <name>Кабель USB-C 2,4 А (1 м) — Hoco X88 — White</name>
 <description><![CDATA[Кабель USB-C для заряджання та підключення сумісних пристроїв. Довжина — 1 м; струм — до 2,4 А.]]></description>
-<quantity_in_stock>274</quantity_in_stock>
+<quantity_in_stock>64</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Роз'єм підключення">Cable USB to C</param>
 <param name="Опт від 5 шт">$0.55</param>
@@ -124328,7 +124879,7 @@
 <code>790077</code>
 <name>Кабель USB-C — Lightning 30 Вт (1 м) — Borofone BX123 — Black</name>
 <description><![CDATA[Кабель USB-C — Lightning для заряджання та підключення сумісних пристроїв. Довжина — 1 м; потужність — до 30 Вт.]]></description>
-<quantity_in_stock>169</quantity_in_stock>
+<quantity_in_stock>160</quantity_in_stock>
 <param name="Бренд">Borofone</param>
 <param name="Роз'єм підключення">Cable USB C To Lightning</param>
 <param name="Опт від 5 шт">$0.94</param>
@@ -124733,7 +125284,7 @@
 <code>789255</code>
 <name>Кабель USB-C — USB-C 60 Вт (1 м) — Hoco X125 — Black</name>
 <description><![CDATA[Кабель USB-C — USB-C для заряджання та підключення сумісних пристроїв. Довжина — 1 м; потужність — до 60 Вт. Підтримує передавання даних. Нейлонове обплетення підвищує зносостійкість.]]></description>
-<quantity_in_stock>18</quantity_in_stock>
+<quantity_in_stock>11</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Роз'єм підключення">Cable USB C to C</param>
 <param name="Опт від 5 шт">$1.42</param>
@@ -125077,7 +125628,7 @@
 <code>770985</code>
 <name>Нейлоновий кабель USB-C — USB-C 3 А PD (1 м) — Veron CC09 — Black</name>
 <description><![CDATA[Кабель USB-C — USB-C для заряджання та підключення сумісних пристроїв. Довжина — 1 м; потужність — до 18 Вт. Підтримує передавання даних. Нейлонове обплетення підвищує зносостійкість.]]></description>
-<quantity_in_stock>152</quantity_in_stock>
+<quantity_in_stock>151</quantity_in_stock>
 <param name="Бренд">VERON</param>
 <param name="Роз'єм підключення">Cable USB C to C</param>
 <param name="Опт від 5 шт">$1.06</param>
@@ -125356,7 +125907,7 @@
 <code>782462</code>
 <name>Силіконовий кабель USB-C 3 А (1 м) — Veron SC-X82 — White</name>
 <description><![CDATA[Кабель USB-C для заряджання та підключення сумісних пристроїв. Довжина — 1 м; струм — до 3 А. Підтримує передавання даних. Силіконова оболонка підвищує зносостійкість.]]></description>
-<quantity_in_stock>87</quantity_in_stock>
+<quantity_in_stock>84</quantity_in_stock>
 <param name="Бренд">VERON</param>
 <param name="Роз'єм підключення">Cable USB to C</param>
 <param name="Опт від 5 шт">$0.92</param>
@@ -125379,7 +125930,7 @@
 <code>777678</code>
 <name>Силіконовий кабель USB-C 3 А (2 м) — Veron SC062 жовтий</name>
 <description><![CDATA[Кабель USB-C для заряджання та підключення сумісних пристроїв. Довжина — 2 м; струм — до 3 А. Підтримує передавання даних. Силіконова оболонка підвищує зносостійкість.]]></description>
-<quantity_in_stock>177</quantity_in_stock>
+<quantity_in_stock>176</quantity_in_stock>
 <param name="Бренд">VERON</param>
 <param name="Роз'єм підключення">Cable USB to C</param>
 <param name="Опт від 5 шт">$1.8</param>
@@ -125454,7 +126005,7 @@
 <code>770943</code>
 <name>Силіконовий кабель USB-C — Lightning 27 Вт PD (1,2 м) — Veron CL07</name>
 <description><![CDATA[Кабель USB-C — Lightning для заряджання та підключення сумісних пристроїв. Довжина — 1,2 м; потужність — до 27 Вт. Підтримує передавання даних. Силіконова оболонка підвищує зносостійкість.]]></description>
-<quantity_in_stock>13</quantity_in_stock>
+<quantity_in_stock>9</quantity_in_stock>
 <param name="Бренд">VERON</param>
 <param name="Роз'єм підключення">Cable USB C To Lightning</param>
 <param name="Опт від 5 шт">$2.69</param>
@@ -125550,7 +126101,7 @@
 <code>775052</code>
 <name>Силіконовий кабель USB-C — USB-C 100 Вт PD (2 м) — Veron CC07</name>
 <description><![CDATA[Кабель USB-C — USB-C для заряджання та підключення сумісних пристроїв. Довжина — 2 м; потужність — до 100 Вт. Силіконова оболонка підвищує зносостійкість.]]></description>
-<quantity_in_stock>91</quantity_in_stock>
+<quantity_in_stock>75</quantity_in_stock>
 <param name="Бренд">VERON</param>
 <param name="Роз'єм підключення">Cable USB C to C</param>
 <param name="Опт від 5 шт">$3.02</param>
@@ -125599,7 +126150,7 @@
 <code>782455</code>
 <name>Силіконовий кабель USB-C — USB-C 60 Вт PD (1 м) — Veron CC- X82 — Black</name>
 <description><![CDATA[Кабель USB-C — USB-C для заряджання та підключення сумісних пристроїв. Довжина — 1 м; потужність — до 60 Вт. Силіконова оболонка підвищує зносостійкість.]]></description>
-<quantity_in_stock>162</quantity_in_stock>
+<quantity_in_stock>151</quantity_in_stock>
 <param name="Бренд">VERON</param>
 <param name="Роз'єм підключення">Cable USB C to C</param>
 <param name="Опт від 5 шт">$0.92</param>
@@ -125646,7 +126197,7 @@
 <code>777652</code>
 <name>Силіконовий кабель USB-C — USB-C 60 Вт PD (2 м) — Veron CC072 жовтий</name>
 <description><![CDATA[Кабель USB-C — USB-C для заряджання та підключення сумісних пристроїв. Довжина — 2 м; потужність — до 60 Вт. Силіконова оболонка підвищує зносостійкість.]]></description>
-<quantity_in_stock>583</quantity_in_stock>
+<quantity_in_stock>578</quantity_in_stock>
 <param name="Бренд">VERON</param>
 <param name="Роз'єм підключення">Cable USB C to C</param>
 <param name="Опт від 5 шт">$3.41</param>
@@ -125720,7 +126271,7 @@
 <code>755688</code>
 <name>Power Bank Yoobao S10K, 10000 мА·год — Black</name>
 <description><![CDATA[Power Bank має ємність 10000 мА·год і підходить для підзаряджання смартфонів, навушників та інших мобільних пристроїв. Зручний як резервне джерело живлення для щоденного використання, поїздок і подорожей.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Види акумуляторів">Power Bank</param>
 <param name="Опт від 2 шт">$6.93</param>
@@ -126018,7 +126569,7 @@
 <code>790040</code>
 <name>Батарейка Hoco JA1A, 1,5 В, 2 шт.</name>
 <description><![CDATA[Напруга: 1,5 В; Упаковка: 2 шт.]]></description>
-<quantity_in_stock>46</quantity_in_stock>
+<quantity_in_stock>44</quantity_in_stock>
 <param name="Опт від 2 шт">$0.58</param>
 <param name="Опт від 3 шт">$0.58</param>
 <param name="Опт від 5 шт">$0.57</param>
@@ -126039,7 +126590,7 @@
 <code>788802</code>
 <name>Батарейка Hoco JA2, 1,5 В, 10 шт.</name>
 <description><![CDATA[Напруга: 1,5 В; Упаковка: 10 шт.]]></description>
-<quantity_in_stock>16</quantity_in_stock>
+<quantity_in_stock>14</quantity_in_stock>
 <param name="Опт від 2 шт">$1.78</param>
 <param name="Опт від 3 шт">$1.76</param>
 <param name="Опт від 5 шт">$1.75</param>
@@ -126462,7 +127013,7 @@
 <code>785350</code>
 <name>Мережевий зарядний пристрій Samsung, 45 Вт, USB-A + кабель USB-C, оригінальний</name>
 <description><![CDATA[Мережевий зарядний пристрій для заряджання сумісних смартфонів, планшетів та інших гаджетів. Потужність — до 45 Вт.]]></description>
-<quantity_in_stock>44</quantity_in_stock>
+<quantity_in_stock>43</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Кількість USB портів">1 USB-C</param>
 <param name="Drop">$7.04</param>
@@ -127802,7 +128353,7 @@
 <code>782374</code>
 <name>Бездротовий зарядний пристрій MD-WXC003, 3 in 1</name>
 <description><![CDATA[Бездротовий зарядний пристрій MD-WXC003 для бездротового заряджання сумісних пристроїв. Формат — 3 в 1.]]></description>
-<quantity_in_stock>15</quantity_in_stock>
+<quantity_in_stock>14</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Опт від 5 шт">$4.42</param>
 <param name="Опт від 7 шт">$4.32</param>
@@ -128301,7 +128852,7 @@
 <code>791700</code>
 <name>Зарядний пристрій Earldom ES-EU64, 45 Вт, GaN, PD — Black</name>
 <description><![CDATA[Мережевий зарядний пристрій Earldom ES-EU64 для заряджання сумісних смартфонів та інших гаджетів від розетки. Потужність — 45 Вт. Роз’єми: USB-C. Підтримує швидке заряджання Power Delivery. Використовує технологію GaN.]]></description>
-<quantity_in_stock>23</quantity_in_stock>
+<quantity_in_stock>22</quantity_in_stock>
 <param name="Бренд">Earldom</param>
 <param name="Кількість USB портів">1 Type - C</param>
 <param name="Зарядні пристрої">Home Chargers</param>
@@ -128638,7 +129189,7 @@
 <code>787539</code>
 <name>Зарядний пристрій Hoco CS74A, 45 Вт, PD, QC3.0 — Black</name>
 <description><![CDATA[Мережевий зарядний пристрій Hoco CS74A для заряджання сумісних смартфонів та інших гаджетів від розетки. Потужність — 45 Вт. Роз’єми: USB-C + USB-A. Підтримує швидке заряджання Power Delivery. Підтримує QC 3.0.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Кількість USB портів">1 U | 1 C</param>
 <param name="Опт від 5 шт">$6.53</param>
@@ -128794,7 +129345,7 @@
 <code>787558</code>
 <name>Зарядний пристрій Hoco N66, 35 Вт, PD __ — White</name>
 <description><![CDATA[Мережевий зарядний пристрій Hoco N66 для заряджання сумісних смартфонів та інших гаджетів від розетки. Потужність — 35 Вт. Роз’єми: USB-C. Підтримує швидке заряджання Power Delivery.]]></description>
-<quantity_in_stock>6</quantity_in_stock>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Кількість USB портів">1 USB-C</param>
 <param name="Опт від 5 шт">$4.51</param>
@@ -129006,7 +129557,7 @@
 <code>791540</code>
 <name>Зарядний пристрій Hoco N84, 45 Вт, PD, кабель USB-C – USB-C (1 м)</name>
 <description><![CDATA[Мережевий зарядний пристрій Hoco N84 для заряджання сумісних смартфонів та інших гаджетів від розетки. Потужність — 45 Вт. Роз’єми: USB-C. Підтримує швидке заряджання Power Delivery. У комплекті зазначено кабель USB-C—USB-C 1 м.]]></description>
-<quantity_in_stock>20</quantity_in_stock>
+<quantity_in_stock>14</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Кількість USB портів">1 Type - C</param>
 <param name="Зарядні пристрої">СЗУ &amp; Кабель Type C</param>
@@ -129268,7 +129819,7 @@
 <code>791074</code>
 <name>Зарядний пристрій Veron TC-45, 45 Вт, GaN, Digital Display PD+QC</name>
 <description><![CDATA[Мережевий зарядний пристрій Veron TC-45 для заряджання сумісних смартфонів та інших гаджетів від розетки. Потужність — 45 Вт. Роз’єми: USB-C + USB-A. Підтримує швидке заряджання Power Delivery. Підтримує QC. Використовує технологію GaN. Оснащений дисплеєм.]]></description>
-<quantity_in_stock>23</quantity_in_stock>
+<quantity_in_stock>22</quantity_in_stock>
 <param name="Бренд">VERON</param>
 <param name="Кількість USB портів">1 U | 1 C</param>
 <param name="Drop">$10.12</param>
@@ -129290,7 +129841,7 @@
 <code>791075</code>
 <name>Зарядний пристрій Veron TC-65, 65 Вт, GaN, PPS, 2 PD, QC3.0 Digital display</name>
 <description><![CDATA[Мережевий зарядний пристрій Veron TC-65 для заряджання сумісних смартфонів та інших гаджетів від розетки. Потужність — 65 Вт. Роз’єми: 2×USB-C + USB-A. Підтримує швидке заряджання Power Delivery. Підтримує QC 3.0. Підтримує PPS. Використовує технологію GaN. Оснащений дисплеєм.]]></description>
-<quantity_in_stock>22</quantity_in_stock>
+<quantity_in_stock>21</quantity_in_stock>
 <param name="Бренд">VERON</param>
 <param name="Кількість USB портів">1 USB | 2 Type - C</param>
 <param name="Зарядні пристрої">Home Chargers</param>
@@ -130344,7 +130895,7 @@
 <code>777110</code>
 <name>Bluetooth-адаптер Hoco UA18, USB, Bluetooth 5.0 — Black</name>
 <description><![CDATA[Bluetooth-адаптер Hoco UA18, USB, Bluetooth 5.0 додає підтримку бездротового Bluetooth-з’єднання комп’ютеру або ноутбуку. Дає змогу підключати сумісні навушники, колонки, клавіатури, миші та інші пристрої.]]></description>
-<quantity_in_stock>19</quantity_in_stock>
+<quantity_in_stock>17</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Опт від 3 шт">$1.8</param>
 <param name="Опт від 5 шт">$1.77</param>
@@ -130735,29 +131286,6 @@
 <param name="Адаптери">Type C Hub</param>
 <param name="Drop">$17.27</param>
 </offer>
-<offer id="ts000082712" available="true">
-<url>https://kmt5.com.ua/usb-hub-usb-c-to-4-usb-borofone-fh1a</url>
-<price>150</price>
-<vendorprice>75</vendorprice>
-<vendorpricedoll>1.65</vendorpricedoll>
-<rrcdoll>3.3</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>44564650</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTMvMzQv0KYtMDAwMDgyNzEyXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTYvYzgv0KYtMDAwMDgyNzEyXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000082712</vendorCode>
-<code>789057</code>
-<name>USB-хаб Borofone FH1A, USB-C → 4 × USB-A</name>
-<description><![CDATA[Перехідник BOROFONE FH1A це компактний USB концентратор з інтерфейсом Type C, який дозволяє підключати до чотирьох пристроїв через три порти USB 2.0 та один високошвидкісний USB 3.0. Це зручне рішення для підключення флешок, периферії, зовнішніх дисків та інших USB пристроїв до ноутбуків і планшетів з Type C роз'ємом. Алюмінієвий корпус забезпечує міцність конструкції та ефективне відведення тепла, а підтримка USB 3.0 зі швидкістю до 5 Gbps дає можливість швидко передавати файли та працювати з великим обсягом даних. BOROFONE FH1A відмінно підходить для офісу, навчання, роботи та щоденного використання. Переваги Розширення USB портів через один Type C. Підтримка USB 3.0 зі швидкістю до 5 Gbps. Три USB 2.0 для офісної та периферійної техніки. Міцний алюмінієвий корпус. Компактний та легкий дизайн. Універсальна сумісність з ноутбуками та планшетами. Сфери використання Підключення флешнакопичувачів та зовнішніх дисків. Підключення периферії: мишей, клавіатур, принтерів. Розширення USB]]></description>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Бренд">Borofone</param>
-<param name="Кількість USB портів">4 USB</param>
-<param name="Опт від 3 шт">$1.54</param>
-<param name="Опт від 5 шт">$1.5</param>
-<param name="Опт від 7 шт">$1.47</param>
-<param name="Drop">$1.76</param>
-</offer>
 <offer id="ts000081353" available="true">
 <url>https://kmt5.com.ua/usb-hub-usb-30-to-4-usb-4-port-hub-30-cube</url>
 <price>150</price>
@@ -130917,7 +131445,7 @@
 <code>789048</code>
 <name>USB-хаб Hoco HB1C, USB-C → 4 × USB-A</name>
 <description><![CDATA[USB-хаб Hoco HB1C, USB-C → 4 × USB-A розширює кількість доступних портів для підключення периферії та накопичувачів. Перед використанням варто перевірити сумісність роз’ємів із пристроєм.]]></description>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Кількість USB портів">4 USB</param>
 <param name="Опт від 3 шт">$4.32</param>
@@ -131805,7 +132333,7 @@
 <code>786392</code>
 <name>Ігровий геймпад L2000</name>
 <description><![CDATA[USB інтерфейс, сумісність з Windows 9X, ME, XP, Vista, 7, 8, 8.1, 10, два спеціальних мотора для передачі вібрацій, якісні матеріали, зручне розташування кнопок - просто почніть захоплюючий файтинг. Дротовий джойстик відрізняється LANJUE L2000 найкращими якісними показниками серед подібного роду гарнітури. Звичне розташування кнопок полегшує управління. 10 програмованих кнопок забезпечать відмінну продуктивність і швидкість експлуатації. У стандартну комплектацію входять: ігровий маніпулятор, інструкція по застосуванню. Повна сумісність з персональними комп'ютерами. Режим XInput: кнопки A, B, X і Y, кнопки LB і RB, лівий і правий аналогові курки, кнопки «Пуск» і «Назад», два аналогових міні-джойстика з клацанням. Вдосконалений джойстик не тільки допоможе вам обіграти конкурентів, але і подарує незабутні враження від гри. Характеристики: USB інтерфейс, сумісність з Windows 9X, ME, XP, Vista, 7, 8, 8.1, 10, два спеціальних мотора для передачі вібрацій, якісні матеріали, зручне розташ]]></description>
-<quantity_in_stock>10</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Опт від 3 шт">$3.72</param>
 <param name="Опт від 5 шт">$3.65</param>
@@ -132903,7 +133431,7 @@
 <code>786841</code>
 <name>Бездротова клавіатура K100 Double, 2.4 ГГц, USB</name>
 <description><![CDATA[Бездротовий комплект клавіатури та миші з підтримкою двох режимів підключення Універсальний комплект для дому чи офісу, який поєднує функціональність, зручність і сучасний дизайн. Завдяки підтримці USB та PS/2+USB, пристрої легко інтегруються з більшістю комп’ютерів. Водостійкість та захист від падінь роблять цей комплект надійним у щоденному використанні. Основні характеристики: Тип клавіатури: стандартна, 100 клавіш Тип перемикачів: чорні перемикачі (не механічні) Інтерфейс клавіатури: USB / PS/2 + USB Мультимедійні клавіші: присутні Особливості: водостійкість, стійкість до падінь Матеріал корпусу: ABS пластик Колір: чорний / білий Призначення: для дому та офісу Миша: Тип підключення: бездротова DPI: 1000 Інтерфейс: Type-C приймач Функції: водостійкість, захист від падінь Додатково: Стиль: багатофункціональний Стан: в наявності Приватна форма: ні Цей комплект ідеально підійде для користувачів, які цінують надійність, функціональність та простоту підключення.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Опт від 3 шт">$12.29</param>
 <param name="Опт від 5 шт">$12.03</param>
@@ -132952,7 +133480,7 @@
 <code>789306</code>
 <name>Бездротова миша Borofone BG7, 2.4 ГГц, 1600 dpi</name>
 <description><![CDATA[Переваги: Невелика та зручна бездротова мишка Сумісна з усіма новітніми операційними системами, з комп'ютером, ноутбуком, планшетом; Бездротове з'єднання по 2.4G без встановлення додаткових драйверів (Plug and Play), підключаєте мишку і вона одразу працює Ергономічна форма миші Рифлене колесо прокручування Висока роздільна здатність DPI: 1000-1200-1600 Робота на будь-якій поверхні, крім скла Характеристики: Бренд: Borofone Робоча дистанція: 10м Кількість кнопок: 3 Розширення: 1600 dpi Вес: 60г Габарити: 108*61*39мм Колір: Білий]]></description>
-<quantity_in_stock>36</quantity_in_stock>
+<quantity_in_stock>21</quantity_in_stock>
 <param name="Бренд">Borofone</param>
 <param name="Опт від 3 шт">$3.02</param>
 <param name="Опт від 5 шт">$2.96</param>
@@ -133085,6 +133613,53 @@
 <param name="Опт від 7 шт">$3.04</param>
 <param name="Drop">$3.63</param>
 </offer>
+<offer id="ts000080707000029369" available="true">
+<url>https://kmt5.com.ua/bezdrotova-misha-hoco-gm35-romantic-purple</url>
+<price>404</price>
+<vendorprice>277</vendorprice>
+<vendorpricedoll>6.08</vendorpricedoll>
+<rrcdoll>8.88</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>48368747</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDcvZGEv0KYtMDAwMDgwNzA3XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGUvZjUv0KYtMDAwMDgwNzA3XzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWEvNDgv0KYtMDAwMDgwNzA3XzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjAvMWQv0KYtMDAwMDgwNzA3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Все</vendor>
+<vendorCode>Ц-000080707</vendorCode>
+<code>785815</code>
+<name>Бездротова миша Hoco GM35 — Romantic Purple</name>
+<description><![CDATA[Бездротова миша Hoco GM35 підтримує підключення 2,4 ГГц і Bluetooth. Оснащена акумулятором 300 мА·год, 5 кнопками та перемиканням роздільної здатності 800/1200/1600 dpi.]]></description>
+<quantity_in_stock>4</quantity_in_stock>
+<param name="Бренд">Hoco</param>
+<param name="Опт від 3 шт">$5.66</param>
+<param name="Опт від 5 шт">$5.55</param>
+<param name="Опт від 7 шт">$5.43</param>
+<param name="Drop">$6.49</param>
+</offer>
+<offer id="ts000079704000027633" available="true">
+<url>https://kmt5.com.ua/bezdrotova-misha-wiwu-wm107-black</url>
+<price>344</price>
+<vendorprice>202</vendorprice>
+<vendorpricedoll>4.43</vendorpricedoll>
+<rrcdoll>7.57</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>48368747</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjQvZTQv0KYtMDAwMDc5NzA0XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjcvYWMv0KYtMDAwMDc5NzA0XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMDMvNzkv0KYtMDAwMDc5NzA0XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Все</vendor>
+<vendorCode>Ц-000079704</vendorCode>
+<code>779878</code>
+<name>Бездротова миша WiWU WM107, 2.4 ГГц, 1200 dpi — Black</name>
+<description><![CDATA[Бездротова миша WiWU WM107, 2.4 ГГц, 1200 dpi — модель для повсякденної роботи з комп’ютером або ноутбуком. Бездротове підключення зменшує кількість кабелів на робочому місці, а оптичний сенсор забезпечує точне керування курсором.]]></description>
+<quantity_in_stock>2</quantity_in_stock>
+<param name="Бренд">Wiwu</param>
+<param name="Опт від 3 шт">$4.13</param>
+<param name="Опт від 5 шт">$4.04</param>
+<param name="Опт від 7 шт">$3.96</param>
+<param name="Drop">$4.73</param>
+</offer>
 <offer id="ts000082755000030704" available="true">
 <url>https://kmt5.com.ua/bezdrotova-misha-wiwu-wm113-white</url>
 <price>400</price>
@@ -133205,102 +133780,6 @@
 <param name="Опт від 3 шт">$13.07</param>
 <param name="Опт від 5 шт">$12.79</param>
 <param name="Drop">$15.29</param>
-</offer>
-<offer id="ts000082113" available="true">
-<url>https://kmt5.com.ua/gaming-headset-hoco-w113</url>
-<price>850</price>
-<vendorprice>558</vendorprice>
-<vendorpricedoll>12.26</vendorpricedoll>
-<rrcdoll>18.68</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>65714757</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGYvMTAv0KYtMDAwMDgyMTEzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2UvOGEv0KYtMDAwMDgyMTEzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTYvZTgv0KYtMDAwMDgyMTEzXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTcvNDYv0KYtMDAwMDgyMTEzXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2QvOGUv0KYtMDAwMDgyMTEzXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYWUvYWMv0KYtMDAwMDgyMTEzXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjgvNjEv0KYtMDAwMDgyMTEzXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000082113</vendorCode>
-<code>788019</code>
-<name>Дротові навушники Hoco W113, ігрові, з мікрофоном</name>
-<description><![CDATA[1. Динамік: 50 мм 2. Інтерфейс: USB-штекер 3. Мікрофон: Всеспрямований мікрофон; Розмір: Φ 6.0 * 5.0 мм 4. Розмір виробу: 201 * 171 * 93 мм; довжина дроту: 2 м; вага: 305 г 5. Оснащений регулюванням гучності та перемикачем мікрофона 6. Оснащений аудіокабелем-адаптером для одного-двох аудіопортів, його можна використовувати для настільних комп'ютерів або ноутбуків з двома аудіопортами]]></description>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Опт від 2 шт">$11.42</param>
-<param name="Опт від 3 шт">$11.19</param>
-<param name="Опт від 5 шт">$10.95</param>
-<param name="Drop">$13.09</param>
-</offer>
-<offer id="ts000083095" available="true">
-<url>https://kmt5.com.ua/gaming-headset-hoco-w114</url>
-<price>1300</price>
-<vendorprice>900</vendorprice>
-<vendorpricedoll>19.78</vendorpricedoll>
-<rrcdoll>28.57</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>65714757</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNTEvMjAv0KYtMDAwMDgzMDk1XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTUvNWUv0KYtMDAwMDgzMDk1XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZDMvN2Yv0KYtMDAwMDgzMDk1XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000083095</vendorCode>
-<code>789840</code>
-<name>Дротові навушники Hoco W114, ігрові, з мікрофоном</name>
-<description><![CDATA[Дротові навушники Hoco W114 для прослуховування аудіо на сумісних пристроях. Використовують дротове підключення. Вбудований мікрофон підходить для голосового спілкування та дзвінків. Ігрове виконання розраховане на прослуховування звуку та голосове спілкування під час гри.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Опт від 2 шт">$18.43</param>
-<param name="Опт від 3 шт">$18.05</param>
-<param name="Опт від 5 шт">$17.66</param>
-<param name="Drop">$21.12</param>
-</offer>
-<offer id="ts000084100" available="true">
-<url>https://kmt5.com.ua/drotov-navushniki-hoco-w116-grov-z-mkrofonom</url>
-<price>1329</price>
-<vendorprice>919</vendorprice>
-<vendorpricedoll>20.19</vendorpricedoll>
-<rrcdoll>29.21</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>67686655</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTMvODAv0KYtMDAwMDg0MTAwXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZjgvZWYv0KYtMDAwMDg0MTAwXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmQvMzAv0KYtMDAwMDg0MTAwXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvY2MvNjQv0KYtMDAwMDg0MTAwXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmUvYjQv0KYtMDAwMDg0MTAwXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGIvNTYv0KYtMDAwMDg0MTAwXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000084100</vendorCode>
-<code>791840</code>
-<name>Дротові навушники Hoco W116, ігрові, з мікрофоном</name>
-<description><![CDATA[Дротові навушники Hoco W116 для прослуховування аудіо на сумісних пристроях. Використовують дротове підключення. Вбудований мікрофон підходить для голосового спілкування та дзвінків. Ігрове виконання розраховане на прослуховування звуку та голосове спілкування під час гри.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Drop">$21.56</param>
-</offer>
-<offer id="ts000084059" available="true">
-<url>https://kmt5.com.ua/gaming-headset-hoco-w118</url>
-<price>550</price>
-<vendorprice>385</vendorprice>
-<vendorpricedoll>8.45</vendorpricedoll>
-<rrcdoll>12.09</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>65714757</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2MvYTMv0KYtMDAwMDg0MDU5XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjYvMWMv0KYtMDAwMDg0MDU5XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWIvZWEv0KYtMDAwMDg0MDU5XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Hoco</vendor>
-<vendorCode>Ц-000084059</vendorCode>
-<code>791706</code>
-<name>Дротові навушники Hoco W118, ігрові, з мікрофоном</name>
-<description><![CDATA[Дротові навушники Hoco W118 для прослуховування аудіо на сумісних пристроях. Використовують дротове підключення. Вбудований мікрофон підходить для голосового спілкування та дзвінків. Ігрове виконання розраховане на прослуховування звуку та голосове спілкування під час гри.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Hoco</param>
-<param name="Опт від 2 шт">$7.87</param>
-<param name="Опт від 3 шт">$7.71</param>
-<param name="Опт від 5 шт">$7.54</param>
-<param name="Drop">$9.02</param>
 </offer>
 <offer id="ts000068697000019713" available="true">
 <url>https://kmt5.com.ua/naushniki-s-mikrofonom-hoco-w21-graceful-charm-black-64369</url>
@@ -133649,7 +134128,7 @@
 <code>778604</code>
 <name>Дротова миша X9, USB, 2400 dpi</name>
 <description><![CDATA[Дротова миша X9, USB, 2400 dpi підходить для роботи та навчання, а ігрові моделі — також для динамічних ігор. Дротове підключення забезпечує стабільний зв’язок без потреби заряджати акумулятор.]]></description>
-<quantity_in_stock>10</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Комп'ютерні аксесуари">Комп'ютерні миші</param>
 <param name="Опт від 3 шт">$4.99</param>
@@ -133809,7 +134288,7 @@
 <code>788849</code>
 <name>Захисна накладка на клавіатуру Silicon Air M2 US, українська, російська та англійська розкладки</name>
 <description><![CDATA[Захисна накладка на клавіатуру Silicon Air M2 US, українська, російська та англійська розкладки захищає клавіші від пилу, вологи та повсякденних забруднень. Перед покупкою потрібно звірити модель і діагональ пристрою.]]></description>
-<quantity_in_stock>31</quantity_in_stock>
+<quantity_in_stock>33</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Опт від 3 шт">$0.53</param>
 <param name="Опт від 5 шт">$0.52</param>
@@ -134297,7 +134776,7 @@
 <code>708906</code>
 <name>Кабель-подовжувач USB-A (M) → USB-A (F), 0.3 м — Blue</name>
 <description><![CDATA[Кабель-подовжувач USB-A (M) → USB-A (F), 0.3 м призначений для надійного з’єднання сумісних пристроїв. Типи роз’ємів, стандарт і довжина наведені в назві товару.]]></description>
-<quantity_in_stock>10</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Довжина кабелю">0.3m</param>
 <param name="Комп'ютерні аксесуари">Кабелі</param>
@@ -134345,7 +134824,7 @@
 <code>790975</code>
 <name>Кабель-розгалужувач живлення 1 гніздо — 2 штекер 5,5×2,1 мм DC</name>
 <description><![CDATA[Кабель-розгалужувач DC для підключення кількох сумісних пристроїв до одного джерела живлення.]]></description>
-<quantity_in_stock>112</quantity_in_stock>
+<quantity_in_stock>111</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Роз'єм підключення">Кабель живлення DC</param>
 <param name="Довжина кабелю">1m</param>
@@ -134831,7 +135310,7 @@
 <code>708681</code>
 <name>Килимок для миші K1 3 мм</name>
 <description><![CDATA[Килимок для миші K1 3 мм створює рівну поверхню для точного й плавного переміщення миші. Розмір та додаткові особливості вказані в назві.]]></description>
-<quantity_in_stock>27</quantity_in_stock>
+<quantity_in_stock>22</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Опт від 3 шт">$0.91</param>
 <param name="Опт від 5 шт">$0.89</param>
@@ -135016,7 +135495,7 @@
 <code>782447</code>
 <name>Килимок для миші, 300 × 800 × 3 мм, OPP-пакування — Сота</name>
 <description><![CDATA[Килимок для миші, 300 × 800 × 3 мм, OPP-пакування створює рівну поверхню для точного й плавного переміщення миші. Розмір та додаткові особливості вказані в назві.]]></description>
-<quantity_in_stock>8</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Опт від 3 шт">$3.26</param>
 <param name="Опт від 5 шт">$3.2</param>
@@ -135107,7 +135586,7 @@
 <code>787798</code>
 <name>Килимок для миші, 400 × 900 × 3 мм, OPP-пакування — Матрица</name>
 <description><![CDATA[Килимок для миші, 400 × 900 × 3 мм, OPP-пакування створює рівну поверхню для точного й плавного переміщення миші. Розмір та додаткові особливості вказані в назві.]]></description>
-<quantity_in_stock>11</quantity_in_stock>
+<quantity_in_stock>10</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Опт від 3 шт">$4.75</param>
 <param name="Опт від 5 шт">$4.65</param>
@@ -135419,7 +135898,7 @@
 <code>753521</code>
 <name>Наліпки на клавіатуру, українська розкладка — Black</name>
 <description><![CDATA[Наліпки на клавіатуру, українська розкладка допомагають оновити або додати потрібне маркування клавіш. Наносяться на очищену суху поверхню клавіатури.]]></description>
-<quantity_in_stock>392</quantity_in_stock>
+<quantity_in_stock>391</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Опт від 3 шт">$0.29</param>
 <param name="Опт від 5 шт">$0.28</param>
@@ -149568,34 +150047,6 @@
 <param name="Опт від 5 шт">$12.24</param>
 <param name="Drop">$14.63</param>
 </offer>
-<offer id="ts000083783" available="true">
-<url>https://kmt5.com.ua/bluetooth-garntura-tws-acefast-w8</url>
-<price>1000</price>
-<vendorprice>680</vendorprice>
-<vendorpricedoll>14.94</vendorpricedoll>
-<rrcdoll>21.98</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>54581499</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWIvMDgv0KYtMDAwMDgzNzgzXzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvM2QvNjUv0KYtMDAwMDgzNzgzXzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzkvZjgv0KYtMDAwMDgzNzgzXzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjIvNWIv0KYtMDAwMDgzNzgzXzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOGMvMjYv0KYtMDAwMDgzNzgzXzUuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNDAvOWQv0KYtMDAwMDgzNzgzXzYuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZmYvZGIv0KYtMDAwMDgzNzgzXzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNzAvYTQv0KYtMDAwMDgzNzgzXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000083783</vendorCode>
-<code>791123</code>
-<name>Бездротові TWS-навушники Acefast W8</name>
-<description><![CDATA[Бездротові TWS-навушники Acefast W8 — компактна модель для бездротового прослуховування музики та голосових викликів. Підключення до смартфона, планшета або іншого сумісного пристрою здійснюється через Bluetooth.]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<param name="Бренд">Acefast</param>
-<param name="Опт від 2 шт">$13.92</param>
-<param name="Опт від 3 шт">$13.63</param>
-<param name="Опт від 5 шт">$13.34</param>
-<param name="Drop">$15.95</param>
-</offer>
 <offer id="ts000073949000023828" available="true">
 <url>https://kmt5.com.ua/baseus-ngtw1401-true-wireless-earphones-storm-3-ngtw140102-white</url>
 <price>1850</price>
@@ -149838,7 +150289,7 @@
 <code>791849</code>
 <name>Бездротові TWS-навушники Hoco EQ37 — Black</name>
 <description><![CDATA[Бездротові TWS-навушники Hoco EQ37 — компактна модель для бездротового прослуховування музики та голосових викликів. Підключення до смартфона, планшета або іншого сумісного пристрою здійснюється через Bluetooth.]]></description>
-<quantity_in_stock>18</quantity_in_stock>
+<quantity_in_stock>17</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Drop">$13.97</param>
 </offer>
@@ -149857,7 +150308,7 @@
 <code>791850</code>
 <name>Бездротові TWS-навушники Hoco EQ37 — White</name>
 <description><![CDATA[Бездротові TWS-навушники Hoco EQ37 — компактна модель для бездротового прослуховування музики та голосових викликів. Підключення до смартфона, планшета або іншого сумісного пристрою здійснюється через Bluetooth.]]></description>
-<quantity_in_stock>27</quantity_in_stock>
+<quantity_in_stock>26</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Drop">$13.97</param>
 </offer>
@@ -150313,7 +150764,7 @@
 <code>771242</code>
 <name>Бездротові TWS-навушники Veron W20 — White</name>
 <description><![CDATA[Бездротові TWS-навушники Veron W20 — компактна бездротова гарнітура для музики та дзвінків. Навушники підключаються через Bluetooth і зберігаються у зарядному кейсі. Основні характеристики: чип — JL6973; Bluetooth — 5.1; профілі — SBC; акумулятор навушників — 30 мА·год; час заряджання — 1, 5 год; діапазон частот — 20Гц-20КГц; акумулятор кейса — 250 мА·год; у режимі очікування — 40 год; акумулятор — 14 год; чутливість — 108 3дБ.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <param name="Бренд">VERON</param>
 <param name="Опт від 2 шт">$6.24</param>
 <param name="Опт від 3 шт">$6.11</param>
@@ -150801,7 +151252,7 @@
 <code>792114</code>
 <name>Дротові навушники Hoco M119, 3.5 мм, з мікрофоном — Black</name>
 <description><![CDATA[Дротові навушники Hoco M119 для прослуховування аудіо на сумісних пристроях. Підключаються через 3.5 мм. Вбудований мікрофон підходить для голосового спілкування та дзвінків.]]></description>
-<quantity_in_stock>32</quantity_in_stock>
+<quantity_in_stock>30</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Аудіо товари">Навушники з мікрофоном 3.5mm</param>
 <param name="Опт від 2 шт">$1.49</param>
@@ -153110,7 +153561,7 @@
 <code>789517</code>
 <name>Ремінець Magic Silicone, силіконовий,  Apple Watch 38/40/41 мм — Orange</name>
 <description><![CDATA[Ремінець Magic Silicone призначений для Apple Watch 38/40/41 мм. Основні характеристики: • Тип: ремінець для смарт-годинника • Сумісність: Apple Watch 38/40/41 мм • Матеріал: силікон • Призначення: заміна штатного ремінця та повсякденне носіння]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Watch Series 2 38 mm, Apple Watch Series 4 40 mm, Apple Watch Series 7 41 mm</param>
 <param name="Бренд">Различные</param>
@@ -154374,7 +154825,7 @@
 <code>791687</code>
 <name>Ремінець Silicone Sport Band, силіконовий,  Xiaomi Mi Band 9 Active — Black</name>
 <description><![CDATA[Ремінець Silicone Sport Band призначений для Xiaomi Mi Band 9 Active. Основні характеристики: • Тип: ремінець для смарт-годинника • Сумісність: Xiaomi Mi Band 9 Active • Матеріал: силікон • Призначення: заміна штатного ремінця та повсякденне носіння]]></description>
-<quantity_in_stock>30</quantity_in_stock>
+<quantity_in_stock>40</quantity_in_stock>
 <param name="Марка">Xiaomi</param>
 <param name="Модель девайса">Xiaomi Mi Band 9 Active</param>
 <param name="Бренд">Различные</param>
@@ -155537,6 +155988,30 @@
 <param name="Опт від 7 шт">$2.67</param>
 <param name="Drop">$3.03</param>
 </offer>
+<offer id="ts000084068000032026" available="true">
+<url>https://kmt5.com.ua/remnets-armor-magnetic-band-unversalniy-22-mm-pink-sand</url>
+<price>253</price>
+<vendorprice>129</vendorprice>
+<vendorpricedoll>2.83</vendorpricedoll>
+<rrcdoll>5.55</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>66318281</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNGUvMTMv0KYtMDAwMDg0MDY4XzEzLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNmEvOTYv0KYtMDAwMDg0MDY4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Все</vendor>
+<vendorCode>Ц-000084068</vendorCode>
+<code>791747</code>
+<name>Універсальний ремінець Armor Magnetic Band, магнітна застібка, універсальне кріплення 22 мм — Pink Sand</name>
+<description><![CDATA[Ремінець Armor Magnetic Band призначений для годинників із відповідним типом кріплення. Основні характеристики: • Тип: універсальний ремінець • Ширина кріплення: 22 мм • Конструкція: магнітна застібка • Призначення: заміна штатного ремінця та повсякденне носіння]]></description>
+<quantity_in_stock>1</quantity_in_stock>
+<param name="Марка">Universal</param>
+<param name="Бренд">Различные</param>
+<param name="Материал">Силикон</param>
+<param name="Опт від 3 шт">$2.78</param>
+<param name="Опт від 5 шт">$2.73</param>
+<param name="Опт від 7 шт">$2.67</param>
+<param name="Drop">$3.19</param>
+</offer>
 <offer id="ts000084068000032018" available="true">
 <url>https://kmt5.com.ua/remnets-armor-magnetic-band-unversalniy-22-mm-star-lightorange</url>
 <price>178</price>
@@ -156386,135 +156861,6 @@
 <param name="Опт від 5 шт">$0.99</param>
 <param name="Опт від 7 шт">$0.97</param>
 <param name="Drop">$1.16</param>
-</offer>
-<offer id="ts000084648000032871" available="true">
-<url>https://kmt5.com.ua/remnets-kitty-silhouette-apple-watch-384041-mm-black</url>
-<price>355</price>
-<vendorprice>263</vendorprice>
-<vendorpricedoll>5.77</vendorpricedoll>
-<rrcdoll>7.81</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>48417745</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjAvNDUv0KYtMDAwMDg0NjQ4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTQvOWMv0KYtMDAwMDg0NjQ4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000084648</vendorCode>
-<code>793327</code>
-<name>Ремінець Kitty Silhouette,  Apple Watch 38/40/41 мм — Black</name>
-<description><![CDATA[Ремінець Kitty Silhouette призначений для Apple Watch 38/40/41 мм. Основні характеристики: • Тип: ремінець для смарт-годинника • Сумісність: Apple Watch 38/40/41 мм • Призначення: заміна штатного ремінця та повсякденне носіння]]></description>
-<quantity_in_stock>4</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Watch Series 7 41 mm, Apple Watch Series 3 38 mm, Apple Watch Series 4 40 mm</param>
-<param name="Бренд">Различные</param>
-<param name="Drop">$6.16</param>
-</offer>
-<offer id="ts000084648000032873" available="true">
-<url>https://kmt5.com.ua/remnets-kitty-silhouette-apple-watch-384041-mm-pink</url>
-<price>355</price>
-<vendorprice>263</vendorprice>
-<vendorpricedoll>5.77</vendorpricedoll>
-<rrcdoll>7.81</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>48417745</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWMvNmIv0KYtMDAwMDg0NjQ4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTQvOWMv0KYtMDAwMDg0NjQ4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000084648</vendorCode>
-<code>793329</code>
-<name>Ремінець Kitty Silhouette,  Apple Watch 38/40/41 мм — Pink</name>
-<description><![CDATA[Ремінець Kitty Silhouette призначений для Apple Watch 38/40/41 мм. Основні характеристики: • Тип: ремінець для смарт-годинника • Сумісність: Apple Watch 38/40/41 мм • Призначення: заміна штатного ремінця та повсякденне носіння]]></description>
-<quantity_in_stock>5</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Watch Series 7 41 mm, Apple Watch Series 3 38 mm, Apple Watch Series 4 40 mm</param>
-<param name="Бренд">Различные</param>
-<param name="Drop">$6.16</param>
-</offer>
-<offer id="ts000084648000032872" available="true">
-<url>https://kmt5.com.ua/remnets-kitty-silhouette-apple-watch-384041-mm-white</url>
-<price>355</price>
-<vendorprice>263</vendorprice>
-<vendorpricedoll>5.77</vendorpricedoll>
-<rrcdoll>7.81</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>48417745</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWYvYjkv0KYtMDAwMDg0NjQ4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTQvOWMv0KYtMDAwMDg0NjQ4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000084648</vendorCode>
-<code>793328</code>
-<name>Ремінець Kitty Silhouette,  Apple Watch 38/40/41 мм — White</name>
-<description><![CDATA[Ремінець Kitty Silhouette призначений для Apple Watch 38/40/41 мм. Основні характеристики: • Тип: ремінець для смарт-годинника • Сумісність: Apple Watch 38/40/41 мм • Призначення: заміна штатного ремінця та повсякденне носіння]]></description>
-<quantity_in_stock>4</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Watch Series 7 41 mm, Apple Watch Series 3 38 mm, Apple Watch Series 4 40 mm</param>
-<param name="Бренд">Различные</param>
-<param name="Drop">$6.16</param>
-</offer>
-<offer id="ts000084647000032870" available="true">
-<url>https://kmt5.com.ua/remnets-missair-thin-band-apple-watch-42444549-mm-black</url>
-<price>368</price>
-<vendorprice>272</vendorprice>
-<vendorpricedoll>5.97</vendorpricedoll>
-<rrcdoll>8.09</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>59885727</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzYvMzUv0KYtMDAwMDg0NjQ3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTkvMDkv0KYtMDAwMDg0NjQ3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000084647</vendorCode>
-<code>793325</code>
-<name>Ремінець Missair Thin Band,  Apple Watch 42/44/45/49 мм — Black</name>
-<description><![CDATA[Ремінець Missair Thin Band призначений для Apple Watch 42/44/45/49 мм. Основні характеристики: • Тип: ремінець для смарт-годинника • Сумісність: Apple Watch 42/44/45/49 мм • Призначення: заміна штатного ремінця та повсякденне носіння]]></description>
-<quantity_in_stock>3</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">42 - 44 - 45 - 49 mm</param>
-<param name="Бренд">Различные</param>
-<param name="Матеріал">Металл</param>
-<param name="Drop">$6.38</param>
-</offer>
-<offer id="ts000084647000032869" available="true">
-<url>https://kmt5.com.ua/remnets-missair-thin-band-apple-watch-42444549-mm-rosegold</url>
-<price>368</price>
-<vendorprice>272</vendorprice>
-<vendorpricedoll>5.97</vendorpricedoll>
-<rrcdoll>8.09</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>59885727</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTYvYjAv0KYtMDAwMDg0NjQ3XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTkvMDkv0KYtMDAwMDg0NjQ3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000084647</vendorCode>
-<code>793324</code>
-<name>Ремінець Missair Thin Band,  Apple Watch 42/44/45/49 мм — Rose&amp;Gold</name>
-<description><![CDATA[Ремінець Missair Thin Band призначений для Apple Watch 42/44/45/49 мм. Основні характеристики: • Тип: ремінець для смарт-годинника • Сумісність: Apple Watch 42/44/45/49 мм • Призначення: заміна штатного ремінця та повсякденне носіння]]></description>
-<quantity_in_stock>3</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">42 - 44 - 45 - 49 mm</param>
-<param name="Бренд">Различные</param>
-<param name="Матеріал">Металл</param>
-<param name="Drop">$6.38</param>
-</offer>
-<offer id="ts000084647000032868" available="true">
-<url>https://kmt5.com.ua/remnets-missair-thin-band-apple-watch-42444549-mm-silver</url>
-<price>368</price>
-<vendorprice>272</vendorprice>
-<vendorpricedoll>5.97</vendorpricedoll>
-<rrcdoll>8.09</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>59885727</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWQvNDEv0KYtMDAwMDg0NjQ3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTkvMDkv0KYtMDAwMDg0NjQ3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Все</vendor>
-<vendorCode>Ц-000084647</vendorCode>
-<code>793323</code>
-<name>Ремінець Missair Thin Band,  Apple Watch 42/44/45/49 мм — Silver</name>
-<description><![CDATA[Ремінець Missair Thin Band призначений для Apple Watch 42/44/45/49 мм. Основні характеристики: • Тип: ремінець для смарт-годинника • Сумісність: Apple Watch 42/44/45/49 мм • Призначення: заміна штатного ремінця та повсякденне носіння]]></description>
-<quantity_in_stock>3</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">42 - 44 - 45 - 49 mm</param>
-<param name="Бренд">Различные</param>
-<param name="Матеріал">Металл</param>
-<param name="Drop">$6.38</param>
 </offer>
 <offer id="ts000075933" available="true">
 <url>https://kmt5.com.ua/perehodnik-kniversalnyiy-s-22-mm-na-42-mm</url>
@@ -158635,7 +158981,7 @@
 <code>793290</code>
 <name>Ремінець Chanel Style,  Apple Watch 38/40/41 мм — Silver</name>
 <description><![CDATA[Ремінець Chanel Style призначений для Apple Watch 38/40/41 мм. Основні характеристики: • Тип: ремінець для смарт-годинника • Сумісність: Apple Watch 38/40/41 мм • Призначення: заміна штатного ремінця та повсякденне носіння]]></description>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Watch Series 7 41 mm, Apple Watch Series 3 38 mm, Apple Watch Series 4 40 mm</param>
 <param name="Бренд">Различные</param>
@@ -158698,7 +159044,7 @@
 <code>793298</code>
 <name>Ремінець Chanel Style,  Apple Watch 42/44/45/49 мм — Blue</name>
 <description><![CDATA[Ремінець Chanel Style призначений для Apple Watch 42/44/45/49 мм. Основні характеристики: • Тип: ремінець для смарт-годинника • Сумісність: Apple Watch 42/44/45/49 мм • Призначення: заміна штатного ремінця та повсякденне носіння]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Watch Series 3 42 mm, Apple Watch Series 4 44 mm, Apple Watch Series 7 45 mm, Apple Watch Series 8 49 mm</param>
 <param name="Бренд">Различные</param>
@@ -158720,27 +159066,6 @@
 <name>Ремінець Chanel Style,  Apple Watch 42/44/45/49 мм — Pink</name>
 <description><![CDATA[Ремінець Chanel Style призначений для Apple Watch 42/44/45/49 мм. Основні характеристики: • Тип: ремінець для смарт-годинника • Сумісність: Apple Watch 42/44/45/49 мм • Призначення: заміна штатного ремінця та повсякденне носіння]]></description>
 <quantity_in_stock>2</quantity_in_stock>
-<param name="Марка">Apple</param>
-<param name="Модель девайса">Apple Watch Series 3 42 mm, Apple Watch Series 4 44 mm, Apple Watch Series 7 45 mm, Apple Watch Series 8 49 mm</param>
-<param name="Бренд">Различные</param>
-<param name="Drop">$6.49</param>
-</offer>
-<offer id="ts000084637000032851" available="true">
-<url>https://kmt5.com.ua/remnets-chanel-style-apple-watch-42444549-mm-silver</url>
-<price>386</price>
-<vendorprice>277</vendorprice>
-<vendorpricedoll>6.08</vendorpricedoll>
-<rrcdoll>8.48</rrcdoll>
-<currencyId>UAH</currencyId>
-<categoryId>59885727</categoryId>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTQvMWUv0KYtMDAwMDg0NjM3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNjMvOTcv0KYtMDAwMDg0NjM3XzcuanBnOjEwMDA6MTAwMA==.jpg</picture>
-<vendor>Apple</vendor>
-<vendorCode>Ц-000084637</vendorCode>
-<code>793296</code>
-<name>Ремінець Chanel Style,  Apple Watch 42/44/45/49 мм — Silver</name>
-<description><![CDATA[Ремінець Chanel Style призначений для Apple Watch 42/44/45/49 мм. Основні характеристики: • Тип: ремінець для смарт-годинника • Сумісність: Apple Watch 42/44/45/49 мм • Призначення: заміна штатного ремінця та повсякденне носіння]]></description>
-<quantity_in_stock>1</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Watch Series 3 42 mm, Apple Watch Series 4 44 mm, Apple Watch Series 7 45 mm, Apple Watch Series 8 49 mm</param>
 <param name="Бренд">Различные</param>
@@ -159868,6 +160193,69 @@
 <param name="Опт від 7 шт">$3.96</param>
 <param name="Drop">$4.73</param>
 </offer>
+<offer id="ts000084648000032871" available="true">
+<url>https://kmt5.com.ua/remnets-kitty-silhouette-apple-watch-384041-mm-black</url>
+<price>355</price>
+<vendorprice>263</vendorprice>
+<vendorpricedoll>5.77</vendorpricedoll>
+<rrcdoll>7.81</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>48417745</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMjAvNDUv0KYtMDAwMDg0NjQ4XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTQvOWMv0KYtMDAwMDg0NjQ4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000084648</vendorCode>
+<code>793327</code>
+<name>Ремінець Kitty Silhouette,  Apple Watch 38/40/41 мм — Black</name>
+<description><![CDATA[Ремінець Kitty Silhouette призначений для Apple Watch 38/40/41 мм. Основні характеристики: • Тип: ремінець для смарт-годинника • Сумісність: Apple Watch 38/40/41 мм • Призначення: заміна штатного ремінця та повсякденне носіння]]></description>
+<quantity_in_stock>4</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Watch Series 7 41 mm, Apple Watch Series 3 38 mm, Apple Watch Series 4 40 mm</param>
+<param name="Бренд">Различные</param>
+<param name="Drop">$6.16</param>
+</offer>
+<offer id="ts000084648000032873" available="true">
+<url>https://kmt5.com.ua/remnets-kitty-silhouette-apple-watch-384041-mm-pink</url>
+<price>355</price>
+<vendorprice>263</vendorprice>
+<vendorpricedoll>5.77</vendorpricedoll>
+<rrcdoll>7.81</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>48417745</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOWMvNmIv0KYtMDAwMDg0NjQ4XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTQvOWMv0KYtMDAwMDg0NjQ4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000084648</vendorCode>
+<code>793329</code>
+<name>Ремінець Kitty Silhouette,  Apple Watch 38/40/41 мм — Pink</name>
+<description><![CDATA[Ремінець Kitty Silhouette призначений для Apple Watch 38/40/41 мм. Основні характеристики: • Тип: ремінець для смарт-годинника • Сумісність: Apple Watch 38/40/41 мм • Призначення: заміна штатного ремінця та повсякденне носіння]]></description>
+<quantity_in_stock>5</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Watch Series 7 41 mm, Apple Watch Series 3 38 mm, Apple Watch Series 4 40 mm</param>
+<param name="Бренд">Различные</param>
+<param name="Drop">$6.16</param>
+</offer>
+<offer id="ts000084648000032872" available="true">
+<url>https://kmt5.com.ua/remnets-kitty-silhouette-apple-watch-384041-mm-white</url>
+<price>355</price>
+<vendorprice>263</vendorprice>
+<vendorpricedoll>5.77</vendorpricedoll>
+<rrcdoll>7.81</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>48417745</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWYvYjkv0KYtMDAwMDg0NjQ4XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvOTQvOWMv0KYtMDAwMDg0NjQ4XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000084648</vendorCode>
+<code>793328</code>
+<name>Ремінець Kitty Silhouette,  Apple Watch 38/40/41 мм — White</name>
+<description><![CDATA[Ремінець Kitty Silhouette призначений для Apple Watch 38/40/41 мм. Основні характеристики: • Тип: ремінець для смарт-годинника • Сумісність: Apple Watch 38/40/41 мм • Призначення: заміна штатного ремінця та повсякденне носіння]]></description>
+<quantity_in_stock>4</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Watch Series 7 41 mm, Apple Watch Series 3 38 mm, Apple Watch Series 4 40 mm</param>
+<param name="Бренд">Различные</param>
+<param name="Drop">$6.16</param>
+</offer>
 <offer id="ts000084649000032875" available="true">
 <url>https://kmt5.com.ua/remnets-kitty-silhouette-apple-watch-42444549-mm-black</url>
 <price>355</price>
@@ -159883,7 +160271,7 @@
 <code>793332</code>
 <name>Ремінець Kitty Silhouette,  Apple Watch 42/44/45/49 мм — Black</name>
 <description><![CDATA[Ремінець Kitty Silhouette призначений для Apple Watch 42/44/45/49 мм. Основні характеристики: • Тип: ремінець для смарт-годинника • Сумісність: Apple Watch 42/44/45/49 мм • Призначення: заміна штатного ремінця та повсякденне носіння]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Watch Series 3 42 mm, Apple Watch Series 4 44 mm, Apple Watch Series 7 45 mm, Apple Watch Series 8 49 mm</param>
 <param name="Бренд">Различные</param>
@@ -160704,6 +161092,31 @@
 <name>Ремінець Magic Lock Ocean Design,  Apple Watch 42/44/45/49 мм — Pink Sand</name>
 <description><![CDATA[Ремінець Magic Lock Ocean Design призначений для Apple Watch 42/44/45/49 мм. Основні характеристики: • Тип: ремінець для смарт-годинника • Сумісність: Apple Watch 42/44/45/49 мм • Конструкція: застібка з фіксатором • Призначення: заміна штатного ремінця та повсякденне носіння]]></description>
 <quantity_in_stock>6</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">Apple Watch Series 3 42 mm, Apple Watch Series 4 44 mm, Apple Watch Series 7 45 mm, Apple Watch Series 8 49 mm</param>
+<param name="Бренд">Различные</param>
+<param name="Матеріал">Гума</param>
+<param name="Опт від 3 шт">$1.15</param>
+<param name="Опт від 5 шт">$1.13</param>
+<param name="Опт від 7 шт">$1.1</param>
+<param name="Drop">$1.32</param>
+</offer>
+<offer id="ts000075900000024677" available="true">
+<url>https://kmt5.com.ua/remnets-ocean-latch-design-apple-watch-42-mm-44-mm-45-mm-49-mm-rose-red</url>
+<price>76</price>
+<vendorprice>57</vendorprice>
+<vendorpricedoll>1.24</vendorpricedoll>
+<rrcdoll>1.68</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>59885727</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvNWUvMjMv0KYtMDAwMDc1OTAwXzguanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMTAvMWMv0KYtMDAwMDc1OTAwXzEwLmpwZzoxMDAwOjEwMDA=.jpg</picture>
+<vendor>Apple</vendor>
+<vendorCode>Ц-000075900</vendorCode>
+<code>771414</code>
+<name>Ремінець Magic Lock Ocean Design,  Apple Watch 42/44/45/49 мм — Rose Red</name>
+<description><![CDATA[Ремінець Magic Lock Ocean Design призначений для Apple Watch 42/44/45/49 мм. Основні характеристики: • Тип: ремінець для смарт-годинника • Сумісність: Apple Watch 42/44/45/49 мм • Конструкція: застібка з фіксатором • Призначення: заміна штатного ремінця та повсякденне носіння]]></description>
+<quantity_in_stock>5</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Watch Series 3 42 mm, Apple Watch Series 4 44 mm, Apple Watch Series 7 45 mm, Apple Watch Series 8 49 mm</param>
 <param name="Бренд">Различные</param>
@@ -162111,6 +162524,72 @@
 <param name="Матеріал">Металл</param>
 <param name="Drop">$6.38</param>
 </offer>
+<offer id="ts000084647000032870" available="true">
+<url>https://kmt5.com.ua/remnets-missair-thin-band-apple-watch-42444549-mm-black</url>
+<price>368</price>
+<vendorprice>272</vendorprice>
+<vendorpricedoll>5.97</vendorpricedoll>
+<rrcdoll>8.09</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>59885727</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYzYvMzUv0KYtMDAwMDg0NjQ3XzMuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTkvMDkv0KYtMDAwMDg0NjQ3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Все</vendor>
+<vendorCode>Ц-000084647</vendorCode>
+<code>793325</code>
+<name>Ремінець Missair Thin Band,  Apple Watch 42/44/45/49 мм — Black</name>
+<description><![CDATA[Ремінець Missair Thin Band призначений для Apple Watch 42/44/45/49 мм. Основні характеристики: • Тип: ремінець для смарт-годинника • Сумісність: Apple Watch 42/44/45/49 мм • Призначення: заміна штатного ремінця та повсякденне носіння]]></description>
+<quantity_in_stock>3</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">42 - 44 - 45 - 49 mm</param>
+<param name="Бренд">Различные</param>
+<param name="Матеріал">Металл</param>
+<param name="Drop">$6.38</param>
+</offer>
+<offer id="ts000084647000032869" available="true">
+<url>https://kmt5.com.ua/remnets-missair-thin-band-apple-watch-42444549-mm-rosegold</url>
+<price>368</price>
+<vendorprice>272</vendorprice>
+<vendorpricedoll>5.97</vendorpricedoll>
+<rrcdoll>8.09</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>59885727</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvZTYvYjAv0KYtMDAwMDg0NjQ3XzQuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTkvMDkv0KYtMDAwMDg0NjQ3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Все</vendor>
+<vendorCode>Ц-000084647</vendorCode>
+<code>793324</code>
+<name>Ремінець Missair Thin Band,  Apple Watch 42/44/45/49 мм — Rose&amp;Gold</name>
+<description><![CDATA[Ремінець Missair Thin Band призначений для Apple Watch 42/44/45/49 мм. Основні характеристики: • Тип: ремінець для смарт-годинника • Сумісність: Apple Watch 42/44/45/49 мм • Призначення: заміна штатного ремінця та повсякденне носіння]]></description>
+<quantity_in_stock>3</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">42 - 44 - 45 - 49 mm</param>
+<param name="Бренд">Различные</param>
+<param name="Матеріал">Металл</param>
+<param name="Drop">$6.38</param>
+</offer>
+<offer id="ts000084647000032868" available="true">
+<url>https://kmt5.com.ua/remnets-missair-thin-band-apple-watch-42444549-mm-silver</url>
+<price>368</price>
+<vendorprice>272</vendorprice>
+<vendorpricedoll>5.97</vendorpricedoll>
+<rrcdoll>8.09</rrcdoll>
+<currencyId>UAH</currencyId>
+<categoryId>59885727</categoryId>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvMWQvNDEv0KYtMDAwMDg0NjQ3XzIuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<picture>https://kmt5.com.ua/images/cHJvZHVjdHMvYTkvMDkv0KYtMDAwMDg0NjQ3XzEuanBnOjEwMDA6MTAwMA==.jpg</picture>
+<vendor>Все</vendor>
+<vendorCode>Ц-000084647</vendorCode>
+<code>793323</code>
+<name>Ремінець Missair Thin Band,  Apple Watch 42/44/45/49 мм — Silver</name>
+<description><![CDATA[Ремінець Missair Thin Band призначений для Apple Watch 42/44/45/49 мм. Основні характеристики: • Тип: ремінець для смарт-годинника • Сумісність: Apple Watch 42/44/45/49 мм • Призначення: заміна штатного ремінця та повсякденне носіння]]></description>
+<quantity_in_stock>3</quantity_in_stock>
+<param name="Марка">Apple</param>
+<param name="Модель девайса">42 - 44 - 45 - 49 mm</param>
+<param name="Бренд">Различные</param>
+<param name="Матеріал">Металл</param>
+<param name="Drop">$6.38</param>
+</offer>
 <offer id="ts000071759000020768" available="true">
 <url>https://kmt5.com.ua/remnets-nylon-loop-apple-watch-38-mm-40-mm-41-mm-black</url>
 <price>150</price>
@@ -163144,7 +163623,7 @@
 <code>773056</code>
 <name>Ремінець Ocean Band Design,  Apple Watch 42/44/45/49 мм — Midnight Blue &amp; Orange</name>
 <description><![CDATA[Ремінець Ocean Band Design призначений для Apple Watch 42/44/45/49 мм. Основні характеристики: • Тип: ремінець для смарт-годинника • Сумісність: Apple Watch 42/44/45/49 мм • Призначення: заміна штатного ремінця та повсякденне носіння]]></description>
-<quantity_in_stock>22</quantity_in_stock>
+<quantity_in_stock>21</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Watch Series 3 42 mm, Apple Watch Series 4 44 mm, Apple Watch Series 7 45 mm, Apple Watch Series 8 49 mm</param>
 <param name="Бренд">Различные</param>
@@ -164515,7 +164994,7 @@
 <code>773090</code>
 <name>Ремінець Silicone Band, силіконовий,  Samsung Galaxy Watch4/5 — Midnight Blue</name>
 <description><![CDATA[Ремінець Silicone Band призначений для Samsung Galaxy Watch4/5. Основні характеристики: • Тип: ремінець для смарт-годинника • Сумісність: Samsung Galaxy Watch4/5 • Матеріал: силікон • Призначення: заміна штатного ремінця та повсякденне носіння]]></description>
-<quantity_in_stock>8</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <param name="Марка">Samsung</param>
 <param name="Модель девайса">Samsung Galaxy Watch 4, Samsung Galaxy Watch 5</param>
 <param name="Бренд">Различные</param>
@@ -166647,7 +167126,7 @@
 <code>737648</code>
 <name>Ремінець Sport Band,  Apple Watch 42/44/45/49 мм — Dark Green (49)</name>
 <description><![CDATA[Ремінець Sport Band призначений для Apple Watch 42/44/45/49 мм. Основні характеристики: • Тип: ремінець для смарт-годинника • Сумісність: Apple Watch 42/44/45/49 мм • Призначення: заміна штатного ремінця та повсякденне носіння]]></description>
-<quantity_in_stock>15</quantity_in_stock>
+<quantity_in_stock>14</quantity_in_stock>
 <param name="Марка">Apple</param>
 <param name="Модель девайса">Apple Watch Series 3 42 mm, Apple Watch Series 4 44 mm, Apple Watch Series 7 45 mm, Apple Watch Series 8 49 mm</param>
 <param name="Бренд">Различные</param>
@@ -173364,7 +173843,7 @@
 <code>791327</code>
 <name>Автовізитівка Hoco ZP131</name>
 <description><![CDATA[Автовізитівка Hoco ZP131 використовується для розміщення контактного номера під лобовим склом автомобіля. Основні характеристики: • Тип: паркувальна автовізитівка • Призначення: відображення номера телефону під час паркування]]></description>
-<quantity_in_stock>17</quantity_in_stock>
+<quantity_in_stock>15</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Drop">$3.08</param>
 </offer>
@@ -173592,7 +174071,7 @@
 <code>785046</code>
 <name>Автомобільний ароматизатор Hoco ZP8</name>
 <description><![CDATA[Автомобільний ароматизатор Hoco ZP8 призначений для ароматизації повітря в салоні автомобіля. Основні характеристики: • Тип: автомобільний ароматизатор • Матеріали: ABS-пластик, силікон]]></description>
-<quantity_in_stock>29</quantity_in_stock>
+<quantity_in_stock>28</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Опт від 3 шт">$2.69</param>
 <param name="Опт від 7 шт">$2.63</param>
@@ -173748,7 +174227,7 @@
 <code>791870</code>
 <name>Автомобільний зарядний пристрій, 3,1 А, PD 93 Вт, 1×USB-A</name>
 <description><![CDATA[FM-модулятор Hoco Z70, MP3, автомобільний зарядний пристрій, 3,1 А, PD 93 Вт, 1×USB-A передає аудіо зі смартфона на автомобільну аудіосистему через FM-частоту. Основні характеристики: • Тип: FM-модулятор з MP3-відтворенням • Підключення: FM-канал і бездротове підключення • Потужність заряджання: 93 Вт • Вихідний струм: 3,1 А • Порти: 1×USB-A • Протоколи заряджання: PD]]></description>
-<quantity_in_stock>13</quantity_in_stock>
+<quantity_in_stock>12</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Drop">$9.79</param>
 </offer>
@@ -175166,7 +175645,7 @@
 <code>790611</code>
 <name>Магнітний автотримач Earldom ET-EH291, на повітропровід</name>
 <description><![CDATA[Магнітний автотримач Earldom ET-EH291, на повітропровід призначений для фіксації смартфона в салоні автомобіля. Основні характеристики: • Тип: магнітний автомобільний тримач • Кріплення в автомобілі: решітка повітропроводу • Особливості: магнітна фіксація смартфона]]></description>
-<quantity_in_stock>18</quantity_in_stock>
+<quantity_in_stock>17</quantity_in_stock>
 <param name="Бренд">Earldom</param>
 <param name="Автоаксесуари">Автотримачі</param>
 <param name="Спосіб встановлення">На повітропровід</param>
@@ -175226,7 +175705,7 @@
 <code>788368</code>
 <name>Магнітний автотримач Earldom ET-EH302, на повітропровід</name>
 <description><![CDATA[Магнітний автотримач Earldom ET-EH302, на повітропровід призначений для фіксації смартфона в салоні автомобіля. Основні характеристики: • Тип: магнітний автомобільний тримач • Кріплення в автомобілі: решітка повітропроводу • Особливості: магнітна фіксація смартфона]]></description>
-<quantity_in_stock>10</quantity_in_stock>
+<quantity_in_stock>9</quantity_in_stock>
 <param name="Бренд">Earldom</param>
 <param name="Автоаксесуари">Автотримачі</param>
 <param name="Спосіб встановлення">На повітропровід</param>
@@ -175388,7 +175867,7 @@
 <code>790810</code>
 <name>Магнітний автотримач Earldom ET-EH348, на повітропровід</name>
 <description><![CDATA[Магнітний автотримач Earldom ET-EH348, на повітропровід призначений для фіксації смартфона в салоні автомобіля. Основні характеристики: • Тип: магнітний автомобільний тримач • Кріплення в автомобілі: решітка повітропроводу • Особливості: магнітна фіксація смартфона]]></description>
-<quantity_in_stock>16</quantity_in_stock>
+<quantity_in_stock>15</quantity_in_stock>
 <param name="Бренд">Earldom</param>
 <param name="Автоаксесуари">Автотримачі</param>
 <param name="Спосіб встановлення">На повітропровід</param>
@@ -176281,7 +176760,7 @@
 <code>785050</code>
 <name>Розгалужувач прикурювача Hoco Z59A, 2 розетки, 2×USB-A + 2×USB-C</name>
 <description><![CDATA[Розгалужувач прикурювача Hoco Z59A, 2 розетки, 2×USB-A + 2×USB-C призначений для підключення та заряджання автомобільних пристроїв від бортової мережі. Основні характеристики: • Тип: розгалужувач прикурювача • Розетки: 2 розетки • Порти: 2×USB-A + 2×USB-C • Потужність: 30 Вт / 18 Вт / 120 Вт / 240 Вт • Напруга: 12 В / 24 В • Протоколи: PD, QC, FCP, AFC]]></description>
-<quantity_in_stock>7</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Опт від 3 шт">$5.66</param>
 <param name="Опт від 7 шт">$5.55</param>
@@ -176402,7 +176881,7 @@
 <code>752212</code>
 <name>Розсувний автотримач Baseus (SUYL-LG01) Glaze, на повітропровід — Black — SUYL-LG01 Black</name>
 <description><![CDATA[Розсувний автотримач Baseus (SUYL-LG01) Glaze, на повітропровід — Black призначений для фіксації смартфона в салоні автомобіля. Основні характеристики: • Тип: розсувний автомобільний тримач • Кріплення в автомобілі: решітка повітропроводу • Колір: чорний • Особливості: механічні розсувні затискачі]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Бренд">Baseus</param>
 <param name="Автоаксесуари">Автотримачі</param>
 <param name="Спосіб встановлення">На повітропровід</param>
@@ -177291,7 +177770,7 @@
 <code>777275</code>
 <name>Розсувний автотримач Hoco CA104, на присосці — Black</name>
 <description><![CDATA[Розсувний автотримач Hoco CA104, на присосці призначений для фіксації смартфона в салоні автомобіля. Основні характеристики: • Тип: розсувний автомобільний тримач • Кріплення в автомобілі: вакуумна присоска • Матеріали: ABS-пластик, силікон • Особливості: механічні розсувні затискачі]]></description>
-<quantity_in_stock>18</quantity_in_stock>
+<quantity_in_stock>17</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Опт від 3 шт">$3.5</param>
 <param name="Опт від 7 шт">$3.43</param>
@@ -177482,7 +177961,7 @@
 <code>774121</code>
 <name>Розсувний автотримач Hoco H18, на повітропровід — black</name>
 <description><![CDATA[Розсувний автотримач Hoco H18, на повітропровід призначений для фіксації смартфона в салоні автомобіля. Основні характеристики: • Тип: розсувний автомобільний тримач • Кріплення в автомобілі: решітка повітропроводу • Особливості: механічні розсувні затискачі]]></description>
-<quantity_in_stock>8</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Опт від 3 шт">$2.02</param>
 <param name="Опт від 7 шт">$1.97</param>
@@ -177574,7 +178053,7 @@
 <code>774131</code>
 <name>Розсувний автотримач Hoco H9, на присосці — Black</name>
 <description><![CDATA[Розсувний автотримач Hoco H9, на присосці призначений для фіксації смартфона в салоні автомобіля. Основні характеристики: • Тип: розсувний автомобільний тримач • Кріплення в автомобілі: вакуумна присоска • Особливості: механічні розсувні затискачі]]></description>
-<quantity_in_stock>7</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Опт від 3 шт">$3.17</param>
 <param name="Опт від 7 шт">$3.1</param>
@@ -177870,7 +178349,7 @@
 <code>752030</code>
 <name>Серветка для миття автомобіля Baseus (CRXCMJ-0G) Easy life ( 40 × 40 см 2 шт.) — Grey — CRXCMJ-0G Grey</name>
 <description><![CDATA[Серветка для миття автомобіля Baseus (CRXCMJ-0G) Easy life ( 40 × 40 см 2 шт.) — Grey. Використовується для миття, протирання та сушіння кузова й скла. Основні характеристики: • Тип: серветка для догляду за автомобілем • Матеріали: мікрофібра • Розміри: 40 × 40 см • Кількість: 2 шт. • Колір: сірий]]></description>
-<quantity_in_stock>6</quantity_in_stock>
+<quantity_in_stock>9</quantity_in_stock>
 <param name="Опт від 3 шт">$4.61</param>
 <param name="Опт від 7 шт">$4.51</param>
 <param name="Опт від 10 шт">$4.42</param>
@@ -177958,7 +178437,7 @@
 <code>789777</code>
 <name>Щітка для автомобіля 2</name>
 <description><![CDATA[Щітка для автомобіля 2. Використовується для видалення пилу та забруднень з поверхонь автомобіля. Основні характеристики: • Тип: щітка для догляду за автомобілем]]></description>
-<quantity_in_stock>17</quantity_in_stock>
+<quantity_in_stock>14</quantity_in_stock>
 <param name="Опт від 3 шт">$2.4</param>
 <param name="Опт від 7 шт">$2.35</param>
 <param name="Опт від 10 шт">$2.3</param>
@@ -178033,7 +178512,7 @@
 <code>792865</code>
 <name>Іграшка-антистрес Squishy Dumpling, велика</name>
 <description><![CDATA[Велика іграшка-антистрес Squishy Dumpling має м’який формат для стискання в руках. Підходить для тактильної гри, розслаблення та розвитку дрібної моторики.]]></description>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <param name="Опт від 2 шт">$1.44</param>
 <param name="Опт від 3 шт">$1.41</param>
 <param name="Опт від 5 шт">$1.38</param>
@@ -178411,7 +178890,7 @@
 <code>789240</code>
 <name>Дитячий планшет Hoco HI16, дитячий режим, батьківський контроль — Pink</name>
 <description><![CDATA[Дитячий планшет HOCO HI16 – ідеальний помічник для навчання, творчості та розваг HOCO HI16 створений спеціально для дітей, враховуючи потреби маленьких користувачів і турботу батьків. Це не просто планшет, а безпечний освітньо-розважальний простір, який допомагає дитині навчатися, розвиватися й пізнавати світ у захищеному цифровому середовищі. Основні переваги HOCO HI16 Безпека та батьківський контроль: Дитячий режим обмежує доступ до небажаного контенту та сторонніх програм. Батьки можуть налаштовувати час використання, дозволені додатки та функції, гарантуючи повний контроль і безпеку дитини Дитячий простір: Зручне, дружнє середовище для навчання, ігор і творчості. Малюк може користуватися планшетом без ризику натрапити на небажаний контент Творчі та навчальні додатки: Передвстановлені програми для малювання, музики, розвитку логіки й уяви сприяють творчому мисленню дитини Інтерактивні книги та відео: Стимулюють інтерес до читання, навчання й пізнання навколишнього світу у формі гр]]></description>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <param name="Опт від 2 шт">$29.04</param>
 <param name="Опт від 3 шт">$28.44</param>
 <param name="Опт від 5 шт">$27.83</param>
@@ -180787,7 +181266,7 @@
 <code>791868</code>
 <name>Набір прецизійних викруток Hoco UT12</name>
 <description><![CDATA[Набір прецизійних викруток Hoco UT12 для розбирання, складання й ремонту електроніки.]]></description>
-<quantity_in_stock>34</quantity_in_stock>
+<quantity_in_stock>33</quantity_in_stock>
 <param name="Бренд">Hoco</param>
 <param name="Drop">$8.58</param>
 </offer>
@@ -182482,7 +182961,7 @@
 <code>778662</code>
 <name>Електрична зубна щітка Y2</name>
 <description><![CDATA[Електрична зубна щітка для щоденного догляду за зубами та яснами. Допомагає зробити домашню гігієну порожнини рота зручнішою.]]></description>
-<quantity_in_stock>7</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <param name="Бренд">Различные</param>
 <param name="Опт від 2 шт">$6.71</param>
 <param name="Опт від 3 шт">$6.57</param>
@@ -185472,7 +185951,7 @@
 <code>770544</code>
 <name>Підставка для телефона S701</name>
 <description><![CDATA[Підставка для телефона S701 фіксує смартфон у зручному положенні для перегляду відео, дзвінків, навігації або знімання.]]></description>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <param name="Опт від 3 шт">$1.34</param>
 <param name="Опт від 5 шт">$1.32</param>
 <param name="Опт від 7 шт">$1.29</param>
@@ -185649,7 +186128,7 @@
 <code>787593</code>
 <name>Підставка для телефона та планшета S81 — Black</name>
 <description><![CDATA[Підставка для телефона та планшета S81 утримує смартфон або планшет у зручному положенні для перегляду відео, навчання чи відеозв’язку.]]></description>
-<quantity_in_stock>195</quantity_in_stock>
+<quantity_in_stock>192</quantity_in_stock>
 <param name="Опт від 3 шт">$1.9</param>
 <param name="Опт від 5 шт">$1.86</param>
 <param name="Опт від 7 шт">$1.82</param>
@@ -186003,7 +186482,7 @@
 <code>765453</code>
 <name>Кабель USB-A — Mini-USB (1 м)</name>
 <description><![CDATA[Кабель для заряджання та підключення сумісних пристроїв.]]></description>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <param name="Роз'єм підключення">Cable Mini USB</param>
 <param name="Довжина кабелю">1m</param>
 <param name="Опт від 5 шт">$0.34</param>
